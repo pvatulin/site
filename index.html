@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>PV</title>
+  <style>
+    :root {
+      /* --bg: #0f1115;          очень тёмно-серый фон */
+      --bg: #0b0b0b;
+      --size: 480px;          /* размер “аватара” (круга) */
+      --zoom: 2;              /* 200% */
+    }
+
+    html, body {
+      height: 100%;
+      margin: 0;
+      background: var(--bg);
+    }
+
+    .center {
+      height: 100%;
+      display: grid;
+      place-items: center;
+    }
+
+    /* Круг-аватар: ровное обрезание по кругу */
+    .avatar {
+      width: var(--size);
+      height: var(--size);
+      border-radius: 50%;
+      overflow: hidden;
+      display: grid;
+      place-items: center;
+      
+      background: #141414; /* фон круга — светлее страницы */
+      border: 1px solid rgba(255, 255, 255, 0.12);
+    }
+
+    /* Масштабируем логотип на 200% внутри круга */
+    .avatar img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
+      user-select: none;
+      -webkit-user-drag: none;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="center">
+    <div class="avatar" aria-label="Logo">
+      <!-- Переименуй файл как хочешь, главное обнови src -->
+      <img src="assets/pv_developer.png" alt="Logo">
+    </div>
+  </div>
+</body>
+</html>
