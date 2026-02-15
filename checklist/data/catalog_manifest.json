@@ -3,6 +3,7 @@
   "catalogs": [
     { "id": "en", "title": "English",   "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_en.json" },
     { "id": "ru", "title": "Русский",   "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ru.json" },
-    { "id": "by", "title": "Беларускі", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_by.json" }
+    { "id": "by", "title": "Беларускі", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_by.json" },
+    { "id": "fr", "title": "Francs", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_fr.json" }
   ]
 }
