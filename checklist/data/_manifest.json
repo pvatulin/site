@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-02-15T20:28:00Z",
+  "updatedAt": "2026-02-15T20:30:00Z",
   "catalogs": [
     { "id": "en", "title": "English",   "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_en.json" },
     { "id": "ru", "title": "Русский",   "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ru.json" },
