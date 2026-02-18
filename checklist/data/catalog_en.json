@@ -3,7 +3,7 @@
   "language": "en",
   "groups": [
     {
-      "title": "Food",
+      "title": "Groceries",
       "orderIndex": 0,
       "sections": [
         {
@@ -87,12 +87,38 @@
           "items": ["Baking Paper", "Aluminum Foil", "Cling Film", "Roasting Bag", "Baking Bags", "Freezer Bags", "Food Bags", "Baking Dishes", "Ice Bags", "Dishwashing Liquid", "Dish Sponges", "Dish Brush", "Cleaning Cloths", "Microfiber Cloth", "Kitchen Towel", "Paper Towels", "Kitchen Napkins", "Trash Bags", "Dishwasher Tablets", "Dishwasher Salt", "Dishwasher Rinse Aid", "Descaler", "Disposable Plates", "Disposable Cups", "Disposable Shot Cups", "Disposable Forks", "Disposable Knives", "Disposable Spoons", "Disposable Tablecloth", "BBQ Grill", "Grill Grate", "Skewers", "Bamboo Skewers", "Charcoal", "Firelighter"]
         },
         {
-          "tag": "hygiene",
-          "items": ["Soap", "Liquid Soap", "Toothbrush", "Toothpaste", "Mouthwash", "Toothpicks", "Dental Floss", "Shampoo", "Hair Conditioner", "Hair Balm", "Hair Oil", "Hair Spray", "Hair Gel", "Bath Foam", "Bath Salt", "Shower Gel", "Intimate Wash", "Face Cream", "Face Scrub", "Body Cream", "Body Lotion", "Eye Cream", "Hand Cream", "Wax Strips", "Depilatory Cream", "Shaving Foam", "Razor", "Razor Blades", "Disposable Razors", "Deodorant", "Cotton Pads", "Cotton Swabs", "Loofah", "Makeup Remover", "Micellar Water", "Face Toner", "Face Mask", "Nail Polish Remover", "Tampons", "Sanitary Pads", "Panty Liners", "Tissues", "Toilet Paper", "Napkins", "Wet Wipes", "Aftershave Balm", "Hair Dye", "Foot Cream", "Hair Mousse", "Condoms", "Lubricant"]
-        },
-        {
           "tag": "other",
           "items": ["Moth Repellent", "Insect Repellent", "Mosquito Repellent", "Mosquito Repellent Plug-In", "Clothes Brush", "Lint Roller", "Shoe Polish", "Shoe Brush", "Shoe Sponge", "Batteries", "Light Bulbs", "Matches"]
+        }
+      ]
+    },
+    {
+      "title": "Hygiene",
+      "orderIndex": 3,
+      "sections": [
+        {
+          "tag": "hygiene",
+          "items": ["Soap", "Liquid Soap", "Toothbrush", "Toothpaste", "Mouthwash", "Toothpicks", "Dental Floss", "Shampoo", "Hair Conditioner", "Hair Balm", "Hair Oil", "Hair Spray", "Hair Gel", "Bath Foam", "Bath Salt", "Shower Gel", "Intimate Wash", "Face Cream", "Face Scrub", "Body Cream", "Body Lotion", "Eye Cream", "Hand Cream", "Wax Strips", "Depilatory Cream", "Shaving Foam", "Razor", "Razor Blades", "Disposable Razors", "Deodorant", "Cotton Pads", "Cotton Swabs", "Loofah", "Makeup Remover", "Micellar Water", "Face Toner", "Face Mask", "Nail Polish Remover", "Tampons", "Sanitary Pads", "Panty Liners", "Tissues", "Toilet Paper", "Napkins", "Wet Wipes", "Aftershave Balm", "Hair Dye", "Foot Cream", "Hair Mousse", "Condoms", "Lubricant"]
+        }
+      ]
+    },
+    {
+      "title": "Baby Care",
+      "orderIndex": 4,
+      "sections": [
+        {
+          "tag": "baby",
+          "items": ["Diapers", "Nappies", "Training pants", "Wet wipes", "Diaper cream", "Baby powder", "Baby cream", "Baby soap", "Baby shampoo", "Baby bath gel", "Baby bubble bath", "Baby oil", "Baby body lotion", "Disposable changing pads", "Reusable changing pads", "Infant formula", "Baby cereals", "Vegetable purees", "Fruit purees", "Meat purees", "Baby juices", "Baby water", "Feeding bottles", "Bottle nipples", "Pacifiers", "Bottle sterilizer", "Teether", "Baby tableware", "Bib", "Baby cotton swabs", "Baby thermometer"]
+        }
+      ]
+    },
+    {
+      "title": "Pet Care",
+      "orderIndex": 5,
+      "sections": [
+        {
+          "tag": "pets",
+          "items": ["Dry cat food", "Dry dog food", "Wet cat food", "Wet dog food", "Canned cat food", "Canned dog food", "Cat treats", "Dog treats", "Cat litter", "Pet training pads", "Dog waste bags", "Pet shampoo", "Food and water bowls", "Scratching post", "Cat toys", "Dog toys", "Collar", "Leash", "Harness", "Muzzle", "Pet carrier", "Pet vitamins", "Flea and tick treatment", "Spot-on treatment", "Rodent food", "Bird food", "Fish food", "Cat litter box"]
         }
       ]
     }
