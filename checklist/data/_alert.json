@@ -1,0 +1,17 @@
+{
+  "updated": "2026-12-31T20:05:00Z",
+  "items": [
+    {
+      "id": "alert_0000",
+      "enabled": true,
+      "title": "Maintenance Notice",
+      "message": "The catalog server will be unavailable tonight.",
+      "startAt": "",
+      "endAt": "",
+      "minAppVersion": "",
+      "maxAppVersion": "",
+      "level": "",
+      "actionUrl": ""
+    }
+  ]
+}
