@@ -1,17 +1,17 @@
 {
-  "updated": "2026-12-31T20:05:00Z",
+  "updated": "2026-01-01T00:00:01Z",
   "items": [
     {
-      "id": "alert_0000",
+      "id": "alert_0001",
       "enabled": true,
       "title": "Maintenance Notice",
-      "message": "The catalog server will be unavailable tonight.",
+      "message": "The catalog server will be unavailable tonight",
       "startAt": "",
       "endAt": "",
       "minAppVersion": "",
       "maxAppVersion": "",
       "level": "",
-      "actionUrl": ""
+      "actionUrl": "https://t.me/checklistapp"
     }
   ]
 }
