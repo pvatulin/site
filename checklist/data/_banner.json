@@ -1,0 +1,14 @@
+{
+  "updated": "2026-12-31T20:00:00Z",
+  "items": [
+    {
+      "id": "ny-2026-banner",
+      "enabled": true,
+      "title": "Happy New Year! 🎉",
+      "message": "Wishing you a great 2027!",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "https://t.me/checklistapp"
+    }
+  ]
+}
