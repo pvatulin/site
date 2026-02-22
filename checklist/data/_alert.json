@@ -6,6 +6,7 @@
       "enabled": true,
       "title": "Maintenance Notice",
       "message": "The catalog server will be unavailable tonight",
+      "locales": ["ru"],
       "startAt": "",
       "endAt": "",
       "minAppVersion": "",
