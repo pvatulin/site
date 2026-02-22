@@ -4,8 +4,8 @@
     {
       "id": "alert_0001",
       "enabled": true,
-      "title": "Maintenance Notice",
-      "message": "The catalog server will be unavailable tonight",
+      "title": "Критическое обновление",
+      "message": "Мы исправили критическую ошибку. Рекомендуем обновить приложение как можно скорее.",
       "locales": ["ru"],
       "startAt": "",
       "endAt": "",
