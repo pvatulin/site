@@ -1,9 +1,8 @@
 {
-  "schema": 1,
-  "updated": "2026-02-18T15:10:00Z",
+  "updated": "2026-02-25 00:00:00",
   "catalogs": [
-    { "id": "en", "title": "English",   "updated": "2026-02-10T13:02:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_en.json" },
-    { "id": "ru", "title": "Русский",   "updated": "2026-02-10T13:06:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ru.json" },
-    { "id": "by", "title": "Беларускі", "updated": "2026-02-10T12:03:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_by.json" }
+    { "id": "en", "title": "English",   "updated": "2026-02-25 00:00:00", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_en.json" },
+    { "id": "ru", "title": "Русский",   "updated": "2026-02-25 00:00:00", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ru.json" },
+    { "id": "by", "title": "Беларускі", "updated": "2026-02-25 00:00:00", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_by.json" }
   ]
 }
