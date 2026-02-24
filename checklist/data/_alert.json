@@ -1,17 +1,14 @@
 {
-  "updated": "2026-01-01T00:00:10Z",
+  "updated": "2026-01-01 00:00:10",
   "items": [
     {
-      "id": "alert_0002",
+      "id": "0001",
       "enabled": false,
       "title": "Критическое обновление",
       "message": "Мы исправили критическую ошибку. Рекомендуем обновить приложение как можно скорее.",
       "locales": ["ru"],
       "startAt": "",
       "endAt": "",
-      "minAppVersion": "",
-      "maxAppVersion": "",
-      "level": "",
       "actionUrl": "https://t.me/checklistapp"
     }
   ]
