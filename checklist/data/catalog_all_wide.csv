@@ -1,0 +1,871 @@
+﻿groupOrder,group_en,group_ru,group_by,sectionIndex,sectionTag,itemIndex,item_en,item_ru,item_by
+0,Groceries,Продукты,Прадукты,0,vegs,0,Vegetables,Овощи,Гародніна
+0,Groceries,Продукты,Прадукты,0,vegs,1,Greens,Зелень,Зеляніна
+0,Groceries,Продукты,Прадукты,0,vegs,2,Potatoes,Картофель,Бульба
+0,Groceries,Продукты,Прадукты,0,vegs,3,New Potatoes,Картофель молодой,Маладая бульба
+0,Groceries,Продукты,Прадукты,0,vegs,4,Carrots,Морковь,Морква
+0,Groceries,Продукты,Прадукты,0,vegs,5,Sweet Potatoes,Батат,Батат
+0,Groceries,Продукты,Прадукты,0,vegs,6,Cabbage,Капуста,Капуста
+0,Groceries,Продукты,Прадукты,0,vegs,7,White Cabbage,Капуста белокочанная,Белакачанная капуста
+0,Groceries,Продукты,Прадукты,0,vegs,8,Red Cabbage,Капуста краснокочанная,Чырвонакачанная капуста
+0,Groceries,Продукты,Прадукты,0,vegs,9,Cauliflower,Капуста цветная,Каляровая капуста
+0,Groceries,Продукты,Прадукты,0,vegs,10,Brussels Sprouts,Капуста брюссельская,Брусельская капуста
+0,Groceries,Продукты,Прадукты,0,vegs,11,Chinese Cabbage,Капуста пекинская,Пекінская капуста
+0,Groceries,Продукты,Прадукты,0,vegs,12,Kohlrabi,Кольраби,Кальрабі
+0,Groceries,Продукты,Прадукты,0,vegs,13,Broccoli,Брокколи,Брокалі
+0,Groceries,Продукты,Прадукты,0,vegs,14,Beetroot,Свёкла,Буракі
+0,Groceries,Продукты,Прадукты,0,vegs,15,Onions,Лук репчатый,Рэпчатая цыбуля
+0,Groceries,Продукты,Прадукты,0,vegs,16,Red Onions,Лук красный,Чырвоная цыбуля
+0,Groceries,Продукты,Прадукты,0,vegs,17,Green Onions,Лук зелёный,Зялёная цыбуля
+0,Groceries,Продукты,Прадукты,0,vegs,18,Leeks,Лук порей,Цыбуля-порэй
+0,Groceries,Продукты,Прадукты,0,vegs,19,Shallots,Лук-шалот,Цыбуля-шалот
+0,Groceries,Продукты,Прадукты,0,vegs,20,Garlic,Чеснок,Часнок
+0,Groceries,Продукты,Прадукты,0,vegs,21,Cucumbers,Огурцы,Агуркі
+0,Groceries,Продукты,Прадукты,0,vegs,22,Gherkins,Корнишоны,Карнішоны
+0,Groceries,Продукты,Прадукты,0,vegs,23,Tomatoes,Помидоры,Памідоры
+0,Groceries,Продукты,Прадукты,0,vegs,24,Cherry Tomatoes,Помидоры черри,Памідоры чэры
+0,Groceries,Продукты,Прадукты,0,vegs,25,Peppers,Перец,Перац
+0,Groceries,Продукты,Прадукты,0,vegs,26,Chili Peppers,Перец чили,Перац чылі
+0,Groceries,Продукты,Прадукты,0,vegs,27,Bell Peppers,Перец болгарский,Балгарскі перац
+0,Groceries,Продукты,Прадукты,0,vegs,28,Jalapeno Peppers,Перец халапеньо,Перац халапеньё
+0,Groceries,Продукты,Прадукты,0,vegs,29,Eggplant,Баклажаны,Баклажаны
+0,Groceries,Продукты,Прадукты,0,vegs,30,Zucchini,Кабачки,Кабачкі
+0,Groceries,Продукты,Прадукты,0,vegs,31,Pattypan Squash,Цуккини,Цукіні
+0,Groceries,Продукты,Прадукты,0,vegs,32,Pumpkin,Патиссоны,Патысоны
+0,Groceries,Продукты,Прадукты,0,vegs,33,Radishes,Тыква,Гарбуз
+0,Groceries,Продукты,Прадукты,0,vegs,34,Daikon,Редис,Радыска
+0,Groceries,Продукты,Прадукты,0,vegs,35,Lettuce,Дайкон,Дайкон
+0,Groceries,Продукты,Прадукты,0,vegs,36,Kale,Салат,Салата
+0,Groceries,Продукты,Прадукты,0,vegs,37,Romaine Lettuce,Салат Кейл,Кейл
+0,Groceries,Продукты,Прадукты,0,vegs,38,Watercress,Салат романо,Рамэн
+0,Groceries,Продукты,Прадукты,0,vegs,39,Green Beans,Кресс-салат,Крэс-салата
+0,Groceries,Продукты,Прадукты,0,vegs,40,Spinach,Фасоль стручковая,Стручковая фасоля
+0,Groceries,Продукты,Прадукты,0,vegs,41,Parsley,Шпинат,Шпінат
+0,Groceries,Продукты,Прадукты,0,vegs,42,Dill,Петрушка,Пятрушка
+0,Groceries,Продукты,Прадукты,0,vegs,43,Cilantro,Укроп,Кроп
+0,Groceries,Продукты,Прадукты,0,vegs,44,Arugula,Кинза,Кінза
+0,Groceries,Продукты,Прадукты,0,vegs,45,Mint,Руккола,Рукола
+0,Groceries,Продукты,Прадукты,0,vegs,46,Sorrel,Мята,Мята
+0,Groceries,Продукты,Прадукты,0,vegs,47,Lemon Balm,Щавель,Шчаўе
+0,Groceries,Продукты,Прадукты,0,vegs,48,Leaf Lettuce,Мелисса,Меліса
+0,Groceries,Продукты,Прадукты,0,vegs,49,Rosemary,Латук,Латук
+0,Groceries,Продукты,Прадукты,0,vegs,50,Celery,Розмарин,Размарын
+0,Groceries,Продукты,Прадукты,0,vegs,51,Corn,Сельдерей,Сельдэрэй
+0,Groceries,Продукты,Прадукты,0,vegs,52,Turnips,Кукуруза,Кукуруза
+0,Groceries,Продукты,Прадукты,0,vegs,53,Asparagus,Репа,Рэпа
+0,Groceries,Продукты,Прадукты,0,vegs,54,Sprouts,Спаржа,Спаржа
+0,Groceries,Продукты,Прадукты,0,vegs,55,Pea Sprouts,Проростки,Парасткі
+0,Groceries,Продукты,Прадукты,0,vegs,56,Bean Sprouts,Проростки гороха,Парасткі гароху
+0,Groceries,Продукты,Прадукты,0,vegs,57,Microgreens,Проростки фасоли,Парасткі фасолі
+0,Groceries,Продукты,Прадукты,0,vegs,58,Basil,Микрозелень,Мікразеляніна
+0,Groceries,Продукты,Прадукты,0,vegs,59,Oregano,Базилик,Базілік
+0,Groceries,Продукты,Прадукты,0,vegs,60,Jerusalem Artichoke,Орегано,Арэгана
+0,Groceries,Продукты,Прадукты,0,vegs,61,Artichokes,Топинамбур,Тапінамбур
+0,Groceries,Продукты,Прадукты,0,vegs,62,Fennel,Артишоки,Артышокі
+0,Groceries,Продукты,Прадукты,0,vegs,63,Ginger,Фенхель,Фенхель
+0,Groceries,Продукты,Прадукты,0,vegs,64,Mushrooms,Имбирь,Імбір
+0,Groceries,Продукты,Прадукты,0,vegs,65,Shiitake Mushrooms,Грибы,Грыбы
+0,Groceries,Продукты,Прадукты,0,vegs,66,Enoki Mushrooms,Грибы Шитаке,Грыбы шыітаке
+0,Groceries,Продукты,Прадукты,0,vegs,67,Button Mushrooms,Грибы Эноки,Грыбы энокі
+0,Groceries,Продукты,Прадукты,0,vegs,68,Oyster Mushrooms,Шампиньоны,Шампіньёны
+0,Groceries,Продукты,Прадукты,0,vegs,69,Chanterelles,Вёшенки,Вешанкі
+0,Groceries,Продукты,Прадукты,0,vegs,70,Honey Mushrooms,Лисички,Лісічкі
+0,Groceries,Продукты,Прадукты,0,vegs,71,Thyme,Опята,Апенькі
+0,Groceries,Продукты,Прадукты,0,vegs,72,Parsnips,Тимьян,Тым'ян
+0,Groceries,Продукты,Прадукты,0,vegs,73,Rhubarb,Пастернак,Пастарнак
+0,Groceries,Продукты,Прадукты,0,vegs,74,Galangal,Ревень,Рэўень
+0,Groceries,Продукты,Прадукты,0,vegs,75,Kaffir Lime Leaves,Галангал,Галангал
+0,Groceries,Продукты,Прадукты,0,vegs,76,Romanesco,Кафрский лайм,Каффірскі лайм
+0,Groceries,Продукты,Прадукты,0,vegs,77,,Романеско,Раманеска
+0,Groceries,Продукты,Прадукты,1,fruits,0,Fruits,Фрукты,Садавіна
+0,Groceries,Продукты,Прадукты,1,fruits,1,Berries,Ягоды,Ягады
+0,Groceries,Продукты,Прадукты,1,fruits,2,Apples,Яблоки,Яблыкі
+0,Groceries,Продукты,Прадукты,1,fruits,3,Pears,Груши,Грушы
+0,Groceries,Продукты,Прадукты,1,fruits,4,Bananas,Бананы,Бананы
+0,Groceries,Продукты,Прадукты,1,fruits,5,Oranges,Апельсины,Апельсіны
+0,Groceries,Продукты,Прадукты,1,fruits,6,Mandarins,Мандарины,Мандарыны
+0,Groceries,Продукты,Прадукты,1,fruits,7,Lemons,Лимоны,Лімоны
+0,Groceries,Продукты,Прадукты,1,fruits,8,Lime,Лайм,Лайм
+0,Groceries,Продукты,Прадукты,1,fruits,9,Grapefruit,Грейпфрут,Грэйпфрут
+0,Groceries,Продукты,Прадукты,1,fruits,10,Pomelo,Помело,Памела
+0,Groceries,Продукты,Прадукты,1,fruits,11,Sweetie,Свити,Свіці
+0,Groceries,Продукты,Прадукты,1,fruits,12,Plums,Сливы,Слівы
+0,Groceries,Продукты,Прадукты,1,fruits,13,Apricots,Абрикосы,Абрыкосы
+0,Groceries,Продукты,Прадукты,1,fruits,14,Grapes,Виноград,Вінаград
+0,Groceries,Продукты,Прадукты,1,fruits,15,Seedless Grapes,Киш-миш,Кішміш
+0,Groceries,Продукты,Прадукты,1,fruits,16,Gooseberries,Крыжовник,Крыжоўнік
+0,Groceries,Продукты,Прадукты,1,fruits,17,Rose Hips,Шиповник,Шыпшына
+0,Groceries,Продукты,Прадукты,1,fruits,18,Peaches,Персики,Персікі
+0,Groceries,Продукты,Прадукты,1,fruits,19,Nectarines,Нектарины,Нектарыны
+0,Groceries,Продукты,Прадукты,1,fruits,20,Kiwi,Киви,Ківі
+0,Groceries,Продукты,Прадукты,1,fruits,21,Watermelon,Арбуз,Кавун
+0,Groceries,Продукты,Прадукты,1,fruits,22,Melon,Дыня,Дыня
+0,Groceries,Продукты,Прадукты,1,fruits,23,Avocado,Авокадо,Авакада
+0,Groceries,Продукты,Прадукты,1,fruits,24,Figs,Инжир,Інжыр
+0,Groceries,Продукты,Прадукты,1,fruits,25,Pomegranate,Гранат,Гранат
+0,Groceries,Продукты,Прадукты,1,fruits,26,Mango,Манго,Манга
+0,Groceries,Продукты,Прадукты,1,fruits,27,Strawberries,Клубника,Клубніцы
+0,Groceries,Продукты,Прадукты,1,fruits,28,Wild Strawberries,Земляника,Суніцы
+0,Groceries,Продукты,Прадукты,1,fruits,29,Raspberries,Малина,Маліны
+0,Groceries,Продукты,Прадукты,1,fruits,30,Cloudberries,Морошка,Марошка
+0,Groceries,Продукты,Прадукты,1,fruits,31,Cherries,Вишня,Вішня
+0,Groceries,Продукты,Прадукты,1,fruits,32,Sweet Cherries,Черешня,Чарэшня
+0,Groceries,Продукты,Прадукты,1,fruits,33,Blackcurrants,Смородина,Смародзіна
+0,Groceries,Продукты,Прадукты,1,fruits,34,Blueberries,Голубика,Буякі
+0,Groceries,Продукты,Прадукты,1,fruits,35,Cranberries,Клюква,Журавіны
+0,Groceries,Продукты,Прадукты,1,fruits,36,Sea Buckthorn,Облепиха,Абляпіха
+0,Groceries,Продукты,Прадукты,1,fruits,37,Bilberries,Черника,Чарніцы
+0,Groceries,Продукты,Прадукты,1,fruits,38,Persimmon,Хурма,Хурма
+0,Groceries,Продукты,Прадукты,1,fruits,39,Dragon Fruit,Драгон-фрут,Пітахая
+0,Groceries,Продукты,Прадукты,1,fruits,40,Passion Fruit,Маракуйя,Маракуйя
+0,Groceries,Продукты,Прадукты,1,fruits,41,Papaya,Папайя,Папая
+0,Groceries,Продукты,Прадукты,1,fruits,42,Pineapple,Ананас,Ананас
+0,Groceries,Продукты,Прадукты,1,fruits,43,Coconut,Кокос,Какос
+0,Groceries,Продукты,Прадукты,1,fruits,44,Snake Fruit,Салак,Салак
+0,Groceries,Продукты,Прадукты,1,fruits,45,Lychee,Личи,Лічы
+0,Groceries,Продукты,Прадукты,1,fruits,46,Rambutan,Рамбутан,Рамбутан
+0,Groceries,Продукты,Прадукты,1,fruits,47,Tamarind,Тамаринд,Тамарынд
+0,Groceries,Продукты,Прадукты,1,fruits,48,Mangosteen,Мангостин,Мангостын
+0,Groceries,Продукты,Прадукты,1,fruits,49,Longan,Лонган,Лонган
+0,Groceries,Продукты,Прадукты,1,fruits,50,Durian,Дуриан,Дурыян
+0,Groceries,Продукты,Прадукты,1,fruits,51,Jackfruit,Джек-фрут,Джэкфрут
+0,Groceries,Продукты,Прадукты,1,fruits,52,Goji Berries,Ягоды годжи,Ягады годжы
+0,Groceries,Продукты,Прадукты,1,fruits,53,Feijoa,Фейхоа,Фейхаа
+0,Groceries,Продукты,Прадукты,1,fruits,54,Physalis,Физалис,Фізаліс
+0,Groceries,Продукты,Прадукты,1,fruits,55,Guava,Гуава,Гуава
+0,Groceries,Продукты,Прадукты,1,fruits,56,Lingonberries,Брусника,Брусніцы
+0,Groceries,Продукты,Прадукты,1,fruits,57,Kumquats,Кумкват,Кумкват
+0,Groceries,Продукты,Прадукты,1,fruits,58,Cornelian Cherries,Кизил,Кізіл
+0,Groceries,Продукты,Прадукты,2,dairy,0,Milk,Молоко,Малако
+0,Groceries,Продукты,Прадукты,2,dairy,1,Skim Milk,Молоко обезжиренное,Малако абястлушчанае
+0,Groceries,Продукты,Прадукты,2,dairy,2,Coconut Milk,Молоко кокосовое,Какосавае малако
+0,Groceries,Продукты,Прадукты,2,dairy,3,Rice Milk,Молоко рисовое,Рысавое малако
+0,Groceries,Продукты,Прадукты,2,dairy,4,Oat Milk,Молоко овсяное,Аўсянае малако
+0,Groceries,Продукты,Прадукты,2,dairy,5,Soy Milk,Молоко соевое,Соевае малако
+0,Groceries,Продукты,Прадукты,2,dairy,6,Baked Milk,Молоко топлёное,Топленае малако
+0,Groceries,Продукты,Прадукты,2,dairy,7,Lactose-Free Milk,Молоко безлактозное,Безлактознае малако
+0,Groceries,Продукты,Прадукты,2,dairy,8,Condensed Milk,Молоко сгущённое,Згушчанае малако
+0,Groceries,Продукты,Прадукты,2,dairy,9,Powdered Milk,Молоко сухое,Сухое малако
+0,Groceries,Продукты,Прадукты,2,dairy,10,Plant-Based Milk,Немолоко,Расліннае малако
+0,Groceries,Продукты,Прадукты,2,dairy,11,Sweetened Condensed Milk,Сгущёнка,Згушчонка
+0,Groceries,Продукты,Прадукты,2,dairy,12,Sour Cream,Сметана,Сметана
+0,Groceries,Продукты,Прадукты,2,dairy,13,Cottage Cheese,Творог,Тварог
+0,Groceries,Продукты,Прадукты,2,dairy,14,Curd Dessert,Творожная масса,Твараговая маса
+0,Groceries,Продукты,Прадукты,2,dairy,15,Grainy Cottage Cheese,Творог зернёный,Тварог зернены
+0,Groceries,Продукты,Прадукты,2,dairy,16,Kids Cottage Cheese,Творожок детский,Дзіцячы тварожок
+0,Groceries,Продукты,Прадукты,2,dairy,17,Yogurt,Йогурт,Ёгурт
+0,Groceries,Продукты,Прадукты,2,dairy,18,Drinking Yogurt,Йогурт питьевой,Пітны ёгурт
+0,Groceries,Продукты,Прадукты,2,dairy,19,Greek Yogurt,Йогурт греческий,Грэцкі ёгурт
+0,Groceries,Продукты,Прадукты,2,dairy,20,Kefir,Кефир,Кефір
+0,Groceries,Продукты,Прадукты,2,dairy,21,Ryazhenka,Ряженка,Ражанка
+0,Groceries,Продукты,Прадукты,2,dairy,22,Buttermilk,Простокваша,Кіслае малако
+0,Groceries,Продукты,Прадукты,2,dairy,23,Tan,Тан,Тан
+0,Groceries,Продукты,Прадукты,2,dairy,24,Ayran,Айран,Айран
+0,Groceries,Продукты,Прадукты,2,dairy,25,Cream,Сливки,Сліўкі
+0,Groceries,Продукты,Прадукты,2,dairy,26,Butter,Масло,Масла
+0,Groceries,Продукты,Прадукты,2,dairy,27,Salted Butter,Масло сливочное,Сметанковае масла
+0,Groceries,Продукты,Прадукты,2,dairy,28,Chocolate Butter,Масло солёное,Салёнае масла
+0,Groceries,Продукты,Прадукты,2,dairy,29,Clarified Butter,Масло шоколадное,Шакаладнае масла
+0,Groceries,Продукты,Прадукты,2,dairy,30,Ghee,Масло топлёное,Топленае масла
+0,Groceries,Продукты,Прадукты,2,dairy,31,Coconut Oil,Масло Гхи,Масла гхі
+0,Groceries,Продукты,Прадукты,2,dairy,32,Cheese,Масло кокосовое,Какосавае масла
+0,Groceries,Продукты,Прадукты,2,dairy,33,Adyghe Cheese,Сыр,Сыр
+0,Groceries,Продукты,Прадукты,2,dairy,34,Processed Cheese,Сыр Адыгейский,Адыгейскі сыр
+0,Groceries,Продукты,Прадукты,2,dairy,35,Cream Cheese,Сыр плавленый,Плаўлены сыр
+0,Groceries,Продукты,Прадукты,2,dairy,36,Blue Cheese,Сыр творожный,Твараговы сыр
+0,Groceries,Продукты,Прадукты,2,dairy,37,Brie,Сыр с плесенью,Сыр з цвіллю
+0,Groceries,Продукты,Прадукты,2,dairy,38,Camembert,Сыр Бри,Бры
+0,Groceries,Продукты,Прадукты,2,dairy,39,Dor Blue,Сыр Камамбер,Камамбер
+0,Groceries,Продукты,Прадукты,2,dairy,40,Mascarpone,Дор-Блю,Дор-блю
+0,Groceries,Продукты,Прадукты,2,dairy,41,Ricotta,Маскарпоне,Маскарпоне
+0,Groceries,Продукты,Прадукты,2,dairy,42,Burrata,Рикотта,Рыкота
+0,Groceries,Продукты,Прадукты,2,dairy,43,Stracciatella,Буррата,Бурата
+0,Groceries,Продукты,Прадукты,2,dairy,44,Parmesan,Страчетелла,Страчатела
+0,Groceries,Продукты,Прадукты,2,dairy,45,Cheddar,Пармезан,Пармезан
+0,Groceries,Продукты,Прадукты,2,dairy,46,Gouda,Чеддер,Чэддар
+0,Groceries,Продукты,Прадукты,2,dairy,47,Halloumi,Гауда,Гаўда
+0,Groceries,Продукты,Прадукты,2,dairy,48,Maasdam,Халуми,Халуми
+0,Groceries,Продукты,Прадукты,2,dairy,49,Mozzarella,Маасдам,Маасдам
+0,Groceries,Продукты,Прадукты,2,dairy,50,Cheese Snacks,Моцарелла,Мацарэла
+0,Groceries,Продукты,Прадукты,2,dairy,51,Brynza,Сырки,Сыркі
+0,Groceries,Продукты,Прадукты,2,dairy,52,Feta,Брынза,Брынза
+0,Groceries,Продукты,Прадукты,2,dairy,53,Suluguni,Фета,Фета
+0,Groceries,Продукты,Прадукты,2,dairy,54,Kaymak,Сулугуни,Сулугуні
+0,Groceries,Продукты,Прадукты,2,dairy,55,Chechil,Каймак,Каймак
+0,Groceries,Продукты,Прадукты,2,dairy,56,Margarine,Чечил,Чэчыл
+0,Groceries,Продукты,Прадукты,2,dairy,57,Kumis,Маргарин,Маргарын
+0,Groceries,Продукты,Прадукты,2,dairy,58,Tofu,Пахта,Пахта
+0,Groceries,Продукты,Прадукты,2,dairy,59,,Кумыс,Кумыс
+0,Groceries,Продукты,Прадукты,2,dairy,60,,Тофу,Тофу
+0,Groceries,Продукты,Прадукты,3,meat,0,Meat,Мясо,Мяса
+0,Groceries,Продукты,Прадукты,3,meat,1,Poultry,Птица,Птушка
+0,Groceries,Продукты,Прадукты,3,meat,2,Beef,Говядина,Ялавічына
+0,Groceries,Продукты,Прадукты,3,meat,3,Beef Tongue,Говяжий язык,Ялавічны язык
+0,Groceries,Продукты,Прадукты,3,meat,4,Veal,Телятина,Цяляціна
+0,Groceries,Продукты,Прадукты,3,meat,5,Pork,Свинина,Свініна
+0,Groceries,Продукты,Прадукты,3,meat,6,Chicken,Курица,Курыца
+0,Groceries,Продукты,Прадукты,3,meat,7,Goose,Гусь,Гусь
+0,Groceries,Продукты,Прадукты,3,meat,8,Quail,Перепелка,Перапёлка
+0,Groceries,Продукты,Прадукты,3,meat,9,Rabbit,Крольчатина,Трусіна
+0,Groceries,Продукты,Прадукты,3,meat,10,Chicken Thighs,Куриные бёдрышки,Курыныя бёдры
+0,Groceries,Продукты,Прадукты,3,meat,11,Chicken Drumsticks,Куриные голени,Курыныя галёнкі
+0,Groceries,Продукты,Прадукты,3,meat,12,Chicken Breast,Куриная грудка,Курыная грудка
+0,Groceries,Продукты,Прадукты,3,meat,13,Chicken Legs,Куриные окорочка,Курыныя акарочкі
+0,Groceries,Продукты,Прадукты,3,meat,14,Chicken Wings,Куриные крылышки,Курыныя крылы
+0,Groceries,Продукты,Прадукты,3,meat,15,Chicken Hearts,Куриные сердечки,Курыныя сэрцайкі
+0,Groceries,Продукты,Прадукты,3,meat,16,Chicken Gizzards,Куриные желудки,Курыныя страўнічкі
+0,Groceries,Продукты,Прадукты,3,meat,17,Turkey,Индейка,Індычка
+0,Groceries,Продукты,Прадукты,3,meat,18,Turkey Fillet,Индейки филе,Філе індычкі
+0,Groceries,Продукты,Прадукты,3,meat,19,Turkey Drumstick,Индейки голень,Галёнка індычкі
+0,Groceries,Продукты,Прадукты,3,meat,20,Turkey Thighs,Индейки бёдра,Бядро індычкі
+0,Groceries,Продукты,Прадукты,3,meat,21,Duck,Утка,Качка
+0,Groceries,Продукты,Прадукты,3,meat,22,Peking Duck,Утка по-пекински,Качка па-пекінску
+0,Groceries,Продукты,Прадукты,3,meat,23,Duck Breast,Утиная грудка,Качыная грудка
+0,Groceries,Продукты,Прадукты,3,meat,24,Lamb,Баранина,Бараніна
+0,Groceries,Продукты,Прадукты,3,meat,25,Venison,Оленина,Аленіна
+0,Groceries,Продукты,Прадукты,3,meat,26,Minced Meat,Фарш,Фарш
+0,Groceries,Продукты,Прадукты,3,meat,27,Cutlets,Котлеты,Катлеты
+0,Groceries,Продукты,Прадукты,3,meat,28,Beefsteak,Бифштекс,Біфштэкс
+0,Groceries,Продукты,Прадукты,3,meat,29,Sausage,Колбаса,Каўбаса
+0,Groceries,Продукты,Прадукты,3,meat,30,Boiled Sausage,Колбаса варёная,Вараная каўбаса
+0,Groceries,Продукты,Прадукты,3,meat,31,Smoked Sausage,Колбаса сырокопчёная,Сыракопчаная каўбаса
+0,Groceries,Продукты,Прадукты,3,meat,32,Doctor's Sausage,Колбаса Докторская,Каўбаса Доктарская
+0,Groceries,Продукты,Прадукты,3,meat,33,Lyubitelskaya Sausage,Колбаса Любительская,Каўбаса Аматарская
+0,Groceries,Продукты,Прадукты,3,meat,34,Cervelat,Сервелат,Сервелат
+0,Groceries,Продукты,Прадукты,3,meat,35,Frankfurters,Сосиски,Сасіскі
+0,Groceries,Продукты,Прадукты,3,meat,36,Saveloys,Сардельки,Сардэлькі
+0,Groceries,Продукты,Прадукты,3,meat,37,Kupaty,Купаты,Купаты
+0,Groceries,Продукты,Прадукты,3,meat,38,Cevapcici,Чевапчичи,Чэвапчычы
+0,Groceries,Продукты,Прадукты,3,meat,39,Bacon,Бекон,Бекон
+0,Groceries,Продукты,Прадукты,3,meat,40,Cured Ham,Хамон,Хамон
+0,Groceries,Продукты,Прадукты,3,meat,41,Carbonade,Карбонад,Карбанада
+0,Groceries,Продукты,Прадукты,3,meat,42,Liver,Печень,Печань
+0,Groceries,Продукты,Прадукты,3,meat,43,Canned Meat,Тушёнка,Тушонка
+0,Groceries,Продукты,Прадукты,3,meat,44,Aspic,Холодец,Халадзец
+0,Groceries,Продукты,Прадукты,3,meat,45,Ham,Ветчина,Вяндліна
+0,Groceries,Продукты,Прадукты,3,meat,46,Pate,Паштет,Паштэт
+0,Groceries,Продукты,Прадукты,3,meat,47,Steak,Стейк,Стэйк
+0,Groceries,Продукты,Прадукты,3,meat,48,Ribeye,Рибай,Рыбай
+0,Groceries,Продукты,Прадукты,3,meat,49,Striploin,Стриплойн,Стрыплойн
+0,Groceries,Продукты,Прадукты,3,meat,50,Filet Mignon,Филе-миньон,Філе-міньён
+0,Groceries,Продукты,Прадукты,3,meat,51,Ribs,Рёбра,Рэбры
+0,Groceries,Продукты,Прадукты,3,meat,52,Lard,Сало,Сала
+0,Groceries,Продукты,Прадукты,3,meat,53,Salt Pork,Шпик,Шпік
+0,Groceries,Продукты,Прадукты,4,fish,0,Fish,Рыба,Рыба
+0,Groceries,Продукты,Прадукты,4,fish,1,Seafood,Морепродукты,Морапрадукты
+0,Groceries,Продукты,Прадукты,4,fish,2,Tuna,Тунец,Тунец
+0,Groceries,Продукты,Прадукты,4,fish,3,Barracuda,Барракуда,Баракуда
+0,Groceries,Продукты,Прадукты,4,fish,4,Barramundi,Барамунди,Барамундзі
+0,Groceries,Продукты,Прадукты,4,fish,5,Marlin,Марлин,Марлін
+0,Groceries,Продукты,Прадукты,4,fish,6,Mahi-Mahi,Махи-Махи,Махі-махі
+0,Groceries,Продукты,Прадукты,4,fish,7,Dorado,Дорадо,Дарада
+0,Groceries,Продукты,Прадукты,4,fish,8,Grouper,Групер,Групер
+0,Groceries,Продукты,Прадукты,4,fish,9,Saury,Сайра,Сайра
+0,Groceries,Продукты,Прадукты,4,fish,10,Pink Salmon,Горбуша,Гарбуша
+0,Groceries,Продукты,Прадукты,4,fish,11,Cod,Треска,Траска
+0,Groceries,Продукты,Прадукты,4,fish,12,Pollock,Минтай,Мінтай
+0,Groceries,Продукты,Прадукты,4,fish,13,Chum Salmon,Кета,Кета
+0,Groceries,Продукты,Прадукты,4,fish,14,Coho Salmon,Кижуч,Кіжуч
+0,Groceries,Продукты,Прадукты,4,fish,15,Smelt,Корюшка,Карюшка
+0,Groceries,Продукты,Прадукты,4,fish,16,Perch,Окунь,Акунь
+0,Groceries,Продукты,Прадукты,4,fish,17,Sturgeon,Осётр,Асёцер
+0,Groceries,Продукты,Прадукты,4,fish,18,Mackerel,Скумбрия,Скумбрыя
+0,Groceries,Продукты,Прадукты,4,fish,19,Halibut,Палтус,Палтус
+0,Groceries,Продукты,Прадукты,4,fish,20,Tilapia,Тилапия,Тылапія
+0,Groceries,Продукты,Прадукты,4,fish,21,Flounder,Камбала,Камбала
+0,Groceries,Продукты,Прадукты,4,fish,22,Sea Bass,Сибас,Сібас
+0,Groceries,Продукты,Прадукты,4,fish,23,Catfish,Сом,Сом
+0,Groceries,Продукты,Прадукты,4,fish,24,Eel,Угорь,Вугор
+0,Groceries,Продукты,Прадукты,4,fish,25,Bream,Лещ,Лешч
+0,Groceries,Продукты,Прадукты,4,fish,26,Pike,Щука,Шчупак
+0,Groceries,Продукты,Прадукты,4,fish,27,Capelin,Мойва,Мойва
+0,Groceries,Продукты,Прадукты,4,fish,28,Salmon,Лосось,Ласось
+0,Groceries,Продукты,Прадукты,4,fish,29,Trout,Форель,Фарэль
+0,Groceries,Продукты,Прадукты,4,fish,30,Atlantic Salmon,Сёмга,Сёмга
+0,Groceries,Продукты,Прадукты,4,fish,31,Herring,Сельдь,Селядзец
+0,Groceries,Продукты,Прадукты,4,fish,32,Squid,Кальмары,Кальмары
+0,Groceries,Продукты,Прадукты,4,fish,33,Octopus,Осьминоги,Васьміногі
+0,Groceries,Продукты,Прадукты,4,fish,34,Crab,Краб,Краб
+0,Groceries,Продукты,Прадукты,4,fish,35,Crab Sticks,Крабовые палочки,Крабавыя палачкі
+0,Groceries,Продукты,Прадукты,4,fish,36,Caviar,Икра,Ікра
+0,Groceries,Продукты,Прадукты,4,fish,37,Mussels,Мидии,Мідыі
+0,Groceries,Продукты,Прадукты,4,fish,38,Shrimp,Креветки,Крэветкі
+0,Groceries,Продукты,Прадукты,4,fish,39,Scallops,Морской гребешок,Марскі грабеньчык
+0,Groceries,Продукты,Прадукты,4,fish,40,Oysters,Устрицы,Вустрыцы
+0,Groceries,Продукты,Прадукты,4,fish,41,Canned Fish,Консервы рыбные,Рыбныя кансервы
+0,Groceries,Продукты,Прадукты,4,fish,42,Lightly Salted Salmon,Сёмга слабосолёная,Сёмга слабасалёная
+0,Groceries,Продукты,Прадукты,4,fish,43,Lightly Salted Trout,Форель слабосолёная,Фарэль слабасалёная
+0,Groceries,Продукты,Прадукты,4,fish,44,Carp,Карп,Карп
+0,Groceries,Продукты,Прадукты,4,fish,45,Zander,Судак,Судак
+0,Groceries,Продукты,Прадукты,4,fish,46,Navaga,Навага,Навага
+0,Groceries,Продукты,Прадукты,4,fish,47,Hake,Хек,Хек
+0,Groceries,Продукты,Прадукты,4,fish,48,Sockeye Salmon,Нерка,Нерка
+0,Groceries,Продукты,Прадукты,4,fish,49,Pangasius,Пангасиус,Пангасіус
+0,Groceries,Продукты,Прадукты,4,fish,50,Crayfish,Раки,Ракі
+0,Groceries,Продукты,Прадукты,4,fish,51,Lobster,Лобстер,Лобстар
+0,Groceries,Продукты,Прадукты,4,fish,52,Anchovies,Анчоусы,Анчоўсы
+0,Groceries,Продукты,Прадукты,4,fish,53,Sprats,Шпроты,Шпроты
+0,Groceries,Продукты,Прадукты,4,fish,54,Goby Fish,Бычки,Бычкі
+0,Groceries,Продукты,Прадукты,5,bread,0,Bread,Хлеб,Хлеб
+0,Groceries,Продукты,Прадукты,5,bread,1,Bread Rolls,Булка,Булка
+0,Groceries,Продукты,Прадукты,5,bread,2,White Bread Loaf,Батон,Батон
+0,Groceries,Продукты,Прадукты,5,bread,3,Sliced White Bread,Батон нарезной,Батон нарэзаны
+0,Groceries,Продукты,Прадукты,5,bread,4,Black Bread,Хлеб чёрный,Чорны хлеб
+0,Groceries,Продукты,Прадукты,5,bread,5,Rye Bread,Хлеб ржаной,Жытні хлеб
+0,Groceries,Продукты,Прадукты,5,bread,6,Scalded Bread,Хлеб заварной,Заварны хлеб
+0,Groceries,Продукты,Прадукты,5,bread,7,Borodinsky Bread,Хлеб бородинский,Барадзінскі хлеб
+0,Groceries,Продукты,Прадукты,5,bread,8,Crispbread,Хлебцы,Хлебцы
+0,Groceries,Продукты,Прадукты,5,bread,9,Lavash,Лаваш,Лаваш
+0,Groceries,Продукты,Прадукты,5,bread,10,Flatbread,Лепёшка,Ляпёшка
+0,Groceries,Продукты,Прадукты,5,bread,11,Pita,Пита,Піта
+0,Groceries,Продукты,Прадукты,5,bread,12,Ciabatta,Чиабатта,Чыабата
+0,Groceries,Продукты,Прадукты,5,bread,13,Flour,Мука,Мука
+0,Groceries,Продукты,Прадукты,5,bread,14,Wheat Flour,Мука пшеничная,Пшанічная мука
+0,Groceries,Продукты,Прадукты,5,bread,15,Rye Flour,Мука ржаная,Жытняя мука
+0,Groceries,Продукты,Прадукты,5,bread,16,Oat Flour,Мука овсяная,Аўсяная мука
+0,Groceries,Продукты,Прадукты,5,bread,17,Buckwheat Flour,Мука гречневая,Грачаная мука
+0,Groceries,Продукты,Прадукты,5,bread,18,Rice Flour,Мука рисовая,Рысавое мука
+0,Groceries,Продукты,Прадукты,5,bread,19,Chickpea Flour,Мука нутовая,Нутавая мука
+0,Groceries,Продукты,Прадукты,5,bread,20,Corn Flour,Мука кукурузная,Кукурузная мука
+0,Groceries,Продукты,Прадукты,5,bread,21,Almond Flour,Мука миндальная,Міндальная мука
+0,Groceries,Продукты,Прадукты,5,bread,22,Coconut Flour,Мука кокосовая,Какосавая мука
+0,Groceries,Продукты,Прадукты,5,bread,23,Sugar,Сахар,Цукар
+0,Groceries,Продукты,Прадукты,5,bread,24,Brown Sugar,Сахар коричневый,Карычневы цукар
+0,Groceries,Продукты,Прадукты,5,bread,25,Salt,Соль,Соль
+0,Groceries,Продукты,Прадукты,5,bread,26,Rice,Рис,Рыс
+0,Groceries,Продукты,Прадукты,5,bread,27,Brown Rice,Рис бурый,Буры рыс
+0,Groceries,Продукты,Прадукты,5,bread,28,Red Rice,Рис красный,Чырвоны рыс
+0,Groceries,Продукты,Прадукты,5,bread,29,Basmati Rice,Рис басмати,Рыс басматы
+0,Groceries,Продукты,Прадукты,5,bread,30,Buckwheat,Гречка,Грэчка
+0,Groceries,Продукты,Прадукты,5,bread,31,Green Buckwheat,Гречка зелёная,Зялёная грэчка
+0,Groceries,Продукты,Прадукты,5,bread,32,Peas,Горох,Гарох
+0,Groceries,Продукты,Прадукты,5,bread,33,Beans,Фасоль,Фасоля
+0,Groceries,Продукты,Прадукты,5,bread,34,Spaghetti,Спагетти,Спагеці
+0,Groceries,Продукты,Прадукты,5,bread,35,Noodles,Лапша,Локшына
+0,Groceries,Продукты,Прадукты,5,bread,36,Udon Noodles,Лапша удон,Локшына удон
+0,Groceries,Продукты,Прадукты,5,bread,37,Soba Noodles,Лапша соба,Локшына соба
+0,Groceries,Продукты,Прадукты,5,bread,38,Ramen Noodles,Лапша рамен,Локшына рамен
+0,Groceries,Продукты,Прадукты,5,bread,39,Glass Noodles,Лапша фунчоза,Фунчоза
+0,Groceries,Продукты,Прадукты,5,bread,40,Pasta,Макароны,Макароны
+0,Groceries,Продукты,Прадукты,5,bread,41,Vermicelli,Вермишель,Вермішэль
+0,Groceries,Продукты,Прадукты,5,bread,42,Ptitim,Птитим,Пціцім
+0,Groceries,Продукты,Прадукты,5,bread,43,Amaranth,Амарант,Амарант
+0,Groceries,Продукты,Прадукты,5,bread,44,Bran,Отруби,Вотрубі
+0,Groceries,Продукты,Прадукты,5,bread,45,Oatmeal,Овсянка,Аўсянка
+0,Groceries,Продукты,Прадукты,5,bread,46,Semolina,Крупа манная,Манныя крупы
+0,Groceries,Продукты,Прадукты,5,bread,47,Corn Grits,Крупа кукурузная,Кукурузныя крупы
+0,Groceries,Продукты,Прадукты,5,bread,48,Wheat Groats,Крупа пшеничная,Пшанічныя крупы
+0,Groceries,Продукты,Прадукты,5,bread,49,Spelt,Полба,Полба
+0,Groceries,Продукты,Прадукты,5,bread,50,Pearl Barley,Перловка,Перлаўка
+0,Groceries,Продукты,Прадукты,5,bread,51,Bulgur,Булгур,Булгур
+0,Groceries,Продукты,Прадукты,5,bread,52,Quinoa,Киноа,Кіноа
+0,Groceries,Продукты,Прадукты,5,bread,53,Granola,Гранола,Гранола
+0,Groceries,Продукты,Прадукты,5,bread,54,Cereal Flakes,Хлопья,Хлоп'і
+0,Groceries,Продукты,Прадукты,5,bread,55,Couscous,Кускус,Кускус
+0,Groceries,Продукты,Прадукты,5,bread,56,Rolled Oats,Геркулес,Геркулес
+0,Groceries,Продукты,Прадукты,5,bread,57,Millet,Просо,Проса
+0,Groceries,Продукты,Прадукты,5,bread,58,Baguette,Багет,Багет
+0,Groceries,Продукты,Прадукты,5,bread,59,Tortilla,Тортилья,Тарцілья
+0,Groceries,Продукты,Прадукты,5,bread,60,Chickpeas,Нут,Нут
+0,Groceries,Продукты,Прадукты,5,bread,61,Lentils,Чечевица,Сачавіца
+0,Groceries,Продукты,Прадукты,6,sauces,0,Canned Foods,Консервы,Кансервы
+0,Groceries,Продукты,Прадукты,6,sauces,1,Sauce,Соус,Соус
+0,Groceries,Продукты,Прадукты,6,sauces,2,Tomato Paste,Томатная паста,Таматная паста
+0,Groceries,Продукты,Прадукты,6,sauces,3,Green Peas,Горошек зелёный,Зялёны гарошак
+0,Groceries,Продукты,Прадукты,6,sauces,4,Canned Peas,Горошек консервированный,Кансерваваны зялёны гарошак
+0,Groceries,Продукты,Прадукты,6,sauces,5,Canned Corn,Кукуруза консервированная,Кансерваваная кукуруза
+0,Groceries,Продукты,Прадукты,6,sauces,6,Canned Beans,Фасоль консервированная,Кансерваваная фасоля
+0,Groceries,Продукты,Прадукты,6,sauces,7,Olives,Оливки,Аліўкі
+0,Groceries,Продукты,Прадукты,6,sauces,8,Black Olives,Маслины,Масліны
+0,Groceries,Продукты,Прадукты,6,sauces,9,Capers,Каперсы,Каперсы
+0,Groceries,Продукты,Прадукты,6,sauces,10,Caperberries,Плоды каперсов,Плады каперсаў
+0,Groceries,Продукты,Прадукты,6,sauces,11,Pickles,Огурцы солёные,Салёныя агуркі
+0,Groceries,Продукты,Прадукты,6,sauces,12,Pickled Cucumbers,Огурцы маринованные,Марынаваныя агуркі
+0,Groceries,Продукты,Прадукты,6,sauces,13,Salted Tomatoes,Помидоры солёные,Салёныя памідоры
+0,Groceries,Продукты,Прадукты,6,sauces,14,Canned Tomatoes,Томаты консервированные,Кансерваваныя таматы
+0,Groceries,Продукты,Прадукты,6,sauces,15,Piri-Piri Peppers,Перчик Пири-пири,Перац піры-піры
+0,Groceries,Продукты,Прадукты,6,sauces,16,Sauerkraut,Капуста квашеная,Квашаная капуста
+0,Groceries,Продукты,Прадукты,6,sauces,17,Wild Garlic,Черемша,Чарамша
+0,Groceries,Продукты,Прадукты,6,sauces,18,Salted Mushrooms,Грибы солёные,Салёныя грыбы
+0,Groceries,Продукты,Прадукты,6,sauces,19,Pickled Mushrooms,Грибы маринованные,Марынаваныя грыбы
+0,Groceries,Продукты,Прадукты,6,sauces,20,Mayonnaise,Майонез,Маянэз
+0,Groceries,Продукты,Прадукты,6,sauces,21,Ketchup,Кетчуп,Кетчуп
+0,Groceries,Продукты,Прадукты,6,sauces,22,Mustard,Горчица,Гарчыца
+0,Groceries,Продукты,Прадукты,6,sauces,23,French Mustard,Горчица Французская,Французская гарчыца
+0,Groceries,Продукты,Прадукты,6,sauces,24,Dijon Mustard,Горчица Дижонская,Дыжонская гарчыца
+0,Groceries,Продукты,Прадукты,6,sauces,25,Soy Sauce,Соус соевый,Соевы соус
+0,Groceries,Продукты,Прадукты,6,sauces,26,Worcestershire Sauce,Соус Вустерширский,Вустэрскі соус
+0,Groceries,Продукты,Прадукты,6,sauces,27,Sweet and Sour Sauce,Соус кисло-сладкий,Кісла-салодкі соус
+0,Groceries,Продукты,Прадукты,6,sauces,28,Teriyaki Sauce,Соус терияки,Соус тэрыякі
+0,Groceries,Продукты,Прадукты,6,sauces,29,Fish Sauce,Соус рыбный,Рыбны соус
+0,Groceries,Продукты,Прадукты,6,sauces,30,Oyster Sauce,Соус устричный,Вустрычны соус
+0,Groceries,Продукты,Прадукты,6,sauces,31,Hoisin Sauce,Соус Хойсин,Соус хойсін
+0,Groceries,Продукты,Прадукты,6,sauces,32,Pad Thai Sauce,Соус Пад-тай,Соус пад-тай
+0,Groceries,Продукты,Прадукты,6,sauces,33,Hot Sauce,Соус острый,Востры соус
+0,Groceries,Продукты,Прадукты,6,sauces,34,Lemon Juice,Сок лимона,Лімонны сок
+0,Groceries,Продукты,Прадукты,6,sauces,35,Lime Juice,Сок лайма,Сок лайма
+0,Groceries,Продукты,Прадукты,6,sauces,36,Horseradish,Хрен столовый,Хрэн сталовы
+0,Groceries,Продукты,Прадукты,6,sauces,37,Adjika,Аджика,Аджыка
+0,Groceries,Продукты,Прадукты,6,sauces,38,Tkemali,Ткемали,Ткемалі
+0,Groceries,Продукты,Прадукты,6,sauces,39,Satsebeli,Сацебели,Сацэбелі
+0,Groceries,Продукты,Прадукты,6,sauces,40,Canned Pineapple,Ананасы консервированные,Кансерваваныя ананасы
+0,Groceries,Продукты,Прадукты,6,sauces,41,Canned Peaches,Персики консервированные,Кансерваваныя персікі
+0,Groceries,Продукты,Прадукты,6,sauces,42,Zucchini Caviar,Икра кабачковая,Кабачковая ікра
+0,Groceries,Продукты,Прадукты,6,sauces,43,Eggplant Caviar,Икра баклажанная,Баклажанная ікра
+0,Groceries,Продукты,Прадукты,6,sauces,44,Lecho,Лечо,Леча
+0,Groceries,Продукты,Прадукты,6,sauces,45,BBQ Sauce,Соус барбекю,Соус барбекю
+0,Groceries,Продукты,Прадукты,6,sauces,46,Pesto,Соус песто,Соус песта
+0,Groceries,Продукты,Прадукты,6,sauces,47,Sweet Chili Sauce,Соус сладкий чили,Соус салодкі чылі
+0,Groceries,Продукты,Прадукты,6,sauces,48,Seaweed Salad,Морская капуста,Марская капуста
+0,Groceries,Продукты,Прадукты,6,sauces,49,Hummus,Хумус,Хумус
+0,Groceries,Продукты,Прадукты,7,spices,0,Spices,Специи,Спецыі
+0,Groceries,Продукты,Прадукты,7,spices,1,Sunflower Oil,Масло подсолнечное,Сланечнікавы алей
+0,Groceries,Продукты,Прадукты,7,spices,2,Vegetable Oil,Масло растительное,Раслінны алей
+0,Groceries,Продукты,Прадукты,7,spices,3,Olive Oil,Масло оливковое,Аліўкавы алей
+0,Groceries,Продукты,Прадукты,7,spices,4,Sesame Oil,Масло кунжутное,Кунжутны алей
+0,Groceries,Продукты,Прадукты,7,spices,5,Mustard Oil,Масло горчичное,Гарчычны алей
+0,Groceries,Продукты,Прадукты,7,spices,6,Flaxseed Oil,Масло льняное,Ільняны алей
+0,Groceries,Продукты,Прадукты,7,spices,7,Corn Oil,Масло кукурузное,Кукурузны алей
+0,Groceries,Продукты,Прадукты,7,spices,8,Peanut Oil,Масло арахисовое,Арахісавы алей
+0,Groceries,Продукты,Прадукты,7,spices,9,Grapeseed Oil,Масло виноградных косточек,Алей з вінаградных костачак
+0,Groceries,Продукты,Прадукты,7,spices,10,Avocado Oil,Масло авокадо,Алей авакада
+0,Groceries,Продукты,Прадукты,7,spices,11,Black Pepper,Перец чёрный,Чорны перац
+0,Groceries,Продукты,Прадукты,7,spices,12,Red Pepper,Перец красный,Чырвоный перац
+0,Groceries,Продукты,Прадукты,7,spices,13,Mixed Peppercorns,Смесь перцев,Сумесь перцаў
+0,Groceries,Продукты,Прадукты,7,spices,14,Bay Leaves,Лавровый лист,Лаўровы ліст
+0,Groceries,Продукты,Прадукты,7,spices,15,Dried Basil,Базилик сушёный,Сушаны базілік
+0,Groceries,Продукты,Прадукты,7,spices,16,Dried Dill,Укроп сушёный,Сушаны кроп
+0,Groceries,Продукты,Прадукты,7,spices,17,Dried Parsley,Петрушка сушёная,Сушаная пятрушка
+0,Groceries,Продукты,Прадукты,7,spices,18,Dried Garlic,Чеснок сушёный,Сушаны часнок
+0,Groceries,Продукты,Прадукты,7,spices,19,Curry,Карри,Кары
+0,Groceries,Продукты,Прадукты,7,spices,20,Paprika,Паприка,Папрыка
+0,Groceries,Продукты,Прадукты,7,spices,21,Cumin,Зира,Зіра
+0,Groceries,Продукты,Прадукты,7,spices,22,Cinnamon,Корица,Карыца
+0,Groceries,Продукты,Прадукты,7,spices,23,Cloves,Гвоздика,Гваздзіка
+0,Groceries,Продукты,Прадукты,7,spices,24,Cardamom,Кардамон,Кардамон
+0,Groceries,Продукты,Прадукты,7,spices,25,Coriander,Кориандр,Карыяндр
+0,Groceries,Продукты,Прадукты,7,spices,26,Turmeric,Куркума,Куркума
+0,Groceries,Продукты,Прадукты,7,spices,27,Caraway,Тмин,Кмен
+0,Groceries,Продукты,Прадукты,7,spices,28,Dried Thyme,Тимьян сушёный,Сушаны тым'ян
+0,Groceries,Продукты,Прадукты,7,spices,29,Dried Oregano,Орегано сушёный,Сушаны арэгана
+0,Groceries,Продукты,Прадукты,7,spices,30,Nutmeg,Мускатный орех,Мускатны арэх
+0,Groceries,Продукты,Прадукты,7,spices,31,Herbes de Provence,Прованские травы,Правансальскія травы
+0,Groceries,Продукты,Прадукты,7,spices,32,French Herbs,Французские травы,Французскія травы
+0,Groceries,Продукты,Прадукты,7,spices,33,Italian Herbs,Итальянские травы,Італьянскія травы
+0,Groceries,Продукты,Прадукты,7,spices,34,White Vinegar,Уксус столовый,Сталовы воцат
+0,Groceries,Продукты,Прадукты,7,spices,35,Wine Vinegar,Уксус винный,Вінны воцат
+0,Groceries,Продукты,Прадукты,7,spices,36,Apple Cider Vinegar,Уксус яблочный,Яблычны воцат
+0,Groceries,Продукты,Прадукты,7,spices,37,Balsamic Vinegar,Уксус бальзамический,Бальзамічны воцат
+0,Groceries,Продукты,Прадукты,7,spices,38,Rice Vinegar,Уксус рисовый,Рысавы воцат
+0,Groceries,Продукты,Прадукты,7,spices,39,Khmeli-Suneli,Хмели-сунели,Хмелі-сунелі
+0,Groceries,Продукты,Прадукты,7,spices,40,Pilaf Seasoning,Смесь для плова,Сумесь для плову
+0,Groceries,Продукты,Прадукты,7,spices,41,Saffron,Шафран,Шафран
+0,Groceries,Продукты,Прадукты,7,spices,42,Star Anise,Бадьян,Бадзян
+0,Groceries,Продукты,Прадукты,7,spices,43,Marjoram,Майоран,Маяран
+0,Groceries,Продукты,Прадукты,7,spices,44,Dried Tarragon,Эстрагон сушёный,Сушаны эстрагон
+0,Groceries,Продукты,Прадукты,8,nuts,0,Dried Fruits,Сухофрукты,Сухафрукты
+0,Groceries,Продукты,Прадукты,8,nuts,1,Dates,Финики,Фінікі
+0,Groceries,Продукты,Прадукты,8,nuts,2,Prunes,Чернослив,Чарнасліў
+0,Groceries,Продукты,Прадукты,8,nuts,3,Raisins,Изюм,Разынкі
+0,Groceries,Продукты,Прадукты,8,nuts,4,Dried Apricots,Курага,Курага
+0,Groceries,Продукты,Прадукты,8,nuts,5,Nuts,Орехи,Арэхі
+0,Groceries,Продукты,Прадукты,8,nuts,6,Hazelnuts,Орехи лесные,Лясныя арэхі
+0,Groceries,Продукты,Прадукты,8,nuts,7,Pine Nuts,Орехи кедровые,Кедравыя арэхі
+0,Groceries,Продукты,Прадукты,8,nuts,8,Walnuts,Орехи грецкие,Грэцкія арэхі
+0,Groceries,Продукты,Прадукты,8,nuts,9,Macadamia Nuts,Орехи Макадамия,Арэхі макадамія
+0,Groceries,Продукты,Прадукты,8,nuts,10,Brazil Nuts,Бразильский орех,Бразільскі арэх
+0,Groceries,Продукты,Прадукты,8,nuts,11,Peanuts,Арахис,Арахіс
+0,Groceries,Продукты,Прадукты,8,nuts,12,Pecans,Фундук,Фундук
+0,Groceries,Продукты,Прадукты,8,nuts,13,Pistachios,Пекан,Пекан
+0,Groceries,Продукты,Прадукты,8,nuts,14,Almonds,Фисташки,Фісташкі
+0,Groceries,Продукты,Прадукты,8,nuts,15,Cashews,Миндаль,Міндаль
+0,Groceries,Продукты,Прадукты,8,nuts,16,Seeds,Кешью,Кеш'ю
+0,Groceries,Продукты,Прадукты,8,nuts,17,Sunflower Seeds,Семечки,Семкі
+0,Groceries,Продукты,Прадукты,8,nuts,18,Pumpkin Seeds,Семечки подсолнечные,Сланечнікавыя семкі
+0,Groceries,Продукты,Прадукты,8,nuts,19,Chia Seeds,Семечки тыквенные,Гарбузовыя семкі
+0,Groceries,Продукты,Прадукты,8,nuts,20,Flax Seeds,Семена,Насенне
+0,Groceries,Продукты,Прадукты,8,nuts,21,Sesame Seeds,Семена чиа,Насенне чыа
+0,Groceries,Продукты,Прадукты,8,nuts,22,Dried Mushrooms,Семена льна,Насенне лёну
+0,Groceries,Продукты,Прадукты,8,nuts,23,Candied Fruit,Семена кунжута,Насенне кунжуту
+0,Groceries,Продукты,Прадукты,8,nuts,24,Dried Cranberries,Грибы сушёные,Сушаныя грыбы
+0,Groceries,Продукты,Прадукты,8,nuts,25,Dried Figs,Цукаты,Цукаты
+0,Groceries,Продукты,Прадукты,8,nuts,26,Dried Apples,Клюква сушеная,Сушаная журавіна
+0,Groceries,Продукты,Прадукты,8,nuts,27,Banana Chips,Инжир сушеный,Сушаны інжыр
+0,Groceries,Продукты,Прадукты,8,nuts,28,Dried Mango,Яблоки сушеные,Сушаныя яблыкі
+0,Groceries,Продукты,Прадукты,8,nuts,29,Poppy Seeds,Банановые чипсы,Бананавыя чыпсы
+0,Groceries,Продукты,Прадукты,8,nuts,30,,Манго сушеное,Сушанае манга
+0,Groceries,Продукты,Прадукты,8,nuts,31,,Мак,Мак
+0,Groceries,Продукты,Прадукты,9,baking,0,Eggs,Яйца,Яйкі
+0,Groceries,Продукты,Прадукты,9,baking,1,Quail Eggs,Яйца перепелиные,Перапяліныя яйкі
+0,Groceries,Продукты,Прадукты,9,baking,2,Yeast,Дрожжи,Дрожджы
+0,Groceries,Продукты,Прадукты,9,baking,3,Baking Powder,Разрыхлитель,Разрыхляльнік
+0,Groceries,Продукты,Прадукты,9,baking,4,Baking Soda,Сода,Сода
+0,Groceries,Продукты,Прадукты,9,baking,5,Vanillin,Ванилин,Ванілін
+0,Groceries,Продукты,Прадукты,9,baking,6,Starch,Крахмал,Крухмал
+0,Groceries,Продукты,Прадукты,9,baking,7,Gelatin,Желатин,Жэлацін
+0,Groceries,Продукты,Прадукты,9,baking,8,Citric Acid,Лимонная кислота,Лімонная кіслата
+0,Groceries,Продукты,Прадукты,9,baking,9,Pectin,Пектин,Пекцін
+0,Groceries,Продукты,Прадукты,9,baking,10,Agar-Agar,Агар-агар,Агар-агар
+0,Groceries,Продукты,Прадукты,9,baking,11,Powdered Sugar,Сахарная пудра,Цукровая пудра
+0,Groceries,Продукты,Прадукты,9,baking,12,Sweetener,Сахарозаменитель,Падсалодвальнік
+0,Groceries,Продукты,Прадукты,9,baking,13,Sugar Substitute,Заменитель сахара,Замяняльнік цукру
+0,Groceries,Продукты,Прадукты,9,baking,14,Breadcrumbs,Сухари панировочные,Паніровачныя сухары
+0,Groceries,Продукты,Прадукты,9,baking,15,Food Coloring,Пищевой краситель,Харчовы фарбавальнік
+0,Groceries,Продукты,Прадукты,9,baking,16,Sprinkles,Посыпка кондитерская,Кандытарская пасыпка
+0,Groceries,Продукты,Прадукты,10,snacks,0,Cookies,Печенье,Пячэнне
+0,Groceries,Продукты,Прадукты,10,snacks,1,Oat Cookies,Печенье овсяное,Аўсянае пячэнне
+0,Groceries,Продукты,Прадукты,10,snacks,2,Gingerbread,Пряники,Пернікі
+0,Groceries,Продукты,Прадукты,10,snacks,3,Cupcakes,Кексы,Кексы
+0,Groceries,Продукты,Прадукты,10,snacks,4,Candy,Конфеты,Цукеркі
+0,Groceries,Продукты,Прадукты,10,snacks,5,Chocolate,Шоколад,Шакалад
+0,Groceries,Продукты,Прадукты,10,snacks,6,Milk Chocolate,Шоколад молочный,Малочны шакалад
+0,Groceries,Продукты,Прадукты,10,snacks,7,Dark Chocolate,Шоколад горький,Горкі шакалад
+0,Groceries,Продукты,Прадукты,10,snacks,8,White Chocolate,Шоколад белый,Белый шакалад
+0,Groceries,Продукты,Прадукты,10,snacks,9,Honey,Мёд,Мёд
+0,Groceries,Продукты,Прадукты,10,snacks,10,Flower Honey,Мёд цветочный,Кветкавы мёд
+0,Groceries,Продукты,Прадукты,10,snacks,11,Buckwheat Honey,Мёд гречишный,Грачаны мёд
+0,Groceries,Продукты,Прадукты,10,snacks,12,Jam,Варенье,Варэнне
+0,Groceries,Продукты,Прадукты,10,snacks,13,Raspberry Jam,Варенье малиновое,Малінавае варэнне
+0,Groceries,Продукты,Прадукты,10,snacks,14,Cherry Jam,Варенье вишнёвое,Вішнёвае варэнне
+0,Groceries,Продукты,Прадукты,10,snacks,15,Chips,Чипсы,Чыпсы
+0,Groceries,Продукты,Прадукты,10,snacks,16,Crackers,Крекер,Крэкер
+0,Groceries,Продукты,Прадукты,10,snacks,17,Croutons,Сухарики,Сухарыкі
+0,Groceries,Продукты,Прадукты,10,snacks,18,Dried Squid,Сушеный кальмар,Сушаны кальмар
+0,Groceries,Продукты,Прадукты,10,snacks,19,Dried Fish,Сушеная рыбка,Сушаная рыбка
+0,Groceries,Продукты,Прадукты,10,snacks,20,Pretzel Sticks,Соломка,Саламка
+0,Groceries,Продукты,Прадукты,10,snacks,21,Wafers,Вафли,Вафлі
+0,Groceries,Продукты,Прадукты,10,snacks,22,Marshmallow,Зефир,Зефір
+0,Groceries,Продукты,Прадукты,10,snacks,23,Fruit Leather,Пастила,Пасціла
+0,Groceries,Продукты,Прадукты,10,snacks,24,Marmalade,Мармелад,Мармелад
+0,Groceries,Продукты,Прадукты,10,snacks,25,Halva,Халва,Халва
+0,Groceries,Продукты,Прадукты,10,snacks,26,Kozinaki,Козинаки,Казінакі
+0,Groceries,Продукты,Прадукты,10,snacks,27,Cake,Торт,Торт
+0,Groceries,Продукты,Прадукты,10,snacks,28,Pastry,Пирожное,Пірожнае
+0,Groceries,Продукты,Прадукты,10,snacks,29,Eclairs,Эклеры,Эклеры
+0,Groceries,Продукты,Прадукты,10,snacks,30,Meringue,Безе,Безэ
+0,Groceries,Продукты,Прадукты,10,snacks,31,Muffins,Маффины,Маффіны
+0,Groceries,Продукты,Прадукты,10,snacks,32,Croissants,Круассаны,Круасаны
+0,Groceries,Продукты,Прадукты,10,snacks,33,Sweet Buns,Булочки сладкие,Салодкія булачкі
+0,Groceries,Продукты,Прадукты,10,snacks,34,Sponge Roll,Рулет бисквитный,Бісквітны рулет
+0,Groceries,Продукты,Прадукты,10,snacks,35,Puff Pastry,Слойки,Слойкі
+0,Groceries,Продукты,Прадукты,10,snacks,36,Curd Buns,Ватрушки,Ватрушкі
+0,Groceries,Продукты,Прадукты,10,snacks,37,Sweet Pie,Пирог сладкий,Салодкі пірог
+0,Groceries,Продукты,Прадукты,10,snacks,38,Caramel,Карамель,Карамель
+0,Groceries,Продукты,Прадукты,10,snacks,39,Lollipops,Леденцы,Лядзяні
+0,Groceries,Продукты,Прадукты,10,snacks,40,Toffee,Ириски,Ірыскі
+0,Groceries,Продукты,Прадукты,10,snacks,41,Truffles,Трюфели,Труфелі
+0,Groceries,Продукты,Прадукты,10,snacks,42,Sherbet,Щербет,Шэрбет
+0,Groceries,Продукты,Прадукты,10,snacks,43,Chocolate Bar,Батончик шоколадный,Шакаладны батончык
+0,Groceries,Продукты,Прадукты,10,snacks,44,Wafer Bar,Батончик вафельный,Вафельны батончык
+0,Groceries,Продукты,Прадукты,10,snacks,45,Muesli Bar,Батончик мюсли,Батончык мюслі
+0,Groceries,Продукты,Прадукты,10,snacks,46,Jelly,Джем,Джэм
+0,Groceries,Продукты,Прадукты,10,snacks,47,Confiture,Конфитюр,Канфіцюр
+0,Groceries,Продукты,Прадукты,10,snacks,48,Syrup,Сироп,Сіроп
+0,Groceries,Продукты,Прадукты,10,snacks,49,Chocolate Hazelnut Spread,Паста шоколадно-ореховая,Шакаладна-арэхавая паста
+0,Groceries,Продукты,Прадукты,10,snacks,50,Peanut Butter,Арахисовая паста,Арахісавая паста
+0,Groceries,Продукты,Прадукты,10,snacks,51,Popcorn,Попкорн,Папкорн
+0,Groceries,Продукты,Прадукты,10,snacks,52,Corn Puffs,Кукурузные палочки,Кукурузныя палачкі
+0,Groceries,Продукты,Прадукты,10,snacks,53,Marshmallows,Маршмеллоу,Маршмэлоу
+0,Groceries,Продукты,Прадукты,10,snacks,54,Ice Cream,Мороженое,Марозіва
+0,Groceries,Продукты,Прадукты,10,snacks,55,Ice Cream Bar,Эскимо,Эскімо
+0,Groceries,Продукты,Прадукты,10,snacks,56,Vanilla Ice Cream,Пломбир,Пломбір
+0,Groceries,Продукты,Прадукты,10,snacks,57,Sorbet,Сорбет,Сорбет
+0,Groceries,Продукты,Прадукты,10,snacks,58,Pudding,Пудинг,Пудынг
+0,Groceries,Продукты,Прадукты,10,snacks,59,Turkish Delight,Рахат-лукум,Рахат-лукум
+0,Groceries,Продукты,Прадукты,10,snacks,60,Chak-Chak,Чак-чак,Чак-чак
+0,Groceries,Продукты,Прадукты,10,snacks,61,Nougat,Нуга,Нуга
+0,Groceries,Продукты,Прадукты,10,snacks,62,Churchkhela,Чурчхела,Чурчхела
+0,Groceries,Продукты,Прадукты,11,drinks,0,Tea,Чай,Чай
+0,Groceries,Продукты,Прадукты,11,drinks,1,Black Tea,Чай чёрный,Чорны чай
+0,Groceries,Продукты,Прадукты,11,drinks,2,Green Tea,Чай зелёный,Зялёны чай
+0,Groceries,Продукты,Прадукты,11,drinks,3,White Tea,Чай белый,Белый чай
+0,Groceries,Продукты,Прадукты,11,drinks,4,Herbal Tea,Чай травяной,Травяны чай
+0,Groceries,Продукты,Прадукты,11,drinks,5,Milk Oolong,Молочный улун,Малочны улун
+0,Groceries,Продукты,Прадукты,11,drinks,6,Pu-erh,Пуэр,Пуэр
+0,Groceries,Продукты,Прадукты,11,drinks,7,Ivan Tea,Иван-чай,Іван-чай
+0,Groceries,Продукты,Прадукты,11,drinks,8,Coffee,Кофе,Кава
+0,Groceries,Продукты,Прадукты,11,drinks,9,Ground Coffee,Кофе молотый,Молатая кава
+0,Groceries,Продукты,Прадукты,11,drinks,10,Instant Coffee,Кофе растворимый,Растваральная кава
+0,Groceries,Продукты,Прадукты,11,drinks,11,Coffee Beans,Кофе в зёрнах,Кава ў зёрнах
+0,Groceries,Продукты,Прадукты,11,drinks,12,Coffee Capsules,Кофе в капсулах,Кава ў капсулах
+0,Groceries,Продукты,Прадукты,11,drinks,13,Mate,Мате,Матэ
+0,Groceries,Продукты,Прадукты,11,drinks,14,Cocoa Powder,Какао-порошок,Какава-парашок
+0,Groceries,Продукты,Прадукты,11,drinks,15,Matcha,Матча,Матча
+0,Groceries,Продукты,Прадукты,11,drinks,16,Hibiscus Tea,Каркаде,Каркадэ
+0,Groceries,Продукты,Прадукты,11,drinks,17,Chamomile,Ромашка,Рамонак
+0,Groceries,Продукты,Прадукты,11,drinks,18,Chicory,Цикорий,Цыкорый
+0,Groceries,Продукты,Прадукты,11,drinks,19,Barley,Ячмень,Ячменны напой
+0,Groceries,Продукты,Прадукты,11,drinks,20,Juice,Сок,Сок
+0,Groceries,Продукты,Прадукты,11,drinks,21,Tomato Juice,Томатный сок,Таматный сок
+0,Groceries,Продукты,Прадукты,11,drinks,22,Fruit Drink,Морс,Морс
+0,Groceries,Продукты,Прадукты,11,drinks,23,Compote,Компот,Кампот
+0,Groceries,Продукты,Прадукты,11,drinks,24,Kvass,Квас,Квас
+0,Groceries,Продукты,Прадукты,11,drinks,25,Lemonade,Лимонад,Ліманад
+0,Groceries,Продукты,Прадукты,11,drinks,26,Iced Tea,Холодный чай,Халодны чай
+0,Groceries,Продукты,Прадукты,11,drinks,27,Soda,Газировка,Газіроўка
+0,Groceries,Продукты,Прадукты,11,drinks,28,Energy Drink,Энергетик,Энергетык
+0,Groceries,Продукты,Прадукты,11,drinks,29,Water,Вода,Вада
+0,Groceries,Продукты,Прадукты,11,drinks,30,Mineral Water,Вода минеральная,Мінеральная вада
+0,Groceries,Продукты,Прадукты,11,drinks,31,Sparkling Water,Вода газированная,Газаваная вада
+0,Groceries,Продукты,Прадукты,12,frozen,0,Vegetable Mix,Овощная смесь,Агароднінная сумесь
+0,Groceries,Продукты,Прадукты,12,frozen,1,Frozen Vegetables,Овощи замороженные,Замарожаная гародніна
+0,Groceries,Продукты,Прадукты,12,frozen,2,Hawaiian Mix,Смесь гавайская,Гавайская сумесь
+0,Groceries,Продукты,Прадукты,12,frozen,3,Mexican Mix,Смесь мексиканская,Мексіканская сумесь
+0,Groceries,Продукты,Прадукты,12,frozen,4,Frozen Berries,Ягоды замороженные,Замарожаныя ягады
+0,Groceries,Продукты,Прадукты,12,frozen,5,Frozen Pizza,Пицца замороженная,Замарожаная піца
+0,Groceries,Продукты,Прадукты,12,frozen,6,Frozen Shrimp,Креветки замороженные,Замарожаныя крэветкі
+0,Groceries,Продукты,Прадукты,12,frozen,7,Frozen Cutlets,Котлеты замороженные,Замарожаныя катлеты
+0,Groceries,Продукты,Прадукты,12,frozen,8,Crepes,Блинчики,Блінчыкі
+0,Groceries,Продукты,Прадукты,12,frozen,9,Dumplings,Пельмени,Пельмені
+0,Groceries,Продукты,Прадукты,12,frozen,10,Khinkali,Хинкали,Хінкалі
+0,Groceries,Продукты,Прадукты,12,frozen,11,Manti,Манты,Манты
+0,Groceries,Продукты,Прадукты,12,frozen,12,Ravioli,Равиоли,Равіолі
+0,Groceries,Продукты,Прадукты,12,frozen,13,Vareniki,Вареники,Варэнікі
+0,Groceries,Продукты,Прадукты,12,frozen,14,Frozen Potatoes,Картофель замороженный,Замарожаная бульба
+0,Groceries,Продукты,Прадукты,12,frozen,15,Frozen Mushrooms,Грибы замороженные,Замарожаныя грыбы
+0,Groceries,Продукты,Прадукты,12,frozen,16,Frozen Spinach,Шпинат замороженный,Замарожаны шпінат
+0,Groceries,Продукты,Прадукты,12,frozen,17,Frozen Green Peas,Горошек зелёный замороженный,Замарожаны зялёны гарошак
+0,Groceries,Продукты,Прадукты,12,frozen,18,Frozen Corn,Кукуруза замороженная,Замарожаная кукуруза
+0,Groceries,Продукты,Прадукты,12,frozen,19,Frozen Puff Pastry,Тесто слоеное замороженное,Замарожанае слоенае цеста
+0,Groceries,Продукты,Прадукты,12,frozen,20,Frozen Yeast Dough,Тесто дрожжевое замороженное,Замарожанае дражджавое цеста
+0,Groceries,Продукты,Прадукты,12,frozen,21,Frozen Nuggets,Наггетсы замороженные,Замарожаныя нагетсы
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,0,Vodka,Водка,Гарэлка
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,1,Cognac,Коньяк,Каньяк
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,2,Armagnac,Арманьяк,Арманьяк
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,3,Whiskey,Виски,Віскі
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,4,Rum,Ром,Ром
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,5,Gin,Джин,Джын
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,6,Tequila,Текила,Тэкіла
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,7,Absinthe,Абсент,Абсэнт
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,8,Liqueur,Ликёр,Лікёр
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,9,Brandy,Бренди,Брэндзі
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,10,Sambuca,Самбука,Самбука
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,11,Calvados,Кальвадос,Кальвадос
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,12,Grappa,Граппа,Грапа
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,13,Schnapps,Шнапс,Шнапс
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,14,Bitters,Настойка горькая,Горкая настойка
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,15,Herbal Liqueur,Настойка травяная,Травяная настойка
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,16,Becherovka,Бехеровка,Бехероўка
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,17,Bourbon,Бурбон,Бурбон
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,18,Scotch,Скотч,Скотч
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,19,Champagne,Шампанское,Шампанскае
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,20,Prosecco,Просекко,Просека
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,21,Cava,Кава,Кава
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,22,Vermouth,Вермут,Верму́т
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,23,Bitter,Биттер,Бітэр
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,24,Sake,Саке,Сакэ
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,25,Chacha,Чача,Чача
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,26,Sparkling Wine,Вино игристое,Ігрыстае віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,27,Red Wine,Вино красное,Чырвонае віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,28,White Wine,Вино белое,Белае віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,29,Rose Wine,Вино розовое,Ружовае віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,30,Dry Wine,Вино сухое,Сухое віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,31,Semi-Dry Wine,Вино полусухое,Паўсухое віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,32,Sweet Wine,Вино сладкое,Салодкае віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,33,Semi-Sweet Wine,Вино полусладкое,Паўсалодкае віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,34,Table Wine,Вино столовое,Столавае віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,35,Dessert Wine,Вино десертное,Дэсертнае віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,36,Plum Wine,Вино сливовое,Слівовае віно
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,37,Port,Портвейн,Портвейн
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,38,Porto,Порто,Порта
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,39,Sherry,Херес,Херэс
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,40,Madeira,Мадера,Мадэра
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,41,Lager,Пиво светлое,Светлае піва
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,42,Dark Beer,Пиво тёмное,Цёмнае піва
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,43,Unfiltered Beer,Пиво нефильтрованное,Нефільтраванае піва
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,44,Wheat Beer,Пиво пшеничное,Пшанічнае піва
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,45,Lager Beer,Пиво лагер,Піва лагер
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,46,Ale,Пиво эль,Піва эль
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,47,Stout,Пиво стаут,Піва стаўт
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,48,Porter,Пиво портер,Піва портэр
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,49,Pilsner,Пиво пилснер,Піва пілснер
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,50,Craft Beer,Пиво крафтовое,Крафтавае піва
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,51,Non-Alcoholic Beer,Пиво безалкогольное,Безалкагольнае піва
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,52,Cider,Сидр,Сідр
+1,Alcohol,Спиртное,Алкаголь,0,alcohol,53,Mead,Медовуха,Мядоўха
+2,Household,Дом и быт,Дом і побыт,0,laundry,0,Laundry Detergent,Стиральный порошок,Пральны парашок
+2,Household,Дом и быт,Дом і побыт,0,laundry,1,Liquid Laundry Detergent,Жидкость для стирки,Вадкасць для прання
+2,Household,Дом и быт,Дом і побыт,0,laundry,2,Laundry Capsules,Капсулы для стирки,Капсулы для прання
+2,Household,Дом и быт,Дом і побыт,0,laundry,3,Fabric Softener,Ополаскиватель для белья,Кандыцыянер для бялізны
+2,Household,Дом и быт,Дом і побыт,0,laundry,4,Stain Remover,Пятновыводитель,Плямавыводнік
+2,Household,Дом и быт,Дом і побыт,0,laundry,5,Bleach,Отбеливатель,Отбельвальнік
+2,Household,Дом и быт,Дом і побыт,0,laundry,6,Laundry Soap,Хозяйственное мыло,Гаспадарчае мыла
+2,Household,Дом и быт,Дом і побыт,0,laundry,7,Laundry Bag,Сетка для стирки,Мяшок для прання
+2,Household,Дом и быт,Дом і побыт,1,cleaning,0,Detergent,Моющее средство,Мыйны сродак
+2,Household,Дом и быт,Дом і побыт,1,cleaning,1,Cleaning Product,Чистящее средство,Чысцячы сродак
+2,Household,Дом и быт,Дом і побыт,1,cleaning,2,Floor Cleaner,Средство для полов,Сродак для падлогі
+2,Household,Дом и быт,Дом і побыт,1,cleaning,3,Kitchen Cleaner,Средство для кухни,Сродак для кухні
+2,Household,Дом и быт,Дом і побыт,1,cleaning,4,Stove Cleaner,Средство для плиты,Сродак для пліты
+2,Household,Дом и быт,Дом і побыт,1,cleaning,5,Oven Cleaner,Средство для духовки,Сродак для духоўкі
+2,Household,Дом и быт,Дом і побыт,1,cleaning,6,Window Cleaner,Средство для окон,Сродак для вокнаў
+2,Household,Дом и быт,Дом і побыт,1,cleaning,7,Bathroom Cleaner,Средство для ванной,Сродак для ваннай
+2,Household,Дом и быт,Дом і побыт,1,cleaning,8,Toilet Cleaner,Средство для туалета,Сродак для туалета
+2,Household,Дом и быт,Дом і побыт,1,cleaning,9,Cillit Bang,Силит Бэнг,Сіліт Бэнг
+2,Household,Дом и быт,Дом і побыт,1,cleaning,10,Toilet Duck,Туалетный утёнок,Туалетны ўтёнок
+2,Household,Дом и быт,Дом і побыт,1,cleaning,11,Disinfectant,Дезинфицирующее средство,Дэзынфікуючы сродак
+2,Household,Дом и быт,Дом і побыт,1,cleaning,12,Air Freshener,Освежитель воздуха,Асвяжальнік паветра
+2,Household,Дом и быт,Дом і побыт,1,cleaning,13,Furniture Cleaner,Средство для мебели,Сродак для мэблі
+2,Household,Дом и быт,Дом і побыт,1,cleaning,14,Furniture Polish,Полироль для мебели,Паліроль для мэблі
+2,Household,Дом и быт,Дом і побыт,1,cleaning,15,Anti-Static Spray,Антистатик,Антыстатык
+2,Household,Дом и быт,Дом і побыт,1,cleaning,16,Vacuum Bags,Мешки для пылесоса,Мяшкі для пыласоса
+2,Household,Дом и быт,Дом і побыт,1,cleaning,17,Vacuum Filters,Фильтры для пылесоса,Фільтры для пыласоса
+2,Household,Дом и быт,Дом і побыт,1,cleaning,18,Drain Cleaner,Средство для прочистки труб,Сродак для прачысткі труб
+2,Household,Дом и быт,Дом і побыт,1,cleaning,19,Household Gloves,Перчатки хозяйственные,Гаспадарчыя пальчаткі
+2,Household,Дом и быт,Дом і побыт,1,cleaning,20,Disposable Gloves,Перчатки одноразовые,Аднаразовыя пальчаткі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,0,Baking Paper,Пергаментная бумага,Пергаментная папера
+2,Household,Дом и быт,Дом і побыт,2,kitchen,1,Aluminum Foil,Фольга пищевая,Харчовая фальга
+2,Household,Дом и быт,Дом і побыт,2,kitchen,2,Cling Film,Плёнка пищевая,Харчовая плёнка
+2,Household,Дом и быт,Дом і побыт,2,kitchen,3,Roasting Bag,Рукав для запекания,Рукаў для запякання
+2,Household,Дом и быт,Дом і побыт,2,kitchen,4,Baking Bags,Пакеты для запекания,Пакеты для запякання
+2,Household,Дом и быт,Дом і побыт,2,kitchen,5,Freezer Bags,Пакеты для заморозки,Пакеты для замарозкі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,6,Food Bags,Пакеты фасовочные,Фасовачныя пакеты
+2,Household,Дом и быт,Дом і побыт,2,kitchen,7,Baking Dishes,Формы для запекания,Формы для запякання
+2,Household,Дом и быт,Дом і побыт,2,kitchen,8,Ice Bags,Пакеты для льда,Пакеты для лёду
+2,Household,Дом и быт,Дом і побыт,2,kitchen,9,Dishwashing Liquid,Средство для посуды,Сродак для мыцця посуду
+2,Household,Дом и быт,Дом і побыт,2,kitchen,10,Dish Sponges,Губки для посуды,Губкі для посуду
+2,Household,Дом и быт,Дом і побыт,2,kitchen,11,Dish Brush,Щётка для посуды,Шчотка для посуду
+2,Household,Дом и быт,Дом і побыт,2,kitchen,12,Cleaning Cloths,Салфетки для уборки,Сурвэткі для прыбірання
+2,Household,Дом и быт,Дом і побыт,2,kitchen,13,Microfiber Cloth,Тряпка из микрофибры,Ануча з мікрафібры
+2,Household,Дом и быт,Дом і побыт,2,kitchen,14,Kitchen Towel,Кухонное полотенце,Кухонны ручнік
+2,Household,Дом и быт,Дом і побыт,2,kitchen,15,Paper Towels,Бумажные полотенца,Папяровыя ручнікі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,16,Kitchen Napkins,Салфетки кухонные,Кухонныя сурвэткі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,17,Trash Bags,Пакеты для мусора,Пакеты для смецця
+2,Household,Дом и быт,Дом і побыт,2,kitchen,18,Dishwasher Tablets,Таблетки для посудомойки,Таблеткі для посудамыйкі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,19,Dishwasher Salt,Соль для посудомойки,Соль для посудамыйкі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,20,Dishwasher Rinse Aid,Кондиционер для посудомойки,Кандыцыянер для посудамыйкі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,21,Descaler,Средство для удаления накипи,Сродак для выдалення накіпу
+2,Household,Дом и быт,Дом і побыт,2,kitchen,22,Disposable Plates,Тарелки одноразовые,Аднаразовыя талеркі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,23,Disposable Cups,Стаканы одноразовые,Аднаразовыя шклянкі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,24,Disposable Shot Cups,Рюмки одноразовые,Аднаразовыя чаркі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,25,Disposable Forks,Вилки одноразовые,Аднаразовыя відэльцы
+2,Household,Дом и быт,Дом і побыт,2,kitchen,26,Disposable Knives,Ножи одноразовые,Аднаразовыя нажы
+2,Household,Дом и быт,Дом і побыт,2,kitchen,27,Disposable Spoons,Ложки одноразовые,Аднаразовыя лыжкі
+2,Household,Дом и быт,Дом і побыт,2,kitchen,28,Disposable Tablecloth,Скатерть одноразовая,Аднаразовы абрус
+2,Household,Дом и быт,Дом і побыт,2,kitchen,29,BBQ Grill,Мангал,Мангал
+2,Household,Дом и быт,Дом і побыт,2,kitchen,30,Grill Grate,Решётка для гриля,Рашотка для грылю
+2,Household,Дом и быт,Дом і побыт,2,kitchen,31,Skewers,Шампуры,Шампуры
+2,Household,Дом и быт,Дом і побыт,2,kitchen,32,Bamboo Skewers,Шампуры бамбуковые,Бамбукавыя шампуры
+2,Household,Дом и быт,Дом і побыт,2,kitchen,33,Charcoal,Уголь для мангала,Вугаль для мангала
+2,Household,Дом и быт,Дом і побыт,2,kitchen,34,Firelighter,Жидкость для розжига,Вадкасць для распальвання
+2,Household,Дом и быт,Дом і побыт,3,other,0,Moth Repellent,Средство от моли,Сродак ад молі
+2,Household,Дом и быт,Дом і побыт,3,other,1,Insect Repellent,Средство от насекомых,Сродак ад насякомых
+2,Household,Дом и быт,Дом і побыт,3,other,2,Mosquito Repellent,Средство от комаров,Сродак ад камароў
+2,Household,Дом и быт,Дом і побыт,3,other,3,Mosquito Repellent Plug-In,Фумигатор от комаров,Фумігатар ад камароў
+2,Household,Дом и быт,Дом і побыт,3,other,4,Clothes Brush,Щётка для одежды,Шчотка для адзення
+2,Household,Дом и быт,Дом і побыт,3,other,5,Lint Roller,Ролик для одежды,Ролік для адзення
+2,Household,Дом и быт,Дом і побыт,3,other,6,Shoe Polish,Крем для обуви,Крэм для абутку
+2,Household,Дом и быт,Дом і побыт,3,other,7,Shoe Brush,Щётка для обуви,Шчотка для абутку
+2,Household,Дом и быт,Дом і побыт,3,other,8,Shoe Sponge,Губка для обуви,Губка для абутку
+2,Household,Дом и быт,Дом і побыт,3,other,9,Batteries,Батарейки,Батарэйкі
+2,Household,Дом и быт,Дом і побыт,3,other,10,Light Bulbs,Лампочки,Лямпачкі
+2,Household,Дом и быт,Дом і побыт,3,other,11,Matches,Спички,Запалкі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,0,Soap,Мыло,Мыла
+3,Hygiene,Гигиена,Гігіена,0,hygiene,1,Liquid Soap,Жидкое мыло,Вадкае мыла
+3,Hygiene,Гигиена,Гігіена,0,hygiene,2,Toothbrush,Зубная щётка,Зубная шчотка
+3,Hygiene,Гигиена,Гігіена,0,hygiene,3,Toothpaste,Зубная паста,Зубная паста
+3,Hygiene,Гигиена,Гігіена,0,hygiene,4,Mouthwash,Ополаскиватель для полости рта,Ополасківальнік для паражніны рота
+3,Hygiene,Гигиена,Гігіена,0,hygiene,5,Toothpicks,Зубочистки,Зубачысткі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,6,Dental Floss,Зубная нить,Зубная ніць
+3,Hygiene,Гигиена,Гігіена,0,hygiene,7,Shampoo,Шампунь,Шампунь
+3,Hygiene,Гигиена,Гігіена,0,hygiene,8,Hair Conditioner,Кондиционер для волос,Кандыцыянер для валасоў
+3,Hygiene,Гигиена,Гігіена,0,hygiene,9,Hair Balm,Бальзам для волос,Бальзам для валасоў
+3,Hygiene,Гигиена,Гігіена,0,hygiene,10,Hair Oil,Масло для волос,Алей для валасоў
+3,Hygiene,Гигиена,Гігіена,0,hygiene,11,Hair Spray,Лак для волос,Лак для валасоў
+3,Hygiene,Гигиена,Гігіена,0,hygiene,12,Hair Gel,Гель для волос,Гель для валасоў
+3,Hygiene,Гигиена,Гігіена,0,hygiene,13,Bath Foam,Пена для ванны,Пена для ванны
+3,Hygiene,Гигиена,Гігіена,0,hygiene,14,Bath Salt,Соль для ванны,Соль для ванны
+3,Hygiene,Гигиена,Гігіена,0,hygiene,15,Shower Gel,Гель для душа,Гель для душа
+3,Hygiene,Гигиена,Гігіена,0,hygiene,16,Intimate Wash,Гель для интимной гигиены,Гель для інтымнай гігіены
+3,Hygiene,Гигиена,Гігіена,0,hygiene,17,Face Cream,Крем для лица,Крэм для твару
+3,Hygiene,Гигиена,Гігіена,0,hygiene,18,Face Scrub,Скраб для лица,Скраб для твару
+3,Hygiene,Гигиена,Гігіена,0,hygiene,19,Body Cream,Крем для тела,Крэм для цела
+3,Hygiene,Гигиена,Гігіена,0,hygiene,20,Body Lotion,Молочко для тела,Малачко для цела
+3,Hygiene,Гигиена,Гігіена,0,hygiene,21,Eye Cream,Крем для век,Крэм для павек
+3,Hygiene,Гигиена,Гігіена,0,hygiene,22,Hand Cream,Крем для рук,Крэм для рук
+3,Hygiene,Гигиена,Гігіена,0,hygiene,23,Wax Strips,Восковые полоски,Васковыя палоскі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,24,Depilatory Cream,Крем для депиляции,Крэм для дэпіляцыі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,25,Shaving Foam,Пена для бритья,Пена для галення
+3,Hygiene,Гигиена,Гігіена,0,hygiene,26,Razor,Бритвенный станок,Брытвавы станок
+3,Hygiene,Гигиена,Гігіена,0,hygiene,27,Razor Blades,Лезвия для бритвы,Лязо для брытвы
+3,Hygiene,Гигиена,Гігіена,0,hygiene,28,Disposable Razors,Бритвы одноразовые,Аднаразовыя брытвы
+3,Hygiene,Гигиена,Гігіена,0,hygiene,29,Deodorant,Дезодорант,Дэзадарант
+3,Hygiene,Гигиена,Гігіена,0,hygiene,30,Cotton Pads,Ватные диски,Ватовыя дыскі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,31,Cotton Swabs,Ватные палочки,Ватовыя палачкі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,32,Loofah,Мочалка,Мачалка
+3,Hygiene,Гигиена,Гігіена,0,hygiene,33,Makeup Remover,Жидкость для снятия макияжа,Вадкасць для зняцця макіяжу
+3,Hygiene,Гигиена,Гігіена,0,hygiene,34,Micellar Water,Мицеллярная вода,Міцэлярная вада
+3,Hygiene,Гигиена,Гігіена,0,hygiene,35,Face Toner,Тоник для лица,Тонік для твару
+3,Hygiene,Гигиена,Гігіена,0,hygiene,36,Face Mask,Маска для лица,Маска для твару
+3,Hygiene,Гигиена,Гігіена,0,hygiene,37,Nail Polish Remover,Жидкость для снятия лака,Вадкасць для зняцця лаку
+3,Hygiene,Гигиена,Гігіена,0,hygiene,38,Tampons,Тампоны,Тампоны
+3,Hygiene,Гигиена,Гігіена,0,hygiene,39,Sanitary Pads,Прокладки,Пракладкі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,40,Panty Liners,Ежедневные прокладки,Штодзённыя пракладкі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,41,Tissues,Носовые платки,Насавыя хусцінкі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,42,Toilet Paper,Туалетная бумага,Туалетная папера
+3,Hygiene,Гигиена,Гігіена,0,hygiene,43,Napkins,Салфетки,Сурвэткі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,44,Wet Wipes,Салфетки влажные,Вільготныя сурвэткі
+3,Hygiene,Гигиена,Гігіена,0,hygiene,45,Aftershave Balm,Бальзам после бритья,Бальзам пасля галення
+3,Hygiene,Гигиена,Гігіена,0,hygiene,46,Hair Dye,Краска для волос,Фарба для валасоў
+3,Hygiene,Гигиена,Гігіена,0,hygiene,47,Foot Cream,Крем для ног,Крэм для ног
+3,Hygiene,Гигиена,Гігіена,0,hygiene,48,Hair Mousse,Мусс для волос,Мус для валасоў
+3,Hygiene,Гигиена,Гігіена,0,hygiene,49,Condoms,Презервативы,Прэзерватывы
+3,Hygiene,Гигиена,Гігіена,0,hygiene,50,Lubricant,Лубрикант,Лубрыкант
+4,Baby Care,Детское,Дзіцячае,0,baby,0,Diapers,Памперсы,Падгузнікі
+4,Baby Care,Детское,Дзіцячае,0,baby,1,Nappies,Подгузники,Трусікі-падгузнікі
+4,Baby Care,Детское,Дзіцячае,0,baby,2,Training pants,Трусики-подгузники,Вільготныя сурвэткі
+4,Baby Care,Детское,Дзіцячае,0,baby,3,Wet wipes,Влажные салфетки,Крэм пад падгузнік
+4,Baby Care,Детское,Дзіцячае,0,baby,4,Diaper cream,Крем под подгузник,Прысіпка
+4,Baby Care,Детское,Дзіцячае,0,baby,5,Baby powder,Присыпка,Дзіцячы крэм
+4,Baby Care,Детское,Дзіцячае,0,baby,6,Baby cream,Детский крем,Дзіцячае мыла
+4,Baby Care,Детское,Дзіцячае,0,baby,7,Baby soap,Детское мыло,Дзіцячы шампунь
+4,Baby Care,Детское,Дзіцячае,0,baby,8,Baby shampoo,Детский шампунь,Гель для купання
+4,Baby Care,Детское,Дзіцячае,0,baby,9,Baby bath gel,Гель для купания,Дзіцячая пена для ванны
+4,Baby Care,Детское,Дзіцячае,0,baby,10,Baby bubble bath,Детская пена для ванны,Дзіцячае масла для цела
+4,Baby Care,Детское,Дзіцячае,0,baby,11,Baby oil,Детское масло для тела,Дзіцячае малачко для цела
+4,Baby Care,Детское,Дзіцячае,0,baby,12,Baby body lotion,Детское молочко для тела,Дзіцячыя пялёнкі аднаразовыя
+4,Baby Care,Детское,Дзіцячае,0,baby,13,Disposable changing pads,Детские пелёнки одноразовые,Дзіцячыя пялёнкі шматразовыя
+4,Baby Care,Детское,Дзіцячае,0,baby,14,Reusable changing pads,Детские пелёнки многоразовые,Дзіцячая сумесь
+4,Baby Care,Детское,Дзіцячае,0,baby,15,Infant formula,Детская смесь,Дзіцячыя кашы
+4,Baby Care,Детское,Дзіцячае,0,baby,16,Baby cereals,Детские каши,Агароднінныя пюрэ
+4,Baby Care,Детское,Дзіцячае,0,baby,17,Vegetable purees,Овощные пюре,Фруктовыя пюрэ
+4,Baby Care,Детское,Дзіцячае,0,baby,18,Fruit purees,Фруктовые пюре,Мясныя пюрэ
+4,Baby Care,Детское,Дзіцячае,0,baby,19,Meat purees,Мясные пюре,Дзіцячыя сокі
+4,Baby Care,Детское,Дзіцячае,0,baby,20,Baby juices,Детские соки,Дзіцячая вада
+4,Baby Care,Детское,Дзіцячае,0,baby,21,Baby water,Детская вода,Бутэлечкі для кармлення
+4,Baby Care,Детское,Дзіцячае,0,baby,22,Feeding bottles,Бутылочки для кормления,Соскі для бутэлечак
+4,Baby Care,Детское,Дзіцячае,0,baby,23,Bottle nipples,Соски для бутылочек,Пустышкі
+4,Baby Care,Детское,Дзіцячае,0,baby,24,Pacifiers,Пустышки,Стэрылізатар для бутэлечак
+4,Baby Care,Детское,Дзіцячае,0,baby,25,Bottle sterilizer,Стерилизатор для бутылочек,Прагрызальнік для зубоў
+4,Baby Care,Детское,Дзіцячае,0,baby,26,Teether,Прорезыватель для зубов,Дзіцячы посуд
+4,Baby Care,Детское,Дзіцячае,0,baby,27,Baby tableware,Детская посуда,Слюнявік
+4,Baby Care,Детское,Дзіцячае,0,baby,28,Bib,Слюнявчик,Дзіцячыя ватныя палачкі
+4,Baby Care,Детское,Дзіцячае,0,baby,29,Baby cotton swabs,Ватные палочки детские,Дзіцячы тэрмометр
+4,Baby Care,Детское,Дзіцячае,0,baby,30,Baby thermometer,Термометр детский,
+5,Pet Care,Питомцы,Жывёлы,0,pets,0,Dry cat food,Сухой корм для кошек,Сухі корм для котак
+5,Pet Care,Питомцы,Жывёлы,0,pets,1,Dry dog food,Сухой корм для собак,Сухі корм для сабак
+5,Pet Care,Питомцы,Жывёлы,0,pets,2,Wet cat food,Влажный корм для кошек,Вільготны корм для котак
+5,Pet Care,Питомцы,Жывёлы,0,pets,3,Wet dog food,Влажный корм для собак,Вільготны корм для сабак
+5,Pet Care,Питомцы,Жывёлы,0,pets,4,Canned cat food,Консервы для кошек,Кансервы для котак
+5,Pet Care,Питомцы,Жывёлы,0,pets,5,Canned dog food,Консервы для собак,Кансервы для сабак
+5,Pet Care,Питомцы,Жывёлы,0,pets,6,Cat treats,Лакомства для кошек,Ласункі для котак
+5,Pet Care,Питомцы,Жывёлы,0,pets,7,Dog treats,Лакомства для собак,Ласункі для сабак
+5,Pet Care,Питомцы,Жывёлы,0,pets,8,Cat litter,Наполнитель для кошачьего туалета,Напаўняльнік для кацінага туалета
+5,Pet Care,Питомцы,Жывёлы,0,pets,9,Pet training pads,Пелёнки для животных,Пялёнкі для жывёл
+5,Pet Care,Питомцы,Жывёлы,0,pets,10,Dog waste bags,Пакеты для уборки за собакой,Пакеты для прыбірання за сабакамі
+5,Pet Care,Питомцы,Жывёлы,0,pets,11,Pet shampoo,Шампунь для животных,Шампунь для жывёл
+5,Pet Care,Питомцы,Жывёлы,0,pets,12,Food and water bowls,Миски для корма и воды,Міскі для корму і вады
+5,Pet Care,Питомцы,Жывёлы,0,pets,13,Scratching post,Когтеточка,Кагцядрапка
+5,Pet Care,Питомцы,Жывёлы,0,pets,14,Cat toys,Игрушки для кошек,Цацкі для котак
+5,Pet Care,Питомцы,Жывёлы,0,pets,15,Dog toys,Игрушки для собак,Цацкі для сабак
+5,Pet Care,Питомцы,Жывёлы,0,pets,16,Collar,Ошейник,Ашыйнік
+5,Pet Care,Питомцы,Жывёлы,0,pets,17,Leash,Поводок,Павадак
+5,Pet Care,Питомцы,Жывёлы,0,pets,18,Harness,Шлейка,Шлейка
+5,Pet Care,Питомцы,Жывёлы,0,pets,19,Muzzle,Намордник,Наморднік
+5,Pet Care,Питомцы,Жывёлы,0,pets,20,Pet carrier,Переноска для животных,Пераноска для жывёл
+5,Pet Care,Питомцы,Жывёлы,0,pets,21,Pet vitamins,Витамины для животных,Вітаміны для жывёл
+5,Pet Care,Питомцы,Жывёлы,0,pets,22,Flea and tick treatment,Средства от блох и клещей,Сродкі ад блых і кляшчоў
+5,Pet Care,Питомцы,Жывёлы,0,pets,23,Spot-on treatment,Капли на холку,Кроплі на холку
+5,Pet Care,Питомцы,Жывёлы,0,pets,24,Rodent food,Корм для грызунов,Корм для грызуноў
+5,Pet Care,Питомцы,Жывёлы,0,pets,25,Bird food,Корм для птиц,Корм для птушак
+5,Pet Care,Питомцы,Жывёлы,0,pets,26,Fish food,Аквариумный корм,Корм для акварыумных рыбак
+5,Pet Care,Питомцы,Жывёлы,0,pets,27,Cat litter box,Лоток для кошек,Каціны туалет
