@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-25 00:00:12",
+  "updated": "2026-02-25T00:00:12Z",
   "catalogs": [
     { "id": "en", "title": "English",   "updated": "2026-02-25 00:00:02", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_en.json" },
     { "id": "ru", "title": "Русский",   "updated": "2026-02-25 00:00:10", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ru.json" },
