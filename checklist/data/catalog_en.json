@@ -47,7 +47,7 @@
         },
         {
           "tag": "snacks",
-          "items": ["Cookies", "Oat Cookies", "Gingerbread", "Cupcakes", "Candy", "Chocolate", "Milk Chocolate", "Dark Chocolate", "White Chocolate", "Honey", "Flower Honey", "Buckwheat Honey", "Jam", "Raspberry Jam", "Cherry Jam", "Chips", "Crackers", "Croutons", "Dried Squid", "Dried Fish", "Pretzel Sticks", "Wafers", "Marshmallow", "Fruit Leather", "Marmalade", "Halva", "Kozinaki", "Cake", "Pastry", "Eclairs", "Meringue", "Muffins", "Croissants", "Sweet Buns", "Sponge Roll", "Puff Pastry", "Curd Buns", "Sweet Pie", "Caramel", "Lollipops", "Toffee", "Truffles", "Sherbet", "Chocolate Bar", "Wafer Bar", "Muesli Bar", "Jelly", "Confiture", "Syrup", "Chocolate Hazelnut Spread", "Peanut Butter", "Popcorn", "Corn Puffs", "Marshmallows", "Ice Cream", "Ice Cream Bar", "Vanilla Ice Cream", "Sorbet", "Pudding", "Turkish Delight", "Chak-Chak", "Nougat", "Churchkhela"]
+          "items": ["Cookies", "Oat Cookies", "Gingerbread", "Cupcakes", "Candy", "Chocolate", "Milk Chocolate", "Dark Chocolate", "White Chocolate", "Honey", "Flower Honey", "Buckwheat Honey", "Jam", "Raspberry Jam", "Cherry Jam", "Chips", "Crackers", "Croutons", "Dried Squid", "Dried Fish", "Pretzel Sticks", "Wafers", "Marshmallow", "Fruit Leather", "Marmalade", "Halva", "Kozinaki", "Cake", "Pastry", "Eclairs", "Meringue", "Muffins", "Croissants", "Sweet Buns", "Sponge Roll", "Puff Pastry", "Curd Buns", "Sweet Pie", "Caramel", "Lollipops", "Toffee", "Truffles", "Sherbet", "Chocolate Bar", "Wafer Bar", "Muesli Bar", "Jelly", "Confiture", "Syrup", "Chocolate Hazelnut Spread", "Peanut Butter", "Popcorn", "Corn Puffs", "Ice Cream", "Ice Cream Bar", "Vanilla Ice Cream", "Sorbet", "Pudding", "Turkish Delight", "Chak-Chak", "Nougat", "Churchkhela"]
         },
         {
           "tag": "drinks",
@@ -65,7 +65,7 @@
       "sections": [
         {
           "tag": "alcohol",
-          "items": ["Vodka", "Cognac", "Armagnac", "Whiskey", "Rum", "Gin", "Tequila", "Absinthe", "Liqueur", "Brandy", "Sambuca", "Calvados", "Grappa", "Schnapps", "Bitters", "Herbal Liqueur", "Becherovka", "Bourbon", "Scotch", "Champagne", "Prosecco", "Cava", "Vermouth", "Bitter", "Sake", "Chacha", "Sparkling Wine", "Red Wine", "White Wine", "Rose Wine", "Dry Wine", "Semi-Dry Wine", "Sweet Wine", "Semi-Sweet Wine", "Table Wine", "Dessert Wine", "Plum Wine", "Port", "Porto", "Sherry", "Madeira", "Lager", "Dark Beer", "Unfiltered Beer", "Wheat Beer", "Lager Beer", "Ale", "Stout", "Porter", "Pilsner", "Craft Beer", "Non-Alcoholic Beer", "Cider", "Mead"]
+          "items": ["Vodka", "Cognac", "Armagnac", "Whiskey", "Rum", "Gin", "Tequila", "Absinthe", "Liqueur", "Brandy", "Sambuca", "Calvados", "Grappa", "Schnapps", "Herbal Liqueur", "Becherovka", "Bourbon", "Scotch", "Champagne", "Prosecco", "Cava", "Vermouth", "Bitter", "Sake", "Chacha", "Sparkling Wine", "Red Wine", "White Wine", "Rose Wine", "Dry Wine", "Semi-Dry Wine", "Sweet Wine", "Semi-Sweet Wine", "Table Wine", "Dessert Wine", "Plum Wine", "Port", "Porto", "Sherry", "Madeira", "Lager", "Dark Beer", "Unfiltered Beer", "Wheat Beer", "Ale", "Stout", "Porter", "Pilsner", "Craft Beer", "Non-Alcoholic Beer", "Cider", "Mead"]
         }
       ]
     },
