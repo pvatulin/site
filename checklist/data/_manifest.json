@@ -1,8 +1,8 @@
 {
-  "updated": "2026-03-04T10:00:00Z",
+  "updated": "2026-03-04T10:10:00Z",
   "catalogs": [
     { "id": "en", "title": "English",   "updated": "2026-02-25T00:00:02Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_en.json" },
-    { "id": "ru", "title": "Русский",   "updated": "2026-03-04T10:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ru.json" },
+    { "id": "ru", "title": "Русский",   "updated": "2026-03-04T10:10:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ru.json" },
     { "id": "by", "title": "Беларускі", "updated": "2026-02-25T00:00:02Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_by.json" }
   ]
 }
