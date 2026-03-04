@@ -27,7 +27,7 @@
         },
         {
           "tag": "bread",
-          "items": ["Pain", "Petit pain", "Baguette", "Pain tranché", "Pain de mie", "Pain noir", "Pain de seigle", "Pain ébouillanté", "Pain Borodinsky", "Pain croustillant", "Lavash", "Galette", "Pita", "Ciabatta", "Farine", "Farine de blé", "Farine de seigle", "Farine d’avoine", "Farine de sarrasin", "Farine de riz", "Farine de pois chiches", "Farine de maïs", "Farine d’amande", "Farine de coco", "Sucre", "Sucre de canne", "Sucre brun", "Sel", "Sel marin", "Sel de l’Himalaya", "Riz", "Riz complet", "Riz rouge", "Riz basmati", "Riz jasmin", "Sarrasin", "Sarrasin vert", "Pois", "Haricots", "Spaghetti", "Nouilles", "Nouilles udon", "Nouilles soba", "Nouilles ramen", "Nouilles funchoza", "Pâtes", "Vermicelles", "Ptitim", "Amarante", "Son", "Flocons d’avoine", "Semoule", "Semoule de maïs", "Boulgour de blé", "Orge concassée", "Millet décortiqué", "Épeautre", "Orge perlé", "Boulgour", "Quinoa", "Granola", "Céréales", "Couscous", "Flocons d’avoine (Hercule)", "Millet", "Baguette", "Tortilla", "Pois chiches", "Lentilles", "Muesli", "Feuilles de lasagne", "Feuilles de riz", "Pâte filo"]
+          "items": ["Pain", "Petit pain", "Baguette", "Pain tranché", "Pain de mie", "Pain noir", "Pain de seigle", "Pain ébouillanté", "Pain Borodinsky", "Pain croustillant", "Lavash", "Galette", "Pita", "Ciabatta", "Farine", "Farine de blé", "Farine de seigle", "Farine d’avoine", "Farine de sarrasin", "Farine de riz", "Farine de pois chiches", "Farine de maïs", "Farine d’amande", "Farine de coco", "Sucre", "Sucre de canne", "Sucre brun", "Sel", "Sel marin", "Sel de l’Himalaya", "Riz", "Riz complet", "Riz rouge", "Riz basmati", "Riz jasmin", "Sarrasin", "Sarrasin vert", "Pois", "Haricots", "Spaghetti", "Nouilles", "Nouilles udon", "Nouilles soba", "Nouilles ramen", "Nouilles funchoza", "Pâtes", "Vermicelles", "Ptitim", "Amarante", "Son", "Flocons d’avoine", "Semoule", "Semoule de maïs", "Boulgour de blé", "Orge concassée", "Millet décortiqué", "Épeautre", "Orge perlé", "Boulgour", "Quinoa", "Granola", "Céréales", "Couscous", "Flocons d’avoine (Hercule)", "Millet", "Tortilla", "Pois chiches", "Lentilles", "Muesli", "Feuilles de lasagne", "Feuilles de riz", "Pâte filo"]
         },
         {
           "tag": "sauces",
@@ -39,7 +39,7 @@
         },
         {
           "tag": "nuts",
-          "items": ["Fruits secs", "Dattes", "Pruneaux", "Raisins secs", "Abricots secs", "Noix", "Noisettes", "Pignons de pin", "Noix", "Noix de macadamia", "Noix du Brésil", "Arachides", "Noisettes", "Noix de pécan", "Pistaches", "Amandes", "Mélange de noix", "Noix de cajou", "Graines", "Graines de tournesol", "Graines de courge", "Graines", "Graines de chia", "Graines de lin", "Graines de sésame", "Noix de coco râpée", "Champignons séchés", "Fruits confits", "Cranberries séchées", "Figues séchées", "Pommes séchées", "Mélange pour compote", "Chips de banane", "Mangue séchée", "Pavot"]
+          "items": ["Fruits secs", "Dattes", "Pruneaux", "Raisins secs", "Abricots secs", "Noix", "Noisettes", "Pignons de pin", "Noix de macadamia", "Noix du Brésil", "Arachides", "Noix de pécan", "Pistaches", "Amandes", "Mélange de noix", "Noix de cajou", "Graines", "Graines de tournesol", "Graines de courge", "Graines de chia", "Graines de lin", "Graines de sésame", "Noix de coco râpée", "Champignons séchés", "Fruits confits", "Cranberries séchées", "Figues séchées", "Pommes séchées", "Mélange pour compote", "Chips de banane", "Mangue séchée", "Pavot"]
         },
         {
           "tag": "baking",
@@ -65,7 +65,7 @@
       "sections": [
         {
           "tag": "alcohol",
-          "items": ["Vodka", "Cognac", "Armagnac", "Whisky", "Rhum", "Gin", "Tequila", "Absinthe", "Liqueur", "Brandy", "Sambuca", "Calvados", "Grappa", "Schnaps", "Teinture amère", "Teinture aux herbes", "Becherovka", "Bourbon", "Scotch", "Champagne", "Prosecco", "Cava", "Vermouth", "Bitter", "Saké", "Chacha", "Vin mousseux", "Vin rouge", "Vin blanc", "Vin rosé", "Vin sec", "Vin demi-sec", "Vin doux", "Vin demi-doux", "Vin de table", "Vin de dessert", "Vin de prune", "Porto", "Porto (vin)", "Xérès", "Madère", "Bière blonde", "Bière brune", "Bière non filtrée", "Bière de blé", "Lager", "Ale", "Stout", "Porter", "Pils", "Bière artisanale", "Bière sans alcool", "Cidre", "Hydromel"]
+          "items": ["Vodka", "Cognac", "Armagnac", "Whisky", "Rhum", "Gin", "Tequila", "Absinthe", "Liqueur", "Brandy", "Sambuca", "Calvados", "Grappa", "Schnaps", "Teinture amère", "Teinture aux herbes", "Becherovka", "Bourbon", "Scotch", "Champagne", "Prosecco", "Cava", "Vermouth", "Bitter", "Saké", "Chacha", "Vin mousseux", "Vin rouge", "Vin blanc", "Vin rosé", "Vin sec", "Vin demi-sec", "Vin doux", "Vin demi-doux", "Vin de table", "Vin de dessert", "Vin de prune", "Porto", "Xérès", "Madère", "Bière blonde", "Bière brune", "Bière non filtrée", "Bière de blé", "Lager", "Ale", "Stout", "Porter", "Pils", "Bière artisanale", "Bière sans alcool", "Cidre", "Hydromel"]
         }
       ]
     },
