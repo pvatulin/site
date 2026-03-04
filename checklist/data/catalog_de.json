@@ -7,7 +7,7 @@
       "sections": [
         {
           "tag": "vegs",
-          "items": ["Gemüse", "Kräuter", "Kartoffeln", "Frühkartoffeln", "Karotten", "Süßkartoffeln", "Kohl", "Weißkohl", "Rotkohl", "Blumenkohl", "Rosenkohl", "Chinakohl", "Kohlrabi", "Brokkoli", "Rote Bete", "Zwiebeln", "Rote Zwiebeln", "Frühlingszwiebeln", "Lauch", "Schalotten", "Knoblauch", "Gurken", "Essiggurken", "Tomaten", "Cherrytomaten", "Paprika", "Chili", "Paprika (mild)", "Jalapeños", "Auberginen", "Zucchini", "Zucchini (Zucchini)", "Patisson", "Kürbis", "Radieschen", "Daikon", "Salat", "Grünkohl (Kale)", "Römersalat", "Eisbergsalat", "Gartenkresse", "Grüne Bohnen", "Spinat", "Petersilie", "Dill", "Koriander", "Rucola", "Minze", "Sauerampfer", "Zitronenmelisse", "Kopfsalat", "Rosmarin", "Sellerie", "Mais", "Rüben", "Spargel", "Sprossen", "Erbsensprossen", "Bohnensprossen", "Mikrogrün", "Basilikum", "Oregano", "Topinambur", "Artischocken", "Fenchel", "Ingwer", "Pilze", "Shiitake-Pilze", "Enoki-Pilze", "Champignons", "Austernpilze", "Pfifferlinge", "Honigpilze", "Thymian", "Pastinaken", "Rhabarber", "Zitronengras", "Galgant", "Kaffirlimette", "Romanesco"]
+          "items": ["Gemüse", "Kräuter", "Kartoffeln", "Frühkartoffeln", "Karotten", "Süßkartoffeln", "Kohl", "Weißkohl", "Rotkohl", "Blumenkohl", "Rosenkohl", "Chinakohl", "Kohlrabi", "Brokkoli", "Rote Bete", "Zwiebeln", "Rote Zwiebeln", "Frühlingszwiebeln", "Lauch", "Schalotten", "Knoblauch", "Gurken", "Essiggurken", "Tomaten", "Cherrytomaten", "Paprika", "Chili", "Paprika (mild)", "Jalapeños", "Auberginen", "Zucchini", "Courgette", "Patisson", "Kürbis", "Radieschen", "Daikon", "Salat", "Grünkohl (Kale)", "Römersalat", "Eisbergsalat", "Gartenkresse", "Grüne Bohnen", "Spinat", "Petersilie", "Dill", "Koriander", "Rucola", "Minze", "Sauerampfer", "Zitronenmelisse", "Kopfsalat", "Rosmarin", "Sellerie", "Mais", "Rüben", "Spargel", "Sprossen", "Erbsensprossen", "Bohnensprossen", "Mikrogrün", "Basilikum", "Oregano", "Topinambur", "Artischocken", "Fenchel", "Ingwer", "Pilze", "Shiitake-Pilze", "Enoki-Pilze", "Champignons", "Austernpilze", "Pfifferlinge", "Honigpilze", "Thymian", "Pastinaken", "Rhabarber", "Zitronengras", "Galgant", "Kaffirlimette", "Romanesco"]
         },
         {
           "tag": "fruits",
@@ -15,7 +15,7 @@
         },
         {
           "tag": "dairy",
-          "items": ["Milch", "Ziegenmilch", "Magermilch", "Kokosmilch", "Reismilch", "Hafermilch", "Sojamilch", "Gebackene Milch", "Laktosefreie Milch", "Kondensmilch", "Milchpulver", "Pflanzliche Milch", "Gezuckerte Kondensmilch", "Saure Sahne", "Hüttenkäse", "Quarkmasse", "Körniger Frischkäse", "Kinderquark", "Joghurt", "Naturjoghurt", "Trinkjoghurt", "Griechischer Joghurt", "Kefir", "Rjaschenka", "Dickmilch", "Tan", "Ayran", "Sahne", "Schlagsahne", "Kokossahne", "Butter", "Butter (süß)", "Gesalzene Butter", "Schokoladenbutter", "Butterschmalz", "Ghee", "Kokosöl", "Käse", "Frischkäse", "Hartkäse", "Adygeja-Käse", "Schmelzkäse", "Quarkkäse", "Philadelphia", "Blauschimmelkäse", "Brie", "Camembert", "Dor Blue", "Mascarpone", "Ricotta", "Burrata", "Stracciatella", "Parmesan", "Cheddar", "Gouda", "Halloumi", "Maasdam", "Mozzarella", "Käse-Snacks", "Brynza", "Feta", "Suluguni", "Kaymak", "Chechil", "Margarine", "Buttermilch", "Kumys", "Tofu"]
+          "items": ["Milch", "Ziegenmilch", "Magermilch", "Kokosmilch", "Reismilch", "Hafermilch", "Sojamilch", "Gebackene Milch", "Laktosefreie Milch", "Kondensmilch", "Milchpulver", "Pflanzliche Milch", "Gezuckerte Kondensmilch", "Saure Sahne", "Hüttenkäse", "Quarkmasse", "Körniger Frischkäse", "Kinderquark", "Joghurt", "Naturjoghurt", "Trinkjoghurt", "Griechischer Joghurt", "Kefir", "Rjaschenka", "Dickmilch", "Tan", "Ayran", "Sahne", "Schlagsahne", "Kokossahne", "Butter", "Gesalzene Butter", "Schokoladenbutter", "Butterschmalz", "Ghee", "Kokosöl", "Käse", "Frischkäse", "Hartkäse", "Adygeja-Käse", "Schmelzkäse", "Quarkkäse", "Philadelphia", "Blauschimmelkäse", "Brie", "Camembert", "Dor Blue", "Mascarpone", "Ricotta", "Burrata", "Stracciatella", "Parmesan", "Cheddar", "Gouda", "Halloumi", "Maasdam", "Mozzarella", "Käse-Snacks", "Brynza", "Feta", "Suluguni", "Kaymak", "Chechil", "Margarine", "Buttermilch", "Kumys", "Tofu"]
         },
         {
           "tag": "meat",
@@ -23,11 +23,11 @@
         },
         {
           "tag": "fish",
-          "items": ["Fisch", "Meeresfrüchte", "Thunfisch", "Barrakuda", "Barramundi", "Marlin", "Mahi-Mahi", "Dorade", "Zackenbarsch", "Saira", "Keta-Lachs (Buckellachs)", "Kabeljau", "Seelachs", "Keta", "Silberlachs", "Stint", "Barsch", "Stör", "Makrele", "Heilbutt", "Tilapia", "Scholle", "Wolfsbarsch", "Wels", "Aal", "Brachse", "Hecht", "Capelin", "Lachs", "Forelle", "Atlantischer Lachs", "Hering", "Tintenfische", "Oktopusse", "Krabbe", "Krabbenfleisch", "Krabbenstäbchen", "Kaviar", "Muscheln", "Garnelen", "Jakobsmuscheln", "Austern", "Fischkonserven", "Lachs (leicht gesalzen)", "Forelle (leicht gesalzen)", "Karpfen", "Zander", "Navaga", "Seehecht", "Sockeye-Lachs", "Pangasius", "Flusskrebse", "Hummer", "Sardellen", "Sprotten", "Grundeln"]
+          "items": ["Fisch", "Meeresfrüchte", "Thunfisch", "Barrakuda", "Barramundi", "Marlin", "Mahi-Mahi", "Dorade", "Zackenbarsch", "Saira", "Buckellachs", "Kabeljau", "Seelachs", "Keta", "Silberlachs", "Stint", "Barsch", "Stör", "Makrele", "Heilbutt", "Tilapia", "Scholle", "Wolfsbarsch", "Wels", "Aal", "Brachse", "Hecht", "Capelin", "Lachs", "Forelle", "Atlantischer Lachs", "Hering", "Tintenfische", "Oktopusse", "Krabbe", "Krabbenfleisch", "Krabbenstäbchen", "Kaviar", "Muscheln", "Garnelen", "Jakobsmuscheln", "Austern", "Fischkonserven", "Lachs (leicht gesalzen)", "Forelle (leicht gesalzen)", "Karpfen", "Zander", "Navaga", "Seehecht", "Sockeye-Lachs", "Pangasius", "Flusskrebse", "Hummer", "Sardellen", "Sprotten", "Grundeln"]
         },
         {
           "tag": "bread",
-          "items": ["Brot", "Brötchen", "Baguette", "Aufschnitt-Brot", "Toastbrot", "Schwarzbrot", "Roggenbrot", "Brühbrot", "Borodinski-Brot", "Knäckebrot", "Lavash", "Fladenbrot", "Pita", "Ciabatta", "Mehl", "Weizenmehl", "Roggenmehl", "Hafermehl", "Buchweizenmehl", "Reismehl", "Kichererbsenmehl", "Maismehl", "Mandelmehl", "Kokosmehl", "Zucker", "Rohrzucker", "Brauner Zucker", "Salz", "Meersalz", "Himalayasalz", "Reis", "Vollkornreis", "Roter Reis", "Basmati-Reis", "Jasminreis", "Buchweizen", "Grüner Buchweizen", "Erbsen", "Bohnen", "Spaghetti", "Nudeln", "Udon-Nudeln", "Soba-Nudeln", "Ramen-Nudeln", "Funschosa", "Pasta", "Vermicelli", "Ptitim", "Amaranth", "Kleie", "Haferflocken", "Grieß", "Maisgrütze", "Weizengrütze", "Gerstengrütze", "Hirsegrütze", "Dinkel", "Perlgraupen", "Bulgur", "Quinoa", "Granola", "Flocken", "Couscous", "Herkulesflocken", "Hirse", "Baguette", "Tortilla", "Kichererbsen", "Linsen", "Müsli", "Lasagneblätter", "Reispapier", "Filoteig"]
+          "items": ["Brot", "Brötchen", "Baguette", "Aufschnitt-Brot", "Toastbrot", "Schwarzbrot", "Roggenbrot", "Brühbrot", "Borodinski-Brot", "Knäckebrot", "Lavash", "Fladenbrot", "Pita", "Ciabatta", "Mehl", "Weizenmehl", "Roggenmehl", "Hafermehl", "Buchweizenmehl", "Reismehl", "Kichererbsenmehl", "Maismehl", "Mandelmehl", "Kokosmehl", "Zucker", "Rohrzucker", "Brauner Zucker", "Salz", "Meersalz", "Himalayasalz", "Reis", "Vollkornreis", "Roter Reis", "Basmati-Reis", "Jasminreis", "Buchweizen", "Grüner Buchweizen", "Erbsen", "Bohnen", "Spaghetti", "Nudeln", "Udon-Nudeln", "Soba-Nudeln", "Ramen-Nudeln", "Funschosa", "Pasta", "Vermicelli", "Ptitim", "Amaranth", "Kleie", "Haferflocken", "Grieß", "Maisgrütze", "Weizengrütze", "Gerstengrütze", "Hirsegrütze", "Dinkel", "Perlgraupen", "Bulgur", "Quinoa", "Granola", "Flocken", "Couscous", "Herkulesflocken", "Hirse", "Tortilla", "Kichererbsen", "Linsen", "Müsli", "Lasagneblätter", "Reispapier", "Filoteig"]
         },
         {
           "tag": "sauces",
@@ -39,7 +39,7 @@
         },
         {
           "tag": "nuts",
-          "items": ["Trockenfrüchte", "Datteln", "Pflaumen (getrocknet)", "Rosinen", "Getrocknete Aprikosen", "Nüsse", "Haselnüsse", "Pinienkerne", "Walnüsse", "Macadamianüsse", "Paranüsse", "Erdnüsse", "Haselnuss", "Pekannüsse", "Pistazien", "Mandeln", "Nussmischung", "Cashewnüsse", "Kerne", "Sonnenblumenkerne", "Kürbiskerne", "Samen", "Chiasamen", "Leinsamen", "Sesamsamen", "Kokosraspeln", "Getrocknete Pilze", "Kandierte Früchte", "Getrocknete Cranberries", "Getrocknete Feigen", "Getrocknete Äpfel", "Mischung für Kompott", "Bananenchips", "Getrocknete Mango", "Mohn"]
+          "items": ["Trockenfrüchte", "Datteln", "Pflaumen (getrocknet)", "Rosinen", "Getrocknete Aprikosen", "Nüsse", "Waldnüsse", "Pinienkerne", "Walnüsse", "Macadamianüsse", "Paranüsse", "Erdnüsse", "Haselnüsse", "Pekannüsse", "Pistazien", "Mandeln", "Nussmischung", "Cashewnüsse", "Kerne", "Sonnenblumenkerne", "Kürbiskerne", "Samen", "Chiasamen", "Leinsamen", "Sesamsamen", "Kokosraspeln", "Getrocknete Pilze", "Kandierte Früchte", "Getrocknete Cranberries", "Getrocknete Feigen", "Getrocknete Äpfel", "Mischung für Kompott", "Bananenchips", "Getrocknete Mango", "Mohn"]
         },
         {
           "tag": "baking",
@@ -47,7 +47,7 @@
         },
         {
           "tag": "snacks",
-          "items": ["Kekse", "Haferkekse", "Lebkuchen", "Cupcakes", "Bonbons", "Schokolade", "Milchschokolade", "Zartbitterschokolade", "Weiße Schokolade", "Honig", "Blütenhonig", "Buchweizenhonig", "Marmelade", "Himbeermarmelade", "Kirschmarmelade", "Chips", "Cracker", "Croutons", "Getrockneter Tintenfisch", "Getrockneter Fisch", "Salzstangen", "Waffeln", "Marshmallows", "Pastila", "Gummibärchen", "Halva", "Kozinaki", "Torte", "Gebäck", "Éclairs", "Baiser", "Muffins", "Croissants", "Süße Brötchen", "Biskuitrolle", "Blätterteiggebäck", "Vatrushki", "Süßer Kuchen", "Karamell", "Lutscher", "Toffee", "Trüffel", "Scherbet", "Schokoriegel", "Waffelriegel", "Müsliriegel", "Konfitüre", "Konfitüre", "Sirup", "Schoko-Nuss-Creme", "Erdnussbutter", "Popcorn", "Maissticks", "Marshmallow", "Eis", "Eis am Stiel", "Plombir", "Sorbet", "Pudding", "Rahat-Lokum", "Chak-Chak", "Nougat", "Churchkhela", "Kaugummi"]
+          "items": ["Kekse", "Haferkekse", "Lebkuchen", "Cupcakes", "Bonbons", "Schokolade", "Milchschokolade", "Zartbitterschokolade", "Weiße Schokolade", "Honig", "Blütenhonig", "Buchweizenhonig", "Marmelade", "Himbeermarmelade", "Kirschmarmelade", "Chips", "Cracker", "Croutons", "Getrockneter Tintenfisch", "Getrockneter Fisch", "Salzstangen", "Waffeln", "Marshmallows", "Pastila", "Gummibärchen", "Halva", "Kozinaki", "Torte", "Gebäck", "Éclairs", "Baiser", "Muffins", "Croissants", "Süße Brötchen", "Biskuitrolle", "Blätterteiggebäck", "Vatrushki", "Süßer Kuchen", "Karamell", "Lutscher", "Toffee", "Trüffel", "Scherbet", "Schokoriegel", "Waffelriegel", "Müsliriegel", "Konfitüre", "Sirup", "Schoko-Nuss-Creme", "Erdnussbutter", "Popcorn", "Maissticks", "Eis", "Eis am Stiel", "Plombir", "Sorbet", "Pudding", "Rahat-Lokum", "Chak-Chak", "Nougat", "Churchkhela", "Kaugummi"]
         },
         {
           "tag": "drinks",
@@ -75,7 +75,7 @@
       "sections": [
         {
           "tag": "laundry",
-          "items": ["Waschpulver", "Waschmittel (flüssig)", "Waschkapseln", "Weichspüler", "Wäscheconditioner", "Fleckentferner", "Bleichmittel", "Haushaltsseife", "Wäschenetz"]
+          "items": ["Waschpulver", "Waschmittel (flüssig)", "Waschkapseln", "Weichspüler", "Wäschespülung", "Fleckentferner", "Bleichmittel", "Haushaltsseife", "Wäschenetz"]
         },
         {
           "tag": "cleaning",
@@ -107,7 +107,7 @@
       "sections": [
         {
           "tag": "baby",
-          "items": ["Pampers", "Windeln", "Pants-Windeln", "Feuchttücher für Babys", "Babypuder", "Babycreme", "Babyseife", "Babyshampoo", "Babybadgel", "Baby-Badeschaum", "Babyöl", "Babylotion", "Einweg-Unterlagen", "Wiederverwendbare Unterlagen", "Säuglingsnahrung", "Babybrei", "Gemüsepüree", "Fruchtpüree", "Fleischpüree", "Babysaft", "Babywasser", "Rassel", "Badespielzeug", "Babyflasche", "Flaschenbürste", "Flaschensauger", "Schnuller", "Sterilisator für Flaschen", "Flaschenwärmer", "Beißring", "Babygeschirr", "Lätzchen", "Babylätzchen", "Babythermometer", "Babybadeschwamm", "Babyhandtuch"]
+          "items": ["Pampers", "Windeln", "Pants-Windeln", "Feuchttücher für Babys", "Babypuder", "Babycreme", "Babyseife", "Babyshampoo", "Babybadgel", "Baby-Badeschaum", "Babyöl", "Babylotion", "Einweg-Unterlagen", "Wiederverwendbare Unterlagen", "Säuglingsnahrung", "Babybrei", "Gemüsepüree", "Fruchtpüree", "Fleischpüree", "Babysaft", "Babywasser", "Rassel", "Badespielzeug", "Babyflasche", "Flaschenbürste", "Flaschensauger", "Schnuller", "Sterilisator für Flaschen", "Flaschenwärmer", "Beißring", "Babygeschirr", "Lätzchen", "Babythermometer", "Babybadeschwamm", "Babyhandtuch"]
         }
       ]
     },
