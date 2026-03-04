@@ -107,7 +107,7 @@
       "sections": [
         {
           "tag": "baby",
-          "items": ["Diapers", "Nappies", "Training pants", "Baby wet wipes", "Baby powder", "Baby cream", "Baby soap", "Baby shampoo", "Baby bath gel", "Baby bubble bath", "Baby oil", "Baby body lotion", "Disposable changing pads", "Reusable changing pads", "Infant formula", "Baby cereals", "Vegetable purees", "Fruit purees", "Meat purees", "Baby juices", "Baby water", "Rattle", "Bath toys", "Feeding bottles", "Bottle brush", "Bottle nipples", "Pacifiers", "Bottle sterilizer", "Bottle warmer", "Teether", "Baby tableware", "Bib", "Baby cotton swabs", "Baby cotton pads", "Baby thermometer", "Bath thermometer", "Baby scissors", "Baby nail clippers", "Baby comb", "Baby bath sponge", "Baby towel"]
+          "items": ["Diapers", "Nappies", "Training pants", "Baby wet wipes", "Baby powder", "Baby cream", "Baby soap", "Baby shampoo", "Baby bath gel", "Baby bubble bath", "Baby oil", "Baby body lotion", "Disposable changing pads", "Reusable changing pads", "Infant formula", "Baby cereals", "Vegetable purees", "Fruit purees", "Meat purees", "Baby juices", "Baby water", "Rattle", "Bath toys", "Feeding bottles", "Bottle brush", "Bottle nipples", "Pacifiers", "Bottle sterilizer", "Bottle warmer", "Teether", "Baby tableware", "Bib", "Baby thermometer", "Baby bath sponge", "Baby towel"]
         }
       ]
     },
@@ -117,7 +117,7 @@
       "sections": [
         {
           "tag": "pets",
-          "items": ["Dry cat food", "Dry dog food", "Wet cat food", "Wet dog food", "Canned cat food", "Canned dog food", "Cat treats", "Dog treats", "Rodent food", "Bird food", "Fish food", "Aquarium food", "Pet vitamins", "Food bowl", "Water bowl", "Bird water dispenser", "Rodent water bottle", "Bird feeder", "Rodent feeder", "Cat litter", "Rodent bedding", "Cat litter box", "Pet training pads", "Pet shampoo", "Pet brush", "Nail clippers", "Flea collar", "Flea and tick treatment", "Anti-parasite spray", "Spot-on treatment", "Scratching post", "Cat toys", "Dog toys", "Collar", "Leash", "Retractable leash", "Harness", "Muzzle", "Pet bed", "Cat house", "Rodent house", "Rodent cage", "Bird cage", "Pet carrier"]
+          "items": ["Dry cat food", "Dry dog food", "Wet cat food", "Wet dog food", "Canned cat food", "Canned dog food", "Cat treats", "Dog treats", "Rodent food", "Bird food", "Fish food", "Aquarium food", "Pet vitamins", "Food and water bowl", "Bird water dispenser", "Rodent water bottle", "Bird feeder", "Rodent feeder", "Cat litter", "Rodent bedding", "Pet training pads", "Pet shampoo", "Pet brush", "Nail clippers", "Flea collar", "Flea and tick treatment", "Anti-parasite spray", "Spot-on treatment", "Cat toys", "Dog toys", "Collar", "Leash", "Retractable leash", "Harness", "Muzzle", "Pet carrier"]
         }
       ]
     }
