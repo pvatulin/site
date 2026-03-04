@@ -15,7 +15,7 @@
         },
         {
           "tag": "dairy",
-          "items": ["Latte", "Latte di capra", "Latte scremato", "Latte di cocco", "Latte di riso", "Latte d’avena", "Latte di soia", "Latte al forno", "Latte senza lattosio", "Latte condensato", "Latte in polvere", "Latte vegetale", "Latte condensato zuccherato", "Panna acida", "Fiocchi di latte", "Crema di ricotta dolce", "Fiocchi di latte granulari", "Fiocchi di latte per bambini", "Yogurt", "Yogurt naturale", "Yogurt da bere", "Yogurt greco", "Kefir", "Ryazhenka", "Latte fermentato", "Tan", "Ayran", "Panna", "Panna da montare", "Panna di cocco", "Burro", "Burro", "Burro salato", "Burro al cioccolato", "Burro chiarificato", "Ghee", "Olio di cocco", "Formaggio", "Formaggio cremoso", "Formaggio stagionato", "Formaggio Adyghe", "Formaggio fuso", "Formaggio spalmabile", "Philadelphia", "Formaggio erborinato", "Brie", "Camembert", "Dor Blue", "Mascarpone", "Ricotta", "Burrata", "Stracciatella", "Parmigiano", "Cheddar", "Gouda", "Halloumi", "Maasdam", "Mozzarella", "Snack di formaggio", "Brynza", "Feta", "Suluguni", "Kaymak", "Chechil", "Margarina", "Latticello", "Kumis", "Tofu"]
+          "items": ["Latte", "Latte di capra", "Latte scremato", "Latte di cocco", "Latte di riso", "Latte d’avena", "Latte di soia", "Latte al forno", "Latte senza lattosio", "Latte condensato", "Latte in polvere", "Latte vegetale", "Latte condensato zuccherato", "Panna acida", "Fiocchi di latte", "Crema di ricotta dolce", "Fiocchi di latte granulari", "Fiocchi di latte per bambini", "Yogurt", "Yogurt naturale", "Yogurt da bere", "Yogurt greco", "Kefir", "Ryazhenka", "Latte fermentato", "Tan", "Ayran", "Panna", "Panna da montare", "Panna di cocco", "Burro", "Burro salato", "Burro al cioccolato", "Burro chiarificato", "Ghee", "Olio di cocco", "Formaggio", "Formaggio cremoso", "Formaggio stagionato", "Formaggio Adyghe", "Formaggio fuso", "Formaggio spalmabile", "Philadelphia", "Formaggio erborinato", "Brie", "Camembert", "Dor Blue", "Mascarpone", "Ricotta", "Burrata", "Stracciatella", "Parmigiano", "Cheddar", "Gouda", "Halloumi", "Maasdam", "Mozzarella", "Snack di formaggio", "Brynza", "Feta", "Suluguni", "Kaymak", "Chechil", "Margarina", "Latticello", "Kumis", "Tofu"]
         },
         {
           "tag": "meat",
@@ -39,7 +39,7 @@
         },
         {
           "tag": "nuts",
-          "items": ["Frutta secca", "Datteri", "Prugne secche", "Uvetta", "Albicocche secche", "Frutta a guscio", "Nocciole", "Pinoli", "Noci", "Noci di macadamia", "Noci del Brasile", "Arachidi", "Nocciole (hazelnuts)", "Pecan", "Pistacchi", "Mandorle", "Mix di frutta a guscio", "Anacardi", "Semi", "Semi di girasole", "Semi di zucca", "Semi", "Semi di chia", "Semi di lino", "Semi di sesamo", "Cocco grattugiato", "Funghi secchi", "Frutta candita", "Cranberry essiccati", "Fichi secchi", "Mele essiccate", "Mix per composta", "Chips di banana", "Mango essiccato", "Semi di papavero"]
+          "items": ["Frutta secca", "Datteri", "Prugne secche", "Uvetta", "Albicocche secche", "Frutta a guscio", "Nocciole", "Pinoli", "Noci", "Noci di macadamia", "Noci del Brasile", "Arachidi", "Nocciole (hazelnuts)", "Pecan", "Pistacchi", "Mandorle", "Mix di frutta a guscio", "Anacardi", "Semi", "Semi di girasole", "Semi di zucca", "Semi di chia", "Semi di lino", "Semi di sesamo", "Cocco grattugiato", "Funghi secchi", "Frutta candita", "Cranberry essiccati", "Fichi secchi", "Mele essiccate", "Mix per composta", "Chips di banana", "Mango essiccato", "Semi di papavero"]
         },
         {
           "tag": "baking",
@@ -47,7 +47,7 @@
         },
         {
           "tag": "snacks",
-          "items": ["Biscotti", "Biscotti d’avena", "Panpepato", "Cupcake", "Caramelle", "Cioccolato", "Cioccolato al latte", "Cioccolato fondente", "Cioccolato bianco", "Miele", "Miele di fiori", "Miele di grano saraceno", "Marmellata", "Marmellata di lamponi", "Marmellata di ciliegie", "Patatine", "Cracker", "Crostini", "Calamaro essiccato", "Pesce essiccato", "Bastoncini salati", "Wafer", "Marshmallow", "Frutta in fogli (fruit leather)", "Gelatine", "Halva", "Kozinaki", "Torta", "Pasticcino", "Éclair", "Meringhe", "Muffin", "Croissant", "Brioche dolci", "Rotolo", "Sfoglie", "Vatrushki", "Torta dolce", "Caramello", "Lecca-lecca", "Toffee", "Tartufi", "Sorbetto (dolce)", "Barretta di cioccolato", "Barretta wafer", "Barretta di muesli", "Confettura", "Confiture", "Sciroppo", "Crema spalmabile al cioccolato e nocciole", "Burro di arachidi", "Popcorn", "Puffs di mais", "Marshmallow", "Gelato", "Gelato su stecco", "Plombir", "Sorbetto", "Budino", "Rahat-lokum", "Chak-chak", "Torrone", "Churchkhela", "Gomma da masticare"]
+          "items": ["Biscotti", "Biscotti d’avena", "Panpepato", "Cupcake", "Caramelle", "Cioccolato", "Cioccolato al latte", "Cioccolato fondente", "Cioccolato bianco", "Miele", "Miele di fiori", "Miele di grano saraceno", "Marmellata", "Marmellata di lamponi", "Marmellata di ciliegie", "Patatine", "Cracker", "Crostini", "Calamaro essiccato", "Pesce essiccato", "Bastoncini salati", "Wafer", "Marshmallow", "Frutta in fogli (fruit leather)", "Gelatine", "Halva", "Kozinaki", "Torta", "Pasticcino", "Éclair", "Meringhe", "Muffin", "Croissant", "Brioche dolci", "Rotolo", "Sfoglie", "Vatrushki", "Torta dolce", "Caramello", "Lecca-lecca", "Toffee", "Tartufi", "Sorbetto (dolce)", "Barretta di cioccolato", "Barretta wafer", "Barretta di muesli", "Confettura", "Confiture", "Sciroppo", "Crema spalmabile al cioccolato e nocciole", "Burro di arachidi", "Popcorn", "Puffs di mais", "Gelato", "Gelato su stecco", "Plombir", "Sorbetto", "Budino", "Rahat-lokum", "Chak-chak", "Torrone", "Churchkhela", "Gomma da masticare"]
         },
         {
           "tag": "drinks",
@@ -65,7 +65,7 @@
       "sections": [
         {
           "tag": "alcohol",
-          "items": ["Vodka", "Cognac", "Armagnac", "Whisky", "Rum", "Gin", "Tequila", "Assenzio", "Liquore", "Brandy", "Sambuca", "Calvados", "Grappa", "Schnapps", "Amaro (tintura)", "Tintura alle erbe", "Becherovka", "Bourbon", "Scotch", "Champagne", "Prosecco", "Cava", "Vermouth", "Bitter", "Saké", "Chacha", "Vino spumante", "Vino rosso", "Vino bianco", "Vino rosato", "Vino secco", "Vino semisecco", "Vino dolce", "Vino semidolce", "Vino da tavola", "Vino da dessert", "Vino di prugne", "Porto", "Porto", "Sherry", "Madeira", "Birra chiara", "Birra scura", "Birra non filtrata", "Birra di frumento", "Lager", "Ale", "Stout", "Porter", "Pilsner", "Birra artigianale", "Birra analcolica", "Sidro", "Idromele"]
+          "items": ["Vodka", "Cognac", "Armagnac", "Whisky", "Rum", "Gin", "Tequila", "Assenzio", "Liquore", "Brandy", "Sambuca", "Calvados", "Grappa", "Schnapps", "Amaro (tintura)", "Tintura alle erbe", "Becherovka", "Bourbon", "Scotch", "Champagne", "Prosecco", "Cava", "Vermouth", "Bitter", "Saké", "Chacha", "Vino spumante", "Vino rosso", "Vino bianco", "Vino rosato", "Vino secco", "Vino semisecco", "Vino dolce", "Vino semidolce", "Vino da tavola", "Vino da dessert", "Vino di prugne", "Porto", "Sherry", "Madeira", "Birra chiara", "Birra scura", "Birra non filtrata", "Birra di frumento", "Lager", "Ale", "Stout", "Porter", "Pilsner", "Birra artigianale", "Birra analcolica", "Sidro", "Idromele"]
         }
       ]
     },
@@ -107,7 +107,7 @@
       "sections": [
         {
           "tag": "baby",
-          "items": ["Pannolini", "Pannolini", "Mutandine-pannolino", "Salviette umidificate per bambini", "Talco per bambini", "Crema per bambini", "Sapone per bambini", "Shampoo per bambini", "Gel da bagno per bambini", "Schiuma da bagno per bambini", "Olio corpo per bambini", "Latte corpo per bambini", "Traversine monouso", "Traversine riutilizzabili", "Latte artificiale", "Pappe/cereali per bambini", "Puree di verdure", "Puree di frutta", "Puree di carne", "Succhi per bambini", "Acqua per bambini", "Sonaglio", "Giochi da bagno", "Biberon", "Scovolino per biberon", "Tettarelle", "Ciucci", "Sterilizzatore per biberon", "Scaldabiberon", "Massaggiagengive", "Stoviglie per bambini", "Bavaglino", "Bavaglino", "Termometro per bambini", "Spugna da bagno per bambini", "Asciugamano per bambini"]
+          "items": ["Pannolini", "Mutandine-pannolino", "Salviette umidificate per bambini", "Talco per bambini", "Crema per bambini", "Sapone per bambini", "Shampoo per bambini", "Gel da bagno per bambini", "Schiuma da bagno per bambini", "Olio corpo per bambini", "Latte corpo per bambini", "Traversine monouso", "Traversine riutilizzabili", "Latte artificiale", "Pappe/cereali per bambini", "Puree di verdure", "Puree di frutta", "Puree di carne", "Succhi per bambini", "Acqua per bambini", "Sonaglio", "Giochi da bagno", "Biberon", "Scovolino per biberon", "Tettarelle", "Ciucci", "Sterilizzatore per biberon", "Scaldabiberon", "Massaggiagengive", "Stoviglie per bambini", "Bavaglino", "Termometro per bambini", "Spugna da bagno per bambini", "Asciugamano per bambini"]
         }
       ]
     },
