@@ -1,1 +1,125 @@
-
+{
+  "language": "it",
+  "groups": [
+    {
+      "title": "Alimentari",
+      "orderIndex": 0,
+      "sections": [
+        {
+          "tag": "vegs",
+          "items": ["Verdure", "Verdure a foglia", "Patate", "Patate novelle", "Carote", "Patate dolci", "Cavolo", "Cavolo cappuccio", "Cavolo rosso", "Cavolfiore", "Cavoletti di Bruxelles", "Cavolo cinese", "Cavolo rapa", "Broccoli", "Barbabietole", "Cipolle", "Cipolle rosse", "Cipollotti", "Porri", "Scalogno", "Aglio", "Cetrioli", "Cetriolini", "Pomodori", "Pomodorini", "Peperoni", "Peperoncini", "Peperoni dolci", "Peperoncini jalapeño", "Melanzane", "Zucchine", "Patisson", "Zucca", "Ravanelli", "Daikon", "Insalata", "Cavolo riccio (kale)", "Lattuga romana", "Lattuga iceberg", "Crescione", "Fagiolini", "Spinaci", "Prezzemolo", "Aneto", "Coriandolo", "Rucola", "Menta", "Acetosa", "Melissa", "Lattuga", "Rosmarino", "Sedano", "Mais", "Rape", "Asparagi", "Germogli", "Germogli di piselli", "Germogli di fagioli", "Microgreens", "Basilico", "Origano", "Topinambur", "Carciofi", "Finocchio", "Zenzero", "Funghi", "Funghi shiitake", "Funghi enoki", "Champignon", "Funghi ostrica", "Finferli", "Chiodini", "Timo", "Pastinaca", "Rabarbaro", "Lemongrass", "Galgant", "Foglie di lime kaffir", "Cavolfiore romanesco"]
+        },
+        {
+          "tag": "fruits",
+          "items": ["Frutta", "Frutti di bosco", "Mele", "Pere", "Banane", "Arance", "Mandarini", "Limoni", "Lime", "Pompelmo", "Pomelo", "Sweetie", "Prugne", "Albicocche", "Uva", "Uva senza semi", "Uva spina", "Rosa canina", "Pesche", "Nettarine", "Kiwi", "Anguria", "Melone", "Avocado", "Fichi", "Melograno", "Mango", "Fragole", "Fragoline di bosco", "Lamponi", "More artiche", "Ciliegie", "Ciliegie dolci", "Ribes nero", "Mirtilli", "Mirtilli rossi", "Olivello spinoso", "Mirtilli neri", "Cachi", "Frutto del drago", "Frutto della passione", "Papaya", "Ananas", "Cocco", "Salak", "Litchi", "Rambutan", "Tamarindo", "Mangostano", "Longan", "Durian", "Jackfruit", "Bacche di goji", "Feijoa", "Alchechengi", "Guava", "Mirtilli rossi (lingonberry)", "Kumquat", "Corniolo"]
+        },
+        {
+          "tag": "dairy",
+          "items": ["Latte", "Latte di capra", "Latte scremato", "Latte di cocco", "Latte di riso", "Latte d’avena", "Latte di soia", "Latte al forno", "Latte senza lattosio", "Latte condensato", "Latte in polvere", "Latte vegetale", "Latte condensato zuccherato", "Panna acida", "Fiocchi di latte", "Crema di ricotta dolce", "Fiocchi di latte granulari", "Fiocchi di latte per bambini", "Yogurt", "Yogurt naturale", "Yogurt da bere", "Yogurt greco", "Kefir", "Ryazhenka", "Latte fermentato", "Tan", "Ayran", "Panna", "Panna da montare", "Panna di cocco", "Burro", "Burro", "Burro salato", "Burro al cioccolato", "Burro chiarificato", "Ghee", "Olio di cocco", "Formaggio", "Formaggio cremoso", "Formaggio stagionato", "Formaggio Adyghe", "Formaggio fuso", "Formaggio spalmabile", "Philadelphia", "Formaggio erborinato", "Brie", "Camembert", "Dor Blue", "Mascarpone", "Ricotta", "Burrata", "Stracciatella", "Parmigiano", "Cheddar", "Gouda", "Halloumi", "Maasdam", "Mozzarella", "Snack di formaggio", "Brynza", "Feta", "Suluguni", "Kaymak", "Chechil", "Margarina", "Latticello", "Kumis", "Tofu"]
+        },
+        {
+          "tag": "meat",
+          "items": ["Carne", "Pollame", "Manzo", "Lingua di manzo", "Vitello", "Maiale", "Pollo", "Oca", "Quaglia", "Coniglio", "Cosce di pollo", "Fusi di pollo", "Petto di pollo", "Cosciotti di pollo", "Ali di pollo", "Cuori di pollo", "Ventrigli di pollo", "Fegato di pollo", "Filetto di pollo", "Tacchino", "Filetto di tacchino", "Coscia di tacchino", "Sovracosce di tacchino", "Anatra", "Anatra alla pechinese", "Petto d’anatra", "Agnello", "Cervo", "Carne macinata", "Cotolette", "Bistecca", "Salsiccia", "Mortadella", "Salame affumicato", "Salsiccia del dottore", "Salsiccia “Lyubitelskaya”", "Cervelat", "Würstel", "Salsicciotti", "Salsicce da grigliare", "Kupaty", "Cevapcici", "Pancetta", "Prosciutto crudo stagionato", "Carbonade", "Fegato", "Carne in scatola", "Gelatina di carne (aspic)", "Prosciutto cotto", "Paté", "Steak", "Ribeye", "Striploin", "Filet mignon", "Costine", "Lardo", "Pancetta (lardo)"]
+        },
+        {
+          "tag": "fish",
+          "items": ["Pesce", "Frutti di mare", "Tonno", "Barracuda", "Barramundi", "Marlin", "Mahi-mahi", "Orata", "Grouper", "Saira", "Salmone rosa", "Merluzzo", "Pollock", "Salmone chum", "Salmone coho", "Eperlano", "Persico", "Storione", "Sgombro", "Halibut", "Tilapia", "Sogliola", "Spigola", "Pesce gatto", "Anguilla", "Orata (bream)", "Luccio", "Capelin", "Salmone", "Trota", "Salmone atlantico", "Aringa", "Calamari", "Polpi", "Granchio", "Carne di granchio", "Bastoncini di granchio", "Caviale", "Cozze", "Gamberetti", "Capesante", "Ostriche", "Pesce in scatola", "Salmone leggermente salato", "Trota leggermente salata", "Carpa", "Lucioperca", "Navaga", "Nasello", "Salmone sockeye", "Pangasio", "Gamberi di fiume", "Aragosta", "Acciughe", "Spratti", "Ghiozzi"]
+        },
+        {
+          "tag": "bread",
+          "items": ["Pane", "Panini", "Filone", "Filone a fette", "Pane da toast", "Pane nero", "Pane di segale", "Pane scottato", "Pane Borodinsky", "Crackers croccanti", "Lavash", "Focaccia", "Pita", "Ciabatta", "Farina", "Farina di grano", "Farina di segale", "Farina d’avena", "Farina di grano saraceno", "Farina di riso", "Farina di ceci", "Farina di mais", "Farina di mandorle", "Farina di cocco", "Zucchero", "Zucchero di canna", "Zucchero di canna grezzo", "Sale", "Sale marino", "Sale dell’Himalaya", "Riso", "Riso integrale", "Riso rosso", "Riso basmati", "Riso jasmine", "Grano saraceno", "Grano saraceno verde", "Piselli secchi", "Fagioli", "Spaghetti", "Noodles", "Noodles udon", "Noodles soba", "Noodles ramen", "Noodles di vetro", "Pasta", "Vermicelli", "Ptitim", "Amaranto", "Crusca", "Fiocchi d’avena", "Semolino", "Semola di mais", "Grano spezzato", "Orzo perlato", "Miglio decorticato", "Farro", "Orzo", "Bulgur", "Quinoa", "Granola", "Fiocchi", "Couscous", "Fiocchi d’avena (Hercules)", "Miglio", "Baguette", "Tortilla", "Ceci", "Lenticchie", "Muesli", "Sfoglie per lasagne", "Carta di riso", "Pasta fillo"]
+        },
+        {
+          "tag": "sauces",
+          "items": ["Conserve", "Salsa", "Passata di pomodoro", "Piselli verdi", "Piselli in scatola", "Mais in scatola", "Fagioli in scatola", "Champignon in scatola", "Olive verdi", "Olive nere", "Capperi", "Bacche di cappero", "Cetrioli salati", "Cetrioli sottaceto", "Pomodori salati", "Pomodori in scatola", "Peperoncino piri-piri", "Crauti", "Aglio orsino", "Funghi salati", "Funghi sottaceto", "Maionese", "Ketchup", "Salsa all’aglio", "Salsa tartara", "Salsa al formaggio", "Senape", "Senape francese", "Senape di Digione", "Salsa di soia", "Salsa Worcestershire", "Salsa agrodolce", "Salsa teriyaki", "Salsa di pesce", "Salsa di ostriche", "Salsa sriracha", "Salsa hoisin", "Salsa pad thai", "Salsa piccante", "Succo di limone", "Succo di lime", "Rafano", "Adjika", "Tkemali", "Satsebeli", "Ananas in scatola", "Pesche in scatola", "Caviale di zucchine", "Caviale di melanzane", "Lecho", "Salsa barbecue", "Pesto", "Salsa bolognese", "Salsa carbonara", "Salsa sweet chili", "Alghe marine", "Hummus"]
+        },
+        {
+          "tag": "spices",
+          "items": ["Spezie", "Olio di semi di girasole", "Olio vegetale", "Olio d’oliva", "Olio di sesamo", "Olio di senape", "Olio di lino", "Olio di mais", "Olio di arachidi", "Olio di vinaccioli", "Olio di avocado", "Pepe nero", "Peperoncino rosso", "Mix di pepi", "Alloro", "Basilico secco", "Aneto secco", "Prezzemolo secco", "Aglio secco", "Curry", "Paprika", "Cumino (zira)", "Cannella", "Chiodi di garofano", "Cardamomo", "Coriandolo", "Curcuma", "Cumino", "Timo secco", "Origano secco", "Noce moscata", "Erbe di Provenza", "Erbe francesi", "Erbe italiane", "Aceto bianco", "Aceto di vino", "Aceto di mele", "Aceto balsamico", "Aceto di riso", "Khmeli-suneli", "Spezie per pilaf", "Zafferano", "Anice stellato", "Maggiorana", "Dragoncello secco"]
+        },
+        {
+          "tag": "nuts",
+          "items": ["Frutta secca", "Datteri", "Prugne secche", "Uvetta", "Albicocche secche", "Frutta a guscio", "Nocciole", "Pinoli", "Noci", "Noci di macadamia", "Noci del Brasile", "Arachidi", "Nocciole (hazelnuts)", "Pecan", "Pistacchi", "Mandorle", "Mix di frutta a guscio", "Anacardi", "Semi", "Semi di girasole", "Semi di zucca", "Semi", "Semi di chia", "Semi di lino", "Semi di sesamo", "Cocco grattugiato", "Funghi secchi", "Frutta candita", "Cranberry essiccati", "Fichi secchi", "Mele essiccate", "Mix per composta", "Chips di banana", "Mango essiccato", "Semi di papavero"]
+        },
+        {
+          "tag": "baking",
+          "items": ["Uova", "Uova di quaglia", "Lievito", "Lievito per dolci", "Bicarbonato", "Amido", "Gelatina", "Acido citrico", "Pectina", "Agar-agar", "Zucchero a velo", "Zucchero vanigliato", "Estratto di vaniglia", "Vanillina", "Dolcificante", "Sostituto dello zucchero", "Pangrattato", "Colorante alimentare", "Codette", "Cioccolato per dolci", "Addensante per panna"]
+        },
+        {
+          "tag": "snacks",
+          "items": ["Biscotti", "Biscotti d’avena", "Panpepato", "Cupcake", "Caramelle", "Cioccolato", "Cioccolato al latte", "Cioccolato fondente", "Cioccolato bianco", "Miele", "Miele di fiori", "Miele di grano saraceno", "Marmellata", "Marmellata di lamponi", "Marmellata di ciliegie", "Patatine", "Cracker", "Crostini", "Calamaro essiccato", "Pesce essiccato", "Bastoncini salati", "Wafer", "Marshmallow", "Frutta in fogli (fruit leather)", "Gelatine", "Halva", "Kozinaki", "Torta", "Pasticcino", "Éclair", "Meringhe", "Muffin", "Croissant", "Brioche dolci", "Rotolo", "Sfoglie", "Vatrushki", "Torta dolce", "Caramello", "Lecca-lecca", "Toffee", "Tartufi", "Sorbetto (dolce)", "Barretta di cioccolato", "Barretta wafer", "Barretta di muesli", "Confettura", "Confiture", "Sciroppo", "Crema spalmabile al cioccolato e nocciole", "Burro di arachidi", "Popcorn", "Puffs di mais", "Marshmallow", "Gelato", "Gelato su stecco", "Plombir", "Sorbetto", "Budino", "Rahat-lokum", "Chak-chak", "Torrone", "Churchkhela", "Gomma da masticare"]
+        },
+        {
+          "tag": "drinks",
+          "items": ["Tè", "Tè nero", "Tè verde", "Tè bianco", "Tisana", "Oolong al latte", "Pu-erh", "Tè Ivan", "Caffè", "Caffè macinato", "Caffè solubile", "Caffè in grani", "Caffè in capsule", "Mate", "Cacao in polvere", "Matcha", "Karkadè", "Camomilla", "Cicoria", "Orzo", "Succo", "Succo di pomodoro", "Mors", "Composta", "Kvass", "Limonata", "Tè freddo", "Bibita gassata", "Energy drink", "Acqua", "Acqua minerale", "Acqua frizzante"]
+        },
+        {
+          "tag": "frozen",
+          "items": ["Mix di verdure", "Verdure surgelate", "Mix hawaiano", "Mix messicano", "Frutti di bosco surgelati", "Pizza surgelata", "Pesce surgelato", "Gamberetti surgelati", "Frutti di mare surgelati", "Cotolette surgelate", "Crêpes", "Pelmeni", "Khinkali", "Manti", "Ravioli", "Vareniki", "Patate surgelate", "Funghi surgelati", "Spinaci surgelati", "Piselli verdi surgelati", "Mais surgelato", "Pasta sfoglia surgelata", "Impasto lievitato surgelato", "Nuggets surgelati", "Ghiaccio alimentare"]
+        }
+      ]
+    },
+    {
+      "title": "Alcolici",
+      "orderIndex": 1,
+      "sections": [
+        {
+          "tag": "alcohol",
+          "items": ["Vodka", "Cognac", "Armagnac", "Whisky", "Rum", "Gin", "Tequila", "Assenzio", "Liquore", "Brandy", "Sambuca", "Calvados", "Grappa", "Schnapps", "Amaro (tintura)", "Tintura alle erbe", "Becherovka", "Bourbon", "Scotch", "Champagne", "Prosecco", "Cava", "Vermouth", "Bitter", "Saké", "Chacha", "Vino spumante", "Vino rosso", "Vino bianco", "Vino rosato", "Vino secco", "Vino semisecco", "Vino dolce", "Vino semidolce", "Vino da tavola", "Vino da dessert", "Vino di prugne", "Porto", "Porto", "Sherry", "Madeira", "Birra chiara", "Birra scura", "Birra non filtrata", "Birra di frumento", "Lager", "Ale", "Stout", "Porter", "Pilsner", "Birra artigianale", "Birra analcolica", "Sidro", "Idromele"]
+        }
+      ]
+    },
+    {
+      "title": "Casa e quotidiano",
+      "orderIndex": 2,
+      "sections": [
+        {
+          "tag": "laundry",
+          "items": ["Detersivo in polvere", "Detersivo liquido", "Capsule per bucato", "Risciacquo per bucato", "Ammorbidente", "Smacchiatore", "Candeggina", "Sapone da bucato", "Sacca per bucato"]
+        },
+        {
+          "tag": "cleaning",
+          "items": ["Detergente", "Prodotto per la pulizia", "Detergente per pavimenti", "Detergente per cucina", "Detergente per fornelli", "Detergente per forno", "Detergente per vetri", "Detergente per bagno", "Detergente per WC", "Cillit Bang", "Anatra per WC", "Disinfettante", "Deodorante per ambienti", "Detergente per mobili", "Cera per mobili", "Spray antistatico", "Spugne per pulizia", "Panno per pavimenti", "Sacchetti per aspirapolvere", "Filtri per aspirapolvere", "Sturalavandini", "Guanti per casa", "Guanti monouso"]
+        },
+        {
+          "tag": "kitchen",
+          "items": ["Carta da forno", "Alluminio", "Pellicola trasparente", "Sacco per arrosti", "Sacchetti da forno", "Sacchetti per congelatore", "Sacchetti per alimenti", "Sacchetti zip-lock", "Teglie da forno", "Sacchetti per ghiaccio", "Stampo per ghiaccio", "Detersivo per piatti", "Spugne per piatti", "Spazzola per piatti", "Spugna metallica", "Panni per pulizia", "Panno in microfibra", "Canovaccio", "Carta assorbente", "Tovaglioli da cucina", "Sacchi per spazzatura", "Pastiglie per lavastoviglie", "Sale per lavastoviglie", "Brillantante per lavastoviglie", "Anticalcare", "Contenitori per alimenti", "Piatti monouso", "Bicchieri monouso", "Bicchierini monouso", "Forchette monouso", "Coltelli monouso", "Cucchiai monouso", "Tovaglia monouso", "Barbecue", "Griglia per barbecue", "Spiedini", "Spiedini di bambù", "Carbone", "Accendifuoco liquido"]
+        },
+        {
+          "tag": "other",
+          "items": ["Antitarme", "Repellente per insetti", "Repellente per zanzare", "Diffusore antizanzare", "Spazzola per abiti", "Rullo levapelucchi", "Crema per scarpe", "Spazzola per scarpe", "Spugna per scarpe", "Batterie", "Lampadine", "Colla", "Nastro adesivo", "Candele", "Accendino", "Fiammiferi"]
+        }
+      ]
+    },
+    {
+      "title": "Igiene",
+      "orderIndex": 3,
+      "sections": [
+        {
+          "tag": "hygiene",
+          "items": ["Sapone", "Sapone liquido", "Spazzolino", "Dentifricio", "Collutorio", "Stuzzicadenti", "Filo interdentale", "Shampoo", "Balsamo per capelli", "Balsamo (hair balm)", "Olio per capelli", "Lacca per capelli", "Gel per capelli", "Schiuma da bagno", "Sali da bagno", "Bagnoschiuma", "Detergente intimo", "Crema viso", "Scrub viso", "Crema corpo", "Latte corpo", "Crema contorno occhi", "Crema mani", "Strisce depilatorie", "Crema depilatoria", "Schiuma da barba", "Gel da barba", "Rasoio", "Lame per rasoio", "Rasoi usa e getta", "Deodorante", "Antitraspirante", "Dischetti di cotone", "Cotton fioc", "Spugna da bagno", "Struccante", "Acqua micellare", "Tonico viso", "Detergente schiumogeno", "Gel detergente viso", "Maschera viso", "Leva-smalto", "Tamponi", "Assorbenti", "Salvaslip", "Fazzoletti", "Carta igienica", "Tovaglioli", "Salviette umidificate", "Salviette igieniche", "Balsamo dopobarba", "Tinta per capelli", "Crema piedi", "Mousse per capelli", "Preservativi", "Lubrificante", "Lima per unghie"]
+        }
+      ]
+    },
+    {
+      "title": "Bambini",
+      "orderIndex": 4,
+      "sections": [
+        {
+          "tag": "baby",
+          "items": ["Pannolini", "Pannolini", "Mutandine-pannolino", "Salviette umidificate per bambini", "Talco per bambini", "Crema per bambini", "Sapone per bambini", "Shampoo per bambini", "Gel da bagno per bambini", "Schiuma da bagno per bambini", "Olio corpo per bambini", "Latte corpo per bambini", "Traversine monouso", "Traversine riutilizzabili", "Latte artificiale", "Pappe/cereali per bambini", "Puree di verdure", "Puree di frutta", "Puree di carne", "Succhi per bambini", "Acqua per bambini", "Sonaglio", "Giochi da bagno", "Biberon", "Scovolino per biberon", "Tettarelle", "Ciucci", "Sterilizzatore per biberon", "Scaldabiberon", "Massaggiagengive", "Stoviglie per bambini", "Bavaglino", "Bavaglino", "Termometro per bambini", "Spugna da bagno per bambini", "Asciugamano per bambini"]
+        }
+      ]
+    },
+    {
+      "title": "Animali",
+      "orderIndex": 5,
+      "sections": [
+        {
+          "tag": "pets",
+          "items": ["Crocchette per gatti", "Crocchette per cani", "Cibo umido per gatti", "Cibo umido per cani", "Cibo in scatola per gatti", "Cibo in scatola per cani", "Snack per gatti", "Snack per cani", "Cibo per roditori", "Cibo per uccelli", "Cibo per pesci", "Mangime per acquario", "Vitamine per animali", "Ciotola per cibo e acqua", "Abbeveratoio per uccelli", "Abbeveratoio per roditori", "Mangiatoia per uccelli", "Mangiatoia per roditori", "Lettiera", "Lettiera per roditori", "Tappetini assorbenti per animali", "Shampoo per animali", "Spazzola per pelo", "Tagliaunghie", "Collare antipulci e zecche", "Trattamento antipulci e zecche", "Spray antiparassitario", "Spot-on", "Giochi per gatti", "Giochi per cani", "Collare", "Guinzaglio", "Guinzaglio retrattile", "Pettorina", "Museruola", "Trasportino"]
+        }
+      ]
+    }
+  ]
+}
