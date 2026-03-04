@@ -7,7 +7,7 @@
       "sections": [
         {
           "tag": "vegs",
-          "items": ["Vegetables", "Greens", "Potatoes", "New Potatoes", "Carrots", "Sweet Potatoes", "Cabbage", "White Cabbage", "Red Cabbage", "Cauliflower", "Brussels Sprouts", "Chinese Cabbage", "Kohlrabi", "Broccoli", "Beetroot", "Onions", "Red Onions", "Green Onions", "Leeks", "Shallots", "Garlic", "Cucumbers", "Gherkins", "Tomatoes", "Cherry Tomatoes", "Peppers", "Chili Peppers", "Bell Peppers", "Jalapeno Peppers", "Eggplant", "Zucchini", "Pattypan Squash", "Pumpkin", "Radishes", "Daikon", "Lettuce", "Kale", "Romaine Lettuce", "Watercress", "Green Beans", "Spinach", "Parsley", "Dill", "Cilantro", "Arugula", "Mint", "Sorrel", "Lemon Balm", "Leaf Lettuce", "Rosemary", "Celery", "Corn", "Turnips", "Asparagus", "Sprouts", "Pea Sprouts", "Bean Sprouts", "Microgreens", "Basil", "Oregano", "Jerusalem Artichoke", "Artichokes", "Fennel", "Ginger", "Mushrooms", "Shiitake Mushrooms", "Enoki Mushrooms", "Button Mushrooms", "Oyster Mushrooms", "Chanterelles", "Honey Mushrooms", "Thyme", "Parsnips", "Rhubarb", "Galangal", "Kaffir Lime Leaves", "Romanesco"]
+          "items": ["Vegetables", "Greens", "Potatoes", "New Potatoes", "Carrots", "Sweet Potatoes", "Cabbage", "White Cabbage", "Red Cabbage", "Cauliflower", "Brussels Sprouts", "Chinese Cabbage", "Kohlrabi", "Broccoli", "Beetroot", "Onions", "Red Onions", "Green Onions", "Leeks", "Shallots", "Garlic", "Cucumbers", "Gherkins", "Tomatoes", "Cherry Tomatoes", "Peppers", "Chili Peppers", "Bell Peppers", "Jalapeno Peppers", "Eggplant", "Zucchini", "Pattypan Squash", "Pumpkin", "Radishes", "Daikon", "Lettuce", "Kale", "Romaine Lettuce", "Iceberg Lettuce", "Watercress", "Green Beans", "Spinach", "Parsley", "Dill", "Cilantro", "Arugula", "Mint", "Sorrel", "Lemon Balm", "Leaf Lettuce", "Rosemary", "Celery", "Corn", "Turnips", "Asparagus", "Sprouts", "Pea Sprouts", "Bean Sprouts", "Microgreens", "Basil", "Oregano", "Jerusalem Artichoke", "Artichokes", "Fennel", "Ginger", "Mushrooms", "Shiitake Mushrooms", "Enoki Mushrooms", "Button Mushrooms", "Oyster Mushrooms", "Chanterelles", "Honey Mushrooms", "Thyme", "Parsnips", "Rhubarb", "Lemongrass", "Galangal", "Kaffir Lime Leaves", "Romanesco"]
         },
         {
           "tag": "fruits",
@@ -15,23 +15,23 @@
         },
         {
           "tag": "dairy",
-          "items": ["Milk", "Skim Milk", "Coconut Milk", "Rice Milk", "Oat Milk", "Soy Milk", "Baked Milk", "Lactose-Free Milk", "Condensed Milk", "Powdered Milk", "Plant-Based Milk", "Sweetened Condensed Milk", "Sour Cream", "Cottage Cheese", "Curd Dessert", "Grainy Cottage Cheese", "Kids Cottage Cheese", "Yogurt", "Drinking Yogurt", "Greek Yogurt", "Kefir", "Ryazhenka", "Buttermilk", "Tan", "Ayran", "Cream", "Butter", "Salted Butter", "Chocolate Butter", "Clarified Butter", "Ghee", "Coconut Oil", "Cheese", "Adyghe Cheese", "Processed Cheese", "Cream Cheese", "Blue Cheese", "Brie", "Camembert", "Dor Blue", "Mascarpone", "Ricotta", "Burrata", "Stracciatella", "Parmesan", "Cheddar", "Gouda", "Halloumi", "Maasdam", "Mozzarella", "Cheese Snacks", "Brynza", "Feta", "Suluguni", "Kaymak", "Chechil", "Margarine", "Kumis", "Tofu"]
+          "items": ["Milk", "Goat Milk", "Skim Milk", "Coconut Milk", "Rice Milk", "Oat Milk", "Soy Milk", "Baked Milk", "Lactose-Free Milk", "Condensed Milk", "Powdered Milk", "Plant-Based Milk", "Sour Cream", "Cottage Cheese", "Curd Dessert", "Grainy Cottage Cheese", "Kids Cottage Cheese", "Yogurt", "Plain Yogurt", "Drinking Yogurt", "Greek Yogurt", "Kefir", "Ryazhenka", "Sour Milk", "Buttermilk", "Tan", "Ayran", "Cream", "Whipping Cream", "Coconut Cream", "Butter", "Salted Butter", "Chocolate Butter", "Clarified Butter", "Ghee", "Coconut Oil", "Cheese", "Hard Cheese", "Adyghe Cheese", "Processed Cheese", "Cream Cheese", "Philadelphia Cream Cheese", "Blue Cheese", "Brie", "Camembert", "Dor Blue", "Mascarpone", "Ricotta", "Burrata", "Stracciatella", "Parmesan", "Cheddar", "Gouda", "Halloumi", "Maasdam", "Mozzarella", "Cheese Snacks", "Brynza", "Feta", "Suluguni", "Kaymak", "Chechil", "Margarine", "Kumis", "Tofu"]
         },
         {
           "tag": "meat",
-          "items": ["Meat", "Poultry", "Beef", "Beef Tongue", "Veal", "Pork", "Chicken", "Goose", "Quail", "Rabbit", "Chicken Thighs", "Chicken Drumsticks", "Chicken Breast", "Chicken Legs", "Chicken Wings", "Chicken Hearts", "Chicken Gizzards", "Turkey", "Turkey Fillet", "Turkey Drumstick", "Turkey Thighs", "Duck", "Peking Duck", "Duck Breast", "Lamb", "Venison", "Minced Meat", "Cutlets", "Beefsteak", "Sausage", "Boiled Sausage", "Smoked Sausage", "Doctor's Sausage", "Lyubitelskaya Sausage", "Cervelat", "Frankfurters", "Saveloys", "Kupaty", "Cevapcici", "Bacon", "Cured Ham", "Carbonade", "Liver", "Canned Meat", "Aspic", "Ham", "Pate", "Steak", "Ribeye", "Striploin", "Filet Mignon", "Ribs", "Lard", "Salt Pork"]
+          "items": ["Meat", "Poultry", "Beef", "Beef Tongue", "Veal", "Pork", "Chicken", "Goose", "Quail", "Rabbit", "Chicken Thighs", "Chicken Drumsticks", "Chicken Breast", "Chicken Legs", "Chicken Wings", "Chicken Hearts", "Chicken Gizzards", "Chicken Liver", "Chicken Fillet", "Turkey", "Turkey Fillet", "Turkey Drumstick", "Turkey Thighs", "Duck", "Peking Duck", "Duck Breast", "Lamb", "Venison", "Minced Meat", "Cutlets", "Beefsteak", "Sausage", "Boiled Sausage", "Smoked Sausage", "Doctor's Sausage", "Lyubitelskaya Sausage", "Cervelat", "Frankfurters", "Saveloys", "Grilling Sausages", "Kupaty", "Cevapcici", "Bacon", "Cured Ham", "Carbonade", "Liver", "Canned Meat", "Aspic", "Ham", "Pate", "Steak", "Ribeye", "Striploin", "Filet Mignon", "Ribs", "Lard", "Salt Pork", "Fatback"]
         },
         {
           "tag": "fish",
-          "items": ["Fish", "Seafood", "Tuna", "Barracuda", "Barramundi", "Marlin", "Mahi-Mahi", "Dorado", "Grouper", "Saury", "Pink Salmon", "Cod", "Pollock", "Chum Salmon", "Coho Salmon", "Smelt", "Perch", "Sturgeon", "Mackerel", "Halibut", "Tilapia", "Flounder", "Sea Bass", "Catfish", "Eel", "Bream", "Pike", "Capelin", "Salmon", "Trout", "Atlantic Salmon", "Herring", "Squid", "Octopus", "Crab", "Crab Sticks", "Caviar", "Mussels", "Shrimp", "Scallops", "Oysters", "Canned Fish", "Lightly Salted Salmon", "Lightly Salted Trout", "Carp", "Zander", "Navaga", "Hake", "Sockeye Salmon", "Pangasius", "Crayfish", "Lobster", "Anchovies", "Sprats", "Goby Fish"]
+         "items": ["Fish", "Seafood", "Tuna", "Barracuda", "Barramundi", "Marlin", "Mahi-Mahi", "Dorado", "Grouper", "Saury", "Pink Salmon", "Cod", "Pollock", "Chum Salmon", "Coho Salmon", "Smelt", "Perch", "Sturgeon", "Mackerel", "Halibut", "Tilapia", "Flounder", "Sea Bass", "Catfish", "Eel", "Bream", "Pike", "Capelin", "Salmon", "Trout", "Atlantic Salmon", "Herring", "Squid", "Octopus", "Crab", "Crab Meat", "Crab Sticks", "Caviar", "Mussels", "Shrimp", "Scallops", "Oysters", "Canned Fish", "Lightly Salted Salmon", "Lightly Salted Trout", "Carp", "Zander", "Navaga", "Hake", "Sockeye Salmon", "Pangasius", "Crayfish", "Lobster", "Anchovies", "Sprats", "Goby Fish"]
         },
         {
           "tag": "bread",
-          "items": ["Bread", "Bread Rolls", "White Bread Loaf", "Sliced White Bread", "Black Bread", "Rye Bread", "Scalded Bread", "Borodinsky Bread", "Crispbread", "Lavash", "Flatbread", "Pita", "Ciabatta", "Flour", "Wheat Flour", "Rye Flour", "Oat Flour", "Buckwheat Flour", "Rice Flour", "Chickpea Flour", "Corn Flour", "Almond Flour", "Coconut Flour", "Sugar", "Brown Sugar", "Salt", "Rice", "Brown Rice", "Red Rice", "Basmati Rice", "Buckwheat", "Green Buckwheat", "Peas", "Beans", "Spaghetti", "Noodles", "Udon Noodles", "Soba Noodles", "Ramen Noodles", "Glass Noodles", "Pasta", "Vermicelli", "Ptitim", "Amaranth", "Bran", "Oatmeal", "Semolina", "Corn Grits", "Wheat Groats", "Spelt", "Pearl Barley", "Bulgur", "Quinoa", "Granola", "Cereal Flakes", "Couscous", "Rolled Oats", "Millet", "Baguette", "Tortilla", "Chickpeas", "Lentils"]
+          "items": ["Bread", "Bread Rolls", "White Bread Loaf", "Sliced White Bread", "Toast Bread", "Black Bread", "Rye Bread", "Scalded Bread", "Borodinsky Bread", "Crispbread", "Lavash", "Flatbread", "Pita", "Ciabatta", "Flour", "Wheat Flour", "Rye Flour", "Oat Flour", "Buckwheat Flour", "Rice Flour", "Chickpea Flour", "Corn Flour", "Almond Flour", "Coconut Flour", "Sugar", "Cane Sugar", "Brown Sugar", "Salt", "Sea Salt", "Himalayan Salt", "Rice", "Brown Rice", "Red Rice", "Basmati Rice", "Jasmine Rice", "Buckwheat", "Green Buckwheat", "Peas", "Beans", "Spaghetti", "Noodles", "Udon Noodles", "Soba Noodles", "Ramen Noodles", "Glass Noodles", "Pasta", "Vermicelli", "Ptitim", "Amaranth", "Bran", "Oatmeal", "Semolina", "Corn Grits", "Wheat Groats", "Barley Groats", "Spelt", "Pearl Barley", "Bulgur", "Quinoa", "Granola", "Muesli", "Cereal Flakes", "Couscous", "Rolled Oats", "Millet", "Baguette", "Tortilla", "Chickpeas", "Lentils", "Lasagna Sheets", "Rice Paper", "Phyllo Dough"]
         },
         {
           "tag": "sauces",
-          "items": ["Canned Foods", "Sauce", "Tomato Paste", "Green Peas", "Canned Peas", "Canned Corn", "Canned Beans", "Olives", "Black Olives", "Capers", "Caperberries", "Pickles", "Pickled Cucumbers", "Salted Tomatoes", "Canned Tomatoes", "Piri-Piri Peppers", "Sauerkraut", "Wild Garlic", "Salted Mushrooms", "Pickled Mushrooms", "Mayonnaise", "Ketchup", "Mustard", "French Mustard", "Dijon Mustard", "Soy Sauce", "Worcestershire Sauce", "Sweet and Sour Sauce", "Teriyaki Sauce", "Fish Sauce", "Oyster Sauce", "Hoisin Sauce", "Pad Thai Sauce", "Hot Sauce", "Lemon Juice", "Lime Juice", "Horseradish", "Adjika", "Tkemali", "Satsebeli", "Canned Pineapple", "Canned Peaches", "Zucchini Caviar", "Eggplant Caviar", "Lecho", "BBQ Sauce", "Pesto", "Sweet Chili Sauce", "Seaweed Salad", "Hummus"]
+          "items": ["Canned Foods", "Sauce", "Tomato Paste", "Green Peas", "Canned Peas", "Canned Corn", "Canned Beans", "Canned Mushrooms", "Olives", "Black Olives", "Capers", "Caperberries", "Pickles", "Pickled Cucumbers", "Salted Tomatoes", "Canned Tomatoes", "Piri-Piri Peppers", "Sauerkraut", "Wild Garlic", "Salted Mushrooms", "Pickled Mushrooms", "Mayonnaise", "Ketchup", "Garlic Sauce", "Tartar Sauce", "Cheese Sauce", "Mustard", "French Mustard", "Dijon Mustard", "Soy Sauce", "Worcestershire Sauce", "Sweet and Sour Sauce", "Teriyaki Sauce", "Fish Sauce", "Oyster Sauce", "Hoisin Sauce", "Pad Thai Sauce", "Hot Sauce", "Sriracha", "Lemon Juice", "Lime Juice", "Horseradish", "Adjika", "Tkemali", "Satsebeli", "Canned Pineapple", "Canned Peaches", "Zucchini Caviar", "Eggplant Caviar", "Lecho", "BBQ Sauce", "Pesto", "Bolognese Sauce", "Carbonara Sauce", "Sweet Chili Sauce", "Seaweed Salad", "Hummus"]
         },
         {
           "tag": "spices",
@@ -39,15 +39,15 @@
         },
         {
           "tag": "nuts",
-          "items": ["Dried Fruits", "Dates", "Prunes", "Raisins", "Dried Apricots", "Nuts", "Hazelnuts", "Pine Nuts", "Walnuts", "Macadamia Nuts", "Brazil Nuts", "Peanuts", "Pecans", "Pistachios", "Almonds", "Cashews", "Seeds", "Sunflower Seeds", "Pumpkin Seeds", "Chia Seeds", "Flax Seeds", "Sesame Seeds", "Dried Mushrooms", "Candied Fruit", "Dried Cranberries", "Dried Figs", "Dried Apples", "Banana Chips", "Dried Mango", "Poppy Seeds"]
+          "items": ["Dried Fruits", "Dates", "Prunes", "Raisins", "Dried Apricots", "Nuts", "Hazelnuts", "Pine Nuts", "Walnuts", "Macadamia Nuts", "Brazil Nuts", "Peanuts", "Pecans", "Pistachios", "Almonds", "Cashews", "Mixed Nuts", "Seeds", "Sunflower Seeds", "Pumpkin Seeds", "Chia Seeds", "Flax Seeds", "Sesame Seeds", "Coconut Flakes", "Dried Mushrooms", "Candied Fruit", "Dried Cranberries", "Dried Figs", "Dried Apples", "Compote Mix", "Banana Chips", "Dried Mango", "Poppy Seeds"]
         },
         {
           "tag": "baking",
-          "items": ["Eggs", "Quail Eggs", "Yeast", "Baking Powder", "Baking Soda", "Vanillin", "Starch", "Gelatin", "Citric Acid", "Pectin", "Agar-Agar", "Powdered Sugar", "Sweetener", "Sugar Substitute", "Breadcrumbs", "Food Coloring", "Sprinkles"]
+          "items": ["Eggs", "Quail Eggs", "Yeast", "Baking Powder", "Baking Soda", "Vanillin", "Starch", "Gelatin", "Citric Acid", "Pectin", "Agar-Agar", "Powdered Sugar", "Vanilla Sugar", "Vanilla Extract", "Sweetener", "Sugar Substitute", "Breadcrumbs", "Food Coloring", "Sprinkles", "Cream Thickener"]
         },
         {
           "tag": "snacks",
-          "items": ["Cookies", "Oat Cookies", "Gingerbread", "Cupcakes", "Candy", "Chocolate", "Milk Chocolate", "Dark Chocolate", "White Chocolate", "Honey", "Flower Honey", "Buckwheat Honey", "Jam", "Raspberry Jam", "Cherry Jam", "Chips", "Crackers", "Croutons", "Dried Squid", "Dried Fish", "Pretzel Sticks", "Wafers", "Marshmallow", "Fruit Leather", "Marmalade", "Halva", "Kozinaki", "Cake", "Pastry", "Eclairs", "Meringue", "Muffins", "Croissants", "Sweet Buns", "Sponge Roll", "Puff Pastry", "Curd Buns", "Sweet Pie", "Caramel", "Lollipops", "Toffee", "Truffles", "Sherbet", "Chocolate Bar", "Wafer Bar", "Muesli Bar", "Jelly", "Confiture", "Syrup", "Chocolate Hazelnut Spread", "Peanut Butter", "Popcorn", "Corn Puffs", "Ice Cream", "Ice Cream Bar", "Vanilla Ice Cream", "Sorbet", "Pudding", "Turkish Delight", "Chak-Chak", "Nougat", "Churchkhela"]
+          "items": ["Cookies", "Oat Cookies", "Gingerbread", "Cupcakes", "Candy", "Chocolate", "Milk Chocolate", "Dark Chocolate", "White Chocolate", "Honey", "Flower Honey", "Buckwheat Honey", "Jam", "Raspberry Jam", "Cherry Jam", "Chips", "Crackers", "Croutons", "Dried Squid", "Dried Fish", "Pretzel Sticks", "Wafers", "Marshmallow", "Fruit Leather", "Marmalade", "Halva", "Kozinaki", "Cake", "Pastry", "Eclairs", "Meringue", "Muffins", "Croissants", "Sweet Buns", "Sponge Roll", "Puff Pastry", "Curd Buns", "Sweet Pie", "Caramel", "Lollipops", "Toffee", "Truffles", "Sherbet", "Chocolate Bar", "Wafer Bar", "Muesli Bar", "Jelly", "Confiture", "Syrup", "Chocolate Hazelnut Spread", "Peanut Butter", "Popcorn", "Corn Puffs", "Ice Cream", "Ice Cream Bar", "Vanilla Ice Cream", "Sorbet", "Pudding", "Turkish Delight", "Chak-Chak", "Nougat", "Churchkhela", "Chewing Gum"]
         },
         {
           "tag": "drinks",
@@ -55,7 +55,7 @@
         },
         {
           "tag": "frozen",
-          "items": ["Vegetable Mix", "Frozen Vegetables", "Hawaiian Mix", "Mexican Mix", "Frozen Berries", "Frozen Pizza", "Frozen Shrimp", "Frozen Cutlets", "Crepes", "Dumplings", "Khinkali", "Manti", "Ravioli", "Vareniki", "Frozen Potatoes", "Frozen Mushrooms", "Frozen Spinach", "Frozen Green Peas", "Frozen Corn", "Frozen Puff Pastry", "Frozen Yeast Dough", "Frozen Nuggets"]
+          "items": ["Vegetable Mix", "Frozen Vegetables", "Hawaiian Mix", "Mexican Mix", "Frozen Berries", "Frozen Pizza", "Frozen Fish", "Frozen Shrimp", "Frozen Seafood", "Frozen Cutlets", "Crepes", "Dumplings", "Khinkali", "Manti", "Ravioli", "Vareniki", "Frozen Potatoes", "Frozen Mushrooms", "Frozen Spinach", "Frozen Green Peas", "Frozen Corn", "Frozen Puff Pastry", "Frozen Yeast Dough", "Frozen Nuggets", "Ice"]
         }
       ]
     },
@@ -65,7 +65,7 @@
       "sections": [
         {
           "tag": "alcohol",
-          "items": ["Vodka", "Cognac", "Armagnac", "Whiskey", "Rum", "Gin", "Tequila", "Absinthe", "Liqueur", "Brandy", "Sambuca", "Calvados", "Grappa", "Schnapps", "Herbal Liqueur", "Becherovka", "Bourbon", "Scotch", "Champagne", "Prosecco", "Cava", "Vermouth", "Bitter", "Sake", "Chacha", "Sparkling Wine", "Red Wine", "White Wine", "Rose Wine", "Dry Wine", "Semi-Dry Wine", "Sweet Wine", "Semi-Sweet Wine", "Table Wine", "Dessert Wine", "Plum Wine", "Port", "Porto", "Sherry", "Madeira", "Lager", "Dark Beer", "Unfiltered Beer", "Wheat Beer", "Ale", "Stout", "Porter", "Pilsner", "Craft Beer", "Non-Alcoholic Beer", "Cider", "Mead"]
+          "items": ["Vodka", "Cognac", "Armagnac", "Whiskey", "Rum", "Gin", "Tequila", "Absinthe", "Liqueur", "Brandy", "Sambuca", "Calvados", "Grappa", "Schnapps", "Bitter Tincture", "Herbal Liqueur", "Becherovka", "Bourbon", "Scotch", "Champagne", "Prosecco", "Cava", "Vermouth", "Bitter", "Sake", "Chacha", "Sparkling Wine", "Red Wine", "White Wine", "Rose Wine", "Dry Wine", "Semi-Dry Wine", "Sweet Wine", "Semi-Sweet Wine", "Table Wine", "Dessert Wine", "Plum Wine", "Porto", "Sherry", "Madeira", "Light Beer", "Lager", "Dark Beer", "Unfiltered Beer", "Wheat Beer", "Ale", "Stout", "Porter", "Pilsner", "Craft Beer", "Non-Alcoholic Beer", "Cider", "Mead"]
         }
       ]
     },
@@ -75,19 +75,19 @@
       "sections": [
         {
           "tag": "laundry",
-          "items": ["Laundry Detergent", "Liquid Laundry Detergent", "Laundry Capsules", "Fabric Softener", "Stain Remover", "Bleach", "Laundry Soap", "Laundry Bag"]
+          "items": ["Laundry Detergent", "Liquid Laundry Detergent", "Laundry Capsules", "Fabric Softener", "Laundry Rinse", "Stain Remover", "Bleach", "Laundry Soap", "Laundry Bag"]
         },
         {
           "tag": "cleaning",
-          "items": ["Detergent", "Cleaning Product", "Floor Cleaner", "Kitchen Cleaner", "Stove Cleaner", "Oven Cleaner", "Window Cleaner", "Bathroom Cleaner", "Toilet Cleaner", "Cillit Bang", "Toilet Duck", "Disinfectant", "Air Freshener", "Furniture Cleaner", "Furniture Polish", "Anti-Static Spray", "Vacuum Bags", "Vacuum Filters", "Drain Cleaner", "Household Gloves", "Disposable Gloves"]
+          "items": ["Detergent", "Cleaning Product", "Floor Cleaner", "Kitchen Cleaner", "Stove Cleaner", "Oven Cleaner", "Window Cleaner", "Bathroom Cleaner", "Toilet Cleaner", "Cillit Bang", "Toilet Duck", "Disinfectant", "Air Freshener", "Furniture Cleaner", "Furniture Polish", "Anti-Static Spray", "Cleaning Sponges", "Floor Cloth", "Vacuum Bags", "Vacuum Filters", "Drain Cleaner", "Household Gloves", "Disposable Gloves"]
         },
         {
           "tag": "kitchen",
-          "items": ["Baking Paper", "Aluminum Foil", "Cling Film", "Roasting Bag", "Baking Bags", "Freezer Bags", "Food Bags", "Baking Dishes", "Ice Bags", "Dishwashing Liquid", "Dish Sponges", "Dish Brush", "Cleaning Cloths", "Microfiber Cloth", "Kitchen Towel", "Paper Towels", "Kitchen Napkins", "Trash Bags", "Dishwasher Tablets", "Dishwasher Salt", "Dishwasher Rinse Aid", "Descaler", "Disposable Plates", "Disposable Cups", "Disposable Shot Cups", "Disposable Forks", "Disposable Knives", "Disposable Spoons", "Disposable Tablecloth", "BBQ Grill", "Grill Grate", "Skewers", "Bamboo Skewers", "Charcoal", "Firelighter"]
+         "items": ["Baking Paper", "Aluminum Foil", "Cling Film", "Roasting Bag", "Baking Bags", "Freezer Bags", "Food Bags", "Ziplock Bags", "Baking Dishes", "Ice Bags", "Ice Cube Tray", "Dishwashing Liquid", "Dish Sponges", "Dish Brush", "Steel Wool Sponge", "Cleaning Cloths", "Microfiber Cloth", "Kitchen Towel", "Paper Towels", "Kitchen Napkins", "Trash Bags", "Dishwasher Tablets", "Dishwasher Salt", "Dishwasher Rinse Aid", "Descaler", "Food Containers", "Disposable Plates", "Disposable Cups", "Disposable Shot Cups", "Disposable Forks", "Disposable Knives", "Disposable Spoons", "Disposable Tablecloth", "BBQ Grill", "Grill Grate", "Skewers", "Bamboo Skewers", "Charcoal", "Firelighter"]
         },
         {
           "tag": "other",
-          "items": ["Moth Repellent", "Insect Repellent", "Mosquito Repellent", "Mosquito Repellent Plug-In", "Clothes Brush", "Lint Roller", "Shoe Polish", "Shoe Brush", "Shoe Sponge", "Batteries", "Light Bulbs", "Matches"]
+          "items": ["Moth Repellent", "Insect Repellent", "Mosquito Repellent", "Mosquito Repellent Plug-In", "Clothes Brush", "Lint Roller", "Shoe Polish", "Shoe Brush", "Shoe Sponge", "Batteries", "Light Bulbs", "Glue", "Tape", "Candles", "Lighter", "Matches"]
         }
       ]
     },
@@ -97,7 +97,7 @@
       "sections": [
         {
           "tag": "hygiene",
-          "items": ["Soap", "Liquid Soap", "Toothbrush", "Toothpaste", "Mouthwash", "Toothpicks", "Dental Floss", "Shampoo", "Hair Conditioner", "Hair Balm", "Hair Oil", "Hair Spray", "Hair Gel", "Bath Foam", "Bath Salt", "Shower Gel", "Intimate Wash", "Face Cream", "Face Scrub", "Body Cream", "Body Lotion", "Eye Cream", "Hand Cream", "Wax Strips", "Depilatory Cream", "Shaving Foam", "Razor", "Razor Blades", "Disposable Razors", "Deodorant", "Cotton Pads", "Cotton Swabs", "Loofah", "Makeup Remover", "Micellar Water", "Face Toner", "Face Mask", "Nail Polish Remover", "Tampons", "Sanitary Pads", "Panty Liners", "Tissues", "Toilet Paper", "Napkins", "Wet Wipes", "Aftershave Balm", "Hair Dye", "Foot Cream", "Hair Mousse", "Condoms", "Lubricant"]
+          "items": ["Soap", "Liquid Soap", "Toothbrush", "Toothpaste", "Mouthwash", "Toothpicks", "Dental Floss", "Shampoo", "Hair Conditioner", "Hair Balm", "Hair Oil", "Hair Spray", "Hair Gel", "Bath Foam", "Bath Salt", "Shower Gel", "Intimate Wash", "Face Cream", "Face Scrub", "Body Cream", "Body Lotion", "Eye Cream", "Hand Cream", "Wax Strips", "Depilatory Cream", "Shaving Foam", "Shaving Gel", "Razor", "Razor Blades", "Disposable Razors", "Deodorant", "Cotton Pads", "Cotton Swabs", "Loofah", "Makeup Remover", "Micellar Water", "Face Toner", "Foaming Cleanser", "Face Wash Gel", "Face Mask", "Nail Polish Remover", "Tampons", "Sanitary Pads", "Panty Liners", "Tissues", "Toilet Paper", "Napkins", "Wet Wipes", "Aftershave Balm", "Hair Dye", "Foot Cream", "Hair Mousse", "Condoms", "Lubricant", "Nail File"]
         }
       ]
     },
