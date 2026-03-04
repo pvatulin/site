@@ -1,0 +1,125 @@
+{
+  "language": "de",
+  "groups": [
+    {
+      "title": "Lebensmittel",
+      "orderIndex": 0,
+      "sections": [
+        {
+          "tag": "vegs",
+          "items": ["Gemüse", "Kräuter", "Kartoffeln", "Frühkartoffeln", "Karotten", "Süßkartoffeln", "Kohl", "Weißkohl", "Rotkohl", "Blumenkohl", "Rosenkohl", "Chinakohl", "Kohlrabi", "Brokkoli", "Rote Bete", "Zwiebeln", "Rote Zwiebeln", "Frühlingszwiebeln", "Lauch", "Schalotten", "Knoblauch", "Gurken", "Essiggurken", "Tomaten", "Cherrytomaten", "Paprika", "Chili", "Paprika (mild)", "Jalapeños", "Auberginen", "Zucchini", "Zucchini (Zucchini)", "Patisson", "Kürbis", "Radieschen", "Daikon", "Salat", "Grünkohl (Kale)", "Römersalat", "Eisbergsalat", "Gartenkresse", "Grüne Bohnen", "Spinat", "Petersilie", "Dill", "Koriander", "Rucola", "Minze", "Sauerampfer", "Zitronenmelisse", "Kopfsalat", "Rosmarin", "Sellerie", "Mais", "Rüben", "Spargel", "Sprossen", "Erbsensprossen", "Bohnensprossen", "Mikrogrün", "Basilikum", "Oregano", "Topinambur", "Artischocken", "Fenchel", "Ingwer", "Pilze", "Shiitake-Pilze", "Enoki-Pilze", "Champignons", "Austernpilze", "Pfifferlinge", "Honigpilze", "Thymian", "Pastinaken", "Rhabarber", "Zitronengras", "Galgant", "Kaffirlimette", "Romanesco"]
+        },
+        {
+          "tag": "fruits",
+          "items": ["Obst", "Beeren", "Äpfel", "Birnen", "Bananen", "Orangen", "Mandarinen", "Zitronen", "Limetten", "Grapefruit", "Pomelo", "Sweetie", "Pflaumen", "Aprikosen", "Trauben", "Kischmisch", "Stachelbeeren", "Hagebutten", "Pfirsiche", "Nektarinen", "Kiwi", "Wassermelone", "Honigmelone", "Avocado", "Feigen", "Granatapfel", "Mango", "Erdbeeren", "Walderdbeeren", "Himbeeren", "Moltebeeren", "Kirschen", "Süßkirschen", "Johannisbeeren", "Heidelbeeren", "Cranberries", "Sanddorn", "Blaubeeren", "Kaki", "Drachenfrucht", "Maracuja", "Papaya", "Ananas", "Kokosnuss", "Salak", "Litschi", "Rambutan", "Tamarinde", "Mangostan", "Longan", "Durian", "Jackfrucht", "Goji-Beeren", "Feijoa", "Physalis", "Guave", "Preiselbeeren", "Kumquat", "Kornelkirsche"]
+        },
+        {
+          "tag": "dairy",
+          "items": ["Milch", "Ziegenmilch", "Magermilch", "Kokosmilch", "Reismilch", "Hafermilch", "Sojamilch", "Gebackene Milch", "Laktosefreie Milch", "Kondensmilch", "Milchpulver", "Pflanzliche Milch", "Gezuckerte Kondensmilch", "Saure Sahne", "Hüttenkäse", "Quarkmasse", "Körniger Frischkäse", "Kinderquark", "Joghurt", "Naturjoghurt", "Trinkjoghurt", "Griechischer Joghurt", "Kefir", "Rjaschenka", "Dickmilch", "Tan", "Ayran", "Sahne", "Schlagsahne", "Kokossahne", "Butter", "Butter (süß)", "Gesalzene Butter", "Schokoladenbutter", "Butterschmalz", "Ghee", "Kokosöl", "Käse", "Frischkäse", "Hartkäse", "Adygeja-Käse", "Schmelzkäse", "Quarkkäse", "Philadelphia", "Blauschimmelkäse", "Brie", "Camembert", "Dor Blue", "Mascarpone", "Ricotta", "Burrata", "Stracciatella", "Parmesan", "Cheddar", "Gouda", "Halloumi", "Maasdam", "Mozzarella", "Käse-Snacks", "Brynza", "Feta", "Suluguni", "Kaymak", "Chechil", "Margarine", "Buttermilch", "Kumys", "Tofu"]
+        },
+        {
+          "tag": "meat",
+          "items": ["Fleisch", "Geflügel", "Rindfleisch", "Rinderzunge", "Kalbfleisch", "Schweinefleisch", "Hähnchen", "Gans", "Wachtel", "Kaninchen", "Hähnchenschenkel", "Hähnchenkeulen", "Hähnchenbrust", "Hähnchenoberkeulen", "Hähnchenflügel", "Hähnchenherzen", "Hähnchenmägen", "Hähnchenleber", "Hähnchenfilet", "Pute", "Putenfilet", "Putenkeule", "Putenoberkeule", "Ente", "Pekingente", "Entenbrust", "Lamm", "Hirschfleisch", "Hackfleisch", "Koteletts", "Rindersteak", "Wurst", "Brühwurst", "Rohwurst", "Doktorskaja-Wurst", "Lyubitelskaya-Wurst", "Cervelat", "Würstchen", "Bockwürste", "Grillwürste", "Kupaty", "Cevapcici", "Bacon", "Jamón", "Karbonade", "Leber", "Dosenfleisch", "Sülze", "Schinken", "Pastete", "Steak", "Ribeye", "Striploin", "Filet mignon", "Rippchen", "Speck", "Schmalz"]
+        },
+        {
+          "tag": "fish",
+          "items": ["Fisch", "Meeresfrüchte", "Thunfisch", "Barrakuda", "Barramundi", "Marlin", "Mahi-Mahi", "Dorade", "Zackenbarsch", "Saira", "Keta-Lachs (Buckellachs)", "Kabeljau", "Seelachs", "Keta", "Silberlachs", "Stint", "Barsch", "Stör", "Makrele", "Heilbutt", "Tilapia", "Scholle", "Wolfsbarsch", "Wels", "Aal", "Brachse", "Hecht", "Capelin", "Lachs", "Forelle", "Atlantischer Lachs", "Hering", "Tintenfische", "Oktopusse", "Krabbe", "Krabbenfleisch", "Krabbenstäbchen", "Kaviar", "Muscheln", "Garnelen", "Jakobsmuscheln", "Austern", "Fischkonserven", "Lachs (leicht gesalzen)", "Forelle (leicht gesalzen)", "Karpfen", "Zander", "Navaga", "Seehecht", "Sockeye-Lachs", "Pangasius", "Flusskrebse", "Hummer", "Sardellen", "Sprotten", "Grundeln"]
+        },
+        {
+          "tag": "bread",
+          "items": ["Brot", "Brötchen", "Baguette", "Aufschnitt-Brot", "Toastbrot", "Schwarzbrot", "Roggenbrot", "Brühbrot", "Borodinski-Brot", "Knäckebrot", "Lavash", "Fladenbrot", "Pita", "Ciabatta", "Mehl", "Weizenmehl", "Roggenmehl", "Hafermehl", "Buchweizenmehl", "Reismehl", "Kichererbsenmehl", "Maismehl", "Mandelmehl", "Kokosmehl", "Zucker", "Rohrzucker", "Brauner Zucker", "Salz", "Meersalz", "Himalayasalz", "Reis", "Vollkornreis", "Roter Reis", "Basmati-Reis", "Jasminreis", "Buchweizen", "Grüner Buchweizen", "Erbsen", "Bohnen", "Spaghetti", "Nudeln", "Udon-Nudeln", "Soba-Nudeln", "Ramen-Nudeln", "Funschosa", "Pasta", "Vermicelli", "Ptitim", "Amaranth", "Kleie", "Haferflocken", "Grieß", "Maisgrütze", "Weizengrütze", "Gerstengrütze", "Hirsegrütze", "Dinkel", "Perlgraupen", "Bulgur", "Quinoa", "Granola", "Flocken", "Couscous", "Herkulesflocken", "Hirse", "Baguette", "Tortilla", "Kichererbsen", "Linsen", "Müsli", "Lasagneblätter", "Reispapier", "Filoteig"]
+        },
+        {
+          "tag": "sauces",
+          "items": ["Konserven", "Soße", "Tomatenmark", "Grüne Erbsen", "Erbsen (Konserve)", "Mais (Konserve)", "Bohnen (Konserve)", "Champignons (Konserve)", "Oliven", "Schwarze Oliven", "Kapern", "Kapernfrüchte", "Salzgurken", "Gewürzgurken", "Salztomaten", "Tomaten (Konserve)", "Piri-piri", "Sauerkraut", "Bärlauch", "Gesalzene Pilze", "Eingelegte Pilze", "Mayonnaise", "Ketchup", "Knoblauchsoße", "Tartarsoße", "Käsesoße", "Senf", "Französischer Senf", "Dijon-Senf", "Sojasoße", "Worcestersoße", "Süß-saure Soße", "Teriyaki-Soße", "Fischsoße", "Austernsoße", "Sriracha-Soße", "Hoisin-Soße", "Pad-Thai-Soße", "Scharfe Soße", "Zitronensaft", "Limettensaft", "Meerrettich", "Adjika", "Tkemali", "Satsebeli", "Ananas (Konserve)", "Pfirsiche (Konserve)", "Zucchini-Kaviar", "Auberginen-Kaviar", "Lecho", "Barbecue-Soße", "Pesto", "Bolognese-Soße", "Carbonara-Soße", "Sweet-Chili-Soße", "Meeresalgen", "Hummus"]
+        },
+        {
+          "tag": "spices",
+          "items": ["Gewürze", "Sonnenblumenöl", "Pflanzenöl", "Olivenöl", "Sesamöl", "Senföl", "Leinöl", "Maisöl", "Erdnussöl", "Traubenkernöl", "Avocadoöl", "Schwarzer Pfeffer", "Roter Pfeffer", "Pfeffermischung", "Lorbeerblatt", "Getrocknetes Basilikum", "Getrockneter Dill", "Getrocknete Petersilie", "Getrockneter Knoblauch", "Curry", "Paprika", "Zira", "Zimt", "Nelken", "Kardamom", "Koriander", "Kurkuma", "Kümmel", "Getrockneter Thymian", "Getrockneter Oregano", "Muskatnuss", "Kräuter der Provence", "Französische Kräuter", "Italienische Kräuter", "Tafelessig", "Weinessig", "Apfelessig", "Balsamico-Essig", "Reisessig", "Khmeli-Suneli", "Gewürzmischung für Pilaw", "Safran", "Sternanis", "Majoran", "Getrockneter Estragon"]
+        },
+        {
+          "tag": "nuts",
+          "items": ["Trockenfrüchte", "Datteln", "Pflaumen (getrocknet)", "Rosinen", "Getrocknete Aprikosen", "Nüsse", "Haselnüsse", "Pinienkerne", "Walnüsse", "Macadamianüsse", "Paranüsse", "Erdnüsse", "Haselnuss", "Pekannüsse", "Pistazien", "Mandeln", "Nussmischung", "Cashewnüsse", "Kerne", "Sonnenblumenkerne", "Kürbiskerne", "Samen", "Chiasamen", "Leinsamen", "Sesamsamen", "Kokosraspeln", "Getrocknete Pilze", "Kandierte Früchte", "Getrocknete Cranberries", "Getrocknete Feigen", "Getrocknete Äpfel", "Mischung für Kompott", "Bananenchips", "Getrocknete Mango", "Mohn"]
+        },
+        {
+          "tag": "baking",
+          "items": ["Eier", "Wachteleier", "Hefe", "Backpulver", "Natron", "Stärke", "Gelatine", "Zitronensäure", "Pektin", "Agar-Agar", "Puderzucker", "Vanillezucker", "Vanilleextrakt", "Vanillin", "Süßstoff", "Zuckerersatz", "Paniermehl", "Lebensmittelfarbe", "Zuckerstreusel", "Schokolade zum Backen", "Sahnefestiger"]
+        },
+        {
+          "tag": "snacks",
+          "items": ["Kekse", "Haferkekse", "Lebkuchen", "Cupcakes", "Bonbons", "Schokolade", "Milchschokolade", "Zartbitterschokolade", "Weiße Schokolade", "Honig", "Blütenhonig", "Buchweizenhonig", "Marmelade", "Himbeermarmelade", "Kirschmarmelade", "Chips", "Cracker", "Croutons", "Getrockneter Tintenfisch", "Getrockneter Fisch", "Salzstangen", "Waffeln", "Marshmallows", "Pastila", "Gummibärchen", "Halva", "Kozinaki", "Torte", "Gebäck", "Éclairs", "Baiser", "Muffins", "Croissants", "Süße Brötchen", "Biskuitrolle", "Blätterteiggebäck", "Vatrushki", "Süßer Kuchen", "Karamell", "Lutscher", "Toffee", "Trüffel", "Scherbet", "Schokoriegel", "Waffelriegel", "Müsliriegel", "Konfitüre", "Konfitüre", "Sirup", "Schoko-Nuss-Creme", "Erdnussbutter", "Popcorn", "Maissticks", "Marshmallow", "Eis", "Eis am Stiel", "Plombir", "Sorbet", "Pudding", "Rahat-Lokum", "Chak-Chak", "Nougat", "Churchkhela", "Kaugummi"]
+        },
+        {
+          "tag": "drinks",
+          "items": ["Tee", "Schwarzer Tee", "Grüner Tee", "Weißer Tee", "Kräutertee", "Milch-Oolong", "Pu-erh", "Iwan-Tee", "Kaffee", "Gemahlener Kaffee", "Instantkaffee", "Kaffeebohnen", "Kaffee in Kapseln", "Mate", "Kakaopulver", "Matcha", "Karkade", "Kamille", "Zichorie", "Gerste", "Saft", "Tomatensaft", "Mors", "Kompott", "Kwass", "Limonade", "Eistee", "Limonade (sprudelnd)", "Energydrink", "Wasser", "Mineralwasser", "Sprudelwasser"]
+        },
+        {
+          "tag": "frozen",
+          "items": ["Gemüsemischung", "Tiefkühlgemüse", "Hawaii-Mix", "Mexiko-Mix", "Tiefkühlbeeren", "Tiefkühlpizza", "Tiefkühlfisch", "Tiefkühlgarnelen", "Tiefkühl-Meeresfrüchte", "Tiefkühl-Frikadellen", "Pfannkuchen", "Pelmeni", "Chinkali", "Manti", "Ravioli", "Wareniki", "Tiefkühlkartoffeln", "Tiefkühlpilze", "Tiefkühlspinat", "Tiefkühlerbsen", "Tiefkühlmais", "Tiefkühl-Blätterteig", "Tiefkühl-Hefeteig", "Tiefkühl-Nuggets", "Speiseeiswürfel"]
+        }
+      ]
+    },
+    {
+      "title": "Alkohol",
+      "orderIndex": 1,
+      "sections": [
+        {
+          "tag": "alcohol",
+          "items": ["Wodka", "Cognac", "Armagnac", "Whisky", "Rum", "Gin", "Tequila", "Absinth", "Likör", "Brandy", "Sambuca", "Calvados", "Grappa", "Schnaps", "Bitter (Tinktur)", "Kräutertinktur", "Becherovka", "Bourbon", "Scotch", "Champagner", "Prosecco", "Cava", "Wermut", "Bitter", "Saké", "Chacha", "Schaumwein", "Rotwein", "Weißwein", "Roséwein", "Trockener Wein", "Halbtrockener Wein", "Süßer Wein", "Halbsüßer Wein", "Tafelwein", "Dessertwein", "Pflaumenwein", "Portwein", "Porto", "Sherry", "Madeira", "Helles Bier", "Dunkles Bier", "Unfiltriertes Bier", "Weizenbier", "Lager", "Ale", "Stout", "Porter", "Pilsner", "Craftbier", "Alkoholfreies Bier", "Cider", "Met"]
+        }
+      ]
+    },
+    {
+      "title": "Haushalt",
+      "orderIndex": 2,
+      "sections": [
+        {
+          "tag": "laundry",
+          "items": ["Waschpulver", "Waschmittel (flüssig)", "Waschkapseln", "Weichspüler", "Wäscheconditioner", "Fleckentferner", "Bleichmittel", "Haushaltsseife", "Wäschenetz"]
+        },
+        {
+          "tag": "cleaning",
+          "items": ["Reinigungsmittel", "Scheuermittel", "Bodenreiniger", "Küchenreiniger", "Herdreiniger", "Backofenreiniger", "Fensterreiniger", "Badreiniger", "WC-Reiniger", "Cillit Bang", "WC-Ente", "Desinfektionsmittel", "Lufterfrischer", "Möbelreiniger", "Möbelpolitur", "Antistatik-Spray", "Putzschwämme", "Wischlappen", "Staubsaugerbeutel", "Staubsaugerfilter", "Rohrreiniger", "Haushaltshandschuhe", "Einweghandschuhe"]
+        },
+        {
+          "tag": "kitchen",
+          "items": ["Backpapier", "Alufolie", "Frischhaltefolie", "Bratschlauch", "Backbeutel", "Gefrierbeutel", "Gefrierbeutel (Portion)", "Zip-Beutel", "Backformen", "Eisbeutel", "Eiswürfelform", "Spülmittel", "Spülschwämme", "Spülbürste", "Stahlschwamm", "Putztücher", "Mikrofasertuch", "Küchentuch", "Küchenpapier", "Papierservietten", "Müllbeutel", "Geschirrspültabs", "Spülmaschinensalz", "Klarspüler", "Entkalker", "Vorratsdosen", "Einwegteller", "Einwegbecher", "Einweg-Schnapsgläser", "Einweggabeln", "Einwegmesser", "Einweglöffel", "Einweg-Tischdecke", "Grill", "Grillrost", "Spieße", "Bambusspieße", "Grillkohle", "Anzündflüssigkeit"]
+        },
+        {
+          "tag": "other",
+          "items": ["Mottenmittel", "Insektenspray", "Mückenschutz", "Mückenverdampfer", "Kleiderbürste", "Kleiderrolle", "Schuhcreme", "Schuhbürste", "Schuhschwamm", "Batterien", "Glühbirnen", "Kleber", "Klebeband", "Kerzen", "Feuerzeug", "Streichhölzer"]
+        }
+      ]
+    },
+    {
+      "title": "Hygiene",
+      "orderIndex": 3,
+      "sections": [
+        {
+          "tag": "hygiene",
+          "items": ["Seife", "Flüssigseife", "Zahnbürste", "Zahnpasta", "Mundspülung", "Zahnstocher", "Zahnseide", "Shampoo", "Haarspülung", "Haarbalsam", "Haaröl", "Haarspray", "Haargel", "Badeschaum", "Badesalz", "Duschgel", "Intimwaschlotion", "Gesichtscreme", "Gesichtspeeling", "Körpercreme", "Körperlotion", "Augencreme", "Handcreme", "Wachsstreifen", "Enthaarungscreme", "Rasierschaum", "Rasiergel", "Rasierapparat", "Rasierklingen", "Einwegrasierer", "Deodorant", "Antitranspirant", "Wattepads", "Wattestäbchen", "Waschlappen", "Make-up-Entferner", "Mizellenwasser", "Gesichtswasser", "Gesichtsreinigungsschaum", "Gesichtsreinigungsgel", "Gesichtsmaske", "Nagellackentferner", "Tampons", "Binden", "Slipeinlagen", "Taschentücher", "Toilettenpapier", "Servietten", "Feuchttücher", "Intimtücher", "Aftershave-Balsam", "Haarfarbe", "Fußcreme", "Haarmousse", "Kondome", "Gleitmittel", "Nagelfeile"]
+        }
+      ]
+    },
+    {
+      "title": "Baby",
+      "orderIndex": 4,
+      "sections": [
+        {
+          "tag": "baby",
+          "items": ["Pampers", "Windeln", "Pants-Windeln", "Feuchttücher für Babys", "Babypuder", "Babycreme", "Babyseife", "Babyshampoo", "Babybadgel", "Baby-Badeschaum", "Babyöl", "Babylotion", "Einweg-Unterlagen", "Wiederverwendbare Unterlagen", "Säuglingsnahrung", "Babybrei", "Gemüsepüree", "Fruchtpüree", "Fleischpüree", "Babysaft", "Babywasser", "Rassel", "Badespielzeug", "Babyflasche", "Flaschenbürste", "Flaschensauger", "Schnuller", "Sterilisator für Flaschen", "Flaschenwärmer", "Beißring", "Babygeschirr", "Lätzchen", "Babylätzchen", "Babythermometer", "Babybadeschwamm", "Babyhandtuch"]
+        }
+      ]
+    },
+    {
+      "title": "Haustiere",
+      "orderIndex": 5,
+      "sections": [
+        {
+          "tag": "pets",
+          "items": ["Trockenfutter für Katzen", "Trockenfutter für Hunde", "Nassfutter für Katzen", "Nassfutter für Hunde", "Dosenfutter für Katzen", "Dosenfutter für Hunde", "Leckerlis für Katzen", "Leckerlis für Hunde", "Futter für Nagetiere", "Futter für Vögel", "Futter für Fische", "Aquarienfutter", "Vitamine für Tiere", "Futter- und Wassernapf", "Tränke für Vögel", "Tränke für Nagetiere", "Futterspender für Vögel", "Futterspender für Nagetiere", "Katzenstreu", "Streu für Nagetiere", "Tierunterlagen", "Tiershampoo", "Fellbürste", "Krallenschneider", "Floh- und Zeckenhalsband", "Mittel gegen Flöhe und Zecken", "Parasitenspray", "Spot-on", "Katzenspielzeug", "Hundespielzeug", "Halsband", "Leine", "Rollleine", "Geschirr", "Maulkorb", "Transportbox"]
+        }
+      ]
+    }
+  ]
+}
