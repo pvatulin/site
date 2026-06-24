@@ -19,6 +19,12 @@
   .screenshots img { width:100%; border-radius:14px; border:1px solid #e2e8f0; }
   footer { text-align:center; color:#64748b; padding:32px 24px; }
   nav a { margin: 0 8px; color:#0f172a; }
+  .apps { position: absolute; left: 12px; top: 12px; }
+  .apps button { border:1px solid #cbd5e1; background:#fff; padding:6px 10px; border-radius:8px; cursor:pointer; }
+  .apps-menu { display:none; position:absolute; left:0; top:38px; background:#fff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; min-width:150px; box-shadow:0 4px 12px rgba(15,23,42,0.12); }
+  .apps-menu a { display:block; padding:10px 12px; color:#0f172a; text-decoration:none; white-space:nowrap; }
+  .apps-menu a:hover { background:#f8fafc; }
+  .apps.open .apps-menu { display:block; }
   .lang { position: absolute; right: 12px; top: 12px; display:flex; gap:8px; }
   .lang button { border:1px solid #cbd5e1; background:#fff; padding:6px 10px; border-radius:8px; cursor:pointer; }
   .lang button.active { background:#0f172a; color:#fff; border-color:#0f172a; }
@@ -28,6 +34,14 @@
 </head>
 <body>
   <header>
+    <div class="apps">
+      <button onclick="toggleApps()">☰</button>
+      <div class="apps-menu">
+        <a href="../checklist/">CheckList</a>
+        <a href="../plansboard/">PlansBoard</a>
+      </div>
+    </div>
+    
     <div class="lang">
       <button id="btn-en" onclick="setLang('en')">EN</button>
       <button id="btn-ru" onclick="setLang('ru')">RU</button>
@@ -162,6 +176,10 @@
     }
   };
 
+  function toggleApps() {
+    document.querySelector('.apps').classList.toggle('open');
+  }
+  
   function setLang(lang) {
     localStorage.setItem('lang', lang);
     document.documentElement.lang = lang;
