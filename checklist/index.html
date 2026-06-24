@@ -15,8 +15,12 @@
   .container { max-width: 980px; margin: 0 auto; padding: 24px; }
   .features { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap:16px; }
   .card { border:1px solid #e2e8f0; border-radius:14px; padding:16px; background:#fff; }
-  .screenshots { display:grid; grid-template-columns: repeat(auto-fit, minmax(260px,1fr)); gap:12px; margin-top: 12px; }
-  .screenshots img { width:100%; border-radius:14px; border:1px solid #e2e8f0; }
+  .screens-wrap { position:relative; }
+  .screenshots { display:flex; gap:12px; margin-top:12px; overflow-x:auto; scroll-behavior:smooth; }
+  .screenshots img { width:260px; flex:0 0 auto; border-radius:14px; border:1px solid #e2e8f0; }
+  .screen-arrow { position:absolute; top:50%; transform:translateY(-50%); border:1px solid #cbd5e1; background:#fff; padding:8px 10px; border-radius:8px; cursor:pointer; }
+  .screen-arrow.left { left:-12px; }
+  .screen-arrow.right { right:-12px; }
   footer { text-align:center; color:#64748b; padding:32px 24px; }
   nav a { margin: 0 8px; color:#0f172a; }
   .apps { position: absolute; left: 12px; top: 12px; }
@@ -74,10 +78,15 @@
     <section id="screens" class="section">
       <h2 data-i18n="screens.title"></h2>
       <p data-i18n="screens.note"></p>
-      <div class="screenshots">
-        <img src="assets/cl_screen_1.png" alt="Screenshot 1">
-        <img src="assets/cl_screen_2.png" alt="Screenshot 2">
-        <img src="assets/cl_screen_3.png" alt="Screenshot 3">
+      <div class="screens-wrap">
+        <button class="screen-arrow left" onclick="scrollScreens(-1)">‹</button>
+        <div class="screenshots" id="screenshots">
+          <img src="assets/cl_screen_1.png" alt="Screenshot 1">
+          <img src="assets/cl_screen_2.png" alt="Screenshot 2">
+          <img src="assets/cl_screen_3.png" alt="Screenshot 3">
+          <img src="assets/cl_screen_4.png" alt="Screenshot 4">
+        </div>
+        <button class="screen-arrow right" onclick="scrollScreens(1)">›</button>
       </div>
     </section>
 
@@ -177,6 +186,11 @@
     }
   };
 
+  function scrollScreens(direction) {
+    const box = document.getElementById('screenshots');
+    if (box) box.scrollBy({ left: direction * 280, behavior: 'smooth' });
+  }
+  
   function toggleApps() {
     document.querySelector('.apps').classList.toggle('open');
   }
