@@ -9,6 +9,8 @@
     h1 { font-size: 28px; }
     h2 { margin-top: 20px; font-size: 20px; }
     p { color:#334155; line-height: 1.6; }
+    .back { position: fixed; left: 12px; top: 12px; }
+    .back a { display:inline-block; border:1px solid #cbd5e1; background:#fff; padding:6px 10px; border-radius:8px; text-decoration:none; color:#0f172a; }
     .lang { position: fixed; right: 12px; top: 12px; display:flex; gap:8px; }
     .lang button { border:1px solid #cbd5e1; background:#fff; padding:6px 10px; border-radius:8px; cursor:pointer; }
     .lang button.active { background:#0f172a; color:#fff; border-color:#0f172a; }
@@ -16,9 +18,7 @@
   </style>
 </head>
 <body>
-  <div style="position: fixed; left: 12px; top: 12px;">
-    <a href="index.html">←</a>
-  </div>
+  <div class="back"><a href="index.html">←</a></div>
   
   <div class="lang">
     <button id="btn-en" onclick="setLang('en')">EN</button>
