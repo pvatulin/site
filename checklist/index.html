@@ -30,6 +30,11 @@
   .apps-menu img { width:32px; height:32px; border-radius:22%; flex-shrink:0; }
   .apps-menu a:hover { background:#f8fafc; }
   .apps.open .apps-menu { display:block; }
+  body.dark { background:#0f172a; color:#f8fafc; }
+  body.dark header { background:#1e293b; }
+  body.dark p, body.dark p.lead, body.dark footer { color:#cbd5e1; }
+  body.dark .card, body.dark .apps-menu, body.dark .apps button, body.dark .lang button, body.dark .screen-arrow { background:#1e293b; color:#f8fafc; border-color:#334155; }
+  body.dark nav a, body.dark a { color:#f8fafc; }
   .lang { position: absolute; right: 12px; top: 12px; display:flex; gap:8px; }
   .lang button { border:1px solid #cbd5e1; background:#fff; padding:6px 10px; border-radius:8px; cursor:pointer; }
   .lang button.active { background:#0f172a; color:#fff; border-color:#0f172a; }
@@ -48,6 +53,7 @@
     </div>
     
     <div class="lang">
+      <button id="btn-theme" onclick="toggleTheme()">🌙</button>
       <button id="btn-en" onclick="setLang('en')">EN</button>
       <button id="btn-ru" onclick="setLang('ru')">RU</button>
     </div>
@@ -81,10 +87,10 @@
       <div class="screens-wrap">
         <button class="screen-arrow left" onclick="scrollScreens(-1)">‹</button>
         <div class="screenshots" id="screenshots">
-          <img id="screen1" src="assets/ru_checklist_1.png" alt="Screenshot 1">
-          <img id="screen2" src="assets/ru_checklist_2.png" alt="Screenshot 2">
-          <img id="screen3" src="assets/ru_checklist_3.png" alt="Screenshot 3">
-          <img id="screen4" src="assets/ru_checklist_4.png" alt="Screenshot 4">
+          <img id="screen1" src="assets/checklist_ru_1.png" alt="Screenshot 1">
+          <img id="screen2" src="assets/checklist_ru_2.png" alt="Screenshot 2">
+          <img id="screen3" src="assets/checklist_ru_3.png" alt="Screenshot 3">
+          <img id="screen4" src="assets/checklist_ru_4.png" alt="Screenshot 4">
         </div>
         <button class="screen-arrow right" onclick="scrollScreens(1)">›</button>
       </div>
@@ -186,6 +192,13 @@
     }
   };
 
+  function toggleTheme() {
+    document.body.classList.toggle('dark');
+    const dark = document.body.classList.contains('dark');
+    document.getElementById('btn-theme').textContent = dark ? '☀️' : '🌙';
+    localStorage.setItem('theme', dark ? 'dark' : 'light');
+  }
+  
   function scrollScreens(direction) {
     const box = document.getElementById('screenshots');
     if (box) box.scrollBy({ left: direction * 280, behavior: 'smooth' });
@@ -209,13 +222,18 @@
     
     for (let i = 1; i <= 4; i++) {
       const screen = document.getElementById('screen' + i);
-      if (screen) screen.src = `assets/${lang}_checklist_${i}.png`;
+      if (screen) screen.src = `assets/checklist_${lang}_${i}.png`;
     }
   }
 
   function initLang(defaultLang='ru') {
     const stored = localStorage.getItem('lang');
     setLang(stored || defaultLang);
+
+    if (localStorage.getItem('theme') === 'dark') {
+      document.body.classList.add('dark');
+      document.getElementById('btn-theme').textContent = '☀️';
+    }
   }
 
   document.addEventListener('DOMContentLoaded', () => initLang('ru'));
