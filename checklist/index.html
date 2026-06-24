@@ -42,8 +42,8 @@
     <div class="apps">
       <button onclick="toggleApps()">☰</button>
       <div class="apps-menu">
-        <a href="../checklist/"><img src="../checklist/assets/cl_app_icon.png" alt="">CheckList</a>
-        <a href="../plansboard/"><img src="../plansboard/assets/app_icon.png" alt="">PlansBoard</a>
+        <a href="../checklist/"><img src="../checklist/assets/checklist_icon.png" alt="">CheckList</a>
+        <a href="../plansboard/"><img src="../plansboard/assets/plansboard_icon.png" alt="">PlansBoard</a>
       </div>
     </div>
     
@@ -51,7 +51,7 @@
       <button id="btn-en" onclick="setLang('en')">EN</button>
       <button id="btn-ru" onclick="setLang('ru')">RU</button>
     </div>
-    <img src="assets/cl_app_icon.png" alt="App icon" width="96" height="96" style="border-radius:22%; border:1px solid #e2e8f0;">
+    <img src="assets/checklist_icon.png" alt="App icon" width="96" height="96" style="border-radius:22%; border:1px solid #e2e8f0;">
     <h1 data-i18n="app.title"></h1>
     <p class="lead" data-i18n="app.lead"></p>
     <div>
@@ -81,10 +81,10 @@
       <div class="screens-wrap">
         <button class="screen-arrow left" onclick="scrollScreens(-1)">‹</button>
         <div class="screenshots" id="screenshots">
-          <img src="assets/cl_screen_1.png" alt="Screenshot 1">
-          <img src="assets/cl_screen_2.png" alt="Screenshot 2">
-          <img src="assets/cl_screen_3.png" alt="Screenshot 3">
-          <img src="assets/cl_screen_4.png" alt="Screenshot 4">
+          <img id="screen1" src="assets/ru_checklist_1.png" alt="Screenshot 1">
+          <img id="screen2" src="assets/ru_checklist_2.png" alt="Screenshot 2">
+          <img id="screen3" src="assets/ru_checklist_3.png" alt="Screenshot 3">
+          <img id="screen4" src="assets/ru_checklist_4.png" alt="Screenshot 4">
         </div>
         <button class="screen-arrow right" onclick="scrollScreens(1)">›</button>
       </div>
@@ -206,6 +206,11 @@
     document.querySelectorAll('.lang button').forEach(b => b.classList.remove('active'));
     const btn = document.getElementById('btn-' + lang);
     if (btn) btn.classList.add('active');
+    
+    for (let i = 1; i <= 4; i++) {
+      const screen = document.getElementById('screen' + i);
+      if (screen) screen.src = `assets/${lang}_screen_${i}.png`;
+    }
   }
 
   function initLang(defaultLang='ru') {
