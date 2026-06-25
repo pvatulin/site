@@ -5,79 +5,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>PV</title>
   <style>
-    :root {
-      /* --bg: #0f1115;          очень тёмно-серый фон */
-      --bg: #0b0b0b;
-      --size: 480px;          /* размер “аватара” (круга) */
-      --zoom: 2;              /* 200% */
-    }
-
-    html, body {
-      height: 100%;
-      margin: 0;
-      background: var(--bg);
-    }
-
-    .center {
-      height: 100%;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-    }
-
-    /* Круг-аватар: ровное обрезание по кругу */
-    .avatar {
-      width: var(--size);
-      height: var(--size);
-      border-radius: 50%;
-      overflow: hidden;
-      display: grid;
-      place-items: center;
-      
-      background: #141414; /* фон круга — светлее страницы */
-      border: 1px solid rgba(255, 255, 255, 0.12);
-    }
-
-    /* Масштабируем логотип на 200% внутри круга */
-    .avatar img {
-      width: 100%;
-      height: 100%;
-      object-fit: contain;
-      display: block;
-      user-select: none;
-      -webkit-user-drag: none;
-      pointer-events: none;
-    }
-
-    .apps-bar {
-      margin-top: 28px;
-      padding: 18px 24px;
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      background: rgba(20,20,20,.75);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-      border: 1px solid rgba(255,255,255,.08);
-      border-radius: 24px;
-    }
+    :root { --bg: #0b0b0b; --size: 480px; }
     
-    .app img {
-      width: 72px;
-      height: 72px;
-      border-radius: 22%;
-      display: block;
-      transition: transform .2s;
-      cursor: pointer;
-    }
+    html, body { height: 100%; margin: 0; background: var(--bg); }
     
-    .app:hover img {
-      transform: scale(1.08);
-    }
+    .center { height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; }
+    .avatar { width: var(--size); height: var(--size); border-radius: 50%; overflow: hidden; display: grid; place-items: center; background: #141414; border: 1px solid rgba(255, 255, 255, 0.12); }
+    .avatar img { width: 100%; height: 100%; object-fit: contain; display: block; user-select: none; -webkit-user-drag: none; pointer-events: none; }
+    
+    .apps-bar { margin-top: 28px; padding: 18px 24px; display: flex; justify-content: center; gap: 20px; background: rgba(20, 20, 20, .75); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border: 1px solid rgba(255, 255, 255, .08); border-radius: 24px; }
+    .app img { width: 72px; height: 72px; border-radius: 22%; display: block; cursor: pointer; transition: transform .2s ease; }
+    .app:hover img { transform: scale(1.08); }
+
+    .theme { position: fixed; right: 12px; top: 12px; }
+    .theme button { width: 38px; height: 38px; border: 1px solid #cbd5e1; background: #fff; border-radius: 8px; cursor: pointer; font-size: 20px; padding: 0; }
+    .theme button:hover { background: #f8fafc; border-color: #0f172a; }
+
+    body.dark { background: #0f172a; color: #f8fafc; }
+    body.dark .avatar { background: #1e293b; border-color: #334155; }
+    body.dark .apps-bar { background: #1e293b; border-color: #334155; }
+    body.dark .theme button { background: #1e293b; color: #f8fafc; border-color: #334155; }
+    body.dark .theme button:hover { background: #334155; border-color: #334155; }
+    
   </style>
 </head>
 <body>
+  <div class="theme"><button id="btn-theme" onclick="toggleTheme()">🌙</button></div>
+  
   <div class="center">
     <div class="avatar" aria-label="Logo">
       <img src="assets/developer.png" alt="Logo">
@@ -88,5 +42,19 @@
       <a href="plansboard/" class="app"><img src="plansboard/assets/_plansboard_icon.png" alt="PlansBoard"></a>
     </div>
   </div>
+
+  <script>
+  function toggleTheme() {
+    document.body.classList.toggle('dark');
+    const dark = document.body.classList.contains('dark');
+    document.getElementById('btn-theme').textContent = dark ? '☀️' : '🌙';
+    localStorage.setItem('theme', dark ? 'dark' : 'light');
+  }
+  
+  if (localStorage.getItem('theme') === 'dark') {
+    document.body.classList.add('dark');
+    document.getElementById('btn-theme').textContent = '☀️';
+  }
+  </script>
 </body>
 </html>
