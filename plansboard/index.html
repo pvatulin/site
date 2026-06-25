@@ -52,7 +52,7 @@
   
   .overlay { position: fixed; inset: 0; background: rgba(15, 23, 42, .65); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); display: flex; justify-content: center; align-items: center; z-index: 9999; }
   .overlay-box { max-width: 520px; margin: 24px; padding: 32px; background: #fff; border: 1px solid #e2e8f0; border-radius: 20px; text-align: center; }
-  .overlay-box h1 { margin: 0; font-size: 24px; font-weight: 600; }
+  .overlay-box h1 { margin: 0; font-size: clamp(24px, 3vw, 32px); font-weight: 600; }
   body.dark .overlay-box { background: #1e293b; border-color: #334155; }
 
   
