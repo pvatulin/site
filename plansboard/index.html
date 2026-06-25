@@ -15,19 +15,36 @@
   .container { max-width: 980px; margin: 0 auto; padding: 24px; }
   .features { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap:16px; }
   .card { border:1px solid #e2e8f0; border-radius:14px; padding:16px; background:#fff; }
-  .screenshots { display:grid; grid-template-columns: repeat(auto-fit, minmax(260px,1fr)); gap:12px; margin-top: 12px; }
-  .screenshots img { width:100%; border-radius:14px; border:1px solid #e2e8f0; }
+  .screens-wrap { position:relative; }
+  .screenshots { display:flex; gap:12px; margin-top:12px; overflow-x:auto; scroll-behavior:smooth; }
+  .screenshots img { width:260px; flex:0 0 auto; border-radius:14px; border:1px solid #e2e8f0; }
+  .screen-arrow { position:absolute; top:50%; transform:translateY(-50%); width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; border-radius:8px; cursor:pointer; padding:0; font-size:20px; line-height:1; }
+  .screen-arrow.left { left:-12px; }
+  .screen-arrow.right { right:-12px; }
   footer { text-align:center; color:#64748b; padding:32px 24px; }
   nav a { margin: 0 8px; color:#0f172a; }
+  body.dark { background:#0f172a; color:#f8fafc; }
+  body.dark header { background:#1e293b; }
+  body.dark p, body.dark p.lead, body.dark footer { color:#cbd5e1; }
+  body.dark .card, body.dark .apps-menu, body.dark .apps button, body.dark .theme button, body.dark .lang button, body.dark .screen-arrow { background:#1e293b; color:#f8fafc; border-color:#334155; }
+  body.dark nav a, body.dark a { color:#f8fafc; }
+  body.dark .lang button.active { background:#334155; color:#f8fafc; border-color:#334155; }
+  body.dark .apps button:hover { background:#334155; color:#f8fafc; border-color:#334155; }
+  body.dark .apps-menu a:hover { background:#334155; }
+  body.dark .theme button:hover { background:#334155; color:#f8fafc; border-color:#334155; }
   .apps { position: absolute; left: 12px; top: 12px; }
-  .apps button { border:1px solid #cbd5e1; background:#fff; padding:4px 11px; border-radius:8px; cursor:pointer; font-size:20px; line-height:1; }
-  .apps-menu { display:none; position:absolute; left:0; top:38px; background:#fff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; min-width:150px; box-shadow:0 4px 12px rgba(15,23,42,0.12); }
+  .apps button { width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; border-radius:8px; cursor:pointer; font-size:24px; line-height:1; padding:0; }
+  .apps button:hover { background:#f8fafc; border-color:#0f172a; }
+  .apps-menu { display:none; position:absolute; left:0; top:48px; background:#fff; border:1px solid #e2e8f0; border-radius:10px; overflow:hidden; min-width:150px; box-shadow:0 4px 12px rgba(15,23,42,0.12); }
   .apps-menu a { display:flex; align-items:center; gap:10px; padding:7px 12px; color:#0f172a; text-decoration:none; white-space:nowrap; }
   .apps-menu img { width:32px; height:32px; border-radius:22%; flex-shrink:0; }
   .apps-menu a:hover { background:#f8fafc; }
   .apps.open .apps-menu { display:block; }
+  .theme { position: absolute; right: 120px; top: 12px; }
+  .theme button { width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; border-radius:8px; cursor:pointer; font-size:20px; padding:0; }
+  .theme button:hover { background:#f8fafc; border-color:#0f172a; }
   .lang { position: absolute; right: 12px; top: 12px; display:flex; gap:8px; }
-  .lang button { border:1px solid #cbd5e1; background:#fff; padding:6px 10px; border-radius:8px; cursor:pointer; }
+  .lang button { width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; border-radius:8px; cursor:pointer; padding:0; }
   .lang button.active { background:#0f172a; color:#fff; border-color:#0f172a; }
   .section { margin: 16px 0; }
   .content { max-width: 820px; margin: 0 auto; }
@@ -38,16 +55,20 @@
     <div class="apps">
       <button onclick="toggleApps()">☰</button>
       <div class="apps-menu">
-        <a href="../checklist/"><img src="../checklist/assets/cl_app_icon.png" alt="">CheckList</a>
-        <a href="../plansboard/"><img src="../plansboard/assets/app_icon.png" alt="">PlansBoard</a>
+        <a href="../checklist/"><img src="../checklist/assets/_checklist_icon.png" alt="">CheckList</a>
+        <a href="../plansboard/"><img src="../plansboard/assets/_plansboard_icon.png" alt="">PlansBoard</a>
       </div>
+    </div>
+    
+    <div class="theme">
+      <button id="btn-theme" onclick="toggleTheme()">🌙</button>
     </div>
     
     <div class="lang">
       <button id="btn-en" onclick="setLang('en')">EN</button>
       <button id="btn-ru" onclick="setLang('ru')">RU</button>
     </div>
-    <img src="assets/app_icon.png" alt="App icon" width="96" height="96" style="border-radius:22%; border:1px solid #e2e8f0;">
+    <img src="assets/_checklist_icon.png" alt="App icon" width="96" height="96" style="border-radius:22%; border:1px solid #e2e8f0;">
     <h1 data-i18n="app.title"></h1>
     <p class="lead" data-i18n="app.lead"></p>
     <div>
@@ -74,16 +95,21 @@
     <section id="screens" class="section">
       <h2 data-i18n="screens.title"></h2>
       <p data-i18n="screens.note"></p>
-      <div class="screenshots">
-        <img src="assets/screen_1.png" alt="Screenshot 1">
-        <img src="assets/screen_2.png" alt="Screenshot 2">
-        <img src="assets/screen_3.png" alt="Screenshot 3">
+      <div class="screens-wrap">
+        <button class="screen-arrow left" onclick="scrollScreens(-1)">‹</button>
+        <div class="screenshots" id="screenshots">
+          <img id="screen1" src="assets/checklist_ru_1.png" alt="Screenshot 1">
+          <img id="screen2" src="assets/checklist_ru_2.png" alt="Screenshot 2">
+          <img id="screen3" src="assets/checklist_ru_3.png" alt="Screenshot 3">
+          <img id="screen4" src="assets/checklist_ru_4.png" alt="Screenshot 4">
+        </div>
+        <button class="screen-arrow right" onclick="scrollScreens(1)">›</button>
       </div>
     </section>
 
     <section id="support" class="section">
       <h2 data-i18n="support.title"></h2>
-      <p data-i18n="support.faq"></p>
+      <p><span data-i18n="support.telegram"></span> <a href="https://t.me/checklistapp" target="_blank">@checklistapp</a></p>
       <p><span data-i18n="support.text"></span> <a href="mailto:pvatulin.dev@gmail.com">pvatulin.dev@gmail.com</a></p>
     </section>
   </main>
@@ -96,8 +122,8 @@
 <script>
   const i18n = {
     ru: {
-      'app.title':'MyNewApp',
-      'app.lead':'Краткое описание приложения и его ключевых преимуществ.',
+      'app.title':'CheckList',
+      'app.lead':'Легкое и функциональное приложение - чеклист списков покупок, вещей в дорогу и любых задач. Ключевое преимущество программы - это предустановленные списки в нескольких категориях, например продукты и вещи в дорогу. Краткое описание приложения и ключевые преимущества.',
       'btn.download':'Скачать в App Store',
       'btn.features':'Особенности',
       'nav.screens':'Скриншоты',
@@ -110,38 +136,16 @@
       'screens.title':'Скриншоты',
       'screens.note':'Замените изображения в папке assets на реальные скриншоты.',
       'support.title':'Поддержка',
-      'support.faq':'Часто задаваемые вопросы (FAQ) будут размещены на этой странице.',
+      'support.telegram':'Наш Telegram-канал:',
       'support.text':'Вопросы и помощь:',
-      'footer.copy':'© 2026 Pavel Vatulin',
-      'privacy.title':'Политика конфиденциальности',
-      'privacy.effective':'Дата вступления в силу: 2026-06-01',
-      'p.intro.h2':'1. Введение',
-      'p.intro.p':'Настоящая Политика конфиденциальности описывает, как MyNewApp (далее — «Приложение») обрабатывает данные пользователей.',
-      'p.scope.h2':'2. Собираемая информация',
-      'p.scope.p':'Приложение не собирает, не хранит, не передает и не обрабатывает персональные данные пользователей. Мы также не используем файлы cookie, аналитику, рекламные технологии и сторонние SDK/сервисы, способные собирать информацию о вас.',
-      'p.use.h2':'3. Использование информации',
-      'p.use.p':'Поскольку данные не собираются, мы не используем их ни для каких целей.',
-      'p.storage.h2':'4. Хранение данных',
-      'p.storage.p':'Мы не осуществляем хранение персональных данных.',
-      'p.share.h2':'5. Передача третьим лицам',
-      'p.share.p':'Мы не передаем ваши данные третьим лицам, поскольку данные не собираются.',
-      'p.rights.h2':'6. Права пользователя',
-      'p.rights.p':'Если у вас есть вопросы о конфиденциальности, вы можете связаться с нами по адресу pvatulin.dev@gmail.com.',
-      'p.age.h2':'7. Возрастные ограничения',
-      'p.age.p':'Приложение не имеет возрастных ограничений.',
-      'p.changes.h2':'8. Изменения политики',
-      'p.changes.p':'Мы можем обновлять Политику конфиденциальности. Новая версия вступает в силу с момента публикации на этой странице.',
-      'p.contact.h2':'9. Контакты',
-      'p.contact.p':'По вопросам конфиденциальности свяжитесь с нами: pvatulin.dev@gmail.com.',
-      'privacy.back':'Вернуться на страницу приложения'
+      'footer.copy':'© 2026 Pavel Vatulin'
     },
     en: {
-      'app.title':'MyNewApp',
+      'app.title':'CheckList',
       'app.lead':'A brief description of the app and its key benefits.',
       'btn.download':'Download on the App Store',
       'btn.features':'Features',
       'nav.screens':'Screenshots',
-      'support.faq':'FAQ will be placed here.',
       'nav.support':'Support',
       'nav.privacy':'Privacy Policy',
       'features.title':'Features',
@@ -151,35 +155,34 @@
       'screens.title':'Screenshots',
       'screens.note':'Replace the images in the assets folder with your actual screenshots.',
       'support.title':'Support',
+      'support.telegram':'Our Telegram channel:',
       'support.text':'Contact us:',
-      'footer.copy':'© 2026 Pavel Vatulin',
-      'privacy.title':'Privacy Policy',
-      'privacy.effective':'Effective date: 2026-06-01',
-      'p.intro.h2':'1. Introduction',
-      'p.intro.p':'This Privacy Policy describes how MyNewApp (the “App”) processes user data.',
-      'p.scope.h2':'2. Information We Collect',
-      'p.scope.p':'The App does not collect, store, transmit, or process any personal data. We also do not use cookies, analytics, advertising technologies, or third-party SDKs/services that could collect information about you.',
-      'p.use.h2':'3. How We Use Information',
-      'p.use.p':'Because no data is collected, there is no processing for any purpose.',
-      'p.storage.h2':'4. Data Storage',
-      'p.storage.p':'We do not store personal data.',
-      'p.share.h2':'5. Sharing with Third Parties',
-      'p.share.p':'We do not share your data with third parties, as no data is collected.',
-      'p.rights.h2':'6. Your Rights',
-      'p.rights.p':'If you have privacy questions, you can contact us at pvatulin.dev@gmail.com.',
-      'p.age.h2':'7. Age Restrictions',
-      'p.age.p':'The App has no age restrictions.',
-      'p.changes.h2':'8. Changes to This Policy',
-      'p.changes.p':'We may update this Policy from time to time. The new version becomes effective when posted on this page.',
-      'p.contact.h2':'9. Contact',
-      'p.contact.p':'For privacy inquiries, please contact: pvatulin.dev@gmail.com.',
-      'privacy.back':'Back to the app page'
+      'footer.copy':'© 2026 Pavel Vatulin'
     }
   };
 
+  function toggleTheme() {
+    document.body.classList.toggle('dark');
+    const dark = document.body.classList.contains('dark');
+    document.getElementById('btn-theme').textContent = dark ? '☀️' : '🌙';
+    localStorage.setItem('theme', dark ? 'dark' : 'light');
+  }
+  
+  function scrollScreens(direction) {
+    const box = document.getElementById('screenshots');
+    if (box) box.scrollBy({ left: direction * 280, behavior: 'smooth' });
+  }
+  
   function toggleApps() {
     document.querySelector('.apps').classList.toggle('open');
   }
+
+  document.addEventListener('click', (e) => {
+    const apps = document.querySelector('.apps');
+    if (!apps.contains(e.target)) {
+      apps.classList.remove('open');
+    }
+  });
   
   function setLang(lang) {
     localStorage.setItem('lang', lang);
@@ -192,11 +195,21 @@
     document.querySelectorAll('.lang button').forEach(b => b.classList.remove('active'));
     const btn = document.getElementById('btn-' + lang);
     if (btn) btn.classList.add('active');
+    
+    for (let i = 1; i <= 4; i++) {
+      const screen = document.getElementById('screen' + i);
+      if (screen) screen.src = `assets/checklist_${lang}_${i}.png`;
+    }
   }
 
   function initLang(defaultLang='ru') {
     const stored = localStorage.getItem('lang');
     setLang(stored || defaultLang);
+
+    if (localStorage.getItem('theme') === 'dark') {
+      document.body.classList.add('dark');
+      document.getElementById('btn-theme').textContent = '☀️';
+    }
   }
 
   document.addEventListener('DOMContentLoaded', () => initLang('ru'));

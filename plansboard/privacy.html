@@ -9,17 +9,35 @@
     h1 { font-size: 28px; }
     h2 { margin-top: 20px; font-size: 20px; }
     p { color:#334155; line-height: 1.6; }
+    body.dark { background:#0f172a; color:#f8fafc; }
+    body.dark p { color:#cbd5e1; }
+    body.dark h1, body.dark h2 { color:#f8fafc; }
+    body.dark a { color:#f8fafc; }
+    body.dark .back button, body.dark .lang button { background:#1e293b; color:#f8fafc; border-color:#334155; }
+    body.dark .lang button.active { background:#334155; color:#f8fafc; border-color:#334155; }
+    body.dark .back button:hover { background:#334155; color:#f8fafc; border-color:#334155; }
+    body.dark .theme button { background:#1e293b; color:#f8fafc; border-color:#334155; }
+    body.dark .theme button:hover { background:#334155; color:#f8fafc; border-color:#334155; }
     .back { position: fixed; left: 12px; top: 12px; }
-    .back a { display:inline-block; border:1px solid #cbd5e1; background:#fff; padding:5px 11px; border-radius:8px; text-decoration:none; color:#0f172a; font-size:18px; line-height:1; }
-    .back a:hover { background:#f8fafc; }
+    .back button { width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; border-radius:8px; cursor:pointer; font-size:20px; line-height:1; padding:0; }
+    .back button:hover { background:#f8fafc; border-color:#0f172a; }
+    .theme { position: fixed; right: 120px; top: 12px; }
+    .theme button { width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; border-radius:8px; cursor:pointer; font-size:20px; padding:0; }
+    .theme button:hover { background:#f8fafc; border-color:#0f172a; }
     .lang { position: fixed; right: 12px; top: 12px; display:flex; gap:8px; }
-    .lang button { border:1px solid #cbd5e1; background:#fff; padding:6px 10px; border-radius:8px; cursor:pointer; }
+    .lang button { width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; border-radius:8px; cursor:pointer; font-size:15px; line-height:1; padding:0; }
     .lang button.active { background:#0f172a; color:#fff; border-color:#0f172a; }
     .content { max-width: 820px; margin: 0 auto; }
   </style>
 </head>
 <body>
-  <div class="back"><a href="index.html">←</a></div>
+  <div class="back">
+    <button onclick="location.href='index.html'">←</button>
+  </div>
+
+  <div class="theme">
+    <button id="btn-theme" onclick="toggleTheme()">🌙</button>
+  </div>
   
   <div class="lang">
     <button id="btn-en" onclick="setLang('en')">EN</button>
@@ -64,10 +82,10 @@
 <script>
   const i18n = {
     ru: {
-      'privacy.title':'MyNewApp - Политика конфиденциальности',
+      'privacy.title':'CheckList - Политика конфиденциальности',
       'privacy.effective':'Дата вступления в силу: 2026-06-01',
       'p.intro.h2':'1. Введение',
-      'p.intro.p':'Настоящая Политика конфиденциальности описывает, как MyNewApp (далее — «Приложение») обрабатывает данные пользователей.',
+      'p.intro.p':'Настоящая Политика конфиденциальности описывает, как CheckList (далее — «Приложение») обрабатывает данные пользователей.',
       'p.scope.h2':'2. Собираемая информация',
       'p.scope.p':'Приложение не собирает, не хранит, не передает и не обрабатывает персональные данные пользователей. Мы также не используем файлы cookie, аналитику, рекламные технологии и сторонние SDK/сервисы, способные собирать информацию о вас.',
       'p.use.h2':'3. Использование информации',
@@ -87,10 +105,10 @@
       'privacy.back':'Вернуться на страницу приложения'
     },
     en: {
-      'privacy.title':'MyNewApp - Privacy Policy',
+      'privacy.title':'CheckList - Privacy Policy',
       'privacy.effective':'Effective date: 2026-06-01',
       'p.intro.h2':'1. Introduction',
-      'p.intro.p':'This Privacy Policy describes how MyNewApp (the “App”) processes user data.',
+      'p.intro.p':'This Privacy Policy describes how CheckList (the “App”) processes user data.',
       'p.scope.h2':'2. Information We Collect',
       'p.scope.p':'The App does not collect, store, transmit, or process any personal data. We also do not use cookies, analytics, advertising technologies, or third-party SDKs/services that could collect information about you.',
       'p.use.h2':'3. How We Use Information',
@@ -111,6 +129,13 @@
     }
   };
 
+  function toggleTheme() {
+    document.body.classList.toggle('dark');
+    const dark = document.body.classList.contains('dark');
+    document.getElementById('btn-theme').textContent = dark ? '☀️' : '🌙';
+    localStorage.setItem('theme', dark ? 'dark' : 'light');
+  }
+  
   function setLang(lang) {
     localStorage.setItem('lang', lang);
     document.documentElement.lang = lang;
@@ -127,6 +152,11 @@
   function initLang(defaultLang='ru') {
     const stored = localStorage.getItem('lang');
     setLang(stored || defaultLang);
+
+    if (localStorage.getItem('theme') === 'dark') {
+      document.body.classList.add('dark');
+      document.getElementById('btn-theme').textContent = '☀️';
+    }
   }
 
   document.addEventListener('DOMContentLoaded', () => initLang('ru'));
