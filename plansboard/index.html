@@ -68,7 +68,7 @@
       <button id="btn-en" onclick="setLang('en')">EN</button>
       <button id="btn-ru" onclick="setLang('ru')">RU</button>
     </div>
-    <img src="assets/_checklist_icon.png" alt="App icon" width="96" height="96" style="border-radius:22%; border:1px solid #e2e8f0;">
+    <img src="assets/_plansboard_icon.png" alt="App icon" width="96" height="96" style="border-radius:22%; border:1px solid #e2e8f0;">
     <h1 data-i18n="app.title"></h1>
     <p class="lead" data-i18n="app.lead"></p>
     <div>
@@ -98,10 +98,10 @@
       <div class="screens-wrap">
         <button class="screen-arrow left" onclick="scrollScreens(-1)">‹</button>
         <div class="screenshots" id="screenshots">
-          <img id="screen1" src="assets/checklist_ru_1.png" alt="Screenshot 1">
-          <img id="screen2" src="assets/checklist_ru_2.png" alt="Screenshot 2">
-          <img id="screen3" src="assets/checklist_ru_3.png" alt="Screenshot 3">
-          <img id="screen4" src="assets/checklist_ru_4.png" alt="Screenshot 4">
+          <img id="screen1" src="assets/plansboard_ru_1.png" alt="Screenshot 1">
+          <img id="screen2" src="assets/plansboard_ru_2.png" alt="Screenshot 2">
+          <img id="screen3" src="assets/plansboard_ru_3.png" alt="Screenshot 3">
+          <img id="screen4" src="assets/plansboard_ru_4.png" alt="Screenshot 4">
         </div>
         <button class="screen-arrow right" onclick="scrollScreens(1)">›</button>
       </div>
@@ -109,7 +109,7 @@
 
     <section id="support" class="section">
       <h2 data-i18n="support.title"></h2>
-      <p><span data-i18n="support.telegram"></span> <a href="https://t.me/checklistapp" target="_blank">@checklistapp</a></p>
+      <p><span data-i18n="support.telegram"></span> <a href="https://t.me/plansboardapp" target="_blank">@plansboardapp</a></p>
       <p><span data-i18n="support.text"></span> <a href="mailto:pvatulin.dev@gmail.com">pvatulin.dev@gmail.com</a></p>
     </section>
   </main>
@@ -122,8 +122,8 @@
 <script>
   const i18n = {
     ru: {
-      'app.title':'CheckList',
-      'app.lead':'Легкое и функциональное приложение - чеклист списков покупок, вещей в дорогу и любых задач. Ключевое преимущество программы - это предустановленные списки в нескольких категориях, например продукты и вещи в дорогу. Краткое описание приложения и ключевые преимущества.',
+      'app.title':'PlansBoard',
+      'app.lead':'Легкое и функциональное приложение приложение для планирования.',
       'btn.download':'Скачать в App Store',
       'btn.features':'Особенности',
       'nav.screens':'Скриншоты',
@@ -141,7 +141,7 @@
       'footer.copy':'© 2026 Pavel Vatulin'
     },
     en: {
-      'app.title':'CheckList',
+      'app.title':'PlansBoard',
       'app.lead':'A brief description of the app and its key benefits.',
       'btn.download':'Download on the App Store',
       'btn.features':'Features',
@@ -198,7 +198,7 @@
     
     for (let i = 1; i <= 4; i++) {
       const screen = document.getElementById('screen' + i);
-      if (screen) screen.src = `assets/checklist_${lang}_${i}.png`;
+      if (screen) screen.src = `assets/plansboard_${lang}_${i}.png`;
     }
   }
 
