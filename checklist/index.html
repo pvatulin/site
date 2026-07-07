@@ -213,14 +213,16 @@
 
   function scrollFeatures(direction) {
     const box = document.getElementById('features-list');
-    const card = box?.querySelector('.card');
-    if (box && card) box.scrollBy({ left: direction * (card.offsetWidth + 16), behavior: 'smooth' });
+    if (!box) return;
+    const card = box.querySelector('.card');
+    if (card) box.scrollBy({ left: direction * (card.offsetWidth + 16), behavior: 'smooth' });
   }
   
   function scrollScreens(direction) {
     const box = document.getElementById('screenshots');
-    const img = box?.querySelector('img');
-    if (box && img) box.scrollBy({ left: direction * (img.offsetWidth + 12), behavior: 'smooth' });
+    if (!box) return;
+    const img = box.querySelector('img');
+    if (img) box.scrollBy({ left: direction * (img.offsetWidth + 12), behavior: 'smooth' });
   }
   
   function toggleApps() {
