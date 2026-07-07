@@ -13,7 +13,9 @@
   .btn { display:inline-block; padding:12px 16px; margin:8px; border-radius:10px; text-decoration:none; border:1px solid #0f172a; }
   .btn.primary { background:#0f172a; color:#fff; }
   .container { max-width: 980px; margin: 0 auto; padding: 24px; }
-  .features { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap:16px; }
+  .features { display:flex; gap:16px; overflow-x:auto; scroll-behavior:smooth; }
+  .features .card { flex:0 0 calc((100% - 32px) / 3); box-sizing:border-box; }
+  @media (max-width: 700px) { .features .card { flex-basis:85%; } }
   .card { border:1px solid #e2e8f0; border-radius:14px; padding:16px; background:#fff; }
   .card strong { display:block; margin-bottom:6px; }
   .card p { margin:0; color:#334155; line-height:1.4; }
