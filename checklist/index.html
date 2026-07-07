@@ -13,7 +13,10 @@
   .btn { display:inline-block; padding:12px 16px; margin:8px; border-radius:10px; text-decoration:none; border:1px solid #0f172a; }
   .btn.primary { background:#0f172a; color:#fff; }
   .container { max-width: 980px; margin: 0 auto; padding: 24px; }
-  .features { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap:16px; }
+  .features-wrap { position:relative; }
+  .features { display:flex; gap:16px; overflow-x:auto; scroll-behavior:smooth; }
+  .features .card { flex:0 0 calc((100% - 32px) / 3); box-sizing:border-box; }
+  @media (max-width: 700px) { .features .card { flex-basis:85%; } }
   .card { border:1px solid #e2e8f0; border-radius:14px; padding:16px; background:#fff; }
   .card strong { display:block; margin-bottom:6px; }
   .card p { margin:0; color:#334155; line-height:1.4; }
@@ -88,13 +91,17 @@
   <main class="container content">
     <section id="features" class="section">
       <h2 data-i18n="features.title"></h2>
-      <div class="features">
-        <div class="card"><strong data-i18n="feat.1.title"></strong><p data-i18n="feat.1.text"></p></div>
-        <div class="card"><strong data-i18n="feat.2.title"></strong><p data-i18n="feat.2.text"></p></div>
-        <div class="card"><strong data-i18n="feat.3.title"></strong><p data-i18n="feat.3.text"></p></div>
-        <div class="card"><strong data-i18n="feat.4.title"></strong><p data-i18n="feat.4.text"></p></div>
-        <div class="card"><strong data-i18n="feat.5.title"></strong><p data-i18n="feat.5.text"></p></div>
-        <div class="card"><strong data-i18n="feat.6.title"></strong><p data-i18n="feat.6.text"></p></div>
+      <div class="features-wrap">
+        <button class="screen-arrow left" onclick="scrollFeatures(-1)">‹</button>
+        <div class="features" id="features-list">
+          <div class="card"><strong data-i18n="feat.1.title"></strong><p data-i18n="feat.1.text"></p></div>
+          <div class="card"><strong data-i18n="feat.2.title"></strong><p data-i18n="feat.2.text"></p></div>
+          <div class="card"><strong data-i18n="feat.3.title"></strong><p data-i18n="feat.3.text"></p></div>
+          <div class="card"><strong data-i18n="feat.4.title"></strong><p data-i18n="feat.4.text"></p></div>
+          <div class="card"><strong data-i18n="feat.5.title"></strong><p data-i18n="feat.5.text"></p></div>
+          <div class="card"><strong data-i18n="feat.6.title"></strong><p data-i18n="feat.6.text"></p></div>
+        </div>
+        <button class="screen-arrow right" onclick="scrollFeatures(1)">›</button>
       </div>
     </section>
 
@@ -116,6 +123,11 @@
         </div>
         <button class="screen-arrow right" onclick="scrollScreens(1)">›</button>
       </div>
+    </section>
+
+    <section id="about" class="section">
+      <h2 data-i18n="about.title"></h2>
+      <p data-i18n="about.text"></p>
     </section>
 
     <section id="support" class="section">
@@ -154,6 +166,8 @@
       'feat.6.title':'История',
       'feat.6.text':'Повторяйте списки, чтоб не создавать их заново.',
       'screens.title':'Скриншоты',
+      'about.title':'Описание',
+      'about.text':'CheckList помогает создавать списки покупок, путешествий, задач, идей и любых других дел. Используйте встроенный каталог из более чем 1000 готовых элементов или создавайте собственные. Добавляйте напоминания, настраивайте оформление приложения и повторно используйте списки из истории.',
       'support.title':'Поддержка',
       'support.telegram':'Наш Telegram-канал:',
       'support.text':'Вопросы и помощь:',
@@ -181,6 +195,8 @@
       'feat.6.title':'History',
       'feat.6.text':'Repeat completed lists without creating them again.',
       'screens.title':'Screenshots',
+      'about.title':'About',
+      'about.text':'CheckList helps you create shopping lists, travel lists, task lists, ideas, and much more. Use the built-in catalog with over 1,000 ready-made items or create your own. Set reminders, customize the app's appearance, and reuse lists from history.',
       'support.title':'Support',
       'support.telegram':'Our Telegram channel:',
       'support.text':'Contact us:',
@@ -194,10 +210,19 @@
     document.getElementById('btn-theme').textContent = dark ? '☀️' : '🌙';
     localStorage.setItem('theme', dark ? 'dark' : 'light');
   }
+
+  function scrollFeatures(direction) {
+    const box = document.getElementById('features-list');
+    if (!box) return;
+    const card = box.querySelector('.card');
+    if (card) box.scrollBy({ left: direction * (card.offsetWidth + 16), behavior: 'smooth' });
+  }
   
   function scrollScreens(direction) {
     const box = document.getElementById('screenshots');
-    if (box) box.scrollBy({ left: direction * 280, behavior: 'smooth' });
+    if (!box) return;
+    const img = box.querySelector('img');
+    if (img) box.scrollBy({ left: direction * (img.offsetWidth + 12), behavior: 'smooth' });
   }
   
   function toggleApps() {
