@@ -13,6 +13,7 @@
   .btn { display:inline-block; padding:12px 16px; margin:8px; border-radius:10px; text-decoration:none; border:1px solid #0f172a; }
   .btn.primary { background:#0f172a; color:#fff; }
   .container { max-width: 980px; margin: 0 auto; padding: 24px; }
+  .features-wrap { position:relative; }
   .features { display:flex; gap:16px; overflow-x:auto; scroll-behavior:smooth; }
   .features .card { flex:0 0 calc((100% - 32px) / 3); box-sizing:border-box; }
   @media (max-width: 700px) { .features .card { flex-basis:85%; } }
@@ -90,13 +91,17 @@
   <main class="container content">
     <section id="features" class="section">
       <h2 data-i18n="features.title"></h2>
-      <div class="features">
-        <div class="card"><strong data-i18n="feat.1.title"></strong><p data-i18n="feat.1.text"></p></div>
-        <div class="card"><strong data-i18n="feat.2.title"></strong><p data-i18n="feat.2.text"></p></div>
-        <div class="card"><strong data-i18n="feat.3.title"></strong><p data-i18n="feat.3.text"></p></div>
-        <div class="card"><strong data-i18n="feat.4.title"></strong><p data-i18n="feat.4.text"></p></div>
-        <div class="card"><strong data-i18n="feat.5.title"></strong><p data-i18n="feat.5.text"></p></div>
-        <div class="card"><strong data-i18n="feat.6.title"></strong><p data-i18n="feat.6.text"></p></div>
+      <div class="features-wrap">
+        <button class="screen-arrow left" onclick="scrollFeatures(-1)">‹</button>
+        <div class="features" id="features-list">
+          <div class="card"><strong data-i18n="feat.1.title"></strong><p data-i18n="feat.1.text"></p></div>
+          <div class="card"><strong data-i18n="feat.2.title"></strong><p data-i18n="feat.2.text"></p></div>
+          <div class="card"><strong data-i18n="feat.3.title"></strong><p data-i18n="feat.3.text"></p></div>
+          <div class="card"><strong data-i18n="feat.4.title"></strong><p data-i18n="feat.4.text"></p></div>
+          <div class="card"><strong data-i18n="feat.5.title"></strong><p data-i18n="feat.5.text"></p></div>
+          <div class="card"><strong data-i18n="feat.6.title"></strong><p data-i18n="feat.6.text"></p></div>
+        </div>
+        <button class="screen-arrow right" onclick="scrollFeatures(1)">›</button>
       </div>
     </section>
 
@@ -195,6 +200,11 @@
     const dark = document.body.classList.contains('dark');
     document.getElementById('btn-theme').textContent = dark ? '☀️' : '🌙';
     localStorage.setItem('theme', dark ? 'dark' : 'light');
+  }
+
+  function scrollFeatures(direction) {
+    const box = document.getElementById('features-list');
+    if (box) box.scrollBy({ left: direction * 280, behavior: 'smooth' });
   }
   
   function scrollScreens(direction) {
