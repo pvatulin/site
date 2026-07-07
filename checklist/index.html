@@ -202,14 +202,16 @@
     localStorage.setItem('theme', dark ? 'dark' : 'light');
   }
 
-  function scrollFeatures(direction) {
+    function scrollFeatures(direction) {
     const box = document.getElementById('features-list');
-    if (box) box.scrollBy({ left: direction * 280, behavior: 'smooth' });
+    const card = box?.querySelector('.card');
+    if (box && card) box.scrollBy({ left: direction * (card.offsetWidth + 16), behavior: 'smooth' });
   }
   
   function scrollScreens(direction) {
     const box = document.getElementById('screenshots');
-    if (box) box.scrollBy({ left: direction * 280, behavior: 'smooth' });
+    const img = box?.querySelector('img');
+    if (box && img) box.scrollBy({ left: direction * (img.offsetWidth + 12), behavior: 'smooth' });
   }
   
   function toggleApps() {
