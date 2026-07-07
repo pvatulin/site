@@ -7,7 +7,7 @@
   <meta name="description" content="CheckList — приложение для списков покупок, путешествий, задач и напоминаний с каталогом более 1000 готовых элементов.">
   <style>
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; margin:0; color:#0f172a; }
-  header { padding: 56px 24px; text-align:center; background: #f8fafc; position: relative; }
+  header { padding: 56px 24px 48px; text-align:center; background: #f8fafc; position: relative; }
   h1 { font-size: 40px; margin: 0 0 8px; }
   p.lead { font-size: 18px; margin: 0 auto 20px; max-width: 720px; color:#334155; }
   .btn { display:inline-block; padding:12px 16px; margin:8px; border-radius:10px; text-decoration:none; border:1px solid #0f172a; }
@@ -167,7 +167,7 @@
       'feat.6.text':'Повторяйте списки, чтоб не создавать их заново.',
       'screens.title':'Скриншоты',
       'about.title':'Описание',
-      'about.text':'CheckList помогает создавать списки покупок, путешествий, задач, идей и любых других дел. Используйте встроенный каталог из более чем 1000 готовых элементов или создавайте собственные. Добавляйте напоминания, настраивайте оформление приложения и повторно используйте списки из истории.'
+      'about.text':'CheckList помогает создавать списки покупок, путешествий, задач, идей и любых других дел. Используйте встроенный каталог из более чем 1000 готовых элементов или создавайте собственные. Добавляйте напоминания, настраивайте оформление приложения и повторно используйте списки из истории.',
       'support.title':'Поддержка',
       'support.telegram':'Наш Telegram-канал:',
       'support.text':'Вопросы и помощь:',
@@ -211,7 +211,7 @@
     localStorage.setItem('theme', dark ? 'dark' : 'light');
   }
 
-    function scrollFeatures(direction) {
+  function scrollFeatures(direction) {
     const box = document.getElementById('features-list');
     const card = box?.querySelector('.card');
     if (box && card) box.scrollBy({ left: direction * (card.offsetWidth + 16), behavior: 'smooth' });
