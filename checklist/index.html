@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title data-i18n="app.title"></title>
-  <meta name="description" content="App landing page with RU/EN switch (no reload).">
+  <meta name="description" content="CheckList — приложение для списков покупок, путешествий, задач и напоминаний с каталогом более 1000 готовых элементов.">
   <style>
   body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; margin:0; color:#0f172a; }
   header { padding: 56px 24px; text-align:center; background: #f8fafc; position: relative; }
@@ -15,6 +15,9 @@
   .container { max-width: 980px; margin: 0 auto; padding: 24px; }
   .features { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px,1fr)); gap:16px; }
   .card { border:1px solid #e2e8f0; border-radius:14px; padding:16px; background:#fff; }
+  .card strong { display:block; margin-bottom:6px; }
+  .card p { margin:0; color:#334155; line-height:1.4; }
+  body.dark .card p { color:#cbd5e1; }
   .screens-wrap { position:relative; }
   .screenshots { display:flex; gap:12px; margin-top:12px; overflow-x:auto; scroll-behavior:smooth; }
   .screenshots img { width:260px; flex:0 0 auto; border-radius:14px; border:1px solid #e2e8f0; }
@@ -68,7 +71,7 @@
       <button id="btn-en" onclick="setLang('en')">EN</button>
       <button id="btn-ru" onclick="setLang('ru')">RU</button>
     </div>
-    <img src="assets/_checklist_icon.png" alt="App icon" width="96" height="96" style="border-radius:22%; border:1px solid #e2e8f0;">
+    <img src="assets/_checklist_icon.png" alt="CheckList" width="96" height="96" style="border-radius:22%; border:1px solid #e2e8f0;">
     <h1 data-i18n="app.title"></h1>
     <p class="lead" data-i18n="app.lead"></p>
     <div>
@@ -86,15 +89,17 @@
     <section id="features" class="section">
       <h2 data-i18n="features.title"></h2>
       <div class="features">
-        <div class="card"><strong data-i18n="feat.1"></strong></div>
-        <div class="card"><strong data-i18n="feat.2"></strong></div>
-        <div class="card"><strong data-i18n="feat.3"></strong></div>
+        <div class="card"><strong data-i18n="feat.1.title"></strong><p data-i18n="feat.1.text"></p></div>
+        <div class="card"><strong data-i18n="feat.2.title"></strong><p data-i18n="feat.2.text"></p></div>
+        <div class="card"><strong data-i18n="feat.3.title"></strong><p data-i18n="feat.3.text"></p></div>
+        <div class="card"><strong data-i18n="feat.4.title"></strong><p data-i18n="feat.4.text"></p></div>
+        <div class="card"><strong data-i18n="feat.5.title"></strong><p data-i18n="feat.5.text"></p></div>
+        <div class="card"><strong data-i18n="feat.6.title"></strong><p data-i18n="feat.6.text"></p></div>
       </div>
     </section>
 
     <section id="screens" class="section">
       <h2 data-i18n="screens.title"></h2>
-      <p data-i18n="screens.note"></p>
       <div class="screens-wrap">
         <button class="screen-arrow left" onclick="scrollScreens(-1)">‹</button>
         <div class="screenshots" id="screenshots">
@@ -129,18 +134,26 @@
   const i18n = {
     ru: {
       'app.title':'CheckList',
-      'app.lead':'Легкое и функциональное приложение - чеклист списков покупок, вещей в дорогу и любых задач. Ключевое преимущество программы - это предустановленные списки в нескольких категориях, например продукты и вещи в дорогу. Краткое описание приложения и ключевые преимущества.',
+      'app.lead':'Создавайте любые списки — покупки, путешествия, задачи, идеи и многое другое. Используйте готовый каталог из более чем 1000 элементов в категориях «Продукты», «Спиртное», «Дом и быт», «Гигиена», «Детское», «Питомцы» и «Поездки», создайте собственный каталог или ведите списки полностью вручную.',
       'btn.download':'Скачать в App Store',
       'btn.features':'Особенности',
       'nav.screens':'Скриншоты',
       'nav.support':'Поддержка',
       'nav.privacy':'Политика конфиденциальности',
       'features.title':'Особенности',
-      'feat.1':'Функция 1. Короткое описание.',
-      'feat.2':'Функция 2. Короткое описание.',
-      'feat.3':'Функция 3. Короткое описание.',
+      'feat.1.title':'📝 Любые списки',
+      'feat.1.text':'Покупки, поездки, задачи, идеи и всё, что важно именно вам.',
+      'feat.2.title':'📦 Каталог 1000+',
+      'feat.2.text':'Готовые элементы по категориям или полностью собственный каталог.',
+      'feat.3.title':'⚡ Быстрое добавление',
+      'feat.3.text':'Добавляйте вручную или находите нужное по первым буквам.',
+      'feat.4.title':'🔔 Напоминания',
+      'feat.4.text':'Дата, время и повтор для любых задач и пунктов списка.',
+      'feat.5.title':'🎨 Гибкая настройка',
+      'feat.5.text':'Оформление, цвета, иконки и поведение приложения под себя.',
+      'feat.6.title':'📚 История',
+      'feat.6.text':'Повторяйте выполненные списки и не создавайте их заново.',
       'screens.title':'Скриншоты',
-      'screens.note':'Замените изображения в папке assets на реальные скриншоты.',
       'support.title':'Поддержка',
       'support.telegram':'Наш Telegram-канал:',
       'support.text':'Вопросы и помощь:',
@@ -148,18 +161,26 @@
     },
     en: {
       'app.title':'CheckList',
-      'app.lead':'A brief description of the app and its key benefits.',
+      'app.lead':'Create any lists you need — shopping, travel, tasks, ideas, and more. Use the built-in catalog with over 1,000 items across Grocery, Alcohol, Home & Household, Personal Care, Baby, Pets, and Travel categories, create your own catalog, or build lists completely from scratch.',
       'btn.download':'Download on the App Store',
       'btn.features':'Features',
       'nav.screens':'Screenshots',
       'nav.support':'Support',
       'nav.privacy':'Privacy Policy',
       'features.title':'Features',
-      'feat.1':'Feature 1. Short description.',
-      'feat.2':'Feature 2. Short description.',
-      'feat.3':'Feature 3. Short description.',
+      'feat.1.title':'📝 Any Lists',
+      'feat.1.text':'Groceries, travel, tasks, ideas and anything that matters to you.',
+      'feat.2.title':'📦 Catalog 1000+',
+      'feat.2.text':'Ready-made items by category or your own custom catalog.',
+      'feat.3.title':'⚡ Quick Add',
+      'feat.3.text':'Add manually or find what you need by the first letters.',
+      'feat.4.title':'🔔 Reminders',
+      'feat.4.text':'Date, time and repeat for any task or list item.',
+      'feat.5.title':'🎨 Flexible Settings',
+      'feat.5.text':'Appearance, colors, icons and app behavior your way.',
+      'feat.6.title':'📚 History',
+      'feat.6.text':'Repeat completed lists without creating them again.',
       'screens.title':'Screenshots',
-      'screens.note':'Replace the images in the assets folder with your actual screenshots.',
       'support.title':'Support',
       'support.telegram':'Our Telegram channel:',
       'support.text':'Contact us:',
