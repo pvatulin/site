@@ -120,6 +120,28 @@
           "items": ["Dry cat food", "Dry dog food", "Wet cat food", "Wet dog food", "Canned cat food", "Canned dog food", "Cat treats", "Dog treats", "Rodent food", "Bird food", "Fish food", "Aquarium food", "Pet vitamins", "Food and water bowl", "Bird water dispenser", "Rodent water bottle", "Bird feeder", "Rodent feeder", "Cat litter", "Rodent bedding", "Pet training pads", "Pet shampoo", "Pet brush", "Nail clippers", "Flea collar", "Flea and tick treatment", "Anti-parasite spray", "Spot-on treatment", "Cat toys", "Dog toys", "Collar", "Leash", "Retractable leash", "Harness", "Muzzle", "Pet carrier"]
         }
       ]
+    },
+    {
+      "title": "Travel",
+      "orderIndex": 6,
+      "sections": [
+        {
+          "tag": "docs",
+          "items": ["Passport", "ID Card", "Birth Certificate", "Visa", "Tickets", "Boarding Passes", "Travel Insurance", "Insurance Policy", "Driver's License", "International Driving Permit", "Vehicle Registration", "Travel Documents", "Copies of Documents", "Hotel Reservation", "Booking Confirmation", "Travel Voucher", "Cash", "Foreign Currency", "Small Change", "Bank Cards", "Credit Cards"]
+        },
+        {
+          "tag": "tech",
+          "items": ["Phone", "Smartphone", "Tablet", "Laptop", "E-reader", "Smartwatch", "Fitness Tracker", "Camera", "Action Camera", "Headphones", "Wireless Earbuds", "Headset", "Laptop Mouse", "Batteries", "Power Bank", "Cable Organizer", "USB Cables", "Charging Cables", "Chargers", "Power Adapter", "Laptop Charger", "Travel Adapter", "Plug Adapter", "Power Strip", "Extension Cord", "Memory Card", "USB Flash Drive", "Portable SSD", "Card Reader", "Tripod", "Monopod", "Selfie Stick", "Camera Remote", "Phone Case", "Waterproof Phone Case", "SIM Eject Tool", "AirTag"]
+        },
+        {
+          "tag": "bags",
+          "items": ["Suitcase", "Backpack", "Packable Backpack", "Bag", "Duffel Bag", "Foldable Bag", "Waist Pack", "Beach Bag", "Packing Cubes", "Suitcase Cover", "Vacuum Storage Bags", "Luggage Straps", "Luggage Lock", "Travel Organizer", "Rain Cover for Backpack", "Compression Sack", "Dry Bag", "Waterproof Bag", "Passport Holder", "Waterproof Pouch", "Waterproof Wallet", "Wallet", "Card Holder", "Money Envelope", "Money Clip", "Money Belt", "Luggage Tag", "Luggage Scale"]
+        },
+        {
+          "tag": "tools",
+          "items": ["Glasses", "Sunglasses", "Pocket Knife", "Multi-tool", "Carabiner", "Rope", "Cable Ties", "Rubber Bands", "Sewing Kit", "Flashlight", "Headlamp", "Umbrella", "Rain Poncho", "Travel Pillow", "Sleep Mask", "Earplugs", "Water Bottle", "Thermos", "Pen", "Notebook", "Organizer", "Pill Organizer", "Car Phone Mount", "Car Charger", "Electric Razor", "Epilator"]
+        }
+      ]
     }
   ]
 }
