@@ -40,7 +40,6 @@
   body.dark .apps button:hover { background:#334155; color:#f8fafc; border-color:#334155; }
   body.dark .apps-menu a:hover { background:#334155; }
   body.dark .theme button:hover { background:#334155; color:#f8fafc; border-color:#334155; }
-  body.dark .apps-divider { background: #334155; }
   .apps { position: absolute; left: 12px; top: 12px; }
   .apps button { width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; border-radius:8px; cursor:pointer; font-size:24px; line-height:1; padding:0; }
   .apps button:hover { background:#f8fafc; border-color:#0f172a; }
@@ -49,7 +48,6 @@
   .apps-menu img { width:32px; height:32px; border-radius:22%; flex-shrink:0; }
   .apps-menu a:hover { background:#f8fafc; }
   .apps.open .apps-menu { display:block; }
-  .apps-divider { height: 1px; background: #e2e8f0; margin: 4px 0; }
   .theme { position: absolute; right: 120px; top: 12px; }
   .theme button { width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; border-radius:8px; cursor:pointer; font-size:20px; padding:0; }
   .theme button:hover { background:#f8fafc; border-color:#0f172a; }
@@ -65,8 +63,6 @@
     <div class="apps">
       <button onclick="toggleApps()">☰</button>
       <div class="apps-menu">
-        <a href="../"><img src="../assets/developer.png" alt=""><span data-i18n="menu.home"></span></a>
-        <div class="apps-divider"></div>
         <a href="../checklist/"><img src="../checklist/assets/_checklist_icon.png" alt="">CheckList</a>
         <a href="../plansboard/"><img src="../plansboard/assets/_plansboard_icon.png" alt="">PlansBoard</a>
       </div>
@@ -154,7 +150,6 @@
   const i18n = {
     ru: {
       'app.title':'CheckList',
-      'menu.home':'Главная',
       'app.lead':'Создавайте любые списки - покупки, путешествия, задачи, идеи и многое другое. Используйте готовый каталог из более чем 1000 элементов или создавайте свой.',
       'btn.download':'Скачать в App Store',
       'btn.overview':'Описание',
@@ -186,7 +181,6 @@
     },
     en: {
       'app.title':'CheckList',
-      'menu.home':'Home',
       'app.lead':'Create any lists - shopping, travel, tasks, ideas, and more. Use the online catalog with over 1000 items or create your own.',
       'btn.download':'Download on the App Store',
       'btn.overview':'Overview',
