@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -74,8 +74,8 @@
     </div>
     
     <div class="lang">
-      <button id="btn-ru" onclick="setLang('ru')">RU</button>
       <button id="btn-en" onclick="setLang('en')">EN</button>
+      <button id="btn-ru" onclick="setLang('ru')">RU</button>
     </div>
     <img src="assets/_checklist_icon.png" alt="CheckList" width="96" height="96" style="border-radius:22%; border:1px solid #e2e8f0;">
     <h1 data-i18n="app.title"></h1>
@@ -276,7 +276,7 @@
     }
   }
 
-  function initLang(defaultLang='ru') {
+  function initLang(defaultLang='en') {
     const stored = localStorage.getItem('lang');
     setLang(stored || defaultLang);
 
@@ -286,7 +286,7 @@
     }
   }
 
-  document.addEventListener('DOMContentLoaded', () => initLang('ru'));
+  document.addEventListener('DOMContentLoaded', () => initLang('en'));
 </script>
 
 </body>
