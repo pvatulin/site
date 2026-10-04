@@ -192,7 +192,7 @@
   </footer>
 
 
-  <!-- ENGLISH CONTENT -->
+  <!-- ENGLISH -->
 
   <script type="text/plain" id="content-en">
 [app.title]
@@ -264,7 +264,7 @@ Overview
 [overview.text1]
 CheckList is a versatile app for creating all kinds of lists. Plan your shopping, pack for trips, organize household chores, work tasks, ideas, celebrations, recipes, pantry supplies, renovations, moving, and much more. Create your own lists from scratch or use the ready-made online catalog with 1000+ items, conveniently organized into categories.
 
-Add items in seconds by typing just the first few letters, rearrange them with simple drag and drop, set reminders, and mark items as completed with a double tap. Keep everything important in one place and reuse lists from your history to save time on recurring tasks. Build your own catalog, add items one by one or all at once, organize them into categories, and label them with colors. Customize the app to match your needs and preferences by choosing interface colors, icons, and many other settings.
+Add items in seconds by typing just the first few letters, import lists from photos and the clipboard, rearrange them with simple drag and drop, set reminders, and mark items as completed with a double tap. Keep everything important in one place and reuse lists from your history. Build your own catalog, add items one by one or all at once, organize them into categories, and label them with colors. Customize the app to match your needs by choosing patterns and interface colors, and changing the app icon.
 
 Simplicity and ease of use are at the core of CheckList’s design. Almost every action can be performed with simple gestures, taps, and swipes, without complicated menus or unnecessary confirmations. Every feature is designed to make creating, editing, and managing lists fast, intuitive, and convenient for both everyday tasks and long-term planning.
 
@@ -281,6 +281,7 @@ Features:
 • Color labels for list items and catalog entries.
 • Progress indicator for every list.
 • Quickly add items by typing just the first few letters.
+• Import lists from the camera, photos, and clipboard.
 • Flexible catalog search by prefix or partial match.
 • Manually reorder items with drag and drop.
 • Quick color selection by tapping the color label.
@@ -303,7 +304,7 @@ Features:
 • Simultaneously add items to both the list and the catalog.
 • Automatic color coding for online catalog labels.
 • Change the app icon to match your needs.
-• Customize themes, colors, and gradients.
+• Customize appearance with patterns, colors, and gradients.
 • Automatically check the catalog for duplicates.
 • Fine-tune the app to fit your needs.
 • Helpful tips and a built-in guided tour.
@@ -325,7 +326,7 @@ Contact us:
   </script>
 
 
-  <!-- RUSSIAN CONTENT -->
+  <!-- РУССКИЙ -->
 
   <script type="text/plain" id="content-ru">
 [app.title]
@@ -397,7 +398,7 @@ CheckList
 [overview.text1]
 CheckList - универсальное приложение для создания любых списков. Планируйте покупки, собирайтесь в путешествия, организуйте домашние дела, рабочие задачи, идеи, праздники, рецепты, запасы, ремонт, переезд и многое другое. Создавайте собственные списки с нуля или используйте готовый онлайн-каталог с более чем 1000 элементами, удобно распределёнными по категориям.
 
-Добавляйте элементы за секунды по первым буквам, изменяйте порядок простым перетаскиванием, устанавливайте напоминания и отмечайте выполненными двойным касанием. Держите всё важное в одном месте и повторно используйте списки из истории, это позволяет экономить время при повторяющихся задачах. Создавайте собственный каталог, добавляйте элементы по одному или сразу списками, объединяйте их в категории, помечайте цветными метками. Настраивайте приложение под свои задачи и пожелания, выбирайте цвета интерфейса, иконки и другие параметры.
+Добавляйте элементы за секунды по первым буквам, импортируйте списки из фото и буфера обмена, изменяйте порядок простым перетаскиванием, устанавливайте напоминания и отмечайте выполненными двойным касанием. Держите всё важное в одном месте и повторно используйте списки из истории. Создавайте собственный каталог, добавляйте элементы по одному или сразу списками, объединяйте их в категории, помечайте цветными метками. Настраивайте приложение под свои задачи, выбирайте паттерны и цвета интерфейса, меняйте иконки приложения.
 
 Скорость и простота стали основой дизайна CheckList. Почти все действия в приложении выполняются простыми жестами, касаниями и движением пальца, без сложных меню и лишних подтверждений. Все функции разработаны так, чтобы создавать, редактировать и использовать списки было быстро, удобно и понятно как для ежедневных дел, так и для долгосрочного планирования.
 
@@ -414,6 +415,7 @@ CheckList - универсальное приложение для создан�
 • Цветовые метки для элементов списка и каталога.
 • Индикатор прогресса выполнения каждого списка.
 • Быстрое добавление в список по первым буквам.
+• Импорт списков из камеры, фото и буфера обмена.
 • Гибкая настройка поиска совпадений в каталоге.
 • Изменение порядка элементов простым перетаскиванием.
 • Быстрый выбор цвета нажатием на цветовую метку.
@@ -436,7 +438,7 @@ CheckList - универсальное приложение для создан�
 • Одновременное добавление элементов в список и каталог.
 • Автоматическая раскраска меток онлайн-каталога.
 • Выбор иконки приложения под разные задачи.
-• Настройка темы оформления, цветов и градиентов.
+• Настройка оформления, паттерны, цвета и градиенты.
 • Автоматическая проверка каталога на дубликаты.
 • Гибкая настройка приложения под ваши задачи.
 • Полезные подсказки и встроенный обучающий тур.
@@ -460,12 +462,11 @@ CheckList - универсальное приложение для создан�
 
   <script>
 
-  // CONTENT
+  // КОНТЕНТ
 
   function parseContent(id) {
     const source = document.getElementById(id).textContent.trim();
     const result = {};
-
     let key = null;
     let lines = [];
 
@@ -475,7 +476,6 @@ CheckList - универсальное приложение для создан�
 
     source.split('\n').forEach(line => {
       const match = line.match(/^\[([^\]]+)\]\s*$/);
-
       if (match) {
         save();
         key = match[1];
@@ -495,49 +495,35 @@ CheckList - универсальное приложение для создан�
   };
 
 
-  // THEME
+  // ТЕМА
 
   function toggleTheme() {
     document.body.classList.toggle('dark');
-
     const dark = document.body.classList.contains('dark');
-
     document.getElementById('btn-theme').textContent = dark ? '☀️' : '🌙';
     localStorage.setItem('theme', dark ? 'dark' : 'light');
   }
 
 
-  // FEATURES
+  // ОСОБЕННОСТИ
 
   function scrollFeatures(direction) {
     const box = document.getElementById('features-list');
     const card = box ? box.querySelector('.card') : null;
-
-    if (box && card) {
-      box.scrollBy({
-        left: direction * (card.offsetWidth + 16),
-        behavior: 'smooth'
-      });
-    }
+    if (box && card) box.scrollBy({ left: direction * (card.offsetWidth + 16), behavior: 'smooth' });
   }
 
 
-  // SCREENSHOTS
+  // СКРИНШОТЫ
 
   function scrollScreens(direction) {
     const box = document.getElementById('screenshots');
     const img = box ? box.querySelector('img') : null;
-
-    if (box && img) {
-      box.scrollBy({
-        left: direction * (img.offsetWidth + 12),
-        behavior: 'smooth'
-      });
-    }
+    if (box && img) box.scrollBy({ left: direction * (img.offsetWidth + 12), behavior: 'smooth' });
   }
 
 
-  // APPS MENU
+  // МЕНЮ
 
   function toggleApps() {
     document.querySelector('.apps').classList.toggle('open');
@@ -545,14 +531,11 @@ CheckList - универсальное приложение для создан�
 
   document.addEventListener('click', (e) => {
     const apps = document.querySelector('.apps');
-
-    if (!apps.contains(e.target)) {
-      apps.classList.remove('open');
-    }
+    if (!apps.contains(e.target)) apps.classList.remove('open');
   });
 
 
-  // LANGUAGE
+  // ЯЗЫК
 
   function setLang(lang) {
     localStorage.setItem('lang', lang);
@@ -576,25 +559,18 @@ CheckList - универсальное приложение для создан�
       }
     });
 
-    document.querySelectorAll('.lang button').forEach(button => {
-      button.classList.remove('active');
-    });
-
+    document.querySelectorAll('.lang button').forEach(button => button.classList.remove('active'));
     const button = document.getElementById('btn-' + lang);
     if (button) button.classList.add('active');
 
     for (let i = 1; i <= 10; i++) {
       const screen = document.getElementById('screen' + i);
-
-      if (screen) {
-        screen.src = `assets/checklist_${lang}_${i}.png`;
-      }
+      if (screen) screen.src = `assets/checklist_${lang}_${i}.png`;
     }
   }
 
   function initLang(defaultLang = 'en') {
     const stored = localStorage.getItem('lang');
-
     setLang(stored || defaultLang);
 
     if (localStorage.getItem('theme') === 'dark') {
@@ -604,11 +580,11 @@ CheckList - универсальное приложение для создан�
   }
 
 
-  // INITIALIZATION
+  // ИНИЦИАЛИЗАЦИЯ
 
   document.addEventListener('DOMContentLoaded', initLang);
 
-  </script>
+</script>
 
 </body>
 </html>
