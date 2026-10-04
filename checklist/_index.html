@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -76,8 +76,8 @@
     </div>
 
     <div class="lang">
-      <button id="btn-ru" onclick="setLang('ru')">RU</button>
       <button id="btn-en" onclick="setLang('en')">EN</button>
+      <button id="btn-ru" onclick="setLang('ru')">RU</button>
     </div>
 
     <img src="assets/_checklist_icon.png" alt="CheckList" width="96" height="96" style="border-radius:22%; border:1px solid #e2e8f0;">
@@ -118,16 +118,16 @@
       <div class="screens-wrap">
         <button class="screen-arrow left" onclick="scrollScreens(-1)">‹</button>
         <div class="screenshots" id="screenshots">
-          <img id="screen1" src="assets/checklist_ru_1.png" alt="Screenshot 1">
-          <img id="screen2" src="assets/checklist_ru_2.png" alt="Screenshot 2">
-          <img id="screen3" src="assets/checklist_ru_3.png" alt="Screenshot 3">
-          <img id="screen4" src="assets/checklist_ru_4.png" alt="Screenshot 4">
-          <img id="screen5" src="assets/checklist_ru_5.png" alt="Screenshot 5">
-          <img id="screen6" src="assets/checklist_ru_6.png" alt="Screenshot 6">
-          <img id="screen7" src="assets/checklist_ru_7.png" alt="Screenshot 7">
-          <img id="screen8" src="assets/checklist_ru_8.png" alt="Screenshot 8">
-          <img id="screen9" src="assets/checklist_ru_9.png" alt="Screenshot 9">
-          <img id="screen10" src="assets/checklist_ru_10.png" alt="Screenshot 10">
+          <img id="screen1" src="assets/checklist_en_1.png" alt="Screenshot 1">
+          <img id="screen2" src="assets/checklist_en_2.png" alt="Screenshot 2">
+          <img id="screen3" src="assets/checklist_en_3.png" alt="Screenshot 3">
+          <img id="screen4" src="assets/checklist_en_4.png" alt="Screenshot 4">
+          <img id="screen5" src="assets/checklist_en_5.png" alt="Screenshot 5">
+          <img id="screen6" src="assets/checklist_en_6.png" alt="Screenshot 6">
+          <img id="screen7" src="assets/checklist_en_7.png" alt="Screenshot 7">
+          <img id="screen8" src="assets/checklist_en_8.png" alt="Screenshot 8">
+          <img id="screen9" src="assets/checklist_en_9.png" alt="Screenshot 9">
+          <img id="screen10" src="assets/checklist_en_10.png" alt="Screenshot 10">
         </div>
         <button class="screen-arrow right" onclick="scrollScreens(1)">›</button>
       </div>
@@ -292,7 +292,7 @@
     if (apps && !apps.contains(e.target)) apps.classList.remove('open');
   });
 
-  async function initLang(defaultLang = 'ru') {
+  async function initLang(defaultLang = 'en') {
     const stored = localStorage.getItem('lang');
     await setLang(stored || defaultLang);
 
@@ -302,7 +302,7 @@
     }
   }
 
-  document.addEventListener('DOMContentLoaded', () => initLang('ru'));
+  document.addEventListener('DOMContentLoaded', () => initLang('en'));
 </script>
 
 </body>
