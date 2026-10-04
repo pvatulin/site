@@ -1,0 +1,127 @@
+[app.title]
+CheckList
+
+[app.lead]
+Create any lists - shopping, travel, tasks, ideas, and more. Use the online catalog with over 1000 items or create your own.
+
+[btn.download]
+Download on the App Store
+
+[btn.overview]
+Overview
+
+[nav.features]
+Features
+
+[nav.support]
+Support
+
+[nav.privacy]
+Privacy Policy
+
+[features.title]
+Highlights
+
+[feat.1.title]
+Catalog 1000+
+
+[feat.1.text]
+Ready-made online catalog or build your own.
+
+[feat.2.title]
+Quick Add
+
+[feat.2.text]
+Add items in seconds by the first letters.
+
+[feat.3.title]
+Reminders
+
+[feat.3.text]
+Set reminders for any tasks or list items.
+
+[feat.4.title]
+iCloud Sync
+
+[feat.4.text]
+Sync across all your devices with iCloud.
+
+[feat.5.title]
+Easy Controls
+
+[feat.5.text]
+Intuitive controls with taps, swipes and gestures.
+
+[feat.6.title]
+History
+
+[feat.6.text]
+Reuse your lists instead of creating them again.
+
+[screens.title]
+Screenshots
+
+[overview.title]
+Overview
+
+[overview.text1]
+CheckList is a versatile app for creating all kinds of lists. Plan your shopping, pack for trips, organize household chores, work tasks, ideas, celebrations, recipes, pantry supplies, renovations, moving, and much more. Create your own lists from scratch or use the ready-made online catalog with 1000+ items, conveniently organized into categories.
+
+Add items in seconds by typing just the first few letters, rearrange them with simple drag and drop, set reminders, and mark items as completed with a double tap. Keep everything important in one place and reuse lists from your history to save time on recurring tasks. Build your own catalog, add items one by one or all at once, organize them into categories, and label them with colors. Customize the app to match your needs and preferences by choosing interface colors, icons, and many other settings.
+
+Simplicity and ease of use are at the core of CheckList’s design. Almost every action can be performed with simple gestures, taps, and swipes, without complicated menus or unnecessary confirmations. Every feature is designed to make creating, editing, and managing lists fast, intuitive, and convenient for both everyday tasks and long-term planning.
+
+[overview.subtitle]
+Features:
+
+[overview.text2]
+• The app interface is available in 20 languages.
+• Ready-made catalog with 1000+ items and online updates.
+• Online catalogs continue to grow with new localizations.
+• Sync across all your devices with iCloud.
+• Unlimited lists and items.
+• Quickly switch between your lists.
+• Color labels for list items and catalog entries.
+• Progress indicator for every list.
+• Quickly add items by typing just the first few letters.
+• Flexible catalog search by prefix or partial match.
+• Manually reorder items with drag and drop.
+• Quick color selection by tapping the color label.
+• Set quantities for individual list items.
+• Reminders for list items with easy management.
+• Protect individual items from accidental changes.
+• Group list items using different criteria.
+• Move completed lists and categories to history.
+• Convenient history search and list reuse.
+• Quickly share lists with family and friends.
+• Fast actions using swipes, taps and gestures.
+• Mark items as done with a double tap.
+• Support for one-time and reusable lists.
+• Choose catalog categories for each list.
+• Individual settings for each list.
+• Protect individual lists from accidental deletion.
+• Create your own items and categories.
+• Search the catalog within a selected category.
+• Bulk add items to the catalog using a separator.
+• Simultaneously add items to both the list and the catalog.
+• Automatic color coding for online catalog labels.
+• Change the app icon to match your needs.
+• Customize themes, colors, and gradients.
+• Automatically check the catalog for duplicates.
+• Fine-tune the app to fit your needs.
+• Helpful tips and a built-in guided tour.
+
+[overview.text3]
+Enjoy using the app, and I’ll keep improving it, adding new features and refining the catalog while listening to your feedback and suggestions. If CheckList becomes a helpful companion for you or simply makes your everyday tasks a little easier, then all my hard work will have been worth it.
+
+[support.title]
+Support
+
+[support.telegram]
+Our Telegram channel:
+
+[support.text]
+Contact us:
+
+[footer.copy]
+© 2026 Pavel Vatulin
