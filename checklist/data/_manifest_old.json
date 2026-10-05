@@ -1,4 +1,5 @@
 {
+  "updated": "2026-03-29T00:00:00Z",
   "catalogs": [
     { "id": "en", "title": "English",   "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_en.json" },
     { "id": "ru", "title": "Русский",   "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ru.json" },
