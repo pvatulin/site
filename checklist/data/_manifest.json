@@ -12,6 +12,8 @@
     { "id": "kz", "title": "Қазақша",   "updated": "2026-10-06T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_kz.json" },
     { "id": "pl", "title": "Polski",    "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_pl.json" },
     { "id": "pt-BR", "title": "Português (Brasil)", "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_pt-BR.json" },
-    { "id": "zh-Hant", "title": "繁體中文", "updated": "2026-10-07T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_zh-Hant.json" }
+    { "id": "zh-Hans", "title": "简体中文", "updated": "2026-10-07T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_zh-Hans.json" },
+    { "id": "zh-Hant", "title": "繁體中文", "updated": "2026-10-07T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_zh-Hant.json" },
+    { "id": "th", "title": "ไทย", "updated": "2026-10-07T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_th.json" }
   ]
 }
