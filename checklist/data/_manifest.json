@@ -11,6 +11,7 @@
     { "id": "ko", "title": "한국어",      "updated": "2026-10-06T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ko.json" },
     { "id": "kz", "title": "Қазақша",   "updated": "2026-10-06T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_kz.json" },
     { "id": "pl", "title": "Polski",    "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_pl.json" },
-    { "id": "pt-BR", "title": "Português (Brasil)", "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_pt-BR.json" }
+    { "id": "pt-BR", "title": "Português (Brasil)", "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_pt-BR.json" },
+    { "id": "zh-Hant", "title": "繁體中文", "updated": "2026-10-07T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_zh-Hant.json" }
   ]
 }
