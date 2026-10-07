@@ -19,6 +19,7 @@
     { "id": "tr", "title": "Türkçe",    "updated": "2026-10-08T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_tr.json" },
     { "id": "hi", "title": "हिन्दी",       "updated": "2026-10-08T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_hi.json" },
     { "id": "fr", "title": "Français",  "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_fr.json" },
+    { "id": "sv", "title": "Svenska",   "updated": "2026-10-08T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_sv.json" },
     { "id": "ja", "title": "日本語",     "updated": "2026-10-07T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ja.json" } 
   ]
 }
