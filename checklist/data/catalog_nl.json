@@ -1,0 +1,147 @@
+{
+  "language": "nl",
+  "groups": [
+    {
+      "title": "Voeding",
+      "orderIndex": 0,
+      "sections": [
+        {
+          "tag": "vegs",
+          "items": ["Tomaat", "Cherrytomaat", "Trostomaat", "Komkommer", "Snackkomkommer", "Sla", "IJsbergsla", "Romaine sla", "Rucola", "Spinazie", "Snijbiet", "Andijvie", "Boerenkool", "Witte kool", "Rode kool", "Savooiekool", "Spruitjes", "Bloemkool", "Broccoli", "Prei", "Selderij", "Bleekselderij", "Knolselderij", "Artisjok", "Asperges", "Witte asperges", "Groene asperges", "Witlof", "Paksoi", "Aardappel", "Krieltjes", "Zoete aardappel", "Ui", "Gele ui", "Rode ui", "Sjalot", "Bosui", "Knoflook", "Wortel", "Winterpeen", "Radijs", "Rammenas", "Rode biet", "Koolraap", "Pastinaak", "Raap", "Aubergine", "Courgette", "Pompoen", "Paprika", "Rode paprika", "Groene paprika", "Gele paprika", "Chilipeper", "Rode peper", "Groene peper", "Jalapeño", "Sperziebonen", "Haricots verts", "Doperwten", "Peultjes", "Sugarsnaps", "Maïs", "Maïskolf", "Champignons", "Portobello", "Cantharellen", "Eekhoorntjesbrood", "Oesterzwammen", "Shiitake", "Venkel", "Aardpeer", "Gember", "Verse gember", "Mierikswortel", "Peterselie", "Dille", "Basilicum", "Koriander", "Munt", "Bieslook", "Citroen"]
+        },
+        {
+          "tag": "fruits",
+          "items": ["Appel", "Groene appel", "Rode appel", "Peer", "Banaan", "Sinaasappel", "Mandarijn", "Clementine", "Satsuma", "Grapefruit", "Limoen", "Druiven", "Groene druiven", "Rode druiven", "Pitloze druiven", "Aardbeien", "Kersen", "Perzik", "Nectarine", "Abrikoos", "Pruim", "Meloen", "Honingmeloen", "Cantaloupe", "Watermeloen", "Vijgen", "Granaatappel", "Kweepeer", "Kiwi", "Ananas", "Mango", "Avocado", "Kokosnoot", "Blauwe bessen", "Bosbessen", "Frambozen", "Bramen", "Veenbessen", "Cranberry's", "Zwarte bessen", "Rode bessen", "Kruisbessen", "Rozenbottels", "Dadels", "Papaja", "Drakenfruit", "Passievrucht", "Pomelo", "Kumquat", "Lychee", "Olijven", "Groene olijven", "Zwarte olijven"]
+        },
+        {
+          "tag": "dairy",
+          "items": ["Melk", "Volle melk", "Halfvolle melk", "Magere melk", "Biologische melk", "Lactosevrije melk", "Geitenmelk", "Melkpoeder", "Karnemelk", "Yoghurt", "Naturel yoghurt", "Griekse yoghurt", "Turkse yoghurt", "Vruchtenyoghurt", "Vanilleyoghurt", "Kwark", "Skyr", "Kefir", "Zure room", "Crème fraîche", "Vla", "Vanillevla", "Chocoladevla", "Kaas", "Jonge kaas", "Jong belegen kaas", "Belegen kaas", "Oude kaas", "Goudse kaas", "Edammer", "Cheddar", "Mozzarella", "Parmezaan", "Feta", "Halloumi", "Hüttenkäse", "Cottage cheese", "Roomkaas", "Smeerkaas", "Geraspte kaas", "Boter", "Roomboter", "Ongezouten boter", "Margarine", "Halvarine", "Room", "Slagroom", "Kookroom", "Koffiemelk", "Gecondenseerde melk", "Amandeldrink", "Sojadrink", "Haverdrink", "Kokosmelk", "Tofu"]
+        },
+        {
+          "tag": "meat",
+          "items": ["Vlees", "Rundvlees", "Rundergehakt", "Half-om-halfgehakt", "Gehakt", "Sukadelappen", "Riblappen", "Biefstuk", "Entrecote", "Ribeye", "Ossenhaas", "Rosbief", "Stoofvlees", "Kalfsvlees", "Kalfsgehakt", "Varkensvlees", "Varkensgehakt", "Varkenshaas", "Karbonade", "Speklap", "Spek", "Bacon", "Lamsvlees", "Lamsgehakt", "Lamskotelet", "Lamsbout", "Kip", "Hele kip", "Kipfilet", "Kippenborst", "Kippendij", "Kippenpoot", "Drumsticks", "Kippenvleugels", "Kipgehakt", "Kalkoen", "Kalkoenfilet", "Eend", "Worst", "Rookworst", "Grillworst", "Knakworst", "Braadworst", "Chorizo", "Salami", "Ham", "Achterham", "Beenham", "Gerookte ham", "Leverworst", "Paté", "Gehaktballen", "Slavink", "Schnitzel", "Hamburger", "Hamburgers", "Shoarma", "Kebab", "Kipshoarma"]
+        },
+        {
+          "tag": "fish",
+          "items": ["Vis", "Verse vis", "Visfilet", "Zalm", "Zalmfilet", "Gerookte zalm", "Gravad zalm", "Forel", "Kabeljauw", "Kabeljauwfilet", "Koolvis", "Schelvis", "Heek", "Makreel", "Haring", "Hollandse Nieuwe", "Maatjesharing", "Ansjovis", "Sardines", "Tonijn", "Schol", "Heilbot", "Baars", "Snoekbaars", "Snoek", "Zeebaars", "Dorade", "Garnalen", "Gepelde garnalen", "Hollandse garnalen", "Garnalen in pekel", "Rivierkreeft", "Kreeft", "Krab", "Mosselen", "Oesters", "Sint-jakobsschelpen", "Inktvis", "Calamari", "Bevroren vis", "Tonijn in blik", "Makreel in tomatensaus", "Sardines in blik", "Kaviaar", "Vissticks", "Gepaneerde vis", "Lekkerbek", "Kibbeling", "Zeewier"]
+        },
+        {
+          "tag": "bread",
+          "items": ["Brood", "Witbrood", "Bruinbrood", "Volkorenbrood", "Meergranenbrood", "Roggebrood", "Zuurdesembrood", "Tijgerbrood", "Casinobrood", "Toastbrood", "Bolletjes", "Witte bolletjes", "Bruine bolletjes", "Krentenbollen", "Rozijnenbrood", "Stokbrood", "Pistolet", "Ciabatta", "Pitabrood", "Pitabroodjes", "Tortillawraps", "Wraps", "Beschuit", "Knäckebröd", "Ontbijtkoek", "Mueslibrood", "Hotdogbroodjes", "Hamburgerbroodjes", "Bloem", "Tarwebloem", "Volkorenmeel", "Roggemeel", "Maïsmeel", "Rijstmeel", "Amandelmeel", "Havermeel", "Griesmeel", "Tarwe", "Rogge", "Gerst", "Bulgur", "Couscous", "Rijst", "Jasmijnrijst", "Basmatirijst", "Zilvervliesrijst", "Risottorijst", "Dessertrijst", "Pasta", "Spaghetti", "Macaroni", "Penne", "Fusilli", "Tagliatelle", "Lasagnebladen", "Noedels", "Instant noedels", "Eiernoedels", "Havermout", "Havervlokken", "Muesli", "Granola", "Ontbijtgranen", "Cornflakes", "Linzen", "Rode linzen", "Groene linzen", "Gele linzen", "Kikkererwten", "Witte bonen", "Zwarte bonen", "Kidneybonen", "Bruine bonen", "Sojabonen", "Spliterwten", "Gedroogde erwten"]
+        },
+        {
+          "tag": "sauces",
+          "items": ["Ketchup", "Tomatenketchup", "Mayonaise", "Fritessaus", "Mosterd", "Dijonmosterd", "Grove mosterd", "Pittige saus", "Chilisaus", "Sweet chilisaus", "Sambal", "Sambal oelek", "Barbecuesaus", "BBQ-saus", "Sojasaus", "Ketjap", "Ketjap manis", "Vissaus", "Oestersaus", "Teriyakisaus", "Worcestersaus", "Slasaus", "Knoflooksaus", "Tomatensaus", "Pastasaus", "Pizzasaus", "Pesto", "Tacosaus", "Salsa", "Guacamole", "Aioli", "Remouladesaus", "Bearnaisesaus", "Cocktailsaus", "Whiskysaus", "Hamburgersaus", "Shoarmasaus", "Satésaus", "Pindasaus", "Tzatziki", "Hummus", "Tahini", "Ajvar", "Augurken", "Zoetzure augurken", "Cornichons", "Piccalilly", "Pindakaas"]
+        },
+        {
+          "tag": "spices",
+          "items": ["Zout", "Tafelzout", "Zeezout", "Grof zout", "Suiker", "Kristalsuiker", "Basterdsuiker", "Poedersuiker", "Zwarte peper", "Witte peper", "Chilivlokken", "Chilipoeder", "Paprikapoeder", "Cayennepeper", "Komijn", "Karwij", "Oregano", "Tijm", "Rozemarijn", "Dragon", "Salie", "Gedroogde basilicum", "Gedroogde dille", "Kaneel", "Kaneelstokjes", "Kardemom", "Gemalen kardemom", "Kruidnagel", "Nootmuskaat", "Korianderzaad", "Venkelzaad", "Sesamzaad", "Maanzaad", "Laurierblad", "Knoflookpoeder", "Uienpoeder", "Gemberpoeder", "Kurkuma", "Kerrie", "Kerriepoeder", "Garam masala", "Koekkruiden", "Speculaaskruiden", "Vleeskruiden", "Kipkruiden", "Viskruiden", "Kruidenmix", "Vanillesuiker", "Azijn", "Natuurazijn", "Wittewijnazijn", "Rodewijnazijn", "Appelazijn", "Balsamicoazijn", "Olijfolie", "Extra vierge olijfolie", "Zonnebloemolie", "Koolzaadolie", "Maïsolie", "Sesamolie", "Kokosolie", "Plantaardige olie", "Frituurolie", "Vanille"]
+        },
+        {
+          "tag": "nuts",
+          "items": ["Noten", "Notenmix", "Hazelnoten", "Amandelen", "Walnoten", "Pistachenoten", "Pinda's", "Cashewnoten", "Pecannoten", "Macadamianoten", "Paranoten", "Pijnboompitten", "Rozijnen", "Krenten", "Gedroogde abrikozen", "Gedroogde vijgen", "Pruimen", "Gedroogde dadels", "Gedroogde cranberry's", "Gedroogde blauwe bessen", "Gedroogde mango", "Kokoschips", "Zonnebloempitten", "Pompoenpitten", "Chiazaad", "Lijnzaad", "Zadenmix"]
+        },
+        {
+          "tag": "baking",
+          "items": ["Eieren", "Kippeneieren", "Biologische eieren", "Vrije-uitloopeieren", "Scharreleieren", "Kwarteleieren", "Gist", "Droge gist", "Verse gist", "Bakpoeder", "Baksoda", "Vanillinesuiker", "Vanille-extract", "Vanillearoma", "Cacao", "Cacaopoeder", "Pure chocolade", "Melkchocolade", "Bakchocolade", "Chocoladedruppels", "Chocoladestukjes", "Gelatine", "Gelatineblaadjes", "Agar agar", "Zetmeel", "Maïzena", "Aardappelzetmeel", "Kokosvlokken", "Geraspte kokos", "Marsepein", "Fondant", "Voedingskleurstof", "Kleurstof", "Sprinkles", "Taartdecoratie", "Bakmix", "Pannenkoekenmix", "Poffertjesmix"]
+        },
+        {
+          "tag": "snacks",
+          "items": ["Chocolade", "Snoep", "Drop", "Zoete drop", "Zoute drop", "Winegums", "Gummibeertjes", "Kauwgom", "Koekjes", "Biscuitjes", "Stroopwafels", "Speculaas", "Bokkenpootjes", "Kletskoppen", "Zoute koekjes", "Crackers", "Chips", "Aardappelchips", "Tortillachips", "Nacho's", "Popcorn", "Borrelnootjes", "Kaassoufflé", "Kroket", "Bitterballen", "Frikandel", "Cake", "Taart", "Appeltaart", "Vlaai", "Muffins", "Donut", "Croissant", "IJs", "Vanille-ijs", "Chocolade-ijs", "Sorbet", "Pudding", "Honing", "Jam", "Aardbeienjam", "Frambozenjam", "Abrikozenjam", "Sinaasappelmarmelade", "Marmelade", "Chocoladepasta", "Hagelslag", "Vlokken", "Pindarotsjes", "Mueslireep", "Energiereep", "Proteïnereep", "Pepernoten", "Kruidnoten", "Oliebollen"]
+        },
+        {
+          "tag": "drinks",
+          "items": ["Water", "Drinkwater", "Mineraalwater", "Bruiswater", "Plat water", "Frisdrank", "Cola", "Cola zero", "Limonade", "Siroop", "Sap", "Sinaasappelsap", "Appelsap", "Druivensap", "Cranberrysap", "Multivruchtensap", "Vruchtendrank", "Smoothie", "Energiedrank", "Sportdrank", "IJsthee", "Thee", "Zwarte thee", "Groene thee", "Kruidenthee", "Kamillethee", "Muntthee", "Theezakjes", "Koffie", "Filterkoffie", "Oploskoffie", "Espresso", "Koffiebonen", "Gemalen koffie", "Koffiepads", "Koffiecups", "Cold brew", "IJskoffie", "Warme chocolademelk", "Chocolademelk", "Isblokjes"]
+        },
+        {
+          "tag": "frozen",
+          "items": ["Diepvriesproducten", "Diepvriesgroenten", "Diepvriesfruit", "Diepvrieserwten", "Diepvriesmaïs", "Diepvriesspinazie", "Diepvriesbroccoli", "Diepvriesaardappelen", "Friet", "Patat", "Diepvriespizza", "Pizza", "Diepvrieshamburgers", "Diepvriesgehaktballen", "Diepvrieskip", "Diepvriesvlees", "Diepvriesgarnalen", "Kipnuggets", "Nuggets", "Diepvrieskroketten", "Diepvriesfrikandellen", "Diepvriesbitterballen", "Diepvriesloempia's", "Loempia's", "Diepvriespannenkoeken", "Pannenkoeken", "Diepvriespoffertjes", "Poffertjes", "Diepvriesmaaltijd", "Kant-en-klaarmaaltijd", "Kant-en-klaar", "Diepvriesoep"]
+        }
+      ]
+    },
+    {
+      "title": "Alcoholische dranken",
+      "orderIndex": 1,
+      "sections": [
+        {
+          "tag": "alcohol",
+          "items": ["Bier", "Pils", "Pilsener", "Lager", "Ale", "IPA", "Speciaalbier", "Witbier", "Weizen", "Bokbier", "Alcoholvrij bier", "Wijn", "Rode wijn", "Witte wijn", "Rosé", "Mousserende wijn", "Champagne", "Prosecco", "Cava", "Cider", "Alcoholvrije cider", "Wodka", "Whisky", "Gin", "Rum", "Tequila", "Brandy", "Cognac", "Likeur", "Vermout", "Jenever", "Jonge jenever", "Oude jenever", "Advocaat", "Sake", "Soju", "Cocktail"]
+        }
+      ]
+    },
+    {
+      "title": "Huishouden",
+      "orderIndex": 2,
+      "sections": [
+        {
+          "tag": "laundry",
+          "items": ["Wasmiddel", "Waspoeder", "Vloeibaar wasmiddel", "Wascapsules", "Bontwasmiddel", "Witwasmiddel", "Fijnwasmiddel", "Wolwasmiddel", "Babywasmiddel", "Wasverzachter", "Wasparfum", "Vlekkenverwijderaar", "Bleekmiddel", "Zuurstofbleekmiddel", "Kleurdoekjes", "Wasmachinereiniger", "Ontkalker", "Wasnet", "Waszak"]
+        },
+        {
+          "tag": "cleaning",
+          "items": ["Schoonmaakmiddel", "Allesreiniger", "Multireiniger", "Oppervlaktereiniger", "Vloerreiniger", "Glasreiniger", "Ruitenreiniger", "Badkamerreiniger", "Toiletreiniger", "WC-reiniger", "Keukenreiniger", "Ontvetter", "Ovenreiniger", "Kalkreiniger", "Ontstopper", "Desinfectiemiddel", "Desinfectiespray", "Schoonmaakspray", "Luchtverfrisser", "Interieurspray", "Schoonmaakdoek", "Microvezeldoek", "Schoonmaakdoekjes", "Schuurspons", "Schrobborstel", "Toiletborstel", "Bezem", "Stoffer", "Blik", "Stoffer en blik", "Dweil", "Mop", "Rubberhandschoenen", "Wegwerphandschoenen", "Groene zeep"]
+        },
+        {
+          "tag": "kitchen",
+          "items": ["Afwasmiddel", "Handafwasmiddel", "Vaatwasmiddel", "Vaatwaspoeder", "Vaatwastabletten", "Vaatwaszout", "Glansspoelmiddel", "Afwasspons", "Spons", "Afwasborstel", "Schuursponsje", "Keukendoek", "Vaatdoek", "Theedoek", "Keukenpapier", "Servetten", "Aluminiumfolie", "Huishoudfolie", "Bakpapier", "Vershoudfolie", "Diepvrieszakjes", "Ziplockzakjes", "Bewaarzakjes", "Vuilniszakken", "Afvalzakken", "Pedaalemmerzakken", "Vershouddoos", "Bewaarbak", "Lunchbox", "Rietjes", "Papieren bekers", "Plastic bekers", "Papieren borden", "Plastic borden", "Wegwerpvorken", "Wegwerplepels", "Wegwerpmessen", "Tandenstokers", "Satéprikkers", "Koffiefilters", "Bakvormpjes", "Muffinvormpjes"]
+        },
+        {
+          "tag": "other",
+          "items": ["Batterijen", "AA-batterijen", "AAA-batterijen", "Knoopcelbatterij", "Oplaadbare batterijen", "Gloeilamp", "LED-lamp", "Plakband", "Verpakkingstape", "Dubbelzijdige tape", "Lijm", "Secondelijm", "Kledinghanger", "Kleerhanger", "Wasknijpers", "Lucifers", "Aansteker", "Kaarsen", "Waxinelichtjes", "Stekkerdoos", "Verlengsnoer", "Contactdoos", "Muggenmiddel", "Muggenspray", "Muggenstekker", "Muggennet", "Insectenspray", "Mierenmiddel", "Mottenmiddel"]
+        }
+      ]
+    },
+    {
+      "title": "Persoonlijke verzorging",
+      "orderIndex": 3,
+      "sections": [
+        {
+          "tag": "hygiene",
+          "items": ["Toiletpapier", "Zakdoekjes", "Papieren zakdoekjes", "Vochtige doekjes", "Antibacteriële doekjes", "Handzeep", "Vloeibare zeep", "Handgel", "Handdesinfectie", "Antiseptisch middel", "Zeep", "Douchezeep", "Douchegel", "Shampoo", "Droogshampoo", "Conditioner", "Haarmasker", "Haarserum", "Haarolie", "Gezichtsreiniger", "Reinigingsgel", "Micellair water", "Make-upremover", "Toner", "Hydraterende crème", "Gezichtscrème", "Bodylotion", "Handcrème", "Lippenbalsem", "Zonnebrandcrème", "Zonnebrand", "Gezichtsmasker", "Watten", "Wattenschijfjes", "Wattenstaafjes", "Tandenborstel", "Elektrische tandenborstel", "Opzetborstels", "Tandpasta", "Tandzijde", "Flosdraad", "Ragers", "Tongschraper", "Mondwater", "Scheermes", "Scheermesjes", "Elektrisch scheerapparaat", "Scheerschuim", "Scheergel", "Ontharingscrème", "Deodorant", "Roll-on deodorant", "Parfum", "Haargel", "Haarwax", "Haarlak", "Haarmousse", "Intiemwasgel", "Maandverband", "Inlegkruisjes", "Tampons", "Menstruatiecup", "Condooms", "Nagelknipper", "Nagelschaartje", "Nagelvijl", "Kam", "Haarborstel", "Aceton", "Nagellakremover", "Talkpoeder", "Lichaamspoeder"]
+        }
+      ]
+    },
+    {
+      "title": "Babyproducten",
+      "orderIndex": 4,
+      "sections": [
+        {
+          "tag": "baby",
+          "items": ["Luiers", "Wegwerpluiers", "Luierbroekjes", "Newbornluiers", "Babydoekjes", "Billendoekjes", "Verschoonmatje", "Babydeken", "Hydrofiele doek", "Hydrofiele luiers", "Zinkzalf", "Luiercrème", "Babyolie", "Babylotion", "Babycrème", "Babypoeder", "Babyshampoo", "Babyzeep", "Babybad", "Babyfles", "Fles", "Flesspeen", "Flessenborstel", "Flessenreiniger", "Flessensterilisator", "Speen", "Fopspeen", "Bijtring", "Slab", "Slabbetje", "Babyvoeding", "Flesvoeding", "Zuigelingenvoeding", "Opvolgmelk", "Babypap", "Kinderpap", "Fruithapje", "Groentehapje", "Knijpfruit", "Potje babyvoeding", "Babylepel", "Kinderbord", "Kinderkom", "Tuitbeker", "Babytandenborstel", "Kindertandenborstel", "Kindertandpasta", "Babyhanddoek", "Zwemluier", "Luierzakjes", "Luieremmer", "Moedermelkbewaarzakjes", "Borstvoedingszakjes", "Babyfoon"]
+        }
+      ]
+    },
+    {
+      "title": "Huisdieren",
+      "orderIndex": 5,
+      "sections": [
+        {
+          "tag": "pets",
+          "items": ["Dierenvoer", "Hondenvoer", "Droogvoer voor honden", "Natvoer voor honden", "Kattenvoer", "Droogvoer voor katten", "Natvoer voor katten", "Puppyvoer", "Kittenvoer", "Hondensnacks", "Kattensnacks", "Dierensnacks", "Kauwbot", "Hondenspeelgoed", "Kattenspeelgoed", "Kattenbakvulling", "Kattengrit", "Klontvormende kattenbakvulling", "Kattenbak", "Hondenplasmat", "Hondenluier", "Dierendoekjes", "Dierenshampoo", "Hondenshampoo", "Kattenshampoo", "Halsband", "Hondenhalsband", "Kattenhalsband", "Hondenriem", "Riem", "Tuigje", "Hondentuig", "Kattentuig", "Transportbox", "Kattenreismand", "Hondenreismand", "Voerbak", "Waterbak", "Automatische voerbak", "Drinkfontein", "Kattenfontein", "Voedingssupplement voor dieren", "Tekenmiddel", "Tekenband", "Vlooienmiddel", "Vlooienband", "Hondenpoepzakjes", "Krabpaal", "Krabplank", "Vogelzaad", "Parkietenvoer", "Visvoer", "Aquariumvoer"]
+        }
+      ]
+    },
+    {
+      "title": "Reizen",
+      "orderIndex": 6,
+      "sections": [
+        {
+          "tag": "docs",
+          "items": ["Paspoort", "E-paspoort", "Kopie paspoort", "Pasfoto", "Identiteitskaart", "ID-kaart", "Rijbewijs", "Internationaal rijbewijs", "Visum", "Kopie visum", "Vliegticket", "Instapkaart", "Boardingpass", "Treinkaartje", "Busticket", "Veerbootticket", "E-ticket", "Hotelreservering", "Boekingsbevestiging", "Vluchtbevestiging", "Reisverzekering", "Kentekenbewijs", "Creditcard", "Bankpas", "Contant geld", "Buitenlandse valuta", "Vaccinatiebewijs", "Europese zorgpas", "EHIC", "Reisplan"]
+        },
+        {
+          "tag": "tech",
+          "items": ["AirTag", "eSIM", "Simkaart", "Telefoon", "Mobiele telefoon", "Smartphone", "Telefoonhoesje", "Tablet", "Laptop", "Notebook", "Computermuis", "Smartwatch", "Camera", "Actiecamera", "Dashcam", "Statief", "Koptelefoon", "Hoofdtelefoon", "Oordopjes", "Draadloze oordopjes", "Bluetooth-oordopjes", "Powerbank", "Draagbare oplader", "Oplader", "Telefoonoplader", "Snellader", "Autolader", "Laptopoplader", "Reisoplader", "Laadadapter", "Adapter", "Reisadapter", "Stekkeradapter", "Wereldstekker", "USB-kabel", "USB-C-kabel", "Type-C-kabel", "Lightning-kabel", "Oplaadkabel", "Telefoonkabel", "Datakabel", "iPhone-kabel", "Geheugenkaart", "Kaartlezer", "SSD", "E-reader", "Bluetooth-speaker", "Spanningsomvormer"]
+        },
+        {
+          "tag": "bags",
+          "items": ["Koffer", "Reiskoffer", "Cabinekoffer", "Handbagage", "Trolley", "Weekendtas", "Reistas", "Handtas", "Rugzak", "Reisrugzak", "Schoudertas", "Heuptas", "Sporttas", "Kofferhoes", "Bagageriem", "Kofferriem", "Kofferslot", "Bagagelabel", "Kofferlabel", "Packing cubes", "Inpakblokjes", "Pakzak", "Vacuümzakken", "Compressiezakken", "Paspoorthouder", "Paspoorthoes", "Kaarthouder", "Portemonnee", "Opvouwbare tas", "Opvouwbare rugzak", "Laptoptas", "Toilettas", "Make-uptas", "Schoenenzak"]
+        },
+        {
+          "tag": "tools",
+          "items": ["Slaapmasker", "Oogmasker", "Oordoppen", "Nekkussen", "Reiskussen", "Zonnebril", "Wegwerpmondkapje", "Paraplu", "Opvouwbare paraplu", "Regenjas", "Regenponcho", "Reflector", "Waterfles", "Drinkfles", "Thermosfles", "Thermosbeker", "Bagageweegschaal", "Kofferweegschaal", "Zaklamp", "Hoofdlamp", "Handventilator", "Miniventilator", "EHBO-set", "EHBO-kit", "Reisapotheek", "Medicijnen", "Geneesmiddelen", "Pillendoos", "Medicijndoos", "Medicijntas", "Antisepticum", "Alcoholdoekjes", "Pen", "Notitieboek", "Naaiset", "Naald en draad", "Waterdichte tas", "Waterdicht hoesje", "Dry bag", "Hangslot", "Cijferslot", "Multitool", "Zakmes"]
+        }
+      ]
+    }
+  ]
+}
