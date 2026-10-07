@@ -1,0 +1,147 @@
+{
+  "language": "tr",
+  "groups": [
+    {
+      "title": "Gıda",
+      "orderIndex": 0,
+      "sections": [
+        {
+          "tag": "vegs",
+          "items": ["Domates", "Çeri domates", "Salkım domates", "Salatalık", "Kornişon salatalık", "Marul", "Göbek marul", "Kıvırcık marul", "Roka", "Tere", "Maydanoz", "Dereotu", "Taze nane", "Fesleğen", "Ispanak", "Pazı", "Semizotu", "Kara lahana", "Beyaz lahana", "Kırmızı lahana", "Brüksel lahanası", "Karnabahar", "Brokoli", "Pırasa", "Kereviz", "Kereviz sapı", "Enginar", "Kuşkonmaz", "Patates", "Tatlı patates", "Soğan", "Kuru soğan", "Kırmızı soğan", "Arpacık soğan", "Taze soğan", "Sarımsak", "Havuç", "Turp", "Kırmızı turp", "Pancar", "Şalgam", "Patlıcan", "Kabak", "Sakız kabağı", "Bal kabağı", "Dolmalık biber", "Sivri biber", "Çarliston biber", "Kapya biber", "Kırmızı biber", "Yeşil biber", "Acı biber", "Köy biberi", "Jalapeno", "Bamya", "Taze fasulye", "Ayşe kadın fasulye", "Barbunya", "Bezelye", "Bakla", "Mısır", "Tatlı mısır", "Mantar", "Kültür mantarı", "İstiridye mantarı", "Kestane mantarı", "Şitake mantarı", "Rezene", "Yer elması", "Alabaş", "Zencefil", "Taze zencefil", "Limon"]
+        },
+        {
+          "tag": "fruits",
+          "items": ["Elma", "Yeşil elma", "Kırmızı elma", "Armut", "Muz", "Portakal", "Mandalina", "Greyfurt", "Üzüm", "Yeşil üzüm", "Siyah üzüm", "Kırmızı üzüm", "Çekirdeksiz üzüm", "Çilek", "Kiraz", "Vişne", "Şeftali", "Nektarin", "Kayısı", "Erik", "Yeşil erik", "Kavun", "Karpuz", "İncir", "Nar", "Ayva", "Dut", "Karadut", "Trabzon hurması", "Cennet hurması", "Kivi", "Ananas", "Mango", "Avokado", "Hindistan cevizi", "Yaban mersini", "Ahududu", "Böğürtlen", "Frenk üzümü", "Kızılcık", "Yeni dünya", "Malta eriği", "Hurma", "Papaya", "Ejder meyvesi", "Çarkıfelek meyvesi", "Pomelo", "Kamkat", "Liçi", "Zeytin", "Siyah zeytin", "Yeşil zeytin"]
+        },
+        {
+          "tag": "dairy",
+          "items": ["Süt", "Tam yağlı süt", "Yarım yağlı süt", "Yağsız süt", "Günlük süt", "UHT süt", "Laktozsuz süt", "Keçi sütü", "Manda sütü", "Süt tozu", "Yoğurt", "Süzme yoğurt", "Kaymaksız yoğurt", "Probiyotik yoğurt", "Meyveli yoğurt", "Ayran", "Kefir", "Peynir", "Beyaz peynir", "Süzme peynir", "Ezine peyniri", "Kaşar peyniri", "Eski kaşar", "Taze kaşar", "Tulum peyniri", "Lor peyniri", "Çökelek", "Dil peyniri", "Örgü peyniri", "Çeçil peyniri", "Hellim peyniri", "Krem peynir", "Labne", "Mozzarella", "Cheddar peyniri", "Parmesan", "Tereyağı", "Tuzlu tereyağı", "Tuzsuz tereyağı", "Kaymak", "Krema", "Çırpma kreması", "Yemek kreması", "Yoğunlaştırılmış süt", "Badem sütü", "Soya sütü", "Yulaf sütü", "Hindistan cevizi sütü", "Tofu"]
+        },
+        {
+          "tag": "meat",
+          "items": ["Et", "Kırmızı et", "Dana eti", "Dana kıyma", "Dana kuşbaşı", "Dana biftek", "Dana bonfile", "Dana antrikot", "Dana kontrfile", "Dana pirzola", "Dana ciğer", "Dana işkembe", "Kuzu eti", "Kuzu kıyma", "Kuzu kuşbaşı", "Kuzu pirzola", "Kuzu but", "Kuzu kol", "Kuzu ciğer", "Koyun eti", "Kıyma", "Kuşbaşı et", "Tavuk", "Bütün tavuk", "Tavuk göğsü", "Tavuk but", "Tavuk kalça", "Tavuk kanat", "Tavuk baget", "Tavuk pirzola", "Tavuk ciğer", "Hindi", "Hindi eti", "Hindi göğsü", "Ördek eti", "Sucuk", "Dana sucuk", "Pastırma", "Kavurma", "Salam", "Sosis", "Dana sosis", "Tavuk sosis", "Jambon", "Köfte", "İnegöl köfte", "Kasap köfte", "Hamburger köftesi", "Döner", "Et döner", "Tavuk döner"]
+        },
+        {
+          "tag": "fish",
+          "items": ["Balık", "Taze balık", "Balık fileto", "Hamsi", "İstavrit", "Palamut", "Lüfer", "Çinekop", "Levrek", "Çipura", "Somon", "Alabalık", "Uskumru", "Sardalya", "Ton balığı", "Orkinos", "Kalkan", "Mezgit", "Barbun", "Tekir", "Kefal", "Mercan", "Dil balığı", "Kılıç balığı", "Karides", "Jumbo karides", "Kalamar", "Ahtapot", "Midye", "İstiridye", "Yengeç", "Istakoz", "Deniz tarağı", "Dondurulmuş balık", "Füme somon", "Konserve ton balığı", "Ton balığı konservesi", "Konserve sardalya", "Balık köftesi", "Balık pane", "Deniz yosunu"]
+        },
+        {
+          "tag": "bread",
+          "items": ["Ekmek", "Beyaz ekmek", "Tam buğday ekmeği", "Kepekli ekmek", "Çavdar ekmeği", "Ekşi mayalı ekmek", "Köy ekmeği", "Somun ekmek", "Tost ekmeği", "Sandviç ekmeği", "Hamburger ekmeği", "Hot dog ekmeği", "Bazlama", "Pide", "Ramazan pidesi", "Lavaş", "Yufka", "Simit", "Poğaça", "Açma", "Galeta", "Galeta unu", "Un", "Buğday unu", "Tam buğday unu", "Beyaz un", "Mısır unu", "Pirinç unu", "Nohut unu", "Badem unu", "Yulaf unu", "Çavdar unu", "İrmik", "Buğday", "Bulgur", "Pilavlık bulgur", "Köftelik bulgur", "İnce bulgur", "Pirinç", "Baldo pirinç", "Osmancık pirinç", "Basmati pirinç", "Yasemin pirinci", "Esmer pirinç", "Makarna", "Spagetti", "Penne", "Fusilli", "Burgu makarna", "Fiyonk makarna", "Erişte", "Şehriye", "Arpa şehriye", "Tel şehriye", "Noodle", "Hazır noodle", "Kuskus", "Yulaf", "Yulaf ezmesi", "Müsli", "Granola", "Kahvaltılık gevrek", "Mısır gevreği", "Mercimek", "Kırmızı mercimek", "Yeşil mercimek", "Sarı mercimek", "Nohut", "Kuru fasulye", "Dermason fasulye", "Börülce", "Maş fasulyesi", "Kuru bakla", "Aşurelik buğday", "Tarhana"]
+        },
+        {
+          "tag": "sauces",
+          "items": ["Ketçap", "Domates ketçabı", "Mayonez", "Hardal", "Hardal sosu", "Acı sos", "Tatlı acı sos", "Barbekü sos", "BBQ sos", "Soya sosu", "Koyu soya sosu", "Balık sosu", "İstiridye sosu", "Teriyaki sos", "Worcestershire sosu", "Ranch sos", "Sezar sos", "Salata sosu", "Nar ekşisi", "Acı biber sosu", "Sarımsak sosu", "Domates sosu", "Makarna sosu", "Pizza sosu", "Pesto sos", "Salça", "Domates salçası", "Biber salçası", "Acı biber salçası", "Tahin", "Humus", "Ajvar", "Acuka", "Muhammara", "Ezme", "Acılı ezme", "Turşu", "Salatalık turşusu", "Kornişon turşu", "Biber turşusu", "Lahana turşusu", "Karışık turşu", "Zeytin ezmesi", "Fıstık ezmesi"]
+        },
+        {
+          "tag": "spices",
+          "items": ["Tuz", "Sofra tuzu", "Deniz tuzu", "Kaya tuzu", "Şeker", "Toz şeker", "Esmer şeker", "Pudra şekeri", "Karabiber", "Beyaz biber", "Pul biber", "Kırmızı toz biber", "Tatlı toz biber", "Acı toz biber", "İsot", "Kimyon", "Kekik", "Nane", "Kuru nane", "Sumak", "Zerdeçal", "Tarçın", "Çubuk tarçın", "Karanfil", "Yenibahar", "Muskat", "Kişniş", "Kişniş tohumu", "Rezene tohumu", "Çörek otu", "Susam", "Beyaz susam", "Haşhaş", "Defne yaprağı", "Biberiye", "Fesleğen kurusu", "Sarımsak tozu", "Soğan tozu", "Zencefil tozu", "Köri", "Köri tozu", "Et baharatı", "Tavuk baharatı", "Köfte baharatı", "Balık baharatı", "Kajun baharatı", "Baharat", "Karışık baharat", "Limon tuzu", "Mahlep", "Sirke", "Üzüm sirkesi", "Elma sirkesi", "Beyaz sirke", "Balzamik sirke", "Zeytinyağı", "Sızma zeytinyağı", "Ayçiçek yağı", "Mısırözü yağı", "Kanola yağı", "Susam yağı", "Hindistan cevizi yağı", "Bitkisel yağ", "Kızartma yağı", "Gül suyu", "Vanilya"]
+        },
+        {
+          "tag": "nuts",
+          "items": ["Kuruyemiş", "Karışık kuruyemiş", "Fındık", "Badem", "Ceviz", "Antep fıstığı", "Yer fıstığı", "Kaju", "Pekan cevizi", "Makademya", "Brezilya cevizi", "Çam fıstığı", "Leblebi", "Sarı leblebi", "Beyaz leblebi", "Kuru üzüm", "Kuru kayısı", "Kuru incir", "Kuru erik", "Kuru hurma", "Kuru dut", "Kuru yaban mersini", "Kuru kızılcık", "Kuru mango", "Hindistan cevizi kurusu", "Ay çekirdeği", "Kabak çekirdeği", "Chia tohumu", "Keten tohumu", "Karpuz çekirdeği", "Karışık çekirdek"]
+        },
+        {
+          "tag": "baking",
+          "items": ["Yumurta", "Tavuk yumurtası", "Organik yumurta", "Gezen tavuk yumurtası", "Bıldırcın yumurtası", "Ördek yumurtası", "Maya", "Kuru maya", "Instant maya", "Yaş maya", "Kabartma tozu", "Karbonat", "Vanilin", "Vanilya özütü", "Vanilya aroması", "Kakao", "Kakao tozu", "Bitter çikolata", "Sütlü çikolata", "Kuvertür çikolata", "Damla çikolata", "Çikolata parçaları", "Jelatin", "Agar agar", "Nişasta", "Mısır nişastası", "Buğday nişastası", "Krema sertleştirici", "Hindistan cevizi rendesi", "Şeker hamuru", "Gıda boyası", "Pasta süsü", "Pasta karışımı"]
+        },
+        {
+          "tag": "snacks",
+          "items": ["Çikolata", "Şekerleme", "Akide şekeri", "Lokum", "Sakız", "Bisküvi", "Kurabiye", "Gofret", "Kraker", "Cips", "Patates cipsi", "Mısır cipsi", "Tortilla cipsi", "Patlamış mısır", "Çerez", "Kek", "Pasta", "Yaş pasta", "Kuru pasta", "Brownie", "Muffin", "Donut", "Kruvasan", "Dondurma", "Sade dondurma", "Meyveli dondurma", "Puding", "Jöle", "Bal", "Reçel", "Çilek reçeli", "Vişne reçeli", "Kayısı reçeli", "İncir reçeli", "Marmelat", "Pekmez", "Tahin pekmez", "Helva", "Tahin helvası", "Pişmaniye", "Baklava", "Kadayıf", "Künefe", "Şöbiyet", "Revani", "Şekerpare", "Sütlaç", "Kazandibi", "Enerji barı", "Protein barı"]
+        },
+        {
+          "tag": "drinks",
+          "items": ["Su", "İçme suyu", "Kaynak suyu", "Mineralli su", "Maden suyu", "Soda", "Gazlı içecek", "Kola", "Şekersiz kola", "Limonata", "Meyve suyu", "Portakal suyu", "Elma suyu", "Vişne suyu", "Şeftali suyu", "Kayısı suyu", "Nar suyu", "Üzüm suyu", "Şalgam suyu", "Enerji içeceği", "Sporcu içeceği", "Soğuk çay", "Buzlu çay", "Çay", "Türk çayı", "Siyah çay", "Yeşil çay", "Bitki çayı", "Adaçayı", "Ihlamur", "Papatya çayı", "Kuşburnu çayı", "Nane limon", "Poşet çay", "Türk kahvesi", "Dibek kahvesi", "Menengiç kahvesi", "Kahve", "Hazır kahve", "Granül kahve", "Filtre kahve", "Espresso", "Kahve çekirdeği", "Öğütülmüş kahve", "Soğuk kahve", "Sıcak çikolata", "Kakao içeceği", "Salep", "Boza", "Buz"]
+        },
+        {
+          "tag": "frozen",
+          "items": ["Dondurulmuş gıda", "Dondurulmuş sebze", "Dondurulmuş meyve", "Dondurulmuş bezelye", "Dondurulmuş mısır", "Dondurulmuş ıspanak", "Dondurulmuş patates", "Dondurulmuş patates kızartması", "Patates kızartması", "Dondurulmuş pizza", "Pizza", "Dondurulmuş hamburger", "Hamburger", "Dondurulmuş köfte", "Dondurulmuş tavuk", "Dondurulmuş et", "Dondurulmuş karides", "Dondurulmuş kalamar", "Nugget", "Tavuk nugget", "Şinitzel", "Tavuk şinitzel", "Dondurulmuş börek", "Börek", "Su böreği", "Sigara böreği", "Dondurulmuş mantı", "Mantı", "Dondurulmuş lahmacun", "Lahmacun", "Dondurulmuş pide", "Hazır yemek", "Hazır çorba", "Hazır gıda"]
+        }
+      ]
+    },
+    {
+      "title": "Alkollü İçecekler",
+      "orderIndex": 1,
+      "sections": [
+        {
+          "tag": "alcohol",
+          "items": ["Bira", "Alkolsüz bira", "Şarap", "Kırmızı şarap", "Beyaz şarap", "Roze şarap", "Köpüklü şarap", "Şampanya", "Rakı", "Votka", "Viski", "Cin", "Rom", "Tekila", "Brendi", "Konyak", "Likör", "Vermut", "Sake", "Soju", "Elma şarabı", "Kokteyl"]
+        }
+      ]
+    },
+    {
+      "title": "Ev İhtiyaçları",
+      "orderIndex": 2,
+      "sections": [
+        {
+          "tag": "laundry",
+          "items": ["Çamaşır deterjanı", "Toz deterjan", "Sıvı deterjan", "Çamaşır kapsülü", "Çamaşır sabunu", "Beyazlar için deterjan", "Renkliler için deterjan", "Siyahlar için deterjan", "Hassas çamaşır deterjanı", "Bebek çamaşır deterjanı", "Yün deterjanı", "Çamaşır yumuşatıcısı", "Yumuşatıcı", "Çamaşır parfümü", "Leke çıkarıcı", "Çamaşır suyu", "Oksijenli ağartıcı", "Renk koruyucu mendil", "Çamaşır makinesi temizleyici", "Kireç önleyici", "Çamaşır filesi", "Çamaşır torbası"]
+        },
+        {
+          "tag": "cleaning",
+          "items": ["Temizlik ürünü", "Yüzey temizleyici", "Genel temizleyici", "Çok amaçlı temizleyici", "Yer temizleyici", "Zemin temizleyici", "Cam temizleyici", "Banyo temizleyici", "Tuvalet temizleyici", "Klozet temizleyici", "Mutfak temizleyici", "Yağ çözücü", "Fırın temizleyici", "Kireç çözücü", "Lavabo açıcı", "Gider açıcı", "Dezenfektan", "Dezenfektan sprey", "Oda spreyi", "Oda kokusu", "Temizlik bezi", "Mikrofiber bez", "Islak temizlik mendili", "Temizlik süngeri", "Temizlik fırçası", "Tuvalet fırçası", "Süpürge", "Faraş", "Paspas", "Mop", "Mop bezi", "Lastik eldiven", "Tek kullanımlık eldiven"]
+        },
+        {
+          "tag": "kitchen",
+          "items": ["Bulaşık deterjanı", "Sıvı bulaşık deterjanı", "Bulaşık makinesi deterjanı", "Bulaşık makinesi tableti", "Bulaşık makinesi tuzu", "Parlatıcı", "Bulaşık süngeri", "Sünger", "Bulaşık teli", "Ovma teli", "Mutfak bezi", "Mutfak havlusu", "Kağıt havlu", "Peçete", "Alüminyum folyo", "Streç film", "Yağlı kağıt", "Pişirme kağıdı", "Buzdolabı poşeti", "Kilitli poşet", "Buzluk poşeti", "Saklama poşeti", "Çöp poşeti", "Saklama kabı", "Yemek kabı", "Beslenme çantası", "Pipet", "Kağıt bardak", "Plastik bardak", "Karton tabak", "Plastik tabak", "Tek kullanımlık çatal", "Tek kullanımlık kaşık", "Tek kullanımlık bıçak", "Kürdan", "Tahta şiş"]
+        },
+        {
+          "tag": "other",
+          "items": ["Pil", "AA pil", "AAA pil", "Düğme pil", "Şarjlı pil", "Ampul", "LED ampul", "Bant", "Koli bandı", "Çift taraflı bant", "Yapıştırıcı", "Japon yapıştırıcısı", "Askı", "Elbise askısı", "Mandal", "Çamaşır mandalı", "Kibrit", "Çakmak", "Mum", "Priz", "Uzatma kablosu", "Uzatma prizi", "Çoklu priz", "Sinek kovucu", "Sivrisinek kovucu", "Sivrisinek spreyi", "Sivrisinek losyonu", "Sivrisinek tableti", "Sivrisinek cihazı", "Sivrisinek ağı", "Sineklik", "Böcek ilacı", "Karınca ilacı", "Hamam böceği ilacı", "Güve kovucu", "Naftalin"]
+        }
+      ]
+    },
+    {
+      "title": "Kişisel Bakım",
+      "orderIndex": 3,
+      "sections": [
+        {
+          "tag": "hygiene",
+          "items": ["Tuvalet kağıdı", "Tuvalet rulosu", "Kağıt mendil", "Cep mendili", "Islak mendil", "Antibakteriyel mendil", "El sabunu", "Sıvı sabun", "El dezenfektanı", "Antiseptik solüsyon", "Kolonya", "Sabun", "Banyo sabunu", "Duş jeli", "Vücut şampuanı", "Şampuan", "Kuru şampuan", "Saç kremi", "Saç maskesi", "Saç serumu", "Saç yağı", "Yüz yıkama jeli", "Yüz temizleyici", "Misel su", "Makyaj temizleyici", "Tonik", "Nemlendirici", "Yüz kremi", "Vücut losyonu", "El kremi", "Dudak balmı", "Güneş kremi", "Güneş koruyucu", "Yüz maskesi", "Pamuk", "Pamuk ped", "Kulak çubuğu", "Diş fırçası", "Diş macunu", "Diş ipi", "Dil temizleyici", "Ağız gargarası", "Tıraş bıçağı", "Jilet", "Elektrikli tıraş makinesi", "Tıraş köpüğü", "Tıraş jeli", "Yedek jilet", "Tüy dökücü krem", "Deodorant", "Roll-on", "Parfüm", "Saç jölesi", "Saç spreyi", "Saç köpüğü", "Hijyenik ped", "Günlük ped", "Tampon", "Menstrüel kap", "Adet kabı", "Prezervatif", "Tırnak makası", "Tırnak törpüsü", "Tarak", "Saç fırçası", "Aseton", "Oje çıkarıcı", "Talk pudrası", "Vücut pudrası"]
+        }
+      ]
+    },
+    {
+      "title": "Bebek Ürünleri",
+      "orderIndex": 4,
+      "sections": [
+        {
+          "tag": "baby",
+          "items": ["Bebek bezi", "Bez", "Tek kullanımlık bebek bezi", "Külot bez", "Yenidoğan bezi", "Bebek mendili", "Bebek ıslak mendili", "Alt açma örtüsü", "Bebek battaniyesi", "Kundak", "Müslin bez", "Pişik kremi", "Bebek yağı", "Bebek losyonu", "Bebek kremi", "Bebek pudrası", "Bebek şampuanı", "Bebek sabunu", "Bebek duş jeli", "Biberon", "Biberon emziği", "Biberon fırçası", "Biberon temizleyici", "Biberon sterilizatörü", "Emzik", "Diş kaşıyıcı", "Mama önlüğü", "Bebek önlüğü", "Bebek maması", "Devam sütü", "Bebek sütü", "Bebek tahılı", "Bebek püresi", "Bebek bisküvisi", "Mama kaşığı", "Mama tabağı", "Mama kasesi", "Alıştırma bardağı", "Bebek diş fırçası", "Çocuk diş fırçası", "Bebek diş macunu", "Çocuk diş macunu", "Bebek havlusu", "Bebek termometresi", "Yüzme bezi", "Anne sütü saklama poşeti"]
+        }
+      ]
+    },
+    {
+      "title": "Evcil Hayvan Ürünleri",
+      "orderIndex": 5,
+      "sections": [
+        {
+          "tag": "pets",
+          "items": ["Evcil hayvan maması", "Köpek maması", "Kuru köpek maması", "Yaş köpek maması", "Kedi maması", "Kuru kedi maması", "Yaş kedi maması", "Yavru köpek maması", "Yavru kedi maması", "Köpek ödül maması", "Kedi ödül maması", "Ödül maması", "Çiğneme kemiği", "Köpek oyuncağı", "Kedi oyuncağı", "Kedi kumu", "Topaklanan kedi kumu", "Kedi tuvaleti", "Köpek çiş pedi", "Evcil hayvan bezi", "Evcil hayvan mendili", "Evcil hayvan şampuanı", "Köpek şampuanı", "Kedi şampuanı", "Tasma", "Köpek tasması", "Kedi tasması", "Köpek gezdirme tasması", "Göğüs tasması", "Evcil hayvan taşıma çantası", "Kedi taşıma çantası", "Köpek taşıma çantası", "Mama kabı", "Su kabı", "Otomatik mama kabı", "Su pınarı", "Kedi su pınarı", "Evcil hayvan vitamini", "Pire damlası", "Kene damlası", "Pire ve kene ilacı", "Köpek dışkı poşeti", "Kuş yemi", "Muhabbet kuşu yemi", "Balık yemi", "Akvaryum yemi"]
+        }
+      ]
+    },
+    {
+      "title": "Seyahat",
+      "orderIndex": 6,
+      "sections": [
+        {
+          "tag": "docs",
+          "items": ["Pasaport", "E-pasaport", "Pasaport fotokopisi", "Pasaport kopyası", "Pasaport fotoğrafı", "Kimlik", "Kimlik kartı", "T.C. kimlik kartı", "Ehliyet", "Sürücü belgesi", "Uluslararası sürücü belgesi", "Vize", "Vize kopyası", "Uçak bileti", "Biniş kartı", "Tren bileti", "Otobüs bileti", "Feribot bileti", "E-bilet", "Otel rezervasyonu", "Rezervasyon onayı", "Uçuş onayı", "Seyahat sigortası", "Araç ruhsatı", "Ruhsat", "Kredi kartı", "Banka kartı", "Nakit para", "Döviz", "Aşı sertifikası", "Seyahat planı"]
+        },
+        {
+          "tag": "tech",
+          "items": ["AirTag", "eSIM", "SIM kart", "Telefon", "Cep telefonu", "Akıllı telefon", "Telefon kılıfı", "Tablet", "Dizüstü bilgisayar", "Laptop", "Fare", "Akıllı saat", "Kamera", "Aksiyon kamerası", "Araç kamerası", "Tripod", "Kulaklık", "Kablosuz kulaklık", "Bluetooth kulaklık", "Kulak içi kulaklık", "Powerbank", "Taşınabilir şarj cihazı", "Şarj cihazı", "Telefon şarj cihazı", "Hızlı şarj cihazı", "Araç şarj cihazı", "Laptop şarj cihazı", "Şarj adaptörü", "Adaptör", "Seyahat adaptörü", "Priz adaptörü", "Evrensel adaptör", "USB kablosu", "USB-C kablosu", "Type-C kablo", "Lightning kablosu", "Şarj kablosu", "Telefon şarj kablosu", "Veri kablosu", "iPhone kablosu", "Hafıza kartı", "Kart okuyucu", "SSD", "E-kitap okuyucu", "Bluetooth hoparlör", "Voltaj dönüştürücü"]
+        },
+        {
+          "tag": "bags",
+          "items": ["Valiz", "Bavul", "Seyahat valizi", "Kabin valizi", "Kabin bagajı", "Tekerlekli valiz", "Seyahat çantası", "El çantası", "Sırt çantası", "Seyahat sırt çantası", "Omuz çantası", "Bel çantası", "Spor çantası", "Valiz kılıfı", "Bavul kılıfı", "Valiz kemeri", "Bagaj kemeri", "Valiz kilidi", "Bagaj etiketi", "Valiz etiketi", "Bavul düzenleyici", "Valiz düzenleyici", "Çanta düzenleyici", "Paketleme küpü", "Vakumlu poşet", "Sıkıştırma torbası", "Pasaport cüzdanı", "Pasaport kılıfı", "Kartlık", "Cüzdan", "Katlanabilir çanta", "Katlanabilir sırt çantası", "Laptop çantası", "Kozmetik çantası", "Makyaj çantası", "Tuvalet çantası", "Ayakkabı çantası"]
+        },
+        {
+          "tag": "tools",
+          "items": ["Uyku maskesi", "Göz maskesi", "Kulak tıkacı", "Boyun yastığı", "Seyahat yastığı", "Güneş gözlüğü", "Tek kullanımlık maske", "Şemsiye", "Katlanır şemsiye", "Yağmurluk", "Tek kullanımlık yağmurluk", "Su şişesi", "Matara", "Termos", "Termos bardak", "Bagaj tartısı", "Valiz tartısı", "El feneri", "Cep feneri", "El vantilatörü", "Mini vantilatör", "İlk yardım çantası", "İlaç", "İlaçlar", "İlaç kutusu", "Hap kutusu", "İlaç çantası", "Antiseptik", "Alkollü mendil", "Kalem", "Not defteri", "Dikiş seti", "İğne iplik", "Su geçirmez çanta", "Su geçirmez kılıf", "Dry bag", "Asma kilit", "Şifreli kilit", "Çok amaçlı alet", "Çakı"]
+        }
+      ]
+    }
+  ]
+}
