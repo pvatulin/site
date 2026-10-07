@@ -2,6 +2,7 @@
   "catalogs": [
     { "id": "en", "title": "English",   "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_en.json" },
     { "id": "ru", "title": "Русский",   "updated": "2026-10-06T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ru.json" },
+    { "id": "ar", "title": "العربية",   "updated": "2026-10-07T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ar.json" },
     { "id": "be", "title": "Беларускі", "updated": "2026-10-06T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_be.json" },
     { "id": "es", "title": "Español",   "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_es.json" },
     { "id": "it", "title": "Italiano",  "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_it.json" },
@@ -12,7 +13,7 @@
     { "id": "de", "title": "Deutsch",   "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_de.json" },
     { "id": "pl", "title": "Polski",    "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_pl.json" },
     { "id": "pt-BR", "title": "Português (Brasil)", "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_pt-BR.json" },
-    { "id": "th", "title": "ไทย", "updated": "2026-10-07T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_th.json" },
+    { "id": "th", "title": "ไทย",       "updated": "2026-10-07T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_th.json" },
     { "id": "fr", "title": "Français",  "updated": "2026-03-29T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_fr.json" },
     { "id": "ja", "title": "日本語",     "updated": "2026-10-07T00:00:00Z", "url": "https://raw.githubusercontent.com/pvatulin/site/refs/heads/main/checklist/data/catalog_ja.json" } 
   ]
