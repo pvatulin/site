@@ -7,31 +7,31 @@
       "sections": [
         {
           "tag": "vegs",
-          "items": ["Asparagus", "Bawang bombai", "Bawang merah", "Bawang putih", "Bayam", "Bit", "Bok choy", "Brokoli", "Buncis", "Cabai", "Cabai hijau", "Cabai merah", "Cabai rawit", "Cabe", "Cabe hijau", "Cabe merah", "Cabe rawit", "Daun bawang", "Daun jeruk", "Daun ketumbar", "Daun kunyit", "Daun melinjo", "Daun mint", "Daun pandan", "Daun pepaya", "Daun salam", "Daun seledri", "Daun singkong", "Gambas", "Genjer", "Jagung", "Jagung manis", "Jahe", "Jamur", "Jamur enoki", "Jamur kancing", "Jamur kuping", "Jamur shiitake", "Jamur tiram", "Jengkol", "Jeruk limau", "Jeruk nipis", "Kacang panjang", "Kacang polong", "Kale", "Kangkung", "Kecipir", "Kecombrang", "Kemangi", "Kembang kol", "Kencur", "Kentang", "Kol", "Kol ungu", "Kubis", "Kunyit", "Labu air", "Labu kuning", "Labu siam", "Lengkuas", "Lobak", "Lobak merah", "Melinjo", "Mentimun", "Okra", "Oyong", "Pakcoy", "Paprika", "Pare", "Petai", "Rebung", "Sawi", "Sawi hijau", "Sawi putih", "Selada", "Selada romaine", "Seledri", "Serai", "Singkong", "Talas", "Tauge", "Terong", "Terong hijau", "Terong ungu", "Timun", "Tomat", "Ubi jalar", "Wortel", "Zukini"]
+          "items": ["Asparagus", "Bawang bombai", "Bawang merah", "Bawang putih", "Bayam", "Bit", "Bok choy", "Brokoli", "Buncis", "Cabai", "Cabai hijau", "Cabai merah", "Cabai rawit", "Cabe", "Cabe hijau", "Cabe merah", "Cabe rawit", "Daun bawang", "Daun jeruk", "Daun ketumbar", "Daun kunyit", "Daun melinjo", "Daun mint", "Daun pandan", "Daun pepaya", "Daun prei", "Daun salam", "Daun seledri", "Daun singkong", "Edamame", "Gambas", "Genjer", "Jagung", "Jagung manis", "Jahe", "Jamur", "Jamur enoki", "Jamur kancing", "Jamur king oyster", "Jamur kuping", "Jamur shiitake", "Jamur shimeji", "Jamur tiram", "Jengkol", "Jeruk limau", "Jeruk nipis", "Kacang kapri", "Kacang panjang", "Kacang polong", "Kale", "Kangkung", "Kecipir", "Kecombrang", "Kemangi", "Kembang kol", "Kencur", "Kentang", "Kol", "Kol ungu", "Kubis", "Kucai", "Kunyit", "Labu air", "Labu butternut", "Labu kuning", "Labu siam", "Lengkuas", "Lobak", "Lobak merah", "Melinjo", "Mentimun", "Okra", "Oyong", "Pakcoy", "Paprika", "Pare", "Petai", "Rebung", "Sawi", "Sawi hijau", "Sawi putih", "Selada", "Selada keriting", "Selada romaine", "Seledri", "Serai", "Singkong", "Talas", "Tauge", "Terong", "Terong hijau", "Terong ungu", "Timun", "Tomat", "Ubi jalar", "Wortel", "Zukini"]
         },
         {
           "tag": "fruits",
-          "items": ["Alpukat", "Anggur", "Anggur hijau", "Anggur merah", "Apel", "Apel hijau", "Apel merah", "Aprikot", "Belimbing", "Blueberry", "Buah ara", "Buah matoa", "Buah naga", "Cempedak", "Ceri", "Delima", "Duku", "Durian", "Jambu air", "Jambu biji", "Jeruk", "Jeruk bali", "Jeruk keprok", "Jeruk mandarin", "Jeruk purut", "Jeruk sunkist", "Kedondong", "Kelapa", "Kelengkeng", "Kesemek", "Kiwi", "Kurma", "Langsat", "Leci", "Lengkeng", "Mangga", "Mangga harum manis", "Mangga manalagi", "Manggis", "Markisa", "Melon", "Nanas", "Nangka", "Pepaya", "Persik", "Pir", "Pisang", "Pisang ambon", "Pisang kepok", "Pisang raja", "Plum", "Pomelo", "Rambutan", "Raspberry", "Salak", "Sawo", "Semangka", "Sirsak", "Srikaya", "Stroberi"]
+          "items": ["Alpukat", "Alpukat mentega", "Anggur", "Anggur hijau", "Anggur merah", "Apel", "Apel hijau", "Apel malang", "Apel merah", "Aprikot", "Belimbing", "Blueberry", "Buah", "Buah ara", "Buah matoa", "Buah naga", "Cempedak", "Ceri", "Delima", "Duku", "Durian", "Jambu air", "Jambu biji", "Jeruk", "Jeruk bali", "Jeruk keprok", "Jeruk lemon", "Jeruk mandarin", "Jeruk medan", "Jeruk purut", "Jeruk sunkist", "Kedondong", "Kelapa", "Kelengkeng", "Kesemek", "Kiwi", "Kurma", "Langsat", "Leci", "Lengkeng", "Mangga", "Mangga harum manis", "Mangga manalagi", "Manggis", "Markisa", "Melon", "Nanas", "Nangka", "Pepaya", "Persik", "Pir", "Pisang", "Pisang ambon", "Pisang cavendish", "Pisang kepok", "Pisang raja", "Plum", "Pomelo", "Rambutan", "Raspberry", "Salak", "Sawo", "Semangka", "Sirsak", "Srikaya", "Stroberi"]
         },
         {
           "tag": "dairy",
-          "items": ["Keju", "Keju cheddar", "Keju krim", "Keju lembaran", "Keju mozzarella", "Keju parmesan", "Keju parut", "Krim", "Krim kocok", "Krim masak", "Margarin", "Mentega", "Mentega asin", "Mentega tawar", "Minuman kelapa", "Oncom", "Susu", "Susu almond", "Susu bebas laktosa", "Susu bubuk", "Susu evaporasi", "Susu full cream", "Susu kambing", "Susu kedelai", "Susu kental manis", "Susu oat", "Susu pasteurisasi", "Susu rendah lemak", "Susu segar", "Susu skim", "Susu tanpa lemak", "Susu UHT", "Tahu", "Tahu kuning", "Tahu putih", "Tahu sutra", "Tahu telur", "Tempe", "Whipping cream", "Yoghurt", "Yogurt", "Yogurt rendah gula", "Yogurt tawar", "Yogurt Yunani"]
+          "items": ["Keju", "Keju biru", "Keju brie", "Keju camembert", "Keju cheddar", "Keju edam", "Keju feta", "Keju gouda", "Keju krim", "Keju lembaran", "Keju mozzarella", "Keju parmesan", "Keju parut", "Keju ricotta", "Krim", "Krim asam", "Krim kocok", "Krim masak", "Margarin", "Mascarpone", "Mentega", "Mentega asin", "Mentega tawar", "Minuman kelapa", "Oncom", "Susu", "Susu almond", "Susu bebas laktosa", "Susu beras", "Susu bubuk", "Susu evaporasi", "Susu full cream", "Susu kambing", "Susu kedelai", "Susu kelapa", "Susu kental manis", "Susu kotak", "Susu oat", "Susu pasteurisasi", "Susu rendah lemak", "Susu segar", "Susu skim", "Susu tanpa lemak", "Susu UHT", "Tahu", "Tahu kuning", "Tahu putih", "Tahu sutra", "Tahu telur", "Tempe", "Whipping cream", "Yoghurt", "Yogurt", "Yogurt bebas laktosa", "Yogurt rendah gula", "Yogurt tawar", "Yogurt Yunani"]
         },
         {
           "tag": "meat",
-          "items": ["Ampela ayam", "Ayam", "Ayam bakar", "Ayam giling", "Ayam panggang", "Ayam utuh", "Bacon", "Bakso", "Bakso ayam", "Bakso sapi", "Bebek", "Ceker ayam", "Dada ayam", "Daging", "Daging asap", "Daging ayam", "Daging babi", "Daging babi giling", "Daging bebek", "Daging cincang", "Daging domba", "Daging kambing", "Daging kerbau", "Daging panggang", "Daging sapi", "Daging sapi giling", "Daging sapi has dalam", "Daging sapi has luar", "Daging sapi iris", "Daging sapi sandung lamur", "Daging sapi sengkel", "Daging sapi tetelan", "Ham", "Hati ayam", "Hati sapi", "Iga babi", "Iga sapi", "Jeroan", "Kornet", "Kulit ayam", "Paha ayam", "Salami", "Samcan", "Sate ayam", "Sate kambing", "Sayap ayam", "Sosis", "Sosis ayam", "Sosis sapi", "Steak sapi", "Usus ayam"]
+          "items": ["Ampela ayam", "Ayam", "Ayam bakar", "Ayam fillet", "Ayam giling", "Ayam kampung", "Ayam panggang", "Ayam utuh", "Bacon", "Bakso", "Bakso ayam", "Bakso sapi", "Bebek", "Ceker ayam", "Dada ayam", "Dada ayam fillet", "Daging", "Daging asap", "Daging ayam", "Daging babi", "Daging babi giling", "Daging bebek", "Daging cincang", "Daging domba", "Daging kambing", "Daging kambing giling", "Daging kerbau", "Daging panggang", "Daging sapi", "Daging sapi giling", "Daging sapi has dalam", "Daging sapi has luar", "Daging sapi iris", "Daging sapi ribeye", "Daging sapi sandung lamur", "Daging sapi sengkel", "Daging sapi shortplate", "Daging sapi sukiyaki", "Daging sapi tetelan", "Daging sapi yakiniku", "Ham", "Hati ayam", "Hati sapi", "Iga babi", "Iga kambing", "Iga sapi", "Jeroan", "Kornet", "Kulit ayam", "Paha ayam", "Paha ayam fillet", "Salami", "Samcan", "Sate ayam", "Sate kambing", "Sayap ayam", "Sosis", "Sosis ayam", "Sosis sapi", "Steak sapi", "Usus ayam"]
         },
         {
           "tag": "fish",
-          "items": ["Bakso ikan", "Cumi", "Cumi kering", "Cumi-cumi", "Ebi", "Fillet ikan", "Gurita", "Ikan", "Ikan asin", "Ikan bandeng", "Ikan baronang", "Ikan bawal", "Ikan bawal hitam", "Ikan bawal putih", "Ikan belanak", "Ikan cakalang", "Ikan dori", "Ikan gabus", "Ikan gurame", "Ikan kakap", "Ikan kakap merah", "Ikan kaleng", "Ikan kembung", "Ikan kerapu", "Ikan kering", "Ikan kuwe", "Ikan layang", "Ikan lele", "Ikan makarel", "Ikan mas", "Ikan mujair", "Ikan nila", "Ikan pari", "Ikan patin", "Ikan peda", "Ikan pindang", "Ikan salmon", "Ikan sarden", "Ikan segar", "Ikan selar", "Ikan tenggiri", "Ikan teri", "Ikan tongkol", "Ikan tuna", "Kepiting", "Kerang", "Kerang dara", "Kerang hijau", "Lobster", "Rajungan", "Rumput laut", "Sarden kaleng", "Scallop", "Tiram", "Tuna kaleng", "Udang", "Udang galah", "Udang kering", "Udang kupas", "Udang vaname", "Udang windu"]
+          "items": ["Bakso ikan", "Crab stick", "Cumi", "Cumi kering", "Cumi-cumi", "Daging kepiting", "Ebi", "Fillet dori", "Fillet ikan", "Fillet salmon", "Gurita", "Ikan", "Ikan asin", "Ikan bandeng", "Ikan baronang", "Ikan bawal", "Ikan bawal hitam", "Ikan bawal putih", "Ikan belanak", "Ikan cakalang", "Ikan dori", "Ikan gabus", "Ikan gurame", "Ikan kakap", "Ikan kakap fillet", "Ikan kakap merah", "Ikan kaleng", "Ikan kembung", "Ikan kerapu", "Ikan kering", "Ikan kuwe", "Ikan layang", "Ikan lele", "Ikan makarel", "Ikan mas", "Ikan mujair", "Ikan nila", "Ikan pari", "Ikan patin", "Ikan peda", "Ikan pindang", "Ikan salmon", "Ikan sarden", "Ikan segar", "Ikan selar", "Ikan tenggiri", "Ikan teri", "Ikan tongkol", "Ikan tuna", "Ikan tuna fillet", "Kepiting", "Kerang", "Kerang dara", "Kerang hijau", "Lobster", "Rajungan", "Rumput laut", "Sarden kaleng", "Scallop", "Surimi", "Telur ikan", "Tiram", "Tuna kaleng", "Udang", "Udang galah", "Udang kering", "Udang kupas", "Udang vaname", "Udang windu"]
         },
         {
           "tag": "bread",
-          "items": ["Baguette", "Beras", "Beras basmati", "Beras hitam", "Beras ketan", "Beras merah", "Beras organik", "Beras pandan wangi", "Beras putih", "Bihun", "Bihun beras", "Bubur", "Croissant", "Kacang arab", "Kacang hijau", "Kacang hitam", "Kacang kedelai", "Kacang lentil", "Kacang merah", "Ketan hitam", "Ketan putih", "Kwetiau", "Kwetiaw", "Lasagna", "Maizena", "Makaroni", "Mi", "Mi basah", "Mi instan", "Mi kuning", "Mi telur", "Mie", "Mie basah", "Mie goreng", "Mie instan", "Mie kuah", "Mie kuning", "Mie telur", "Nasi", "Nasi putih", "Oat", "Oatmeal", "Pasta", "Roti", "Roti burger", "Roti gandum", "Roti gandum utuh", "Roti hot dog", "Roti manis", "Roti multigrain", "Roti putih", "Roti sobek", "Roti tawar", "Sereal", "Soun", "Spaghetti", "Tepung beras", "Tepung hunkwe", "Tepung jagung", "Tepung ketan", "Tepung mocaf", "Tepung panir", "Tepung roti", "Tepung sagu", "Tepung tapioka", "Tepung terigu"]
+          "items": ["Baguette", "Beras", "Beras basmati", "Beras hitam", "Beras ketan", "Beras merah", "Beras organik", "Beras pandan wangi", "Beras pecah kulit", "Beras putih", "Bihun", "Bihun beras", "Bubur", "Croissant", "Kacang arab", "Kacang hijau", "Kacang hitam", "Kacang kedelai", "Kacang lentil", "Kacang merah", "Kacang putih", "Ketan hitam", "Ketan putih", "Kwetiau", "Kwetiaw", "Lasagna", "Maizena", "Makaroni", "Mi", "Mi basah", "Mi instan", "Mi kuning", "Mi ramen", "Mi soba", "Mi telur", "Mi udon", "Mie", "Mie basah", "Mie goreng", "Mie instan", "Mie kuah", "Mie kuning", "Mie telur", "Muesli", "Nasi", "Nasi putih", "Oat", "Oatmeal", "Pasta", "Quinoa", "Roti", "Roti burger", "Roti gandum", "Roti gandum utuh", "Roti hot dog", "Roti manis", "Roti multigrain", "Roti pita", "Roti putih", "Roti sobek", "Roti sourdough", "Roti tawar", "Sereal", "Soun", "Spaghetti", "Tepung almond", "Tepung beras", "Tepung gandum utuh", "Tepung hunkwe", "Tepung jagung", "Tepung ketan", "Tepung mocaf", "Tepung panir", "Tepung roti", "Tepung sagu", "Tepung tapioka", "Tepung terigu", "Tortilla"]
         },
         {
           "tag": "sauces",
-          "items": ["Acar", "Acar timun", "Bumbu gado-gado", "Bumbu kacang", "Bumbu pecel", "Bumbu sate", "Dressing salad", "Kecap", "Kecap asin", "Kecap ikan", "Kecap manis", "Mayones", "Miso", "Mustard", "Petis", "Sambal", "Sambal bajak", "Sambal bawang", "Sambal botol", "Sambal hijau", "Sambal ijo", "Sambal kecap", "Sambal matah", "Sambal pecel", "Sambal roa", "Sambal terasi", "Saus asam manis", "Saus barbekyu", "Saus BBQ", "Saus bolognese", "Saus cabai", "Saus carbonara", "Saus jamur", "Saus kacang", "Saus kari", "Saus keju", "Saus lada hitam", "Saus mayones", "Saus pasta", "Saus pesto", "Saus salad", "Saus sambal", "Saus teriyaki", "Saus tiram", "Saus tomat", "Tauco", "Terasi"]
+          "items": ["Acar", "Acar campur", "Acar timun", "Bumbu gado-gado", "Bumbu kacang", "Bumbu pecel", "Bumbu sate", "Dressing salad", "Kapari", "Kecap", "Kecap asin", "Kecap ikan", "Kecap manis", "Mayones", "Miso", "Mustard", "Pasta tomat", "Petis", "Sambal", "Sambal bajak", "Sambal bawang", "Sambal botol", "Sambal hijau", "Sambal ijo", "Sambal kecap", "Sambal matah", "Sambal pecel", "Sambal roa", "Sambal terasi", "Saus asam manis", "Saus barbekyu", "Saus BBQ", "Saus bolognese", "Saus cabai", "Saus carbonara", "Saus hoisin", "Saus jamur", "Saus kacang", "Saus kari", "Saus keju", "Saus lada hitam", "Saus mayones", "Saus pasta", "Saus pesto", "Saus salad", "Saus sambal", "Saus sriracha", "Saus tartar", "Saus teriyaki", "Saus thousand island", "Saus tiram", "Saus tomat", "Saus wijen", "Tauco", "Terasi", "Tomat kaleng", "Zaitun", "Zaitun hijau", "Zaitun hitam"]
         },
         {
           "tag": "spices",
@@ -39,7 +39,7 @@
         },
         {
           "tag": "nuts",
-          "items": ["Aprikot kering", "Biji bunga matahari", "Biji chia", "Biji labu", "Buah kering", "Cranberry kering", "Hazelnut", "Kacang almond", "Kacang Brazil", "Kacang campur", "Kacang kenari", "Kacang macadamia", "Kacang mete", "Kacang pinus", "Kacang pistachio", "Kacang tanah", "Kacang-kacangan", "Keripik pisang", "Kismis", "Kuaci", "Kurma kering", "Mangga kering", "Nangka kering", "Pecan", "Pisang kering", "Prune", "Walnut"]
+          "items": ["Apel kering", "Aprikot kering", "Biji bunga matahari", "Biji chia", "Biji labu", "Buah ara kering", "Buah kering", "Campuran buah kering", "Ceri kering", "Cranberry kering", "Hazelnut", "Kacang almond", "Kacang Brazil", "Kacang campur", "Kacang kenari", "Kacang macadamia", "Kacang mete", "Kacang pili", "Kacang pinus", "Kacang pistachio", "Kacang tanah", "Kacang-kacangan", "Keripik pisang", "Kismis", "Kuaci", "Kurma kering", "Mangga kering", "Nangka kering", "Pecan", "Pisang kering", "Prune", "Walnut"]
         },
         {
           "tag": "baking",
@@ -47,20 +47,20 @@
         },
         {
           "tag": "snacks",
-          "items": ["Bakpia", "Berondong jagung", "Biskuit", "Bolu", "Brownies", "Camilan", "Chocolate", "Cokelat", "Cookies", "Cupcake", "Dodol", "Donat", "Emping", "Es krim", "Es loli", "Granola", "Jeli", "Jelly", "Kacang goreng", "Kacang panggang", "Keripik", "Keripik kentang", "Keripik singkong", "Keripik talas", "Keripik tempe", "Kerupuk", "Kerupuk bawang", "Kerupuk ikan", "Kerupuk kulit", "Kerupuk udang", "Klepon", "Kue", "Kue basah", "Kue kering", "Lapis legit", "Madu", "Muffin", "Nastar", "Onde-onde", "Permen", "Permen jelly", "Permen karet", "Permen keras", "Permen lolipop", "Popcorn", "Puding", "Selai", "Selai kacang", "Sereal sarapan", "Snack", "Wafer"]
+          "items": ["Bakpia", "Berondong jagung", "Bika ambon", "Biskuit", "Bolu", "Brownies", "Camilan", "Chocolate", "Cokelat", "Cokelat batangan", "Cookies", "Cupcake", "Dodol", "Donat", "Emping", "Energy bar", "Es krim", "Es loli", "Getuk", "Granola", "Jeli", "Jelly", "Kacang goreng", "Kacang panggang", "Keripik", "Keripik buah", "Keripik kentang", "Keripik nangka", "Keripik singkong", "Keripik talas", "Keripik tempe", "Kerupuk", "Kerupuk bawang", "Kerupuk ikan", "Kerupuk kulit", "Kerupuk udang", "Klepon", "Kue", "Kue basah", "Kue kering", "Kue lapis", "Kue putu", "Lapis legit", "Lemper", "Madu", "Marshmallow", "Martabak manis", "Muesli bar", "Muffin", "Nastar", "Onde-onde", "Pastel", "Permen", "Permen jelly", "Permen karet", "Permen keras", "Permen lolipop", "Popcorn", "Protein bar", "Puding", "Risoles", "Selai", "Selai kacang", "Serabi", "Sereal sarapan", "Snack", "Wafer"]
         },
         {
           "tag": "drinks",
-          "items": ["Air", "Air galon", "Air isi ulang", "Air kelapa", "Air kemasan", "Air mineral", "Air minum", "Air putih", "Air soda", "Beras kencur", "Cincau", "Cokelat panas", "Es batu", "Es kelapa", "Es teh", "Es teh manis", "Jamu", "Jus", "Jus alpukat", "Jus apel", "Jus jambu", "Jus jeruk", "Jus mangga", "Kopi", "Kopi 3 in 1", "Kopi arabika", "Kopi biji", "Kopi bubuk", "Kopi hitam", "Kopi instan", "Kopi luwak", "Kopi robusta", "Kopi sachet", "Kopi susu", "Kopi tubruk", "Kunyit asam", "Minuman bersoda", "Minuman cokelat", "Minuman energi", "Minuman isotonik", "Minuman ringan", "Sirup", "Susu cokelat", "Teh", "Teh botol", "Teh celup", "Teh herbal", "Teh hijau", "Teh hitam", "Teh jasmine", "Teh manis", "Teh melati", "Teh susu", "Teh tarik", "Wedang jahe"]
+          "items": ["Air", "Air galon", "Air isi ulang", "Air kelapa", "Air kemasan", "Air mineral", "Air minum", "Air putih", "Air soda", "Air tonik", "Beras kencur", "Cappuccino", "Cincau", "Cokelat panas", "Es batu", "Es kelapa", "Es teh", "Es teh manis", "Jamu", "Jus", "Jus alpukat", "Jus apel", "Jus jambu", "Jus jeruk", "Jus mangga", "Jus nanas", "Jus tomat", "Kopi", "Kopi 3 in 1", "Kopi arabika", "Kopi biji", "Kopi bubuk", "Kopi cold brew", "Kopi hitam", "Kopi instan", "Kopi luwak", "Kopi robusta", "Kopi sachet", "Kopi susu", "Kopi tubruk", "Kunyit asam", "Minuman bersoda", "Minuman cokelat", "Minuman energi", "Minuman isotonik", "Minuman probiotik", "Minuman ringan", "Sirup", "Susu cokelat", "Teh", "Teh botol", "Teh celup", "Teh herbal", "Teh hijau", "Teh hitam", "Teh jasmine", "Teh manis", "Teh melati", "Teh susu", "Teh tarik", "Wedang jahe"]
         },
         {
           "tag": "frozen",
-          "items": ["Ayam beku", "Ayam goreng", "Bakso beku", "Buah beku", "Burger", "Burger beku", "Cumi beku", "Daging beku", "Dimsum beku", "Ikan beku", "Kentang beku", "Kentang goreng beku", "Lumpia beku", "Makanan beku", "Makanan instan", "Makanan siap masak", "Makanan siap saji", "Nugget", "Nugget ayam", "Nugget ikan", "Otak-otak beku", "Pangsit beku", "Pempek beku", "Pizza", "Pizza beku", "Sayuran beku", "Siomay beku", "Sosis beku", "Tempura beku", "Udang beku"]
+          "items": ["Ayam beku", "Ayam goreng", "Bakpao beku", "Bakso beku", "Brokoli beku", "Buah beku", "Burger", "Burger beku", "Cumi beku", "Daging beku", "Dimsum beku", "Edamame beku", "Ikan beku", "Jagung beku", "Kacang polong beku", "Kentang beku", "Kentang goreng", "Kentang goreng beku", "Lumpia beku", "Makanan beku", "Makanan instan", "Makanan siap masak", "Makanan siap saji", "Nugget", "Nugget ayam", "Nugget ikan", "Otak-otak beku", "Pangsit beku", "Pempek beku", "Pizza", "Pizza beku", "Salmon beku", "Sayuran beku", "Seafood beku", "Siomay beku", "Sosis beku", "Tempura beku", "Udang beku"]
         }
       ]
     },
     {
-      "title": "Minuman Beralkohol",
+      "title": "Alkohol",
       "orderIndex": 1,
       "sections": [
         {
@@ -70,12 +70,12 @@
       ]
     },
     {
-      "title": "Keperluan Rumah Tangga",
+      "title": "Rumah Tangga",
       "orderIndex": 2,
       "sections": [
         {
           "tag": "laundry",
-          "items": ["Deterjen", "Deterjen bayi", "Deterjen bubuk", "Deterjen cair", "Deterjen kapsul", "Deterjen pakaian halus", "Kantong cuci", "Kantong laundry", "Pelembut pakaian", "Pelindung warna pakaian", "Pembersih mesin cuci", "Pemutih pakaian", "Penghilang noda", "Pewangi pakaian", "Sabun cuci pakaian"]
+          "items": ["Deterjen", "Deterjen bayi", "Deterjen bubuk", "Deterjen cair", "Deterjen kapsul", "Deterjen pakaian bayi", "Deterjen pakaian berwarna", "Deterjen pakaian halus", "Deterjen pakaian putih", "Deterjen wol", "Kantong cuci", "Kantong laundry", "Pelembut dan pewangi pakaian", "Pelembut pakaian", "Pelindung warna pakaian", "Pembersih mesin cuci", "Pemutih pakaian", "Penghilang noda", "Pewangi pakaian", "Sabun cuci pakaian"]
         },
         {
           "tag": "cleaning",
@@ -87,12 +87,12 @@
         },
         {
           "tag": "other",
-          "items": ["Alat pengusir nyamuk", "Baterai", "Baterai kancing", "Bohlam", "Double tape", "Gantungan baju", "Hanger", "Insektisida", "Isi ulang obat nyamuk elektrik", "Jepitan baju", "Kabel ekstensi", "Kamper", "Kapur barus", "Kelambu", "Korek api", "Korek gas", "Lakban", "Lampu LED", "Lem", "Lem super", "Lilin", "Losion antinyamuk", "Obat nyamuk", "Obat nyamuk bakar", "Obat nyamuk cair", "Obat nyamuk elektrik", "Perangkap serangga", "Raket nyamuk", "Selotip", "Semprotan nyamuk", "Semprotan serangga", "Stop kontak", "Terminal listrik"]
+          "items": ["Alat pengusir nyamuk", "Baterai", "Baterai AA", "Baterai AAA", "Baterai kancing", "Bohlam", "Double tape", "Gantungan baju", "Hanger", "Insektisida", "Isi ulang obat nyamuk elektrik", "Jepitan baju", "Kabel ekstensi", "Kamper", "Kapur barus", "Kelambu", "Korek api", "Korek gas", "Lakban", "Lampu LED", "Lem", "Lem super", "Lilin", "Losion antinyamuk", "Obat nyamuk", "Obat nyamuk bakar", "Obat nyamuk cair", "Obat nyamuk elektrik", "Perangkap serangga", "Raket nyamuk", "Selotip", "Semprotan nyamuk", "Semprotan serangga", "Stop kontak", "Terminal listrik"]
         }
       ]
     },
     {
-      "title": "Perawatan Pribadi",
+      "title": "Perawatan Diri",
       "orderIndex": 3,
       "sections": [
         {
@@ -102,17 +102,17 @@
       ]
     },
     {
-      "title": "Keperluan Bayi",
+      "title": "Bayi",
       "orderIndex": 4,
       "sections": [
         {
           "tag": "baby",
-          "items": ["Air minum bayi", "Baby oil", "Bedak bayi", "Biskuit bayi", "Botol ASI", "Botol susu", "Bubur bayi", "Celemek bayi", "Diaper", "Dot", "Empeng", "Gelas latihan bayi", "Handuk bayi", "Jus bayi", "Kain bedong", "Kain muslin", "Kantong ASI", "Krim bayi", "Krim ruam popok", "Losion bayi", "Mainan gigitan bayi", "Makanan bayi", "Makanan pendamping ASI", "Mangkuk bayi", "Minyak bayi", "Minyak kayu putih bayi", "Minyak telon", "MPASI", "Pasta gigi anak", "Pasta gigi bayi", "Pembersih botol bayi", "Peralatan makan bayi", "Popok", "Popok celana", "Popok renang", "Popok sekali pakai", "Sabun bayi", "Sabun cuci botol", "Sabun mandi bayi", "Sampo bayi", "Sendok bayi", "Sereal bayi", "Sikat botol", "Sikat gigi anak", "Sikat gigi bayi", "Sterilizer botol", "Susu formula", "Teether", "Termometer", "Tisu basah bayi"]
+          "items": ["Air minum bayi", "Baby oil", "Bedak bayi", "Biskuit bayi", "Botol ASI", "Botol susu", "Bubur bayi", "Celemek bayi", "Diaper", "Dot", "Empeng", "Gelas latihan bayi", "Handuk bayi", "Jus bayi", "Kain bedong", "Kain muslin", "Kantong ASI", "Krim bayi", "Krim ruam popok", "Losion bayi", "Mainan gigitan bayi", "Makanan bayi", "Makanan pendamping ASI", "Mangkuk bayi", "Minyak bayi", "Minyak kayu putih bayi", "Minyak telon", "MPASI", "Pampers", "Pasta gigi anak", "Pasta gigi bayi", "Pembersih botol bayi", "Peralatan makan bayi", "Popok", "Popok bayi", "Popok celana", "Popok renang", "Popok sekali pakai", "Sabun bayi", "Sabun cuci botol", "Sabun mandi bayi", "Sampo bayi", "Sendok bayi", "Sereal bayi", "Sikat botol", "Sikat gigi anak", "Sikat gigi bayi", "Sterilizer botol", "Susu bayi", "Susu formula", "Teether", "Termometer", "Tisu basah bayi"]
         }
       ]
     },
     {
-      "title": "Keperluan Hewan Peliharaan",
+      "title": "Hewan Peliharaan",
       "orderIndex": 5,
       "sections": [
         {
@@ -131,7 +131,7 @@
         },
         {
           "tag": "tech",
-          "items": ["Action camera", "Adapter", "Adaptor", "Adaptor colokan", "Adaptor perjalanan", "Adaptor universal", "Baterai isi ulang", "Card reader", "Casing HP", "Charger", "Charger laptop", "Charger mobil", "Colokan universal", "Dashcam", "E-reader", "Earbuds", "Earphone", "Earphone Bluetooth", "eSIM", "Flashdisk", "Gelang kebugaran", "Handphone", "Headphone", "HP", "Jam tangan pintar", "Jarum SIM", "Kabel charger", "Kabel data", "Kabel Lightning", "Kabel Type-C", "Kabel USB", "Kabel USB-C", "Kamera", "Kartu memori", "Kartu SIM", "Kepala charger", "Konverter tegangan", "Laptop", "Memory card", "Monopod", "Mouse", "Notebook", "Pelacak barang", "Pengatur kabel", "Ponsel", "Power bank", "Remote kamera", "Smartphone", "Smartwatch", "SSD", "Steker adaptor", "Tablet", "Tongkat selfie", "Travel adapter", "Tripod"]
+          "items": ["Action camera", "Adapter", "Adaptor", "Adaptor colokan", "Adaptor perjalanan", "Adaptor universal", "AirTag", "Baterai isi ulang", "Card reader", "Casing HP", "Charger", "Charger HP", "Charger iPhone", "Charger laptop", "Charger mobil", "Charger Type-C", "Colokan universal", "Dashcam", "E-reader", "Earbuds", "Earphone", "Earphone Bluetooth", "eSIM", "Fast charger", "Flashdisk", "Gelang kebugaran", "Handphone", "Headphone", "HP", "Jam tangan pintar", "Jarum SIM", "Kabel charger", "Kabel charger HP", "Kabel data", "Kabel iPhone", "Kabel Lightning", "Kabel Type-C", "Kabel USB", "Kabel USB-C", "Kamera", "Kartu memori", "Kartu SIM", "Kepala charger", "Konverter tegangan", "Laptop", "Memory card", "Monopod", "Mouse", "Notebook", "Pelacak barang", "Pengatur kabel", "Ponsel", "Power bank", "Remote kamera", "Smartphone", "Smartwatch", "SSD", "Steker adaptor", "Tablet", "Tongkat selfie", "Travel adapter", "Tripod"]
         },
         {
           "tag": "bags",
