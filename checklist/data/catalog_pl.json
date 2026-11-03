@@ -1,0 +1,147 @@
+{
+  "language": "pl",
+  "groups": [
+    {
+      "title": "Produkty",
+      "orderIndex": 0,
+      "sections": [
+        {
+          "tag": "vegs",
+          "items": ["Bakłażany", "Bataty", "Bazylia", "Boczniaki", "Brokuły", "Brukselka", "Buraki", "Cebula", "Cebula czerwona", "Cebula dymka", "Cukinia", "Czosnek", "Daikon", "Dynia", "Fasolka szparagowa", "Galangal", "Grzyby", "Grzyby enoki", "Grzyby shiitake", "Grzyby suszone", "Imbir", "Jalapeño", "Jarmuż", "Kabaczek", "Kalafior", "Kalarepa", "Kapusta", "Kapusta biała", "Kapusta czerwona", "Kapusta pekińska", "Karczochy", "Kiełki", "Kiełki fasoli", "Kiełki grochu", "Kolendra świeża", "Koper włoski", "Koperek", "Kukurydza", "Kurki", "Liście limonki kaffir", "Marchew", "Melisa", "Mięta", "Mikrozielenina", "Młode ziemniaki", "Natka pietruszki", "Ogórki", "Ogórki gruntowe", "Opieńki", "Oregano", "Papryczka chili", "Papryka", "Papryka słodka", "Pasternak", "Patisony", "Pieczarki", "Pomidorki koktajlowe", "Pomidory", "Por", "Rabarbar", "Romanesco", "Rozmaryn", "Rukola", "Rzepa", "Rzeżucha", "Rzodkiewka", "Sałata", "Sałata lodowa", "Sałata masłowa", "Sałata rzymska", "Seler", "Szalotka", "Szczaw", "Szparagi", "Szpinak", "Topinambur", "Trawa cytrynowa", "Tymianek", "Warzywa", "Zielenina", "Ziemniaki"]
+        },
+        {
+          "tag": "fruits",
+          "items": ["Agrest", "Ananas", "Arbuz", "Awokado", "Banany", "Borówka brusznica", "Borówki amerykańskie", "Brzoskwinie", "Cytryny", "Czereśnie", "Dereń", "Dzika róża", "Figi", "Fizalis", "Granat", "Grejpfrut", "Gruszki", "Guawa", "Jabłka", "Jabłka czerwone", "Jabłka zielone", "Jagody", "Jagody goji", "Jagody leśne", "Jeżyny", "Kaki", "Kiwi", "Kokos", "Kumkwat", "Liczi", "Limonka", "Maliny", "Mandarynki", "Mango", "Marakuja", "Melon", "Morele", "Nektarynki", "Owoce", "Papaja", "Pigwa", "Pomarańcze", "Pomelo", "Porzeczki", "Porzeczki czarne", "Porzeczki czerwone", "Poziomki", "Rambutan", "Rokitnik", "Smoczy owoc", "Śliwki", "Tamarynd", "Truskawki", "Winogrona", "Wiśnie", "Żurawina"]
+        },
+        {
+          "tag": "dairy",
+          "items": ["Ajran", "Brie", "Bryndza", "Brynza", "Burrata", "Camembert", "Cheddar", "Feta", "Ghee", "Gouda", "Halloumi", "Jogurt", "Jogurt grecki", "Jogurt naturalny", "Jogurt pitny", "Kefir", "Maasdam", "Margaryna", "Masa twarogowa", "Mascarpone", "Masło", "Masło czekoladowe", "Masło klarowane", "Masło solone", "Maślanka", "Mleko", "Mleko bez laktozy", "Mleko kokosowe", "Mleko kozie", "Mleko migdałowe", "Mleko odtłuszczone", "Mleko owsiane", "Mleko pełne", "Mleko ryżowe", "Mleko sojowe", "Mleko UHT", "Mleko w proszku", "Mleko zagęszczone", "Mleko zagęszczone słodzone", "Mozzarella", "Napój roślinny", "Oscypek", "Parmezan", "Riażenka", "Ricotta", "Ser", "Ser edamski", "Ser kozi", "Ser pleśniowy", "Ser tarty", "Ser topiony", "Ser twardy", "Ser w plastrach", "Ser żółty", "Serek dla dzieci", "Serek kanapkowy", "Serek śmietankowy", "Serek twarogowy", "Serek wiejski", "Serki homogenizowane", "Skyr", "Stracciatella", "Śmietana", "Śmietana kwaśna", "Śmietanka", "Śmietanka do kawy", "Śmietanka do ubijania", "Śmietanka kokosowa", "Tofu", "Twaróg", "Zsiadłe mleko"]
+        },
+        {
+          "tag": "meat",
+          "items": ["Befsztyk", "Boczek", "Cielęcina", "Ćevapčići", "Ćwiartki z kurczaka", "Drób", "Dziczyzna", "Filet mignon", "Filet z indyka", "Filet z kurczaka", "Galareta mięsna", "Gęś", "Goleń z indyka", "Golonka", "Indyk", "Jagnięcina", "Język wołowy", "Kabanosy", "Kaczka", "Kaczka po pekińsku", "Karkówka", "Kaszanka", "Kiełbasa", "Kiełbasa biała", "Kiełbasa gotowana", "Kiełbasa krakowska", "Kiełbasa sucha", "Kiełbasa śląska", "Kiełbasa wiejska", "Kiełbaski", "Kiełbaski do grillowania", "Konserwa mięsna", "Kotlety", "Królik", "Kurczak", "Łopatka wieprzowa", "Mięso", "Mięso mielone", "Mięso mielone drobiowe", "Mięso mielone wieprzowe", "Mięso mielone wołowe", "Parówki", "Pasztet", "Pierś z indyka", "Pierś z kaczki", "Pierś z kurczaka", "Podudzia z kurczaka", "Polędwica wieprzowa", "Przepiórka", "Ribeye", "Salami", "Schab", "Serca z kurczaka", "Serwolatka", "Skrzydełka z kurczaka", "Słonina", "Smalec", "Stek", "Striploin", "Szynka", "Szynka dojrzewająca", "Szynka gotowana", "Szynka wędzona", "Udka z kurczaka", "Udo z indyka", "Wątroba", "Wątróbka drobiowa", "Wieprzowina", "Wołowina", "Żeberka", "Żołądki z kurczaka"]
+        },
+        {
+          "tag": "fish",
+          "items": ["Anchois", "Dorada", "Dorsz", "Filet z dorsza", "Filety rybne", "Flądra", "Gorbusza", "Gromadnik", "Halibut", "Homar", "Ikra", "Jesiotr", "Kalmary", "Karp", "Konserwy rybne", "Krab", "Krewetki", "Labraks", "Leszcz", "Łosoś", "Łosoś atlantycki", "Łosoś lekko solony", "Łosoś wędzony", "Makrela", "Makrela wędzona", "Małże", "Mieszanka owoców morza", "Mięso kraba", "Mintaj", "Morszczuk", "Okoń", "Ostrygi", "Ośmiornice", "Owoce morza", "Paluszki krabowe", "Paluszki rybne", "Panga", "Przegrzebki", "Pstrąg", "Pstrąg lekko solony", "Raki", "Ryby", "Sandacz", "Sardynki", "Sardynki w puszce", "Sola", "Sum", "Surimi", "Szczupak", "Szproty", "Śledzie w oleju", "Śledzie w śmietanie", "Śledź", "Tilapia", "Tuńczyk", "Tuńczyk w puszce", "Węgorz"]
+        },
+        {
+          "tag": "bread",
+          "items": ["Amarantus", "Bagietka", "Bulgur", "Bułka", "Bułki grahamki", "Bułki kajzerki", "Chałka", "Chleb", "Chleb bezglutenowy", "Chleb czarny", "Chleb na zakwasie", "Chleb pszenny", "Chleb razowy", "Chleb tostowy", "Chleb żytni", "Ciabatta", "Ciasto drożdżowe", "Ciasto filo", "Ciasto francuskie", "Ciasto kruche", "Ciecierzyca", "Cukier", "Cukier brązowy", "Cukier trzcinowy", "Fasola", "Fasola biała", "Fasola czerwona", "Granola", "Groch", "Kasza gryczana", "Kasza jaglana", "Kasza jęczmienna", "Kasza kukurydziana", "Kasza manna", "Kasza pęczak", "Kasza pszenna", "Komosa ryżowa", "Kuskus", "Lawasz", "Makaron", "Makaron bezglutenowy", "Makaron nitki", "Makaron pełnoziarnisty", "Makaron penne", "Makaron ramen", "Makaron ryżowy", "Makaron soba", "Makaron sojowy", "Makaron świderki", "Makaron udon", "Mąka", "Mąka gryczana", "Mąka kokosowa", "Mąka kukurydziana", "Mąka migdałowa", "Mąka orkiszowa", "Mąka owsiana", "Mąka pełnoziarnista", "Mąka pszenna", "Mąka ryżowa", "Mąka tortowa", "Mąka z ciecierzycy", "Mąka ziemniaczana", "Mąka żytnia", "Musli", "Obwarzanki", "Orkisz", "Otręby", "Owsianka", "Papier ryżowy", "Pieczywo chrupkie", "Pita", "Placek", "Płatki", "Płatki kukurydziane", "Płatki owsiane", "Płaty do lasagne", "Proso", "Ryż", "Ryż basmati", "Ryż biały", "Ryż brązowy", "Ryż czerwony", "Ryż jaśminowy", "Ryż parboiled", "Soczewica", "Sól", "Sól himalajska", "Sól morska", "Spaghetti", "Tortilla"]
+        },
+        {
+          "tag": "sauces",
+          "items": ["Adżika", "Ananasy konserwowe", "Brzoskwinie konserwowe", "Bulion drobiowy", "Bulion warzywny", "Buraczki tarte", "Chrzan tarty", "Czarne oliwki", "Czosnek niedźwiedzi", "Ćwikła", "Fasola konserwowa", "Fasolka po bretońsku", "Groszek konserwowy", "Grzyby marynowane", "Hummus", "Kapary", "Kapusta kiszona", "Ketchup", "Koncentrat pomidorowy", "Konserwy", "Korniszony", "Kukurydza konserwowa", "Leczo", "Majonez", "Musztarda", "Musztarda Dijon", "Musztarda francuska", "Ogórki kiszone", "Ogórki konserwowe", "Oliwki", "Owoce kaparów", "Papryczka piri-piri", "Papryka konserwowa", "Passata pomidorowa", "Pasta z bakłażana", "Pasta z cukinii", "Pieczarki konserwowe", "Pomidory konserwowe", "Pomidory krojone w puszce", "Pomidory suszone", "Sok z cytryny", "Sok z limonki", "Sos", "Sos barbecue", "Sos boloński", "Sos carbonara", "Sos czosnkowy", "Sos do sałatek", "Sos hoisin", "Sos ostry", "Sos ostrygowy", "Sos pad thai", "Sos pesto", "Sos pieczeniowy", "Sos pomidorowy", "Sos rybny", "Sos serowy", "Sos słodko-kwaśny", "Sos sojowy", "Sos sriracha", "Sos sweet chili", "Sos tatarski", "Sos teriyaki", "Sos Worcestershire", "Tkemali", "Wodorosty", "Zakwas buraczany", "Zakwas na żurek", "Zielony groszek"]
+        },
+        {
+          "tag": "spices",
+          "items": ["Anyż gwiazdkowaty", "Bazylia suszona", "Curry", "Cynamon", "Czosnek granulowany", "Czosnek suszony", "Estragon suszony", "Gałka muszkatołowa", "Goździki", "Imbir mielony", "Kardamon", "Kmin rzymski", "Kminek", "Kolendra w ziarnach", "Koperek suszony", "Kostki rosołowe", "Kurkuma", "Liść laurowy", "Lubczyk", "Majeranek", "Mieszanka pieprzów", "Ocet balsamiczny", "Ocet jabłkowy", "Ocet ryżowy", "Ocet spirytusowy", "Ocet winny", "Olej arachidowy", "Olej kokosowy", "Olej kukurydziany", "Olej lniany", "Olej musztardowy", "Olej roślinny", "Olej rzepakowy", "Olej sezamowy", "Olej słonecznikowy", "Olej z awokado", "Olej z pestek dyni", "Olej z pestek winogron", "Oliwa z oliwek", "Oregano suszone", "Papryka mielona", "Papryka wędzona", "Pieprz biały", "Pieprz czarny", "Pieprz czerwony", "Pieprz ziołowy", "Pietruszka suszona", "Przyprawy", "Szafran", "Tymianek suszony", "Ziele angielskie", "Zioła prowansalskie", "Zioła włoskie"]
+        },
+        {
+          "tag": "nuts",
+          "items": ["Chipsy bananowe", "Daktyle", "Figi suszone", "Jabłka suszone", "Kandyzowane owoce", "Mak", "Mango suszone", "Mieszanka na kompot", "Mieszanka orzechów", "Migdały", "Morele suszone", "Nasiona", "Nasiona chia", "Nasiona sezamu", "Nerkowce", "Orzech brazylijski", "Orzech laskowy", "Orzech pekan", "Orzechy", "Orzechy makadamia", "Orzechy włoskie", "Orzeszki piniowe", "Orzeszki ziemne", "Pestki", "Pestki dyni", "Pestki słonecznika", "Pistacje", "Rodzynki", "Siemię lniane", "Suszone owoce", "Śliwki suszone", "Wiórki kokosowe", "Żurawina suszona"]
+        },
+        {
+          "tag": "baking",
+          "items": ["Agar-agar", "Barwnik spożywczy", "Bułka tarta", "Cukier puder", "Cukier wanilinowy", "Czekolada do wypieków", "Drożdże", "Ekstrakt waniliowy", "Jajka", "Jajka przepiórcze", "Kwas cytrynowy", "Pektyna", "Posypka cukiernicza", "Proszek do pieczenia", "Skrobia", "Słodzik", "Soda", "Wanilina", "Zagęstnik do śmietanki", "Zamiennik cukru", "Żelatyna"]
+        },
+        {
+          "tag": "snacks",
+          "items": ["Babeczki", "Baton czekoladowy", "Baton musli", "Baton waflowy", "Bezy", "Biszkopty", "Chałwa", "Chipsy", "Ciastka", "Ciastka francuskie", "Ciastka owsiane", "Ciasto drożdżowe z owocami", "Croissanty", "Cukierki", "Czekolada", "Czekolada biała", "Czekolada gorzka", "Czekolada mleczna", "Drożdżówki", "Dżem", "Dżem malinowy", "Dżem wiśniowy", "Eklery", "Faworki", "Grzanki", "Guma do żucia", "Herbatniki", "Karmel", "Konfitura", "Kozinaki", "Krakersy", "Krem czekoladowo-orzechowy", "Krówki", "Lizaki", "Lody", "Lody na patyku", "Makowiec", "Masło orzechowe", "Miód", "Miód gryczany", "Miód kwiatowy", "Muffiny", "Nugat", "Paluszki", "Paluszki kukurydziane", "Pastila", "Pączki", "Pianki marshmallow", "Pianki zefirowe", "Pierniki", "Popcorn", "Ptasie mleczko", "Pudding", "Rachatłukum", "Rolada biszkoptowa", "Ryba suszona", "Sernik", "Sezamki", "Słodki placek", "Słodkie bułeczki", "Sorbet", "Syrop", "Szarlotka", "Tort", "Trufle", "Wafle", "Żelki"]
+        },
+        {
+          "tag": "drinks",
+          "items": ["Cykoria", "Herbata", "Herbata biała", "Herbata czarna", "Herbata mrożona", "Herbata owocowa", "Herbata z hibiskusa", "Herbata zielona", "Herbata ziołowa", "Iwan-czaj", "Kakao", "Kawa", "Kawa bezkofeinowa", "Kawa mielona", "Kawa rozpuszczalna", "Kawa w kapsułkach", "Kawa zbożowa", "Kawa ziarnista", "Kisiel", "Kompot", "Kwas chlebowy", "Lemoniada", "Matcha", "Mate", "Napój energetyczny", "Napój gazowany", "Napój izotoniczny", "Oolong mleczny", "Pu-erh", "Rumianek", "Sok", "Sok jabłkowy", "Sok marchwiowy", "Sok pomarańczowy", "Sok pomidorowy", "Sok wieloowocowy", "Woda", "Woda gazowana", "Woda lekko gazowana", "Woda mineralna", "Woda niegazowana", "Woda smakowa"]
+        },
+        {
+          "tag": "frozen",
+          "items": ["Brokuły mrożone", "Frytki mrożone", "Kalafior mrożony", "Kluski śląskie", "Kopytka", "Lód spożywczy", "Mieszanka meksykańska", "Mieszanka warzywna", "Mrożona kukurydza", "Mrożona pizza", "Mrożona ryba", "Mrożone ciasto drożdżowe", "Mrożone ciasto francuskie", "Mrożone grzyby", "Mrożone jagody", "Mrożone kotlety", "Mrożone krewetki", "Mrożone nuggetsy", "Mrożone owoce morza", "Mrożone ziemniaki", "Mrożony szpinak", "Mrożony zielony groszek", "Naleśniki", "Pielmieni", "Pierogi", "Pierogi ruskie", "Pierogi z kapustą i grzybami", "Pierogi z mięsem", "Pierogi z owocami", "Pyzy", "Ravioli", "Uszka", "Warzywa mrożone"]
+        }
+      ]
+    },
+    {
+      "title": "Alkohol",
+      "orderIndex": 1,
+      "sections": [
+        {
+          "tag": "alcohol",
+          "items": ["Absynt", "Armagnac", "Becherovka", "Bitter", "Bourbon", "Brandy", "Calvados", "Cava", "Cydr", "Czacza", "Gin", "Grappa", "Koniak", "Likier", "Madera", "Miód pitny", "Nalewka", "Nalewka ziołowa", "Piwo", "Piwo ale", "Piwo bezalkoholowe", "Piwo ciemne", "Piwo IPA", "Piwo jasne", "Piwo kraftowe", "Piwo lager", "Piwo niefiltrowane", "Piwo pils", "Piwo porter", "Piwo pszeniczne", "Piwo stout", "Porto", "Prosecco", "Rum", "Sake", "Sambuca", "Schnaps", "Sherry", "Szampan", "Śliwowica", "Tequila", "Wermut", "Whisky", "Whisky szkocka", "Wino", "Wino białe", "Wino czerwone", "Wino deserowe", "Wino musujące", "Wino półsłodkie", "Wino półwytrawne", "Wino różowe", "Wino słodkie", "Wino stołowe", "Wino śliwkowe", "Wino wytrawne", "Wino wzmacniane", "Wódka", "Wódka smakowa"]
+        }
+      ]
+    },
+    {
+      "title": "Gospodarstwo domowe",
+      "orderIndex": 2,
+      "sections": [
+        {
+          "tag": "laundry",
+          "items": ["Kapsułki do prania", "Mydło gospodarcze", "Odplamiacz", "Płyn do płukania", "Płyn do prania", "Proszek do prania", "Worek do prania", "Wybielacz"]
+        },
+        {
+          "tag": "cleaning",
+          "items": ["Antystatyk", "Filtry do odkurzacza", "Gąbki gospodarcze", "Mleczko do czyszczenia", "Mop", "Odświeżacz powietrza", "Płyn do podłóg", "Płyn do szyb", "Politura do mebli", "Proszek do szorowania", "Rękawice gospodarcze", "Rękawice jednorazowe", "Ścierka do podłogi", "Środek czyszczący", "Środek dezynfekujący", "Środek do dywanów", "Środek do kuchni", "Środek do łazienki", "Środek do mebli", "Środek do piekarnika", "Środek do płyty", "Środek do toalety", "Środek do udrażniania rur", "Środek myjący", "Worki do odkurzacza", "Żel do WC"]
+        },
+        {
+          "tag": "kitchen",
+          "items": ["Filtry do wody", "Folia aluminiowa", "Folia spożywcza", "Forma na lód", "Formy do pieczenia", "Gąbka druciana", "Gąbki do naczyń", "Grill", "Kieliszki jednorazowe", "Kubki jednorazowe", "Łyżki jednorazowe", "Nabłyszczacz do zmywarki", "Noże jednorazowe", "Obrus jednorazowy", "Odkamieniacz", "Papier do pieczenia", "Płyn do naczyń", "Pojemniki na żywność", "Ręcznik kuchenny", "Ręczniki papierowe", "Rękaw do pieczenia", "Rozpałka w płynie", "Ruszt do grilla", "Serwetki kuchenne", "Sól do zmywarki", "Szczotka do naczyń", "Szpikulce", "Szpikulce bambusowe", "Ściereczka z mikrofibry", "Ściereczki do sprzątania", "Tabletki do zmywarki", "Talerze jednorazowe", "Torebki śniadaniowe", "Węgiel do grilla", "Widelce jednorazowe", "Wkład do filtra wody", "Woreczki na lód", "Woreczki strunowe", "Worki do mrożenia", "Worki do pieczenia", "Worki na śmieci"]
+        },
+        {
+          "tag": "other",
+          "items": ["Baterie", "Elektrofumigator na komary", "Gąbka do butów", "Klej", "Krem do butów", "Rolka do ubrań", "Szczotka do butów", "Szczotka do ubrań", "Środek na komary", "Środek na mole", "Środek na owady", "Świece", "Taśma klejąca", "Zapalniczka", "Zapałki", "Żarówki"]
+        }
+      ]
+    },
+    {
+      "title": "Higiena",
+      "orderIndex": 3,
+      "sections": [
+        {
+          "tag": "hygiene",
+          "items": ["Antyperspirant", "Balsam do ciała", "Balsam do ust", "Balsam do włosów", "Balsam po goleniu", "Chusteczki", "Chusteczki higieniczne", "Chusteczki nawilżane", "Dezodorant", "Farba do włosów", "Grzebień", "Gumki do włosów", "Krem do ciała", "Krem do depilacji", "Krem do rąk", "Krem do stóp", "Krem do twarzy", "Krem pod oczy", "Krem przeciwsłoneczny", "Lakier do włosów", "Lubrykant", "Lusterko kieszonkowe", "Maseczka do twarzy", "Maszynka do golenia", "Maszynki jednorazowe", "Mydło", "Mydło w płynie", "Myjka do ciała", "Nić dentystyczna", "Nożyczki do paznokci", "Obcinacz do paznokci", "Odżywka do włosów", "Olej do włosów", "Ostrza do maszynki", "Papier toaletowy", "Paski woskowe", "Pasta do zębów", "Patyczki kosmetyczne", "Peeling do twarzy", "Pęseta", "Pianka do golenia", "Pianka do mycia twarzy", "Pianka do włosów", "Pilnik do paznokci", "Płatki kosmetyczne", "Płyn do demakijażu", "Płyn do kąpieli", "Płyn do płukania ust", "Płyn do soczewek", "Podpaski", "Pojemnik na soczewki", "Pomadka ochronna", "Prezerwatywy", "Serwetki", "Soczewki kontaktowe", "Sól do kąpieli", "Spinki do włosów", "Szampon", "Szczoteczka do zębów", "Szczotka do włosów", "Tampony", "Tonik do twarzy", "Wkładki", "Woda micelarna", "Wykałaczki", "Zestaw do manicure", "Zmywacz do paznokci", "Żel do golenia", "Żel do higieny intymnej", "Żel do mycia twarzy", "Żel do włosów", "Żel pod prysznic"]
+        }
+      ]
+    },
+    {
+      "title": "Dla dzieci",
+      "orderIndex": 4,
+      "sections": [
+        {
+          "tag": "baby",
+          "items": ["Balsam do ciała dla dzieci", "Butelka do karmienia", "Chusteczki nawilżane dla dzieci", "Fartuszek", "Gąbka do kąpieli dla dzieci", "Gryzak", "Grzechotka", "Kaszka dla dzieci", "Krem dla dzieci", "Mleko modyfikowane", "Mydło dla dzieci", "Naczynia dla dzieci", "Oliwka dla dzieci", "Pieluchomajtki", "Pieluchy", "Płyn do kąpieli dla dzieci", "Podgrzewacz do butelek", "Podkłady jednorazowe dla dzieci", "Podkłady wielorazowe dla dzieci", "Przecier mięsny", "Przecier owocowy", "Przecier warzywny", "Puder dla niemowląt", "Ręcznik dla dzieci", "Smoczek", "Smoczek do butelki", "Sok dla dzieci", "Sterylizator do butelek", "Szampon dla dzieci", "Szczotka do butelki", "Śliniak", "Termometr dla dzieci", "Woda dla dzieci", "Zabawki do kąpieli", "Żel do kąpieli"]
+        }
+      ]
+    },
+    {
+      "title": "Zwierzęta domowe",
+      "orderIndex": 5,
+      "sections": [
+        {
+          "tag": "pets",
+          "items": ["Kaganiec", "Karma dla gryzoni", "Karma dla ptaków", "Karma dla rybek", "Karma w puszkach dla kotów", "Karma w puszkach dla psów", "Karmnik dla gryzoni", "Karmnik dla ptaków", "Krople na pchły i kleszcze", "Maty higieniczne", "Miski na karmę i wodę", "Mokra karma dla kotów", "Mokra karma dla psów", "Obcinacz do pazurów", "Obroża", "Obroża przeciw pchłom i kleszczom", "Poidło dla gryzoni", "Poidło dla ptaków", "Pokarm dla ryb akwariowych", "Przysmaki dla kotów", "Przysmaki dla psów", "Smycz", "Smycz automatyczna", "Spray przeciw pasożytom", "Sucha karma dla kotów", "Sucha karma dla psów", "Szampon dla zwierząt", "Szczotka do sierści", "Szelki", "Ściółka dla gryzoni", "Środki na pchły i kleszcze", "Transporter", "Witaminy dla zwierząt", "Zabawki dla kotów", "Zabawki dla psów", "Żwirek"]
+        }
+      ]
+    },
+    {
+      "title": "Podróże",
+      "orderIndex": 6,
+      "sections": [
+        {
+          "tag": "docs",
+          "items": ["Akt urodzenia", "Bilet lotniczy", "Bilety", "Dokumenty samochodu", "Dowód osobisty", "Dowód rejestracyjny", "Drobne pieniądze", "Gotówka", "Karta EKUZ", "Karta kredytowa", "Karta płatnicza", "Karta pokładowa", "Kopia dokumentów", "Międzynarodowe prawo jazdy", "Paszport", "Polisa ubezpieczeniowa", "Potwierdzenie rezerwacji", "Prawo jazdy", "Rezerwacja hotelu", "Ubezpieczenie podróżne", "Waluta obca", "Wiza"]
+        },
+        {
+          "tag": "tech",
+          "items": ["Adapter podróżny", "Akumulatory", "Aparat fotograficzny", "Czytnik e-booków", "Czytnik kart", "Dysk SSD", "Etui na telefon", "Etui wodoodporne", "Kabel do ładowania", "Kabel USB", "Kabel USB-C", "Kamera sportowa", "Karta pamięci", "Kijek do selfie", "Kluczyk do karty SIM", "Laptop", "Lokalizator bagażu", "Ładowarka", "Ładowarka bezprzewodowa", "Ładowarka samochodowa", "Monopod", "Mysz do laptopa", "Opaska sportowa", "Organizator kabli", "Pendrive", "Pilot do aparatu", "Powerbank", "Przedłużacz", "Przejściówka do gniazdka", "Rozgałęźnik", "Słuchawki", "Słuchawki bezprzewodowe", "Smartfon", "Smartwatch", "Statyw", "Tablet", "Telefon", "Zasilacz", "Zestaw słuchawkowy"]
+        },
+        {
+          "tag": "bags",
+          "items": ["Bagaż podręczny", "Etui na dokumenty", "Etui na karty", "Klips do banknotów", "Kłódka do walizki", "Koperta na pieniądze", "Kosmetyczka", "Organizator do walizki", "Pas na pieniądze", "Pasek do bagażu", "Plecak", "Plecak składany", "Pokrowiec na walizkę", "Pokrowiec przeciwdeszczowy na plecak", "Portfel", "Portfel wodoodporny", "Saszetka biodrowa", "Torba plażowa", "Torba podróżna", "Torba składana", "Waga bagażowa", "Walizka", "Worek kompresyjny", "Worek wodoszczelny", "Worki próżniowe", "Zawieszka do bagażu"]
+        },
+        {
+          "tag": "tools",
+          "items": ["Apteczka podróżna", "Butelka na wodę", "Długopis", "Gumki recepturki", "Karabińczyk", "Latarka", "Latarka czołowa", "Linka", "Maska do spania", "Multitool", "Notes", "Okulary", "Okulary przeciwsłoneczne", "Opaski zaciskowe", "Organizer podróżny", "Parasol", "Płaszcz przeciwdeszczowy", "Poduszka dmuchana", "Poduszka podróżna", "Pojemnik na leki", "Scyzoryk", "Termos", "Uchwyt samochodowy", "Zatyczki do uszu", "Zestaw do szycia"]
+        }
+      ]
+    }
+  ]
+}

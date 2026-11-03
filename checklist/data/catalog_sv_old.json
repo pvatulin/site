@@ -1,0 +1,147 @@
+{
+  "language": "sv",
+  "groups": [
+    {
+      "title": "Mat",
+      "orderIndex": 0,
+      "sections": [
+        {
+          "tag": "vegs",
+          "items": ["Tomat", "Körsbärstomat", "Plommontomat", "Gurka", "Minigurka", "Sallad", "Isbergssallad", "Romansallad", "Ruccola", "Spenat", "Mangold", "Grönkål", "Vitkål", "Rödkål", "Savojkål", "Brysselkål", "Blomkål", "Broccoli", "Purjolök", "Selleri", "Stjälkselleri", "Rotselleri", "Kronärtskocka", "Sparris", "Potatis", "Färskpotatis", "Sötpotatis", "Gul lök", "Rödlök", "Schalottenlök", "Salladslök", "Vitlök", "Morot", "Rädisa", "Rättika", "Rödbeta", "Kålrot", "Palsternacka", "Majrova", "Aubergine", "Zucchini", "Squash", "Pumpa", "Paprika", "Röd paprika", "Grön paprika", "Gul paprika", "Chili", "Röd chili", "Grön chili", "Jalapeño", "Haricots verts", "Gröna bönor", "Ärtor", "Sockerärtor", "Majs", "Majskolv", "Champinjoner", "Portobello", "Kantareller", "Karljohanssvamp", "Ostronskivling", "Shiitake", "Fänkål", "Jordärtskocka", "Ingefära", "Färsk ingefära", "Pepparrot", "Persilja", "Dill", "Basilika", "Koriander", "Mynta", "Gräslök", "Citron"]
+        },
+        {
+          "tag": "fruits",
+          "items": ["Äpple", "Grönt äpple", "Rött äpple", "Päron", "Banan", "Apelsin", "Mandarin", "Clementin", "Satsuma", "Grapefrukt", "Vindruvor", "Gröna vindruvor", "Röda vindruvor", "Kärnfria vindruvor", "Jordgubbar", "Körsbär", "Persika", "Nektarin", "Aprikos", "Plommon", "Melon", "Honungsmelon", "Cantaloupemelon", "Vattenmelon", "Fikon", "Granatäpple", "Kvitten", "Kiwi", "Ananas", "Mango", "Avokado", "Kokosnöt", "Blåbär", "Hallon", "Björnbär", "Lingon", "Tranbär", "Svarta vinbär", "Röda vinbär", "Krusbär", "Hjortron", "Nypon", "Dadel", "Papaya", "Drakfrukt", "Passionsfrukt", "Pomelo", "Kumquat", "Litchi", "Oliver", "Gröna oliver", "Svarta oliver"]
+        },
+        {
+          "tag": "dairy",
+          "items": ["Mjölk", "Standardmjölk", "Mellanmjölk", "Lättmjölk", "Minimjölk", "Ekologisk mjölk", "Laktosfri mjölk", "Getmjölk", "Mjölkpulver", "Filmjölk", "Fil", "Långfil", "Yoghurt", "Naturell yoghurt", "Grekisk yoghurt", "Turkisk yoghurt", "Fruktyoghurt", "Vaniljyoghurt", "Matyoghurt", "Kvarg", "Kefir", "Gräddfil", "Crème fraiche", "Ost", "Hårdost", "Herrgårdsost", "Prästost", "Hushållsost", "Västerbottensost", "Grevé", "Edamer", "Gouda", "Cheddar", "Mozzarella", "Parmesan", "Fetaost", "Halloumi", "Keso", "Färskost", "Mjukost", "Riven ost", "Smör", "Normalsaltat smör", "Osaltat smör", "Matfett", "Margarin", "Grädde", "Vispgrädde", "Matlagningsgrädde", "Kaffegrädde", "Kondenserad mjölk", "Mandelmjölk", "Sojadryck", "Havredryck", "Kokosmjölk", "Tofu"]
+        },
+        {
+          "tag": "meat",
+          "items": ["Kött", "Nötkött", "Nötfärs", "Blandfärs", "Köttfärs", "Högrev", "Entrecôte", "Ryggbiff", "Oxfilé", "Lövbiff", "Rostbiff", "Grytbitar", "Kalvkött", "Kalvfärs", "Fläskkött", "Fläskfärs", "Fläskfilé", "Fläskkotlett", "Fläskkarré", "Sidfläsk", "Bacon", "Lammkött", "Lammfärs", "Lammkotlett", "Lammstek", "Kyckling", "Hel kyckling", "Kycklingfilé", "Kycklingbröst", "Kycklinglår", "Kycklingklubba", "Kycklingvingar", "Kycklingfärs", "Kalkon", "Kalkonfilé", "Anka", "Korv", "Falukorv", "Grillkorv", "Wienerkorv", "Prinskorv", "Isterband", "Chorizo", "Salami", "Skinka", "Kokt skinka", "Rökt skinka", "Julskinka", "Leverpastej", "Köttbullar", "Pannbiff", "Hamburgare", "Hamburgerkött", "Kebab", "Kycklingkebab"]
+        },
+        {
+          "tag": "fish",
+          "items": ["Fisk", "Färsk fisk", "Fiskfilé", "Lax", "Laxfilé", "Rökt lax", "Gravad lax", "Regnbågslax", "Torsk", "Torskfilé", "Sej", "Kolja", "Kummel", "Makrill", "Sill", "Strömming", "Matjessill", "Inlagd sill", "Ansjovis", "Sardiner", "Tonfisk", "Rödspätta", "Hälleflundra", "Abborre", "Gös", "Gädda", "Röding", "Öring", "Havskatt", "Svärdfisk", "Räkor", "Skalade räkor", "Räkor i lake", "Kräftor", "Havskräftor", "Hummer", "Krabba", "Musslor", "Blåmusslor", "Ostron", "Pilgrimsmusslor", "Bläckfisk", "Calamari", "Fryst fisk", "Tonfisk på burk", "Makrill i tomatsås", "Sardiner på burk", "Kaviar", "Fiskbullar", "Fiskpinnar", "Panerad fisk", "Tång", "Sjögräs"]
+        },
+        {
+          "tag": "bread",
+          "items": ["Bröd", "Vitt bröd", "Fullkornsbröd", "Grovt bröd", "Rågbröd", "Surdegsbröd", "Knäckebröd", "Limpa", "Kavring", "Formbröd", "Rostbröd", "Toastbröd", "Fralla", "Småfranska", "Hönökaka", "Tekaka", "Rågkaka", "Skorpor", "Baguette", "Ciabatta", "Pitabröd", "Tortillabröd", "Tunnbröd", "Polarbröd", "Korvbröd", "Hamburgerbröd", "Mjöl", "Vetemjöl", "Fullkornsmjöl", "Rågmjöl", "Grahamsmjöl", "Majsmjöl", "Rismjöl", "Mandelmjöl", "Havremjöl", "Semolina", "Vete", "Råg", "Korn", "Matvete", "Bulgur", "Couscous", "Ris", "Jasminris", "Basmatiris", "Fullkornsris", "Grötris", "Pasta", "Spaghetti", "Makaroner", "Penne", "Fusilli", "Tagliatelle", "Lasagneplattor", "Nudlar", "Snabbnudlar", "Äggnudlar", "Havregryn", "Havre", "Müsli", "Granola", "Flingor", "Cornflakes", "Linser", "Röda linser", "Gröna linser", "Gula linser", "Kikärtor", "Vita bönor", "Svarta bönor", "Kidneybönor", "Bruna bönor", "Sojabönor", "Gula ärtor", "Torkade ärtor"]
+        },
+        {
+          "tag": "sauces",
+          "items": ["Ketchup", "Tomatketchup", "Majonnäs", "Senap", "Sötstark senap", "Dijonsenap", "Stark sås", "Chilisås", "Sweet chilisås", "Barbecuesås", "BBQ-sås", "Sojasås", "Japansk soja", "Kinesisk soja", "Fisksås", "Ostronsås", "Teriyakisås", "Worcestershiresås", "Ranchdressing", "Caesardressing", "Salladsdressing", "Vitlökssås", "Tomatsås", "Pastasås", "Pizzasås", "Pesto", "Tacosås", "Salsa", "Guacamole", "Aioli", "Remouladsås", "Bearnaisesås", "Hamburgerdressing", "Kebabsås", "Hovmästarsås", "Räksallad", "Tzatziki", "Hummus", "Tahini", "Ajvar", "Inlagd gurka", "Smörgåsgurka", "Cornichons", "Pickles", "Bostongurka", "Oliverpastej", "Jordnötssmör"]
+        },
+        {
+          "tag": "spices",
+          "items": ["Salt", "Bordssalt", "Havssalt", "Flingsalt", "Grovsalt", "Socker", "Strösocker", "Farinsocker", "Florsocker", "Svartpeppar", "Vitpeppar", "Chiliflakes", "Chilipulver", "Paprikapulver", "Cayennepeppar", "Spiskummin", "Kummin", "Oregano", "Timjan", "Rosmarin", "Dragon", "Salvia", "Torkad basilika", "Torkad dill", "Kanel", "Kanelstång", "Kardemumma", "Malen kardemumma", "Kryddnejlika", "Muskot", "Korianderfrö", "Fänkålsfrö", "Sesamfrö", "Vallmofrö", "Lagerblad", "Vitlökspulver", "Lökpulver", "Ingefärspulver", "Gurkmeja", "Curry", "Currypulver", "Grillkrydda", "Tacokrydda", "Köttkrydda", "Kycklingkrydda", "Fiskkrydda", "Örtsalt", "Krydda", "Kryddmix", "Vaniljsocker", "Ättika", "Vinäger", "Vitvinsvinäger", "Rödvinsvinäger", "Äppelcidervinäger", "Balsamvinäger", "Olivolja", "Extra jungfruolivolja", "Rapsolja", "Solrosolja", "Majsolja", "Sesamolja", "Kokosolja", "Matolja", "Frityrolja", "Rosenvatten", "Vanilj"]
+        },
+        {
+          "tag": "nuts",
+          "items": ["Nötter", "Nötmix", "Hasselnötter", "Mandlar", "Valnötter", "Pistagenötter", "Jordnötter", "Cashewnötter", "Pekannötter", "Macadamianötter", "Paranötter", "Pinjenötter", "Russin", "Torkade aprikoser", "Torkade fikon", "Katrinplommon", "Torkade dadlar", "Torkade tranbär", "Torkade blåbär", "Torkad mango", "Kokoschips", "Solrosfrön", "Pumpafrön", "Chiafrön", "Linfrön", "Melonkärnor", "Frömix"]
+        },
+        {
+          "tag": "baking",
+          "items": ["Ägg", "Hönsägg", "Ekologiska ägg", "Frigående ägg", "Vaktelägg", "Jäst", "Torrjäst", "Färsk jäst", "Bakpulver", "Bikarbonat", "Vanillinsocker", "Vaniljextrakt", "Vaniljarom", "Kakao", "Kakaopulver", "Mörk choklad", "Mjölkchoklad", "Bakchoklad", "Blockchoklad", "Chokladknappar", "Chokladbitar", "Gelatin", "Gelatinblad", "Agar agar", "Stärkelse", "Majsstärkelse", "Potatismjöl", "Maizena", "Kokosflingor", "Kokosrasp", "Marsipan", "Sockerpasta", "Karamellfärg", "Livsmedelsfärg", "Strössel", "Tårtdekoration", "Kakmix"]
+        },
+        {
+          "tag": "snacks",
+          "items": ["Choklad", "Godis", "Lösgodis", "Karameller", "Lakrits", "Tuggummi", "Kex", "Kakor", "Småkakor", "Rån", "Salta kex", "Chips", "Potatischips", "Tortillachips", "Nachos", "Popcorn", "Snacks", "Ostbågar", "Linschips", "Skumgodis", "Kaka", "Tårta", "Kladdkaka", "Muffins", "Donut", "Croissant", "Glass", "Vaniljglass", "Chokladglass", "Sorbet", "Pudding", "Gelé", "Honung", "Sylt", "Jordgubbssylt", "Hallonsylt", "Lingonsylt", "Blåbärssylt", "Apelsinmarmelad", "Marmelad", "Nutella", "Energibar", "Proteinbar", "Kanelbulle", "Chokladboll", "Dammsugare", "Pepparkakor", "Semla"]
+        },
+        {
+          "tag": "drinks",
+          "items": ["Vatten", "Dricksvatten", "Mineralvatten", "Kolsyrat vatten", "Stilla vatten", "Läsk", "Cola", "Sockerfri cola", "Lemonad", "Saft", "Juice", "Apelsinjuice", "Äppeljuice", "Druvjuice", "Tranbärsjuice", "Multivitaminjuice", "Fruktdryck", "Smoothie", "Energidryck", "Sportdryck", "Iste", "Te", "Svart te", "Grönt te", "Örtte", "Kamomillte", "Pepparmyntste", "Nyponte", "Tepåsar", "Kaffe", "Bryggkaffe", "Snabbkaffe", "Pulverkaffe", "Filterkaffe", "Espresso", "Kaffebönor", "Malet kaffe", "Kallbryggt kaffe", "Iskaffe", "Varm choklad", "Chokladdryck", "Oboy", "Must", "Julmust", "Påskmust", "Is"]
+        },
+        {
+          "tag": "frozen",
+          "items": ["Fryst mat", "Frysta grönsaker", "Fryst frukt", "Frysta ärtor", "Fryst majs", "Fryst spenat", "Fryst broccoli", "Fryst potatis", "Pommes frites", "Fryst pizza", "Pizza", "Frysta hamburgare", "Frysta köttbullar", "Fryst kyckling", "Fryst kött", "Frysta räkor", "Chicken nuggets", "Nuggets", "Fryst paj", "Paj", "Frysta piroger", "Piroger", "Frysta pannkakor", "Pannkakor", "Frysta våfflor", "Våfflor", "Fryst färdigmat", "Färdigrätt", "Färdigmat", "Fryst soppa"]
+        }
+      ]
+    },
+    {
+      "title": "Alkoholhaltiga drycker",
+      "orderIndex": 1,
+      "sections": [
+        {
+          "tag": "alcohol",
+          "items": ["Öl", "Lager", "Ale", "IPA", "Starköl", "Folköl", "Lättöl", "Alkoholfri öl", "Vin", "Rött vin", "Vitt vin", "Rosévin", "Mousserande vin", "Champagne", "Cider", "Alkoholfri cider", "Vodka", "Whisky", "Gin", "Rom", "Tequila", "Brandy", "Cognac", "Likör", "Vermouth", "Akvavit", "Snaps", "Punsch", "Glögg", "Sake", "Soju", "Cocktail"]
+        }
+      ]
+    },
+    {
+      "title": "Hushåll",
+      "orderIndex": 2,
+      "sections": [
+        {
+          "tag": "laundry",
+          "items": ["Tvättmedel", "Pulvertvättmedel", "Flytande tvättmedel", "Tvättkapslar", "Kulörtvättmedel", "Vittvättmedel", "Fintvättmedel", "Ulltvättmedel", "Tvättmedel för babykläder", "Sköljmedel", "Tvättparfym", "Fläckborttagningsmedel", "Blekmedel", "Syreblekmedel", "Färgabsorberande tvättark", "Tvättmaskinsrengöring", "Avkalkningsmedel", "Tvättnät", "Tvättsäck", "Tvättsåpa"]
+        },
+        {
+          "tag": "cleaning",
+          "items": ["Rengöringsmedel", "Allrengöring", "Universalrengöring", "Ytrengöring", "Golvrengöring", "Fönsterputs", "Glasrengöring", "Badrumsrengöring", "Toalettrengöring", "WC-rengöring", "Köksrengöring", "Avfettningsmedel", "Ugnsrengöring", "Kalkborttagning", "Propplösare", "Desinfektionsmedel", "Desinfektionsspray", "Rengöringsspray", "Luftfräschare", "Rumsdoft", "Städduk", "Mikrofiberduk", "Rengöringsservetter", "Städsvamp", "Skurborste", "Toalettborste", "Sopborste", "Sopskyffel", "Mopp", "Moppduk", "Gummihandskar", "Engångshandskar", "Såpa", "Grönsåpa", "Diskhandskar"]
+        },
+        {
+          "tag": "kitchen",
+          "items": ["Diskmedel", "Handdiskmedel", "Maskindiskmedel", "Diskmaskinspulver", "Diskmaskinstabletter", "Diskmaskinssalt", "Spolglans", "Disksvamp", "Svamp", "Diskborste", "Stålull", "Kökstrasa", "Disktrasa", "Kökshandduk", "Hushållspapper", "Servetter", "Aluminiumfolie", "Plastfolie", "Bakplåtspapper", "Smörpapper", "Fryspåsar", "Zip-påsar", "Förvaringspåsar", "Soppåsar", "Avfallspåsar", "Matlåda", "Förvaringsburk", "Lunchlåda", "Sugrör", "Pappersmuggar", "Plastmuggar", "Papperstallrikar", "Plasttallrikar", "Engångsgafflar", "Engångsskedar", "Engångsknivar", "Tandpetare", "Grillspett", "Kaffefilter", "Bakformar", "Muffinsformar"]
+        },
+        {
+          "tag": "other",
+          "items": ["Batterier", "AA-batterier", "AAA-batterier", "Knappcellsbatteri", "Laddningsbara batterier", "Glödlampa", "LED-lampa", "Tejp", "Packtejp", "Dubbelhäftande tejp", "Lim", "Snabblim", "Galge", "Klädhängare", "Klädnypor", "Tändstickor", "Tändare", "Ljus", "Värmeljus", "Eluttag", "Förlängningssladd", "Grenuttag", "Myggmedel", "Myggspray", "Myggstift", "Myggnät", "Insektsmedel", "Myrmedel", "Malmedel"]
+        }
+      ]
+    },
+    {
+      "title": "Personlig vård",
+      "orderIndex": 3,
+      "sections": [
+        {
+          "tag": "hygiene",
+          "items": ["Toalettpapper", "Näsdukar", "Pappersnäsdukar", "Våtservetter", "Antibakteriella våtservetter", "Handtvål", "Flytande tvål", "Handsprit", "Handdesinfektion", "Antiseptisk lösning", "Tvål", "Duschtvål", "Duschgel", "Schampo", "Torrschampo", "Balsam", "Hårinpackning", "Hårserum", "Hårolja", "Ansiktstvätt", "Ansiktsrengöring", "Micellärvatten", "Sminkborttagning", "Ansiktsvatten", "Fuktkräm", "Ansiktskräm", "Body lotion", "Bodylotion", "Handkräm", "Läppbalsam", "Solkräm", "Solskydd", "Ansiktsmask", "Bomull", "Bomullsrondeller", "Bomullspinnar", "Tandborste", "Eltandborste", "Tandborsthuvud", "Tandkräm", "Tandtråd", "Tandstickor", "Mellanrumsborste", "Tungskrapa", "Munskölj", "Rakhyvel", "Rakblad", "Elektrisk rakapparat", "Raklödder", "Rakgel", "Hårborttagningskräm", "Deodorant", "Roll-on", "Parfym", "Hårgel", "Hårvax", "Hårspray", "Hårmousse", "Intimtvätt", "Binda", "Trosskydd", "Tampong", "Menskopp", "Kondom", "Nagelklippare", "Nagelsax", "Nagelfil", "Kam", "Hårborste", "Aceton", "Nagellacksremover", "Nagellacksborttagning", "Talk", "Kroppspuder"]
+        }
+      ]
+    },
+    {
+      "title": "Babyprodukter",
+      "orderIndex": 4,
+      "sections": [
+        {
+          "tag": "baby",
+          "items": ["Blöjor", "Engångsblöjor", "Byxblöjor", "Nyföddblöjor", "Babyservetter", "Våtservetter för baby", "Skötunderlägg", "Babyfilt", "Filt för baby", "Muslinfilt", "Muslinduk", "Zinksalva", "Blöjkräm", "Babyolja", "Babylotion", "Babykräm", "Babypuder", "Babyschampo", "Babytvål", "Babydusch", "Nappflaska", "Flasknapp", "Flaskborste", "Flaskrengöring", "Flasksterilisator", "Napp", "Bitring", "Haklapp", "Babymat", "Modersmjölksersättning", "Tillskottsnäring", "Välling", "Babygröt", "Barngröt", "Barnmat", "Fruktpuré", "Klämmis", "Barnmatsburk", "Barnsked", "Barntallrik", "Barnskål", "Pipmugg", "Babytandborste", "Barntandborste", "Barntandkräm", "Babyhandduk", "Badblöja", "Blöjpåsar", "Mjölkförvaringspåse", "Bröstmjölkspåse", "Babyvakt"]
+        }
+      ]
+    },
+    {
+      "title": "Husdjur",
+      "orderIndex": 5,
+      "sections": [
+        {
+          "tag": "pets",
+          "items": ["Djurfoder", "Hundmat", "Torrfoder för hund", "Våtfoder för hund", "Kattmat", "Torrfoder för katt", "Våtfoder för katt", "Valpfoder", "Kattungefoder", "Hundgodis", "Kattgodis", "Djurgodis", "Tuggben", "Hundleksak", "Kattleksak", "Kattsand", "Kattströ", "Klumpbildande kattsand", "Kattlåda", "Kisskydd för hund", "Hundblöja", "Djurservetter", "Djurschampo", "Hundschampo", "Kattschampo", "Halsband", "Hundhalsband", "Katthalsband", "Hundkoppel", "Koppel", "Sele", "Hundsele", "Kattsele", "Transportbur", "Transportväska för katt", "Transportväska för hund", "Matskål", "Vattenskål", "Automatisk foderskål", "Vattenfontän", "Kattfontän", "Djurtillskott", "Fästingmedel", "Fästinghalsband", "Loppmedel", "Hundbajspåsar", "Klösträd", "Klösbräda", "Fågelfrö", "Undulatfoder", "Fiskfoder", "Akvariefoder"]
+        }
+      ]
+    },
+    {
+      "title": "Resor",
+      "orderIndex": 6,
+      "sections": [
+        {
+          "tag": "docs",
+          "items": ["Pass", "E-pass", "Passkopia", "Kopia av pass", "Passfoto", "ID-kort", "Legitimation", "Körkort", "Internationellt körkort", "Visum", "Visumkopia", "Flygbiljett", "Boardingkort", "Boarding pass", "Tågbiljett", "Bussbiljett", "Färjebiljett", "E-biljett", "Hotellbokning", "Bokningsbekräftelse", "Flygbekräftelse", "Reseförsäkring", "Registreringsbevis", "Kreditkort", "Bankkort", "Kontanter", "Utländsk valuta", "Vaccinationsintyg", "Europeiskt sjukförsäkringskort", "EU-kort", "Resplan"]
+        },
+        {
+          "tag": "tech",
+          "items": ["AirTag", "eSIM", "SIM-kort", "Telefon", "Mobiltelefon", "Smartphone", "Mobilskal", "Surfplatta", "Bärbar dator", "Laptop", "Datormus", "Smartklocka", "Kamera", "Actionkamera", "Bilkamera", "Stativ", "Hörlurar", "Trådlösa hörlurar", "Bluetooth-hörlurar", "In-ear-hörlurar", "Powerbank", "Portabel laddare", "Laddare", "Mobilladdare", "Snabbladdare", "Billaddare", "Datorladdare", "Reseladdare", "Laddningsadapter", "Adapter", "Reseadapter", "Eladapter", "Universaladapter", "USB-kabel", "USB-C-kabel", "Type-C-kabel", "Lightning-kabel", "Laddkabel", "Laddningskabel", "Mobilladdkabel", "Datakabel", "iPhone-kabel", "Minneskort", "Kortläsare", "SSD", "E-boksläsare", "Bluetooth-högtalare", "Spänningsomvandlare"]
+        },
+        {
+          "tag": "bags",
+          "items": ["Resväska", "Kabinväska", "Handbagage", "Rullväska", "Weekendväska", "Resebag", "Handväska", "Ryggsäck", "Reseryggsäck", "Axelväska", "Midjeväska", "Sportväska", "Resväskeöverdrag", "Bagagerem", "Resväskerem", "Resväskelås", "Bagagebricka", "Resväsketagg", "Packkuber", "Packningskuber", "Packpåse", "Vakuumpåsar", "Kompressionspåsar", "Passplånbok", "Passfodral", "Korthållare", "Plånbok", "Hopfällbar väska", "Hopfällbar ryggsäck", "Datorväska", "Necessär", "Sminkväska", "Toalettväska", "Skopåse"]
+        },
+        {
+          "tag": "tools",
+          "items": ["Sovmask", "Ögonmask", "Öronproppar", "Nackkudde", "Resekudde", "Solglasögon", "Engångsmunskydd", "Paraply", "Hopfällbart paraply", "Regnjacka", "Regnponcho", "Reflex", "Vattenflaska", "Dricksflaska", "Termos", "Termosmugg", "Bagagevåg", "Resväskvåg", "Ficklampa", "Pannlampa", "Handfläkt", "Minifläkt", "Första hjälpen-kit", "Första hjälpen-väska", "Reseapotek", "Medicin", "Läkemedel", "Medicinask", "Dosett", "Medicinväska", "Antiseptiskt medel", "Alkoholservetter", "Penna", "Anteckningsbok", "Sysats", "Nål och tråd", "Vattentät väska", "Vattentätt fodral", "Dry bag", "Hänglås", "Kombinationslås", "Multiverktyg", "Fickkniv"]
+        }
+      ]
+    }
+  ]
+}

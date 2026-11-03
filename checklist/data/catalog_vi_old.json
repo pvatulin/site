@@ -1,0 +1,147 @@
+{
+  "language": "vi",
+  "groups": [
+    {
+      "title": "Thực phẩm",
+      "orderIndex": 0,
+      "sections": [
+        {
+          "tag": "vegs",
+          "items": ["Cà chua", "Dưa leo", "Dưa chuột", "Xà lách", "Rau diếp", "Rau muống", "Rau cải", "Cải xanh", "Cải ngọt", "Cải thìa", "Cải thảo", "Cải bó xôi", "Bắp cải", "Bắp cải tím", "Súp lơ", "Súp lơ xanh", "Bông cải xanh", "Cải xoăn", "Rau mồng tơi", "Rau ngót", "Rau dền", "Rau má", "Rau cần", "Cần tây", "Hành lá", "Hành tây", "Hành tím", "Tỏi", "Gừng", "Sả", "Rau mùi", "Ngò rí", "Ngò gai", "Húng quế", "Rau răm", "Tía tô", "Kinh giới", "Thì là", "Bạc hà", "Rau thơm", "Khoai tây", "Khoai lang", "Khoai môn", "Cà rốt", "Củ cải trắng", "Củ cải đỏ", "Củ dền", "Bí đỏ", "Bí xanh", "Bí đao", "Bí ngòi", "Mướp", "Mướp đắng", "Khổ qua", "Cà tím", "Đậu bắp", "Đậu cô ve", "Đậu que", "Đậu Hà Lan", "Giá đỗ", "Ngô", "Bắp", "Nấm", "Nấm rơm", "Nấm kim châm", "Nấm hương", "Nấm đùi gà", "Măng", "Măng tây", "Atisô", "Chanh", "Chanh xanh", "Ớt", "Ớt chuông", "Ớt hiểm", "Ớt sừng", "Su su", "Củ sen"]
+        },
+        {
+          "tag": "fruits",
+          "items": ["Táo", "Táo xanh", "Táo đỏ", "Chuối", "Cam", "Quýt", "Bưởi", "Nho", "Nho xanh", "Nho đỏ", "Dâu tây", "Việt quất", "Mâm xôi", "Dâu tằm", "Anh đào", "Cherry", "Đào", "Mơ", "Mận", "Lê", "Lựu", "Sung", "Chà là", "Xoài", "Dứa", "Thơm", "Khóm", "Đu đủ", "Ổi", "Dưa hấu", "Dưa lưới", "Dưa gang", "Kiwi", "Bơ", "Dừa", "Chanh dây", "Chanh leo", "Thanh long", "Vải", "Nhãn", "Chôm chôm", "Măng cụt", "Sầu riêng", "Mít", "Na", "Mãng cầu", "Mãng cầu xiêm", "Hồng", "Cóc", "Me", "Khế", "Sapôchê", "Hồng xiêm", "Bòn bon", "Vú sữa"]
+        },
+        {
+          "tag": "dairy",
+          "items": ["Sữa", "Sữa tươi", "Sữa tươi nguyên kem", "Sữa tươi ít béo", "Sữa tươi không đường", "Sữa tươi có đường", "Sữa tiệt trùng", "Sữa thanh trùng", "Sữa không lactose", "Sữa bột", "Sữa đặc", "Sữa đặc có đường", "Sữa chua", "Yaourt", "Sữa chua Hy Lạp", "Sữa chua không đường", "Sữa chua ít đường", "Phô mai", "Pho mát", "Phô mai kem", "Phô mai lát", "Phô mai cheddar", "Phô mai mozzarella", "Phô mai parmesan", "Bơ lạt", "Bơ mặn", "Kem tươi", "Kem whipping", "Kem nấu ăn", "Sữa đậu nành", "Sữa hạnh nhân", "Sữa yến mạch", "Sữa dừa", "Đậu hũ", "Đậu phụ", "Đậu hũ non", "Đậu hũ trứng"]
+        },
+        {
+          "tag": "meat",
+          "items": ["Thịt", "Thịt heo", "Thịt lợn", "Thịt bò", "Thịt bò xay", "Thịt heo xay", "Thịt băm", "Ba chỉ heo", "Ba rọi", "Sườn heo", "Sườn non", "Nạc vai", "Thịt thăn", "Thịt bò thái lát", "Bò viên", "Heo viên", "Thịt dê", "Thịt cừu", "Gà", "Gà nguyên con", "Ức gà", "Đùi gà", "Cánh gà", "Chân gà", "Gà xay", "Gan gà", "Gan heo", "Gan bò", "Vịt", "Thịt vịt", "Ngan", "Xúc xích", "Lạp xưởng", "Giò lụa", "Chả lụa", "Giò sống", "Chả bò", "Chả quế", "Thịt nguội", "Jambon", "Thịt xông khói", "Ba rọi xông khói", "Bò bít tết", "Thịt nướng", "Gà nướng", "Heo quay", "Chả viên"]
+        },
+        {
+          "tag": "fish",
+          "items": ["Cá", "Cá tươi", "Phi lê cá", "Cá hồi", "Cá ngừ", "Cá basa", "Cá tra", "Cá lóc", "Cá rô phi", "Cá thu", "Cá nục", "Cá trích", "Cá cơm", "Cá chép", "Cá diêu hồng", "Cá chim", "Cá mú", "Cá bống", "Cá kèo", "Cá thác lác", "Cá saba", "Tôm", "Tôm sú", "Tôm thẻ", "Tôm càng xanh", "Tôm bóc vỏ", "Tép", "Cua", "Ghẹ", "Tôm hùm", "Mực", "Mực ống", "Mực nang", "Bạch tuộc", "Nghêu", "Ngao", "Sò", "Sò điệp", "Hàu", "Ốc", "Hến", "Cá viên", "Tôm viên", "Mực viên", "Thanh cua", "Cá khô", "Mực khô", "Tôm khô", "Cá hộp", "Cá ngừ hộp", "Cá mòi hộp", "Rong biển"]
+        },
+        {
+          "tag": "bread",
+          "items": ["Gạo", "Gạo trắng", "Gạo thơm", "Gạo Jasmine", "Gạo ST25", "Gạo lứt", "Gạo nếp", "Nếp", "Bánh mì", "Bánh mì trắng", "Bánh mì đen", "Bánh mì nguyên cám", "Bánh mì sandwich", "Bánh mì gối", "Bánh mì baguette", "Bánh mì hamburger", "Bánh mì hot dog", "Bánh mì ngọt", "Croissant", "Mì", "Mì gói", "Mì ăn liền", "Mì tôm", "Mì trứng", "Mì Ý", "Spaghetti", "Nui", "Mì ống", "Lasagna", "Bún", "Bún tươi", "Bún khô", "Phở", "Phở tươi", "Phở khô", "Hủ tiếu", "Bánh canh", "Miến", "Miến dong", "Bánh đa", "Bánh phở", "Bánh đa nem", "Bánh tráng cuốn", "Yến mạch", "Ngũ cốc", "Bột mì", "Bột gạo", "Bột nếp", "Bột ngô", "Bột bắp", "Bột năng", "Bột sắn dây", "Tinh bột", "Đậu xanh", "Đậu đỏ", "Đậu đen", "Đậu trắng", "Đậu nành", "Đậu tương", "Đậu lăng", "Đậu gà", "Hạt sen"]
+        },
+        {
+          "tag": "sauces",
+          "items": ["Nước mắm", "Nước mắm nhĩ", "Nước tương", "Xì dầu", "Tương ớt", "Tương cà", "Sốt cà chua", "Tương đen", "Tương hột", "Tương bần", "Tương đậu", "Dầu hào", "Sốt mayonnaise", "Mayonnaise", "Mù tạt", "Sốt BBQ", "Sốt thịt nướng", "Sốt chua ngọt", "Sốt teriyaki", "Sốt mè rang", "Sốt salad", "Sốt Caesar", "Sốt phô mai", "Sốt nấm", "Sốt tiêu đen", "Sốt bơ tỏi", "Sốt tỏi", "Sốt ớt", "Sốt cay", "Sa tế", "Mắm tôm", "Mắm ruốc", "Mắm nêm", "Mắm tép", "Mắm cá", "Chao", "Tương miso", "Sốt cà ri", "Cốt lẩu", "Nước chấm", "Nước chấm hải sản", "Nước chấm gà", "Dưa chua", "Dưa món", "Củ kiệu", "Đồ chua", "Ô liu"]
+        },
+        {
+          "tag": "spices",
+          "items": ["Muối", "Muối biển", "Muối tôm", "Muối ớt", "Đường", "Đường trắng", "Đường vàng", "Đường nâu", "Đường phèn", "Đường thốt nốt", "Tiêu", "Tiêu đen", "Tiêu trắng", "Tiêu xay", "Ớt bột", "Ớt khô", "Bột ớt", "Paprika", "Bột nghệ", "Nghệ", "Quế", "Hồi", "Đinh hương", "Thảo quả", "Ngũ vị hương", "Bột cà ri", "Gia vị cà ri", "Gia vị", "Hạt nêm", "Bột ngọt", "Mì chính", "Bột canh", "Viên súp", "Viên gia vị", "Dầu ăn", "Dầu thực vật", "Dầu đậu nành", "Dầu hướng dương", "Dầu ô liu", "Dầu mè", "Dầu dừa", "Giấm", "Giấm gạo", "Giấm táo", "Rượu nấu ăn", "Nước cốt dừa", "Nước màu", "Mè", "Vừng", "Hành phi", "Tỏi phi", "Sả băm", "Tỏi băm", "Ớt băm"]
+        },
+        {
+          "tag": "nuts",
+          "items": ["Các loại hạt", "Hạt hỗn hợp", "Đậu phộng", "Lạc", "Hạnh nhân", "Hạt điều", "Hạt dẻ cười", "Óc chó", "Hạt phỉ", "Hạt hồ đào", "Hạt mắc ca", "Hạt Brazil", "Hạt thông", "Hạt hướng dương", "Hạt bí", "Hạt chia", "Nho khô", "Chà là khô", "Mơ khô", "Mận khô", "Nam việt quất khô", "Xoài sấy", "Mít sấy", "Chuối sấy", "Khoai lang sấy", "Trái cây sấy"]
+        },
+        {
+          "tag": "baking",
+          "items": ["Trứng", "Trứng gà", "Trứng vịt", "Trứng gà ta", "Trứng cút", "Trứng vịt lộn", "Men", "Men nở", "Bột nở", "Baking powder", "Baking soda", "Muối nở", "Vani", "Vanilla", "Tinh chất vani", "Bột cacao", "Ca cao", "Sô cô la nấu ăn", "Sô cô la đen", "Sô cô la chip", "Gelatin", "Bột gelatin", "Bột làm bánh", "Bột bánh mì", "Đường bột", "Dừa nạo"]
+        },
+        {
+          "tag": "snacks",
+          "items": ["Sô cô la", "Chocolate", "Kẹo", "Kẹo cứng", "Kẹo dẻo", "Kẹo mút", "Kẹo cao su", "Bánh quy", "Cookie", "Bánh xốp", "Bánh wafer", "Snack", "Khoai tây chiên", "Bim bim", "Bắp rang", "Bỏng ngô", "Bánh ngọt", "Bánh bông lan", "Cupcake", "Muffin", "Donut", "Pudding", "Kem", "Kem que", "Sữa chua uống", "Thạch", "Rau câu", "Hạt rang", "Đậu phộng rang", "Granola", "Ngũ cốc ăn sáng", "Mứt", "Mật ong", "Bánh trung thu", "Bánh pía", "Bánh đậu xanh", "Bánh gạo", "Bánh tráng", "Bánh tráng trộn", "Bánh phồng tôm", "Khô gà", "Khô bò", "Cơm cháy"]
+        },
+        {
+          "tag": "drinks",
+          "items": ["Nước", "Nước uống", "Nước lọc", "Nước khoáng", "Nước tinh khiết", "Nước suối", "Nước có ga", "Nước ngọt", "Nước ngọt có ga", "Đá", "Nước ép", "Nước cam", "Nước táo", "Nước xoài", "Nước nho", "Nước dừa", "Nước chanh", "Nước tăng lực", "Nước thể thao", "Cà phê", "Cà phê hòa tan", "Cà phê 3 trong 1", "Cà phê rang xay", "Cà phê hạt", "Cà phê sữa", "Trà", "Trà xanh", "Trà đen", "Trà ô long", "Trà gừng", "Trà thảo mộc", "Trà túi lọc", "Trà sữa", "Trà đào", "Trà tắc", "Sữa ca cao", "Ca cao nóng", "Nước gạo", "Nước nha đam", "Nước sâm", "Nước yến", "Nước mía", "Nước đậu nành"]
+        },
+        {
+          "tag": "frozen",
+          "items": ["Thực phẩm đông lạnh", "Rau củ đông lạnh", "Trái cây đông lạnh", "Cá đông lạnh", "Tôm đông lạnh", "Mực đông lạnh", "Thịt đông lạnh", "Gà đông lạnh", "Khoai tây đông lạnh", "Khoai tây chiên đông lạnh", "Pizza đông lạnh", "Hamburger đông lạnh", "Gà viên", "Nugget gà", "Chả giò đông lạnh", "Nem rán đông lạnh", "Há cảo đông lạnh", "Sủi cảo đông lạnh", "Xúc xích đông lạnh", "Cá viên đông lạnh", "Bò viên đông lạnh", "Viên thả lẩu", "Lẩu viên", "Thực phẩm chế biến sẵn", "Đồ ăn sẵn", "Đồ ăn liền", "Thực phẩm mát", "Pizza", "Hamburger", "Gà rán"]
+        }
+      ]
+    },
+    {
+      "title": "Đồ uống có cồn",
+      "orderIndex": 1,
+      "sections": [
+        {
+          "tag": "alcohol",
+          "items": ["Bia", "Bia không cồn", "Rượu vang", "Vang đỏ", "Vang trắng", "Vang hồng", "Vang sủi", "Champagne", "Whisky", "Whiskey", "Vodka", "Gin", "Rum", "Tequila", "Brandy", "Cognac", "Sake", "Soju", "Cider", "Rượu", "Rượu gạo", "Rượu nếp", "Rượu mơ", "Cocktail"]
+        }
+      ]
+    },
+    {
+      "title": "Đồ dùng gia đình",
+      "orderIndex": 2,
+      "sections": [
+        {
+          "tag": "laundry",
+          "items": ["Nước giặt", "Bột giặt", "Viên giặt", "Gel giặt", "Xà phòng giặt", "Nước xả vải", "Nước làm mềm vải", "Nước giặt xả", "Thuốc tẩy", "Nước tẩy trắng", "Nước tẩy quần áo", "Chất tẩy vết bẩn", "Nước giặt đồ trắng", "Nước giặt đồ màu", "Nước giặt em bé", "Nước giặt đồ trẻ em", "Nước giặt đồ mỏng", "Nước giặt len", "Nước vệ sinh máy giặt", "Túi giặt", "Nước hoa quần áo"]
+        },
+        {
+          "tag": "cleaning",
+          "items": ["Nước lau nhà", "Nước lau sàn", "Nước lau kính", "Nước tẩy bồn cầu", "Nước tẩy nhà tắm", "Nước tẩy rửa nhà bếp", "Nước tẩy dầu mỡ", "Nước tẩy đa năng", "Nước khử trùng", "Dung dịch sát khuẩn", "Xịt khử khuẩn", "Nước thông cống", "Bột thông cống", "Chất tẩy cặn", "Khử mùi", "Xịt phòng", "Nước thơm phòng", "Bàn chải vệ sinh", "Cọ toilet", "Chổi", "Hốt rác", "Cây lau nhà", "Khăn lau", "Khăn lau đa năng", "Khăn ướt lau nhà", "Găng tay cao su", "Găng tay dùng một lần", "Nước Javel", "Nước tẩy", "Nước giặt thảm", "Nước vệ sinh sofa", "Nước tẩy lò nướng"]
+        },
+        {
+          "tag": "kitchen",
+          "items": ["Nước rửa chén", "Nước rửa bát", "Nước rửa máy rửa chén", "Viên rửa chén", "Miếng rửa chén", "Miếng bọt biển", "Bùi nhùi thép", "Khăn bếp", "Khăn giấy bếp", "Giấy ăn", "Giấy bạc", "Giấy nhôm", "Màng bọc thực phẩm", "Màng bọc", "Giấy nến", "Túi zip", "Túi đông lạnh", "Túi đựng thực phẩm", "Túi nilon", "Túi rác", "Hộp đựng thực phẩm", "Hộp bảo quản", "Ống hút", "Cốc giấy", "Ly giấy", "Đĩa giấy", "Cốc dùng một lần", "Muỗng dùng một lần", "Thìa dùng một lần", "Nĩa dùng một lần", "Đũa dùng một lần", "Túi sandwich", "Túi nướng"]
+        },
+        {
+          "tag": "other",
+          "items": ["Pin", "Pin tiểu", "Pin đũa", "Pin cúc áo", "Bóng đèn", "Đèn LED", "Băng keo", "Băng dính", "Băng keo hai mặt", "Keo dán", "Keo siêu dính", "Móc quần áo", "Móc áo", "Kẹp quần áo", "Bật lửa", "Diêm", "Nến", "Ổ cắm điện", "Ổ cắm nối dài", "Dây điện nối dài", "Thuốc chống muỗi", "Xịt chống muỗi", "Kem chống muỗi", "Nhang muỗi", "Mùng", "Màn", "Máy đuổi muỗi", "Tinh dầu đuổi muỗi", "Thuốc diệt côn trùng", "Bình xịt côn trùng"]
+        }
+      ]
+    },
+    {
+      "title": "Chăm sóc cá nhân",
+      "orderIndex": 3,
+      "sections": [
+        {
+          "tag": "hygiene",
+          "items": ["Giấy vệ sinh", "Giấy toilet", "Khăn giấy", "Khăn giấy bỏ túi", "Khăn ướt", "Khăn giấy ướt", "Khăn ướt kháng khuẩn", "Xà phòng rửa tay", "Nước rửa tay", "Gel rửa tay khô", "Dung dịch sát khuẩn tay", "Xà phòng", "Sữa tắm", "Gel tắm", "Dầu gội", "Dầu gội khô", "Dầu xả", "Kem ủ tóc", "Serum tóc", "Sữa rửa mặt", "Nước tẩy trang", "Nước hoa hồng", "Toner", "Kem dưỡng ẩm", "Kem dưỡng da", "Sữa dưỡng thể", "Kem dưỡng tay", "Son dưỡng môi", "Kem chống nắng", "Mặt nạ", "Bông tẩy trang", "Tăm bông", "Bông ngoáy tai", "Bàn chải đánh răng", "Kem đánh răng", "Chỉ nha khoa", "Tăm", "Nước súc miệng", "Dao cạo râu", "Dao cạo", "Máy cạo râu", "Bọt cạo râu", "Gel cạo râu", "Lưỡi dao cạo", "Kem tẩy lông", "Lăn khử mùi", "Xịt khử mùi", "Nước hoa", "Gel vuốt tóc", "Sáp vuốt tóc", "Keo xịt tóc", "Băng vệ sinh", "Tampon", "Băng vệ sinh hằng ngày", "Bao cao su", "Bấm móng tay", "Dũa móng", "Lược", "Lược chải tóc", "Bàn chải tóc", "Nước rửa phụ khoa", "Nước tẩy sơn móng tay"]
+        }
+      ]
+    },
+    {
+      "title": "Đồ dùng cho bé",
+      "orderIndex": 4,
+      "sections": [
+        {
+          "tag": "baby",
+          "items": ["Tã", "Bỉm", "Tã em bé", "Bỉm em bé", "Tã quần", "Bỉm quần", "Khăn ướt em bé", "Khăn sữa", "Khăn xô", "Kem chống hăm", "Dầu em bé", "Sữa dưỡng thể em bé", "Kem dưỡng em bé", "Dầu gội em bé", "Sữa tắm em bé", "Nước rửa bình sữa", "Bình sữa", "Cọ rửa bình sữa", "Máy tiệt trùng bình sữa", "Núm ti", "Ti giả", "Đồ gặm nướu", "Yếm", "Khăn quấn", "Sữa bột cho bé", "Sữa công thức", "Thức ăn dặm", "Bột ăn dặm", "Cháo ăn dặm", "Ngũ cốc trẻ em", "Bánh ăn dặm", "Nước trái cây cho bé", "Nước uống cho bé", "Thìa ăn dặm", "Bát ăn dặm", "Bộ ăn dặm", "Cốc tập uống", "Bàn chải trẻ em", "Kem đánh răng trẻ em", "Khăn tắm em bé", "Nhiệt kế", "Bỉm bơi"]
+        }
+      ]
+    },
+    {
+      "title": "Đồ dùng cho thú cưng",
+      "orderIndex": 5,
+      "sections": [
+        {
+          "tag": "pets",
+          "items": ["Thức ăn thú cưng", "Thức ăn chó", "Hạt cho chó", "Thức ăn mèo", "Hạt cho mèo", "Thức ăn khô", "Thức ăn ướt", "Pate cho chó", "Pate chó", "Pate cho mèo", "Pate mèo", "Đồ hộp cho chó", "Đồ hộp cho mèo", "Bánh thưởng cho chó", "Snack cho chó", "Bánh thưởng cho mèo", "Snack cho mèo", "Xương gặm", "Xương gặm sạch răng", "Đồ chơi cho chó", "Đồ chơi cho mèo", "Cát mèo", "Cát vệ sinh cho mèo", "Cát vệ sinh", "Khay cát", "Khay vệ sinh mèo", "Tấm lót vệ sinh cho chó", "Tã thú cưng", "Khăn ướt thú cưng", "Sữa tắm thú cưng", "Sữa tắm chó", "Vòng cổ", "Dây dắt", "Dây đeo ngực", "Lồng thú cưng", "Lồng chó", "Lồng mèo", "Túi vận chuyển thú cưng", "Bát nước", "Bát thức ăn", "Máy cho ăn tự động", "Máy uống nước tự động cho mèo", "Vitamin thú cưng", "Túi đựng phân", "Thức ăn chim", "Thức ăn cá"]
+        }
+      ]
+    },
+    {
+      "title": "Du lịch",
+      "orderIndex": 6,
+      "sections": [
+        {
+          "tag": "docs",
+          "items": ["Hộ chiếu", "Passport", "Bản sao hộ chiếu", "Ảnh hộ chiếu", "Thị thực", "Visa", "Căn cước công dân", "CCCD", "Chứng minh nhân dân", "CMND", "Bằng lái xe", "Giấy phép lái xe", "Bằng lái quốc tế", "Thẻ tín dụng", "Thẻ ghi nợ", "Thẻ ngân hàng", "Tiền mặt", "Ngoại tệ", "Vé máy bay", "Thẻ lên máy bay", "Boarding pass", "Vé tàu", "Vé xe", "Đặt phòng khách sạn", "Xác nhận đặt phòng", "Bảo hiểm du lịch", "Giấy tờ xe", "Giấy chứng nhận tiêm chủng", "Bản sao visa", "Xác nhận chuyến bay", "Vé điện tử"]
+        },
+        {
+          "tag": "tech",
+          "items": ["AirTag", "eSIM", "SIM", "Thẻ SIM", "SSD", "Cáp USB", "Cáp USB-C", "Cáp Type-C", "Cáp Lightning", "Điện thoại", "Điện thoại di động", "Điện thoại thông minh", "Ốp điện thoại", "Máy tính bảng", "Laptop", "Máy tính xách tay", "Chuột", "Đồng hồ thông minh", "Máy ảnh", "Camera hành trình", "Camera thể thao", "Chân máy", "Tai nghe", "Tai nghe không dây", "Tai nghe Bluetooth", "Pin dự phòng", "Sạc dự phòng", "Bộ sạc", "Củ sạc", "Sạc điện thoại", "Sạc laptop", "Cáp sạc", "Cáp iPhone", "Cáp dữ liệu", "Thẻ nhớ", "Đầu đọc thẻ", "Máy đọc sách", "Bộ chuyển đổi", "Adapter", "Ổ cắm chuyển đổi", "Ổ cắm du lịch", "Adapter du lịch", "Ổ cắm đa năng", "Bộ chuyển đổi điện áp", "Sạc ô tô", "Sạc nhanh"]
+        },
+        {
+          "tag": "bags",
+          "items": ["Vali", "Vali du lịch", "Vali kéo", "Hành lý xách tay", "Vali cabin", "Túi du lịch", "Túi kéo", "Bọc vali", "Áo trùm vali", "Dây đai vali", "Khóa vali", "Thẻ hành lý", "Balo", "Ba lô", "Balo du lịch", "Túi xách", "Túi đeo vai", "Túi đeo chéo", "Túi đeo hông", "Túi nhỏ", "Túi sắp xếp hành lý", "Túi chia đồ", "Túi hút chân không", "Túi nén", "Túi đựng hộ chiếu", "Ví đựng thẻ", "Ví", "Túi mua sắm gấp gọn", "Balo gấp gọn", "Túi laptop", "Túi đựng mỹ phẩm"]
+        },
+        {
+          "tag": "tools",
+          "items": ["Bịt mắt ngủ", "Nút bịt tai", "Gối cổ", "Gối du lịch", "Kính râm", "Kính mát", "Khẩu trang", "Ô", "Dù", "Ô gấp", "Áo mưa", "Bình nước", "Bình giữ nhiệt", "Cốc giữ nhiệt", "Cân hành lý", "Cân xách tay", "Đèn pin", "Đèn cầm tay", "Quạt cầm tay", "Quạt mini", "Túi sơ cứu", "Bộ sơ cứu", "Thuốc cơ bản", "Thuốc cá nhân", "Hộp thuốc", "Hộp chia thuốc", "Cồn sát khuẩn", "Xịt cồn", "Bút", "Sổ tay", "Bộ kim chỉ", "Kim và chỉ", "Túi chống nước", "Ổ khóa", "Khóa số", "Dao đa năng"]
+        }
+      ]
+    }
+  ]
+}
