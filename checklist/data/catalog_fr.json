@@ -1,0 +1,147 @@
+{
+  "language": "fr",
+  "groups": [
+    {
+      "title": "Alimentation",
+      "orderIndex": 0,
+      "sections": [
+        {
+          "tag": "vegs",
+          "items": ["Ail", "Aneth", "Armillaires", "Artichauts", "Asperges", "Aubergines", "Basilic", "Betteraves", "Blettes", "Brocoli", "Butternut", "Carottes", "Céleri", "Céleri-rave", "Cèpes", "Champignons", "Champignons de Paris", "Champignons enoki", "Champignons séchés", "Champignons shiitake", "Chou", "Chou blanc", "Chou chinois", "Chou kale", "Chou rouge", "Chou-fleur", "Chou-rave", "Choux de Bruxelles", "Citronnelle", "Concombres", "Coriandre fraîche", "Courges", "Courgettes", "Cresson", "Daikon", "Échalotes", "Échalotes grises", "Endives", "Épinards", "Estragon", "Fenouil", "Feuilles de combava", "Galanga", "Germes", "Germes de haricots", "Germes de pois", "Gingembre", "Girolles", "Haricots blancs", "Haricots rouges", "Haricots verts", "Herbes", "Jalapeños", "Laitue", "Laitue iceberg", "Laitue romaine", "Légumes", "Mâche", "Maïs", "Mélisse", "Menthe", "Micropousses", "Navets", "Navets nouveaux", "Oignons", "Oignons rouges", "Oignons verts", "Origan", "Oseille", "Panais", "Patates douces", "Pâtissons", "Persil", "Petits pois frais", "Piments", "Pleurotes", "Poireaux", "Poivrons", "Poivrons doux", "Pommes de terre", "Pommes de terre nouvelles", "Potimarron", "Potiron", "Radis", "Rhubarbe", "Romanesco", "Romarin", "Roquette", "Salade", "Sauge", "Thym", "Tomates", "Tomates cerises", "Topinambours"]
+        },
+        {
+          "tag": "fruits",
+          "items": ["Abricots", "Airelles", "Ananas", "Avocat", "Baies", "Baies de goji", "Bananes", "Cassis", "Cerises", "Citron vert", "Citrons", "Clémentines", "Coings", "Cranberries", "Cynorrhodons", "Dattes fraîches", "Figues", "Fraises", "Fraises des bois", "Framboises", "Fruit de la passion", "Fruit du dragon", "Fruits", "Goyave", "Grenade", "Griottes", "Groseilles", "Groseilles à maquereau", "Kaki", "Kiwi", "Kumquat", "Litchi", "Mandarines", "Mangue", "Maracuja", "Melon", "Mirabelles", "Mûres", "Myrtilles", "Nectarines", "Noix de coco", "Oranges", "Pamplemousse", "Papaye", "Pastèque", "Pêches", "Physalis", "Poires", "Pomelo", "Pommes", "Pommes rouges", "Pommes vertes", "Prunes", "Raisins", "Raisins sans pépins", "Ramboutan", "Reines-claudes", "Tamarin"]
+        },
+        {
+          "tag": "dairy",
+          "items": ["Babeurre", "Beurre", "Beurre clarifié", "Beurre doux", "Beurre salé", "Brie", "Burrata", "Camembert", "Cantal", "Cheddar", "Comté", "Cottage cheese", "Coulommiers", "Crème", "Crème à fouetter", "Crème chantilly", "Crème de coco", "Crème entière", "Crème épaisse", "Crème fraîche", "Crème légère", "Crème liquide", "Dessert végétal", "Emmental", "Faisselle", "Feta", "Fromage", "Fromage à la crème", "Fromage à pâte dure", "Fromage blanc", "Fromage bleu", "Fromage de chèvre", "Fromage fondu", "Fromage frais", "Fromage râpé", "Ghee", "Gouda", "Halloumi", "Kéfir", "Lait", "Lait concentré", "Lait concentré sucré", "Lait d’amande", "Lait d’avoine", "Lait de chèvre", "Lait de coco", "Lait de riz", "Lait de soja", "Lait demi-écrémé", "Lait écrémé", "Lait en poudre", "Lait entier", "Lait fermenté", "Lait frais", "Lait sans lactose", "Lait UHT", "Lait végétal", "Maasdam", "Margarine", "Mascarpone", "Mimolette", "Mozzarella", "Parmesan", "Petits-suisses", "Raclette", "Reblochon", "Ricotta", "Roquefort", "Saint-nectaire", "Skyr", "Stracciatella", "Tofu", "Tomme", "Yaourt", "Yaourt à boire", "Yaourt aux fruits", "Yaourt grec", "Yaourt nature"]
+        },
+        {
+          "tag": "meat",
+          "items": ["Agneau", "Ailes de poulet", "Andouillette", "Aspic", "Bacon", "Bavette", "Blanc de poulet", "Bœuf", "Bœuf haché", "Boudin blanc", "Boudin noir", "Caille", "Canard", "Canard laqué", "Cervelas", "Cevapcici", "Chair à saucisse", "Chipolatas", "Cœurs de poulet", "Côtelettes", "Côtes", "Cuisses de dinde", "Cuisses de poulet", "Dinde", "Échine de porc", "Entrecôte", "Escalope de dinde", "Escalope de poulet", "Faux-filet", "Filet de bœuf", "Filet de dinde", "Filet de poulet", "Filet mignon de porc", "Foie", "Foie de poulet", "Foie gras", "Gésiers de poulet", "Hauts de cuisse de poulet", "Jambon", "Jambon blanc", "Jambon cru", "Jambon ibérique", "Langue de bœuf", "Lapin", "Lard", "Lardons", "Magret de canard", "Merguez", "Oie", "Pâté", "Paupiettes", "Pilons de dinde", "Pilons de poulet", "Porc", "Poulet", "Rillettes", "Rosette", "Rôti de bœuf", "Rôti de porc", "Saindoux", "Saucisse", "Saucisse cuite", "Saucisse de Toulouse", "Saucisses à griller", "Saucisses de Francfort", "Saucisson sec", "Steak", "Steak haché", "Terrine", "Travers de porc", "Veau", "Venaison", "Viande", "Viande en conserve", "Viande hachée", "Viande pour bourguignon", "Volaille"]
+        },
+        {
+          "tag": "fish",
+          "items": ["Anchois", "Anguille", "Bar", "Bâtonnets de crabe", "Brème", "Brochet", "Bulots", "Cabillaud", "Calamars", "Capelan", "Carpe", "Caviar", "Chair de crabe", "Colin", "Coquilles Saint-Jacques", "Crabe", "Crevettes", "Daurade", "Écrevisses", "Éperlan", "Esturgeon", "Filets de poisson", "Flétan", "Fruits de mer", "Hareng", "Homard", "Huîtres", "Langoustines", "Lieu jaune", "Lieu noir", "Lotte", "Maquereau", "Maquereau en boîte", "Merlu", "Mérou", "Morue", "Moules", "Pangasius", "Perche", "Plie", "Poisson", "Poisson en conserve", "Poisson pané", "Poulpes", "Rillettes de poisson", "Rouget", "Sandre", "Sardines", "Sardines en boîte", "Saumon", "Saumon atlantique", "Saumon fumé", "Saumon légèrement salé", "Seiche", "Silure", "Sole", "Sprats", "Surimi", "Thon", "Thon en boîte", "Tilapia", "Tourteau", "Truite", "Truite fumée", "Truite légèrement salée"]
+        },
+        {
+          "tag": "bread",
+          "items": ["Amarante", "Baguette", "Boulgour", "Boulgour de blé", "Céréales", "Ciabatta", "Coquillettes", "Couscous", "Épeautre", "Farine", "Farine complète", "Farine d’amande", "Farine d’avoine", "Farine de blé", "Farine de châtaigne", "Farine de coco", "Farine de maïs", "Farine de pois chiches", "Farine de riz", "Farine de sarrasin", "Farine de seigle", "Farine d’épeautre", "Feuilles de lasagne", "Feuilles de riz", "Flocons d’avoine", "Galette", "Gnocchis", "Granola", "Haricots", "Haricots blancs secs", "Haricots rouges secs", "Lavash", "Lentilles", "Lentilles corail", "Lentilles vertes", "Millet", "Millet décortiqué", "Muesli", "Nouilles", "Nouilles ramen", "Nouilles soba", "Nouilles udon", "Orge concassée", "Orge perlé", "Pain", "Pain à burger", "Pain au levain", "Pain aux céréales", "Pain brioché", "Pain complet", "Pain croustillant", "Pain de campagne", "Pain de mie", "Pain de seigle", "Pain noir", "Pain pita", "Pain sans gluten", "Pain tranché", "Pâte à pizza", "Pâte brisée", "Pâte feuilletée", "Pâte filo", "Pâte sablée", "Pâtes", "Pâtes complètes", "Pâtes fraîches", "Pâtes sans gluten", "Penne", "Petit pain", "Pita", "Pois", "Pois chiches", "Quinoa", "Riz", "Riz basmati", "Riz blanc", "Riz complet", "Riz étuvé", "Riz jasmin", "Riz pour risotto", "Riz rond", "Riz rouge", "Sarrasin", "Sel", "Sel de l’Himalaya", "Sel marin", "Semoule", "Semoule de maïs", "Son", "Spaghetti", "Sucre", "Sucre brun", "Sucre de canne", "Tagliatelles", "Torsades", "Tortilla", "Vermicelles", "Vermicelles de haricot mungo"]
+        },
+        {
+          "tag": "sauces",
+          "items": ["Ail des ours", "Algues marines", "Ananas en conserve", "Bouillon de légumes", "Bouillon de volaille", "Câpres", "Caviar d’aubergines", "Champignons en conserve", "Champignons marinés", "Choucroute", "Concentré de tomate", "Conserves", "Cornichons", "Cornichons marinés", "Cornichons salés", "Coulis de tomate", "Fond de veau", "Fruits de câprier", "Haricots en conserve", "Haricots verts en conserve", "Houmous", "Jus de citron", "Jus de citron vert", "Ketchup", "Lentilles en conserve", "Maïs en conserve", "Mayonnaise", "Moutarde", "Moutarde de Dijon", "Moutarde française", "Olives noires", "Olives vertes", "Pêches en conserve", "Pesto", "Petits pois", "Petits pois en conserve", "Piri-piri", "Pois chiches en conserve", "Raifort", "Ratatouille en conserve", "Sauce", "Sauce à l’ail", "Sauce aigre-douce", "Sauce au fromage", "Sauce au poivre", "Sauce aux huîtres", "Sauce barbecue", "Sauce béarnaise", "Sauce béchamel", "Sauce bolognaise", "Sauce carbonara", "Sauce de poisson", "Sauce hoisin", "Sauce hollandaise", "Sauce pad thaï", "Sauce piquante", "Sauce soja", "Sauce sriracha", "Sauce sweet chili", "Sauce tartare", "Sauce teriyaki", "Sauce tomate", "Sauce Worcestershire", "Soupe de légumes", "Tapenade", "Tomates en conserve", "Tomates pelées", "Tomates séchées", "Velouté de légumes", "Vinaigrette"]
+        },
+        {
+          "tag": "spices",
+          "items": ["Ail séché", "Ail semoule", "Aneth séché", "Badiane", "Basilic séché", "Bouillon en cubes", "Cannelle", "Cardamome", "Carvi", "Clous de girofle", "Cumin moulu", "Curcuma", "Curry", "Épices", "Estragon séché", "Feuille de laurier", "Gingembre moulu", "Graines de coriandre", "Herbes de Provence", "Herbes italiennes", "Huile d’arachide", "Huile d’avocat", "Huile de coco", "Huile de colza", "Huile de lin", "Huile de maïs", "Huile de moutarde", "Huile de noix", "Huile de pépins de raisin", "Huile de sésame", "Huile de tournesol", "Huile d’olive", "Huile végétale", "Laurier séché", "Marjolaine", "Mélange de poivres", "Noix de muscade", "Origan séché", "Paprika", "Paprika fumé", "Persil séché", "Piment d’Espelette", "Piment rouge", "Poivre blanc", "Poivre en grains", "Poivre noir", "Romarin séché", "Safran", "Thym séché", "Vinaigre balsamique", "Vinaigre blanc", "Vinaigre de pomme", "Vinaigre de riz", "Vinaigre de vin"]
+        },
+        {
+          "tag": "nuts",
+          "items": ["Abricots moelleux", "Abricots secs", "Amandes", "Arachides", "Canneberges séchées", "Châtaignes", "Chips de banane", "Dattes", "Figues séchées", "Fruits confits", "Fruits secs", "Graines", "Graines de chia", "Graines de courge", "Graines de lin", "Graines de pavot", "Graines de sésame", "Graines de tournesol", "Mangue séchée", "Mélange de noix", "Noisettes", "Noix", "Noix de cajou", "Noix de coco râpée", "Noix de macadamia", "Noix de pécan", "Noix du Brésil", "Pignons de pin", "Pistaches", "Pommes séchées", "Pruneaux", "Raisins secs"]
+        },
+        {
+          "tag": "baking",
+          "items": ["Acide citrique", "Agar-agar", "Amidon", "Bicarbonate", "Chapelure", "Chocolat pour pâtisserie", "Colorant alimentaire", "Édulcorant", "Extrait de vanille", "Fixateur pour crème", "Gélatine", "Levure", "Levure chimique", "Œufs", "Œufs de caille", "Pectine", "Substitut du sucre", "Sucre glace", "Sucre vanillé", "Vanilline", "Vermicelles de décoration"]
+        },
+        {
+          "tag": "snacks",
+          "items": ["Barre chocolatée", "Barre de céréales", "Barre de muesli", "Barre gaufrette", "Bâtonnets de maïs", "Bâtonnets salés", "Beurre de cacahuète", "Biscuits", "Biscuits à l’avoine", "Biscuits apéritifs", "Bonbons", "Boudoirs", "Bretzels", "Brioches", "Caramel", "Caramels mous", "Chausson aux pommes", "Chewing-gum", "Chips", "Chips de maïs", "Chocolat", "Chocolat au lait", "Chocolat blanc", "Chocolat noir", "Chocolat pâtissier", "Chocolats", "Compote de fruits", "Compote de pommes", "Confiture", "Confiture d’abricots", "Confiture de cerises", "Confiture de framboises", "Crackers", "Crème de marrons", "Crème dessert", "Croissants", "Croûtons", "Cupcakes", "Éclairs", "Feuilletés", "Financiers", "Flan pâtissier", "Gâteau", "Gaufrettes", "Glace", "Glace sur bâtonnet", "Guimauves", "Halva", "Loukoum", "Macarons", "Madeleines", "Marshmallows", "Meringues", "Miel", "Miel de fleurs", "Miel de sarrasin", "Muffins", "Nougat", "Pain au chocolat", "Pain d’épices", "Palets bretons", "Palmiers", "Pâte à tartiner chocolat-noisette", "Pâtes de fruits", "Pâtisserie", "Petits-beurre", "Pop-corn", "Pudding", "Roulé", "Sablés", "Sirop", "Sorbet", "Sucettes", "Tarte aux pommes", "Tarte sucrée", "Truffes"]
+        },
+        {
+          "tag": "drinks",
+          "items": ["Boisson énergisante", "Boisson isotonique", "Cacao en poudre", "Café", "Café décaféiné", "Café d’orge", "Café en capsules", "Café en grains", "Café moulu", "Café soluble", "Camomille", "Chicorée", "Eau", "Eau de source", "Eau gazeuse", "Eau minérale", "Eau plate", "Eau tonique", "Infusion de tilleul", "Infusion de verveine", "Jus de fruits", "Jus de pomme", "Jus de raisin", "Jus de tomate", "Jus d’orange", "Jus multifruits", "Karkadé", "Limonade", "Matcha", "Maté", "Nectar de fruits", "Oolong au lait", "Pu-erh", "Sirop de grenadine", "Sirop de menthe", "Soda", "Thé", "Thé blanc", "Thé glacé", "Thé noir", "Thé vert", "Tisane"]
+        },
+        {
+          "tag": "frozen",
+          "items": ["Baies surgelées", "Boulettes surgelées", "Brocolis surgelés", "Champignons surgelés", "Chou-fleur surgelé", "Crêpes", "Crevettes surgelées", "Épinards surgelés", "Frites surgelées", "Fruits de mer surgelés", "Galettes de sarrasin", "Glaçons", "Gratin surgelé", "Haricots verts surgelés", "Légumes surgelés", "Maïs surgelé", "Mélange de légumes", "Mélange mexicain", "Nuggets surgelés", "Pâte feuilletée surgelée", "Pâte levée surgelée", "Pâtisseries surgelées", "Petits pois surgelés", "Pizza surgelée", "Poisson pané surgelé", "Poisson surgelé", "Pommes dauphines surgelées", "Pommes de terre surgelées", "Pommes noisettes surgelées", "Quiche surgelée", "Ravioli", "Steaks hachés surgelés"]
+        }
+      ]
+    },
+    {
+      "title": "Alcool",
+      "orderIndex": 1,
+      "sections": [
+        {
+          "tag": "alcohol",
+          "items": ["Absinthe", "Ale", "Apéritif anisé", "Armagnac", "Becherovka", "Bière", "Bière artisanale", "Bière blonde", "Bière brune", "Bière de blé", "Bière IPA", "Bière non filtrée", "Bière sans alcool", "Bitter", "Bourbon", "Brandy", "Calvados", "Cava", "Champagne", "Cidre", "Cognac", "Crème de cassis", "Gin", "Grappa", "Hydromel", "Lager", "Liqueur", "Liqueur amère", "Liqueur aux plantes", "Madère", "Marc", "Pastis", "Pils", "Pommeau", "Porter", "Porto", "Prosecco", "Rhum", "Saké", "Sambuca", "Schnaps", "Scotch", "Stout", "Tequila", "Vermouth", "Vin", "Vin blanc", "Vin de dessert", "Vin de prune", "Vin de table", "Vin demi-sec", "Vin doux", "Vin moelleux", "Vin mousseux", "Vin rosé", "Vin rouge", "Vin sec", "Vodka", "Whisky", "Xérès"]
+        }
+      ]
+    },
+    {
+      "title": "Maison",
+      "orderIndex": 2,
+      "sections": [
+        {
+          "tag": "laundry",
+          "items": ["Assouplissant", "Capsules de lessive", "Détachant", "Eau de Javel", "Filet de lavage", "Lessive en poudre", "Lessive liquide", "Savon de Marseille"]
+        },
+        {
+          "tag": "cleaning",
+          "items": ["Crème à récurer", "Déboucheur de canalisations", "Désinfectant", "Désodorisant", "Éponges ménagères", "Filtres d’aspirateur", "Gants jetables", "Gants ménagers", "Gel WC", "Nettoyant cuisine", "Nettoyant four", "Nettoyant pour meubles", "Nettoyant pour plaque", "Nettoyant pour sols", "Nettoyant pour tapis", "Nettoyant salle de bain", "Nettoyant vitres", "Nettoyant WC", "Polish pour meubles", "Poudre à récurer", "Produit nettoyant", "Produit vaisselle", "Sacs d’aspirateur", "Serpillière", "Spray antistatique"]
+        },
+        {
+          "tag": "kitchen",
+          "items": ["Allume-feu liquide", "Assiettes jetables", "Bac à glaçons", "Barbecue", "Boîtes alimentaires", "Brochettes", "Brochettes en bambou", "Brosse vaisselle", "Cartouche filtrante", "Charbon", "Chiffon microfibre", "Couteaux jetables", "Cuillères jetables", "Détartrant", "Éponge métallique", "Éponges vaisselle", "Essuie-tout", "Film alimentaire", "Filtres à eau", "Fourchettes jetables", "Gobelets jetables", "Grille de barbecue", "Lingettes de nettoyage", "Liquide de rinçage", "Liquide vaisselle", "Nappe jetable", "Papier aluminium", "Papier cuisson", "Plats de cuisson", "Sachets alimentaires", "Sacs à glaçons", "Sacs de congélation", "Sacs de cuisson", "Sacs poubelle", "Sacs zip", "Sel lave-vaisselle", "Serviettes de cuisine", "Tablettes lave-vaisselle", "Torchon", "Verres à shot jetables"]
+        },
+        {
+          "tag": "other",
+          "items": ["Allumettes", "Ampoules", "Anti-mites", "Bougies", "Briquet", "Brosse à chaussures", "Brosse à vêtements", "Colle", "Crème pour chaussures", "Diffuseur anti-moustiques", "Éponge à chaussures", "Piles", "Répulsif insectes", "Répulsif moustiques", "Rouleau anti-peluches", "Ruban adhésif"]
+        }
+      ]
+    },
+    {
+      "title": "Hygiène",
+      "orderIndex": 3,
+      "sections": [
+        {
+          "tag": "hygiene",
+          "items": ["Antitranspirant", "Après-shampooing", "Bain de bouche", "Bain moussant", "Bandes de cire", "Barrettes", "Baume à lèvres", "Baume après-rasage", "Baume pour cheveux", "Brosse à cheveux", "Brosse à dents", "Ciseaux à ongles", "Coloration", "Cotons démaquillants", "Cotons-tiges", "Coupe-ongles", "Crème contour des yeux", "Crème corps", "Crème dépilatoire", "Crème mains", "Crème pieds", "Crème solaire", "Crème visage", "Cure-dents", "Démaquillant", "Dentifrice", "Déodorant", "Dissolvant", "Eau micellaire", "Élastiques pour cheveux", "Étui pour lentilles", "Fil dentaire", "Gant de toilette", "Gel à raser", "Gel coiffant", "Gel douche", "Gel intime", "Gel nettoyant visage", "Gommage visage", "Huile pour cheveux", "Kit de manucure", "Lait corporel", "Lames de rasoir", "Laque", "Lentilles de contact", "Lime à ongles", "Lingettes humides", "Lingettes intimes", "Lotion tonique", "Lubrifiant", "Masque visage", "Miroir de poche", "Mouchoirs", "Mousse à raser", "Mousse coiffante", "Mousse nettoyante visage", "Papier toilette", "Peigne", "Pince à épiler", "Préservatifs", "Protège-slips", "Rasoir", "Rasoirs jetables", "Savon", "Savon liquide", "Sel de bain", "Serviettes", "Serviettes hygiéniques", "Shampooing", "Solution pour lentilles", "Tampons"]
+        }
+      ]
+    },
+    {
+      "title": "Bébé",
+      "orderIndex": 4,
+      "sections": [
+        {
+          "tag": "baby",
+          "items": ["Alèses jetables", "Alèses réutilisables", "Anneau de dentition", "Bain moussant bébé", "Bavoir", "Bavoir imperméable", "Biberon", "Céréales pour bébé", "Chauffe-biberon", "Couches", "Couches-culottes", "Crème bébé", "Eau pour bébé", "Éponge de bain bébé", "Gel lavant bébé", "Goupillon", "Hochet", "Huile pour bébé", "Jouets de bain", "Jus pour bébé", "Lait corporel bébé", "Lait infantile", "Lingettes bébé", "Purée de fruits", "Purée de légumes", "Purée de viande", "Savon bébé", "Serviette bébé", "Shampooing bébé", "Stérilisateur", "Sucette pour bébé", "Talc pour bébé", "Tétine", "Thermomètre bébé", "Vaisselle bébé"]
+        }
+      ]
+    },
+    {
+      "title": "Animaux",
+      "orderIndex": 5,
+      "sections": [
+        {
+          "tag": "pets",
+          "items": ["Abreuvoir pour oiseaux", "Abreuvoir pour rongeurs", "Alèses pour animaux", "Brosse pour animaux", "Caisse de transport", "Collier", "Collier anti-puces et tiques", "Conserves pour chats", "Conserves pour chiens", "Coupe-griffes", "Croquettes pour chats", "Croquettes pour chiens", "Friandises pour chats", "Friandises pour chiens", "Gamelle", "Harnais", "Jouets pour chats", "Jouets pour chiens", "Laisse", "Laisse rétractable", "Litière", "Litière pour rongeurs", "Mangeoire pour oiseaux", "Mangeoire pour rongeurs", "Muselière", "Nourriture pour oiseaux", "Nourriture pour poissons", "Nourriture pour poissons d’aquarium", "Nourriture pour rongeurs", "Pâtée pour chats", "Pâtée pour chiens", "Pipette antiparasitaire", "Shampooing pour animaux", "Spray antiparasitaire", "Traitement anti-puces et tiques", "Vitamines pour animaux"]
+        }
+      ]
+    },
+    {
+      "title": "Voyages",
+      "orderIndex": 6,
+      "sections": [
+        {
+          "tag": "docs",
+          "items": ["Acte de naissance", "Assurance voyage", "Billet d’avion", "Billets", "Carte bancaire", "Carte de crédit", "Carte d’embarquement", "Carte d’identité", "Carte européenne d’assurance maladie", "Carte grise", "Confirmation de réservation", "Copies des documents", "Devises", "Espèces", "Papiers du véhicule", "Passeport", "Permis de conduire", "Permis de conduire international", "Petite monnaie", "Police d’assurance", "Réservation d’hôtel", "Visa"]
+        },
+        {
+          "tag": "tech",
+          "items": ["Adaptateur de prise", "Adaptateur de voyage", "Appareil photo", "Batterie externe", "Bloc d’alimentation", "Bracelet connecté", "Câble de recharge", "Câble USB", "Câble USB-C", "Caméra d’action", "Carte mémoire", "Casque audio", "Chargeur", "Chargeur de voiture", "Chargeur sans fil", "Clé USB", "Coque de téléphone", "Écouteurs", "Écouteurs sans fil", "Lecteur de cartes", "Liseuse", "Monopode", "Montre connectée", "Multiprise", "Ordinateur portable", "Organiseur de câbles", "Outil d’éjection SIM", "Perche à selfie", "Piles rechargeables", "Pochette étanche", "Rallonge électrique", "Smartphone", "Souris pour ordinateur", "SSD portable", "Tablette", "Télécommande pour appareil photo", "Téléphone", "Traceur de bagages", "Trépied"]
+        },
+        {
+          "tag": "bags",
+          "items": ["Bagage cabine", "Cadenas de valise", "Ceinture porte-billets", "Enveloppe pour espèces", "Étiquette à bagages", "Housse de pluie pour sac à dos", "Housse de valise", "Organiseur de valise", "Pèse-bagage", "Pince à billets", "Porte-cartes", "Porte-documents", "Portefeuille", "Portefeuille étanche", "Sac à dos", "Sac à dos pliable", "Sac banane", "Sac de compression", "Sac de plage", "Sac de voyage", "Sac étanche", "Sac pliable", "Sacs sous vide", "Sangle à bagages", "Trousse de toilette", "Valise"]
+        },
+        {
+          "tag": "tools",
+          "items": ["Bouchons d’oreilles", "Carnet", "Colliers de serrage", "Cordelette", "Coussin de voyage", "Coussin gonflable", "Couteau pliant", "Élastiques", "Gourde", "Kit de couture", "Lampe de poche", "Lampe frontale", "Lunettes", "Lunettes de soleil", "Masque de sommeil", "Mousqueton", "Organiseur de voyage", "Outil multifonction", "Parapluie", "Pilulier", "Poncho de pluie", "Stylo", "Support de téléphone pour voiture", "Thermos", "Trousse de secours"]
+        }
+      ]
+    }
+  ]
+}
