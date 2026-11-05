@@ -194,9 +194,12 @@
         <a href="https://t.me/checklistapp" target="_blank">@checklistapp</a>
       </p>
 
-      <p data-i18n="support.text"></p>
+      <p>
+        <span data-i18n="support.text"></span>
+        <a href="#support-form" onclick="toggleSupport(event)" data-i18n="support.contact"></a>
+      </p>
       
-      <form id="support-form" onsubmit="sendSupport(event)">
+      <form id="support-form" onsubmit="sendSupport(event)" hidden>
       	<input type="hidden" name="subject" value="CheckList • Support">
         <input type="email" name="email" data-i18n-placeholder="support.email" maxlength="254" autocomplete="email" required>
         <textarea name="message" data-i18n-placeholder="support.message" maxlength="5000" rows="5" required></textarea>
