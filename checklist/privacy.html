@@ -104,6 +104,7 @@
     <p data-i18n="p.contact.p"></p>
 
     <form id="support-form" onsubmit="sendSupport(event)">
+      <input type="hidden" name="subject" value="CheckList • Support">
       <input type="email" name="email" data-i18n-placeholder="support.email" maxlength="254" autocomplete="email" required>
       <textarea name="message" data-i18n-placeholder="support.message" maxlength="5000" rows="5" required></textarea>
       <button type="submit" data-i18n="support.send"></button>
