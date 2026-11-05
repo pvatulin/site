@@ -5,30 +5,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Developer page</title>
   <style>
-    :root { --bg: #f8fafc; --size: min(480px, 75vw); }
-    
+    :root { --bg:#f8fafc; --size: min(480px, 75vw); }
     html, body { height: 100%; margin: 0; background: var(--bg); }
     
     .center { height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; }
     .avatar { width: var(--size); height: var(--size); border-radius: 50%; overflow: hidden; display: grid; place-items: center; background: #fff; border: 1px solid #e2e8f0; }
     .avatar img { width: 100%; height: 100%; object-fit: contain; display: block; user-select: none; -webkit-user-drag: none; pointer-events: none; }
     
-    .apps-bar { margin-top: 28px; padding: 18px 24px; display: flex; justify-content: center; gap: 20px; background: #fff; border: 1px solid #e2e8f0; border-radius: 24px; }
+    .apps-bar { margin-top: 28px; padding: 18px 24px; display: flex; justify-content: center; gap: 20px; background:#fff; border: 1px solid #e2e8f0; border-radius: 24px; }
     .app img { width: 72px; height: 72px; border-radius: 22%; display: block; cursor: pointer; transition: transform .2s ease; }
     .app:hover img { transform: scale(1.08); }
 
     .theme { position: fixed; right: 12px; top: 12px; }
-    .theme button { width: 38px; height: 38px; border: 1px solid #cbd5e1; background: #fff; border-radius: 10px; cursor: pointer; font-size: 20px; padding: 0; }
-    .theme button:hover { background: #f8fafc; }
+    .theme button { width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; color:#0f172a; border-radius:10px; cursor:pointer; font-size:20px; padding:0; }
     .theme button { transition:transform .2s ease; }
+    .theme button:hover { background:#f8fafc; }
     .theme button:hover { transform:scale(1.05); }
 
-    body.dark { background: #0f172a; color: #f8fafc; }
-    body.dark .avatar { background: #1e293b; border-color: #334155; }
-    body.dark .apps-bar { background: #1e293b; border-color: #334155; }
-    body.dark .theme button { background: #1e293b; color: #f8fafc; border-color: #334155; }
-    body.dark .theme button:hover { background: #334155; border-color: #334155; }
-    
+    body.dark { background:#0f172a; color:#f8fafc; }
+    body.dark .avatar { background:#1e293b; border-color:#334155; }
+    body.dark .apps-bar { background:#1e293b; border-color:#334155; }
+    body.dark .theme button { background:#1e293b; color:#f8fafc; border-color:#334155; }
+    body.dark .theme button:hover { background:#334155; border-color:#334155; }
   </style>
 </head>
 <body>
