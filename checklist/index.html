@@ -38,6 +38,13 @@
     .overview-subtitle { font-size:1.05em; font-weight:650; margin:18px 0 4px; }
     .overview-text { line-height:1.6; }
     .overview-gap { display:block; height:12px; }
+    
+    #support-form { max-width:520px; }
+    #support-form input, #support-form textarea { box-sizing:border-box; width:100%; padding:12px; margin-bottom:12px; border:1px solid #cbd5e1; border-radius:10px; background:#fff; color:#0f172a; font:inherit; }
+    #support-form textarea { display:block; resize:vertical; }
+    #support-form .btn { margin:0; cursor:pointer; font:inherit; }
+    #support-form .btn:disabled { opacity:.6; cursor:default; }
+    #support-status { margin:12px 0 0; }
 
     .apps { position:absolute; left:12px; top:12px; }
     .apps button { width:38px; height:38px; border:1px solid #cbd5e1; background:#fff; border-radius:10px; cursor:pointer; font-size:27px; line-height:1; padding:0; display:flex; align-items:center; justify-content:center; padding-bottom:4px; }
@@ -79,6 +86,9 @@
     body.dark .apps-menu a:hover { background:#334155; }
     body.dark .theme button:hover { background:#334155; color:#f8fafc; border-color:#334155; }
     body.dark .lang button:not(.active):hover { background:#334155; }
+    body.dark #support-form input, body.dark #support-form textarea { background:#1e293b; color:#f8fafc; border-color:#334155; }
+    body.dark #support-form input::placeholder, body.dark #support-form textarea::placeholder { color:#94a3b8; }
+    body.dark #support-form .btn.primary { background:#f8fafc; color:#0f172a; border-color:#f8fafc; }
   </style>
 </head>
 
@@ -184,10 +194,14 @@
         <a href="https://t.me/checklistapp" target="_blank">@checklistapp</a>
       </p>
 
-      <p>
-        <span data-i18n="support.text"></span>
-        <a href="mailto:pvatulin.dev@gmail.com">pvatulin.dev@gmail.com</a>
-      </p>
+      <p data-i18n="support.text"></p>
+      
+      <form id="support-form" onsubmit="sendSupport(event)">
+        <input type="email" name="email" data-i18n-placeholder="support.email" maxlength="254" autocomplete="email" required>
+        <textarea name="message" data-i18n-placeholder="support.message" maxlength="5000" rows="5" required></textarea>
+        <button type="submit" class="btn primary" data-i18n="support.send"></button>
+        <p id="support-status" role="status" aria-live="polite"></p>
+      </form>
     </section>
 
   </main>
@@ -329,7 +343,25 @@ Support
 Our Telegram channel:
 
 [support.text]
-Contact us:
+Questions or suggestions? Send a message:
+
+[support.email]
+Your email
+
+[support.message]
+Your message
+
+[support.send]
+Send
+
+[support.sending]
+Sending...
+
+[support.success]
+Your message has been sent successfully.
+
+[support.error]
+Could not send your message. Please try again.
 
 [footer.copy]
 © 2026 Pavel Vatulin
@@ -464,7 +496,25 @@ CheckList - универсальное приложение для создан�
 Наш Telegram-канал:
 
 [support.text]
-Вопросы и помощь:
+Вопросы или предложения? Отправьте сообщение:
+
+[support.email]
+Ваш email
+
+[support.message]
+Ваше сообщение
+
+[support.send]
+Отправить
+
+[support.sending]
+Отправка...
+
+[support.success]
+Сообщение успешно отправлено.
+
+[support.error]
+Не удалось отправить сообщение. Попробуйте ещё раз.
 
 [footer.copy]
 © 2026 Pavel Vatulin
@@ -569,6 +619,10 @@ CheckList - универсальное приложение для создан�
         }
       }
     });
+    
+    document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+      el.placeholder = i18n[lang][el.dataset.i18nPlaceholder] || '';
+    });
 
     document.querySelectorAll('.lang button').forEach(button => button.classList.remove('active'));
     const button = document.getElementById('btn-' + lang);
@@ -589,7 +643,40 @@ CheckList - универсальное приложение для создан�
       document.getElementById('btn-theme').textContent = '☀️';
     }
   }
+  
+  
+  // ПОДДЕРЖКА
 
+  async function sendSupport(event) {
+    event.preventDefault();
+    const form = event.target;
+    const button = form.querySelector('button[type="submit"]');
+    const status = document.getElementById('support-status');
+    const lang = document.documentElement.lang === 'ru' ? 'ru' : 'en';
+
+    button.disabled = true;
+    button.textContent = i18n[lang]['support.sending'];
+    status.textContent = '';
+
+    try {
+      const response = await fetch('https://formspree.io/f/xeaadozo', {
+        method: 'POST',
+        body: new FormData(form),
+        headers: { Accept: 'application/json' }
+      });
+
+      if (!response.ok) throw new Error('Submission failed');
+
+      form.reset();
+      status.textContent = i18n[lang]['support.success'];
+    } catch {
+      status.textContent = i18n[lang]['support.error'];
+    } finally {
+      button.disabled = false;
+      button.textContent = i18n[document.documentElement.lang === 'ru' ? 'ru' : 'en']['support.send'];
+    }
+  }
+  
 
   // ИНИЦИАЛИЗАЦИЯ
 
