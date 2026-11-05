@@ -347,7 +347,10 @@ Support
 Our Telegram channel:
 
 [support.text]
-Questions or suggestions? Contact us:
+Questions or suggestions?
+
+[support.contact]
+Contact us
 
 [support.email]
 Your email
@@ -500,7 +503,10 @@ CheckList - универсальное приложение для создан�
 Наш Telegram-канал:
 
 [support.text]
-Вопросы или предложения? Свяжитесь с нами:
+Вопросы или предложения?
+
+[support.contact]
+Свяжитесь с нами
 
 [support.email]
 Ваш email
@@ -651,6 +657,12 @@ CheckList - универсальное приложение для создан�
   
   
   // ПОДДЕРЖКА
+  
+  function toggleSupport(event) {
+    event.preventDefault();
+    const form = document.getElementById('support-form');
+    form.hidden = !form.hidden;
+  }
 
   async function sendSupport(event) {
     event.preventDefault();
