@@ -33,6 +33,9 @@
     .lang button.active { background:#0f172a; color:#fff; border-color:#0f172a; }
     .lang button:not(.active):hover { background:#f8fafc; }
     
+    .privacy-back { margin-top:32px; }
+    footer { text-align:center; color:#64748b; padding:32px 24px; }
+    
     .back button, .theme button, .lang button { color:#0f172a; }
     .back button, .theme button, .lang button { transition:transform .2s ease; }
     .back button:hover, .theme button:hover, .lang button:hover { transform:scale(1.05); }
@@ -52,6 +55,7 @@
     body.dark #support-form input, body.dark #support-form textarea { background:#1e293b; color:#f8fafc; border-color:#334155; }
     body.dark #support-form input::placeholder, body.dark #support-form textarea::placeholder { color:#94a3b8; }
     body.dark #support-form button { background:#f8fafc; color:#0f172a; border-color:#f8fafc; }
+    body.dark footer { color:#cbd5e1; }
   </style>
 </head>
 
@@ -101,9 +105,12 @@
     <p data-i18n="p.changes.p"></p>
 
     <h2 data-i18n="p.contact.h2"></h2>
-    <p data-i18n="p.contact.p"></p>
+    <p>
+      <span data-i18n="p.contact.p"></span>
+      <a href="#support-form" onclick="toggleSupport(event)" data-i18n="support.contact"></a>
+    </p>
 
-    <form id="support-form" onsubmit="sendSupport(event)">
+    <form id="support-form" onsubmit="sendSupport(event)" hidden>
       <input type="hidden" name="subject" value="CheckList • Support">
       <input type="email" name="email" data-i18n-placeholder="support.email" maxlength="254" autocomplete="email" required>
       <textarea name="message" data-i18n-placeholder="support.message" maxlength="5000" rows="5" required></textarea>
@@ -111,11 +118,15 @@
       <p id="support-status" role="status" aria-live="polite"></p>
     </form>
 
-    <p>
+    <p class="privacy-back">
       <a href="index.html" data-i18n="privacy.back"></a>
     </p>
 
   </main>
+
+  <footer>
+    <small data-i18n="footer.copy"></small>
+  </footer>
 
 
   <!-- ENGLISH -->
@@ -179,7 +190,10 @@ We may update this Policy from time to time. The updated version becomes effecti
 9. Contact
 
 [p.contact.p]
-For privacy inquiries, contact us:
+For privacy inquiries,
+
+[support.contact]
+contact us
 
 [support.email]
 Your email
@@ -201,6 +215,9 @@ Could not send your message. Please try again.
 
 [privacy.back]
 Back to the app page
+
+[footer.copy]
+© 2026 Pavel Vatulin
   </script>
 
 
@@ -265,7 +282,10 @@ CheckList • Политика конфиденциальности
 9. Контакты
 
 [p.contact.p]
-По вопросам конфиденциальности свяжитесь с нами:
+По вопросам конфиденциальности
+
+[support.contact]
+свяжитесь с нами
 
 [support.email]
 Ваш email
@@ -287,6 +307,9 @@ CheckList • Политика конфиденциальности
 
 [privacy.back]
 Вернуться на страницу приложения
+
+[footer.copy]
+© 2026 Pavel Vatulin
   </script>
 
 
@@ -371,7 +394,13 @@ CheckList • Политика конфиденциальности
   }
   
   
-    // ПОДДЕРЖКА
+  // ПОДДЕРЖКА
+  
+  function toggleSupport(event) {
+    event.preventDefault();
+    const form = document.getElementById('support-form');
+    form.hidden = !form.hidden;
+  }
 
   async function sendSupport(event) {
     event.preventDefault();
