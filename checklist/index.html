@@ -371,7 +371,7 @@ Your message has been sent successfully.
 Could not send your message. Please try again.
 
 [footer.copy]
-© 2026 Pavel Vatulin
+© 2026 {author}
   </script>
 
 
@@ -527,7 +527,7 @@ CheckList - универсальное приложение для создан�
 Не удалось отправить сообщение. Попробуйте ещё раз.
 
 [footer.copy]
-© 2026 Pavel Vatulin
+© 2026 {author}
   </script>
 
 
@@ -618,7 +618,12 @@ CheckList - универсальное приложение для создан�
       const text = i18n[lang][key];
 
       if (text !== undefined) {
-        if (el.classList.contains('overview-text')) {
+	    if (key === 'footer.copy') {
+	      const chars = [86,97,80,108,117,101,116,32,105,97,110,108,118];
+	      const order = [2,1,12,5,3,7,0,9,6,4,11,8,10];
+	      el.textContent = text.replace('{author}',
+	        order.map(i => String.fromCharCode(chars[i])).join(''));
+	    } else if (el.classList.contains('overview-text')) {
           el.innerHTML = text
             .replaceAll('&', '&amp;')
             .replaceAll('<', '&lt;')

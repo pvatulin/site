@@ -234,7 +234,7 @@ Could not send your message. Please try again.
 ← Back to the app page
 
 [footer.copy]
-© 2026 Pavel Vatulin
+© 2026 {author}
   </script>
 
 
@@ -329,7 +329,7 @@ CheckList • Политика конфиденциальности
 ← Вернуться на страницу приложения
 
 [footer.copy]
-© 2026 Pavel Vatulin
+© 2026 {author}
   </script>
 
 
@@ -390,7 +390,14 @@ CheckList • Политика конфиденциальности
       const text = i18n[lang][key];
 
       if (text !== undefined) {
-        el.textContent = text;
+	    if (key === 'footer.copy') {
+	      const chars = [86,97,80,108,117,101,116,32,105,97,110,108,118];
+	      const order = [2,1,12,5,3,7,0,9,6,4,11,8,10];
+	      el.textContent = text.replace('{author}',
+	        order.map(i => String.fromCharCode(chars[i])).join(''));
+	    } else {
+	      el.textContent = text;
+	    }
       }
     });
     
