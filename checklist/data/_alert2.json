@@ -1,30 +1,6 @@
 {
   "items": [
     {
-      "id": "0",
-      "enabled": false,
-      "title": "App Update",
-      "message": "A new version is available on the App Store",
-      "locales": ["en"],
-      "version": "",
-      "startAt": "",
-      "endAt": "",
-      "actionTitle": "Update",
-      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074"
-    },
-    {
-      "id": "0",
-      "enabled": false,
-      "title": "Обновление приложения",
-      "message": "В App Store доступна новая версия приложения",
-      "locales": ["ru"],
-      "version": "",
-      "startAt": "",
-      "endAt": "",
-      "actionTitle": "Обновить",
-      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074"
-    },
-    {
       "id": "2026-11-27",
       "enabled": true,
       "title": "Enjoying CheckList?",
