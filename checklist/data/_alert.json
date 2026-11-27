@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "id": "1",
+      "id": "0",
       "enabled": false,
       "title": "App Update",
       "message": "A new version is available on the App Store",
@@ -12,7 +12,7 @@
       "actionUrl": "itms-apps://apps.apple.com/app/id6782956074"
     },
     {
-      "id": "2",
+      "id": "0",
       "enabled": false,
       "title": "Обновление приложения",
       "message": "В App Store доступна новая версия приложения",
@@ -21,6 +21,226 @@
       "startAt": "",
       "endAt": "",
       "actionUrl": "itms-apps://apps.apple.com/app/id6782956074"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Your opinion matters!",
+      "message": "It helps improve the app. Please rate CheckList on the App Store. Thank you for your support!",
+      "locales": ["en"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Ваше мнение важно!",
+      "message": "Оно помогает развивать приложение. Пожалуйста, оцените CheckList в App Store. Спасибо за вашу поддержку!",
+      "locales": ["ru"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "رأيك مهم!",
+      "message": "يساعد ذلك في تطوير التطبيق. يرجى تقييم CheckList على App Store. شكرًا لك على دعمك!",
+      "locales": ["ar"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Ý kiến của bạn quan trọng!",
+      "message": "Điều đó giúp cải thiện ứng dụng. Vui lòng đánh giá CheckList trên App Store. Cảm ơn bạn đã ủng hộ!",
+      "locales": ["vi"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Pendapat Anda penting!",
+      "message": "Hal ini membantu pengembangan aplikasi. Mohon beri penilaian untuk CheckList di App Store. Terima kasih atas dukungan Anda!",
+      "locales": ["id"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "¡Tu opinión importa!",
+      "message": "Eso ayuda a mejorar la aplicación. Por favor, valora CheckList en el App Store. ¡Gracias por tu apoyo!",
+      "locales": ["es"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "La tua opinione conta!",
+      "message": "Questo aiuta a migliorare l’app. Per favore, valuta CheckList sull’App Store. Grazie per il tuo supporto!",
+      "locales": ["it"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "你的意見很重要！",
+      "message": "這有助於改進 App。請在 App Store 上為 CheckList 評分。感謝你的支持！",
+      "locales": ["zh-hant", "zh-tw", "zh-hk", "zh-mo", "zh-hant-tw", "zh-hant-hk", "zh-hant-mo"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "你的意见很重要！",
+      "message": "这有助于改进应用。请在 App Store 上为 CheckList 评分。感谢你的支持！",
+      "locales": ["zh"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "여러분의 의견이 중요합니다!",
+      "message": "이는 앱을 개선하는 데 도움이 됩니다. App Store에서 CheckList를 평가해 주세요. 응원해 주셔서 감사합니다!",
+      "locales": ["ko"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Deine Meinung zählt!",
+      "message": "Sie hilft, die App zu verbessern. Bitte bewerte CheckList im App Store. Danke für deine Unterstützung!",
+      "locales": ["de"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Jouw mening telt!",
+      "message": "Dat helpt de app te verbeteren. Geef CheckList alsjeblieft een beoordeling in de App Store. Bedankt voor je steun!",
+      "locales": ["nl"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Twoja opinia jest ważna!",
+      "message": "To pomaga rozwijać aplikację. Proszę, oceń CheckList w App Store. Dziękuję za Twoje wsparcie!",
+      "locales": ["pl"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Sua opinião é importante!",
+      "message": "Ela ajuda a melhorar o aplicativo. Por favor, avalie o CheckList na App Store. Obrigado pelo seu apoio!",
+      "locales": ["pt"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "ความคิดเห็นของคุณสำคัญ!",
+      "message": "สิ่งนี้ช่วยพัฒนาแอป โปรดให้คะแนน CheckList บน App Store ขอบคุณสำหรับการสนับสนุนครับ!",
+      "locales": ["th"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Görüşünüz önemli!",
+      "message": "Bu, uygulamanın gelişmesine yardımcı olur. Lütfen CheckList’i App Store’da değerlendirin. Desteğiniz için teşekkür ederim!",
+      "locales": ["tr"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Votre avis compte !",
+      "message": "Il contribue à améliorer l’application. Pourriez-vous noter CheckList sur l’App Store ? Merci pour votre soutien !",
+      "locales": ["fr"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "आपकी राय मायने रखती है!",
+      "message": "इससे ऐप को बेहतर बनाने में मदद मिलती है। कृपया App Store पर CheckList को रेटिंग दें। आपके समर्थन के लिए धन्यवाद!",
+      "locales": ["hi"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "Din åsikt är viktig!",
+      "message": "Den hjälper till att utveckla appen. Betygsätt gärna CheckList i App Store. Tack för ditt stöd!",
+      "locales": ["sv"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
+    },
+    {
+      "id": "2026-11-27",
+      "enabled": true,
+      "title": "皆さまのご意見が大切です！",
+      "message": "これはアプリの改善に役立ちます。App StoreでCheckListを評価していただけると幸いです。応援ありがとうございます！",
+      "locales": ["ja"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074?action=write-review"
     }
   ]
 }

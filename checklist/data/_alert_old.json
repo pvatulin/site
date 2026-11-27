@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "enabled": false,
+      "title": "App Update",
+      "message": "A new version is available on the App Store",
+      "locales": ["en"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074"
+    },
+    {
+      "id": "2",
+      "enabled": false,
+      "title": "Обновление приложения",
+      "message": "В App Store доступна новая версия приложения",
+      "locales": ["ru"],
+      "version": "",
+      "startAt": "",
+      "endAt": "",
+      "actionUrl": "itms-apps://apps.apple.com/app/id6782956074"
+    }
+  ]
+}
